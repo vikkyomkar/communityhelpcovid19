@@ -6,7 +6,7 @@
 
 exitCode=0
 db="covid"
-db+=`date +'%Y%m%d%H'`
+db+=`date +'%m%d%H%M'`
 
 rawdataUrl="https://api.covid19india.org/raw_data.json"
 dailydata="https://api.covid19india.org/data.json"
