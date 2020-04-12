@@ -1,0 +1,14 @@
+import sys
+import os
+import datetime
+import influx
+db="sitedata"
+table='stats'
+output = os.popen("date +'%Y-%m-%dT%H:%M' --date='1 minutes ago'")
+lastmin = output.read().strip()
+stream = os.popen('grep "action=View" /var/log/grafana/grafana.log |grep {0} |wc -l'.format(lastmin))
+output = stream.read().strip()
+print(output)
+### Save data
+postQuery = "{0} sitetraffic={1}".format(table,output)
+influx.Post(db,postQuery)
