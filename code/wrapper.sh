@@ -48,7 +48,7 @@ exitCode=`expr ${exitCode} + ${out}`
 ##### Check and update DB #######
 if [[ ${exitCode} == 0 ]];then
 	echo "All Jobs executed successfully"
-	curl -X PUT -u vikky:Jaisai123 -H 'Content-Type: application/json;charset=UTF-8' \
+	curl -X PUT -u admin:admin -H 'Content-Type: application/json;charset=UTF-8' \
 	 --data-binary "{\"name\":\"InfluxDB\",\"type\":\"influxdb\",\"url\":\"http://localhost:8086\",\"access\":\"proxy\",\"database\":\"${db}\",\"user\":\"\",\"password\":\"\"}" \
 	  http://localhost/api/datasources/1
 else
