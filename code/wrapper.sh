@@ -1,7 +1,8 @@
 #!/bin/sh
 
 #* * * * * python /mnt/covid/sitedata.py
-#15 05-18 * * * sh  /mnt/covid/wrapper.sh >> /var/log/covid.log
+#*/30 04-17 * * * sh  /mnt/covid/wrapper.sh >> /var/log/covid.log
+#27 18 * * * sh  /mnt/covid/wrapper.sh >> /var/log/covid.log
 
 
 exitCode=0
@@ -47,11 +48,11 @@ exitCode=`expr ${exitCode} + ${out}`
 
 ##### Check and update DB #######
 if [[ ${exitCode} == 0 ]];then
-	echo "All Jobs executed successfully"
-	curl -X PUT -u admin:admin -H 'Content-Type: application/json;charset=UTF-8' \
-	 --data-binary "{\"name\":\"InfluxDB\",\"type\":\"influxdb\",\"url\":\"http://localhost:8086\",\"access\":\"proxy\",\"database\":\"${db}\",\"user\":\"\",\"password\":\"\"}" \
-	  http://localhost/api/datasources/1
+        echo "All Jobs executed successfully"
+        curl -X PUT -u admin:admin -H 'Content-Type: application/json;charset=UTF-8' \
+         --data-binary "{\"name\":\"InfluxDB\",\"type\":\"influxdb\",\"url\":\"http://localhost:8086\",\"access\":\"proxy\",\"database\":\"${db}\",\"user\":\"\",\"password\":\"\"}" \
+          http://localhost/api/datasources/1
 else
-	echo "Send failure email"
+        echo "Send failure email"
 
 fi
