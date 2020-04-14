@@ -10,15 +10,12 @@ url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSc_2y5N0I67wDU38DjDh35IZ
 db = sys.argv[1]
 table = 'covid_india'
 
-dummyData = ['Assam','Jharkhand','Andaman_and_Nicobar_Islands','Arunachal_Pradesh','Chandigarh','Chhattisgarh','Dadra_and_Nagar_Haveli','Goa','Ladakh','Manipur','Uttarakhand','Tripura','Puducherry','Mizoram']
-for case in ['Recovered','Deceased']:
-	for state in dummyData:
-		postQuery = "{0},detectedstate={1} {2}=0".format(table,state,case)
-		influx.Post(db,postQuery)
+dummyData = {'Nagaland' : 'NL','Meghalaya' : 'ML','Assam' : 'AS','Jharkhand' : 'JH' ,'Andaman_and_Nicobar_Islands' : 'AN','Arunachal_Pradesh': 'AR','Chandigarh' : 'CH','Chhattisgarh': 'CT','Dadra_and_Nagar_Haveli' : 'DN','Goa' : 'GA','Ladakh' : 'LA','Manipur' : 'MN','Uttarakhand' : 'UT','Tripura' : 'TR' ,'Puducherry' : 'PY','Mizoram' : 'MZ'}
 
-#for case in ['newConfirmed', 'newRecovered','newDeceased']:
-#	postQuery = "{0},detectedstate=Arunachal_Pradesh {1}=0".format(table,case)
-#	influx.Post(db,postQuery)
+for case in ['Recovered','Deceased']:
+	for k,v in dummyData.items():
+		postQuery = "{0},detectedstate={1},statecode={2} {3}=0".format(table,k,v,case)
+		influx.Post(db,postQuery)
 
 def dataProcess(textdata):
 	startHr = 1
@@ -29,7 +26,7 @@ def dataProcess(textdata):
 			city = 'UnKnown'
 			district = 'UnKnown'
 			state = 'UnKnown'
-			#pDict = {'city' : 5, 'b_district' : 6, 'a_state' : 7}
+			statecode = 'UnKnown'
 			pArray = line.split(',')
 			if pArray[4] != "" and pArray[1] != "Date" and pArray[7] not in ['Kerala/Puducherry?']:
 				flag +=1
@@ -44,9 +41,9 @@ def dataProcess(textdata):
 					district = '_'.join(pArray[6].split(' ')) 
 				if pArray[7] != "":
 					state = '_'.join(pArray[7].split(' ')) 
-				
-				#postQuery = "{0},city={1},bdistrict={2},state={3} {4}=1".format(table,city,district,state,pArray[4])
-				postQuery = "{0},city={1},bdistrict={2},detectedstate={3} {4}=1".format(table,city,district,state,pArray[4])
+				if pArray[8] != "":
+					statecode = '_'.join(pArray[8].split(' '))
+				postQuery = "{0},city={1},detecteddistrict={2},detectedstate={3},statecode={4} {5}=1".format(table,city,district,state,statecode,pArray[4])
 				if int(d) == int(datetime.datetime.now().day) and int(m) == int(datetime.datetime.now().month):
 					postQuery = postQuery + ",new{0}=1".format(pArray[4])
 				postQuery = postQuery + " {0}".format(int(date)+flag)
