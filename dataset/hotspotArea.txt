@@ -121,10 +121,10 @@ Haryana	Nuh	 Bai	https://www.hindustantimes.com/cities/nuh-admin-puts-36-village
 Haryana	Nuh	 Charoda	https://www.hindustantimes.com/cities/nuh-admin-puts-36-villages-in-containment-zone-after-23-cases-in-one-day/story-WOcKuhKNzDvDeLUuXLlRtM.html
 Haryana	Nuh	 Rithat 	https://www.hindustantimes.com/cities/nuh-admin-puts-36-villages-in-containment-zone-after-23-cases-in-one-day/story-WOcKuhKNzDvDeLUuXLlRtM.html
 Haryana	Nuh	 Shapur	https://www.hindustantimes.com/cities/nuh-admin-puts-36-villages-in-containment-zone-after-23-cases-in-one-day/story-WOcKuhKNzDvDeLUuXLlRtM.html
-Punjab	Mohali	Jawaharpur village in Derabassi	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
-Punjab	Mohali	Mukandpur village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
-Punjab	Mohali	Devi Nagar village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
-Punjab	Mohali	Haripur Kurha village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
+Punjab	SAS Nagar Mohali	Jawaharpur village in Derabassi	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
+Punjab	SAS Nagar Mohali	Mukandpur village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
+Punjab	SAS Nagar Mohali	Devi Nagar village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
+Punjab	SAS Nagar Mohali	Haripur Kurha village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
 Uttarakhand	Dehradun	Bhagat Singh Colony	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
 Uttarakhand	Dehradun	Kargi Grant	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
 Uttarakhand	Dehradun	Doiwala Keshav Basti	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
@@ -360,9 +360,6 @@ Maharashtra	Kalyan-Dombivali	 Chedda Road	https://www.firstpost.com/health/coron
 Maharashtra	Kalyan-Dombivali	 Samata Nagar	https://www.firstpost.com/health/coronavirus-outbreak-maharashtras-kalyan-dombivli-municipality-seals-more-areas-as-confirmed-cases-in-covid-19-hotspot-rise-to-50-8250701.html
 Maharashtra	Sangli	Islampur	https://www.indiatoday.in/india/story/coronavirus-how-islampur-a-small-maharashtra-town-fought-against-covid-19-1665617-2020-04-10
 Maharashtra	Raigad	More than 5 cases reported	https://www.sakaltimes.com/coronavirus-maharashtra/coronavirus-maharashtra-state-lockdown-divided-three-zones-48537
-Maharashtra	Palghar	More than 5 cases reported	https://www.sakaltimes.com/coronavirus-maharashtra/coronavirus-maharashtra-state-lockdown-divided-three-zones-48537
-Maharashtra	Aurangabad	More than 5 cases reported	https://www.sakaltimes.com/coronavirus-maharashtra/coronavirus-maharashtra-state-lockdown-divided-three-zones-48537
-Maharashtra	Nashik	More than 5 cases reported	https://www.sakaltimes.com/coronavirus-maharashtra/coronavirus-maharashtra-state-lockdown-divided-three-zones-48537
 Uttar Pradesh	Ghaziabad	Nandgram	https://www.indiatvnews.com/news/india/know-the-coronavirus-hotspots-in-ghaziabad-which-will-be-sealed-from-midnight-605817
 Uttar Pradesh	Ghaziabad	 KDP Ground (Rajnagar Extension)	https://www.indiatvnews.com/news/india/know-the-coronavirus-hotspots-in-ghaziabad-which-will-be-sealed-from-midnight-605817
 Uttar Pradesh	Ghaziabad	 Saviour Society	https://www.indiatvnews.com/news/india/know-the-coronavirus-hotspots-in-ghaziabad-which-will-be-sealed-from-midnight-605817
@@ -520,24 +517,12 @@ Madhya Pradesh	Indore	Chandannagar	https://dailynews-india.com/indore-new-corona
 Madhya Pradesh	Indore	Ranipura	https://dailynews-india.com/indore-new-coronavirus-hotspot-in-madhya-pradesh-records-72-of-state-deaths/
 Madhya Pradesh	Indore	Tatpatti Bakhal	https://dailynews-india.com/indore-new-coronavirus-hotspot-in-madhya-pradesh-records-72-of-state-deaths/
 Madhya Pradesh	Indore	Silawatpura areas	https://dailynews-india.com/indore-new-coronavirus-hotspot-in-madhya-pradesh-records-72-of-state-deaths/
-Rajasthan	Bikaner	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
-Rajasthan	Jodhpur	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
-Rajasthan	Bhilwara	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
 Rajasthan	Kota	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
-Rajasthan	Jhunjhunu	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
 Rajasthan	Jaipur	Ramganj; Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
-Rajasthan	Tonk	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
 Karnataka	Bengaluru	Bapuji Nagar	https://www.deccanherald.com/city/top-bengaluru-stories/coronavirus-two-wards-of-bengaluru-sealed-completely-to-contain-covid-19-spread-823604.html
 Karnataka	Bengaluru	Padarayanapura	https://www.deccanherald.com/city/top-bengaluru-stories/coronavirus-two-wards-of-bengaluru-sealed-completely-to-contain-covid-19-spread-823604.html
 Karnataka	Mysuru	Nanjangud town	https://www.dtnext.in/News/National/2020/04/02135830/1222923/Covid19--Mysuru-district-declared-Red-Zone-security-.vpf
-Karnataka	Bidar	more than 5 cases reported	https://timesofindia.indiatimes.com/city/hubballi/karnataka-11-people-linked-to-tablighi-meet-test-positive-for-covid-19-in-bidar/articleshow/74943189.cms
-Kerala	Kasargod	Entire District is declared Hotspot	https://www.hindustantimes.com/india-news/coronavirus-update-what-made-kasargod-a-covid-19-hotspot-and-how-life-is-in-this-kerala-town/story-Ctixt9iDqCJF4rCftLzbcO.html
-Kerala	Kannur	Entire District is declared Hotspot	https://newsable.asianetnews.com/coronavirus-india/7-kerala-districts-declared-covid-19-hotspots-by-chief-minister-q87h2a
-Kerala	Malappuram	Entire District is declared Hotspot	https://newsable.asianetnews.com/coronavirus-india/7-kerala-districts-declared-covid-19-hotspots-by-chief-minister-q87h2a
 Kerala	Kozhikode	Entire District is declared Hotspot	https://newsable.asianetnews.com/coronavirus-india/7-kerala-districts-declared-covid-19-hotspots-by-chief-minister-q87h2a
-Kerala	Ernakulam	Entire District is declared Hotspot	https://newsable.asianetnews.com/coronavirus-india/7-kerala-districts-declared-covid-19-hotspots-by-chief-minister-q87h2a
-Kerala	Thiruvananthapuram	Entire District is declared Hotspot	https://newsable.asianetnews.com/coronavirus-india/7-kerala-districts-declared-covid-19-hotspots-by-chief-minister-q87h2a
-Kerala	Pathnamthitta	Entire District is declared Hotspot	https://newsable.asianetnews.com/coronavirus-india/7-kerala-districts-declared-covid-19-hotspots-by-chief-minister-q87h2a
 Andhra Pradesh	Visakhapatnam	Thatichetlapalem	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
 Andhra Pradesh	Visakhapatnam	Akkayyapalem	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
 Andhra Pradesh	Visakhapatnam	Padmanabham	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
@@ -554,16 +539,11 @@ Andhra Pradesh	Nellore	Naidupeta	https://www.thehindu.com/news/national/andhra-p
 Andhra Pradesh	Nellore	Kavali	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
 Andhra Pradesh	Nellore	Sullurpeta	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
 Andhra Pradesh	Nellore	Sriharikota	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
-Andhra Pradesh	Chittoor	More than 5 cases reported	https://www.thenewsminute.com/article/133-covid-19-clusters-andhra-nellore-has-largest-number-122327
 Andhra Pradesh	Kadapa	More than 5 cases reported	https://www.thenewsminute.com/article/133-covid-19-clusters-andhra-nellore-has-largest-number-122327
-Andhra Pradesh	East Godavari	More than 5 cases reported	https://www.thenewsminute.com/article/133-covid-19-clusters-andhra-nellore-has-largest-number-122327
-Andhra Pradesh	Guntur	More than 5 cases reported	https://www.thenewsminute.com/article/133-covid-19-clusters-andhra-nellore-has-largest-number-122327
-Andhra Pradesh	Krishna	More than 5 cases reported	https://www.thenewsminute.com/article/133-covid-19-clusters-andhra-nellore-has-largest-number-122327
 Andhra Pradesh	Prakasam	Ongole	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
 Andhra Pradesh	Prakasam	Chirala	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
 Andhra Pradesh	Prakasam	Kandukur	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
 Andhra Pradesh	Prakasam	Chimakurthy	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
-Andhra Pradesh	West Godavari	More than 5 cases reported	https://www.thenewsminute.com/article/133-covid-19-clusters-andhra-nellore-has-largest-number-122327
 Telangana	Hyderabad	Ramgopalpet	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
 Telangana	Hyderabad	Shaikpet	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
 Telangana	Hyderabad	Alwal	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
@@ -661,19 +641,11 @@ Tamil Nadu	Tiruvarur	Mannargudi	https://timesofindia.indiatimes.com/city/trichy/
 Tamil Nadu	Tiruvarur	Muthupettai	https://timesofindia.indiatimes.com/city/trichy/13-more-cases-take-covid-19-positive-to-40-in-central-tn/articleshow/74975227.cms
 Puducherry	Muthilapet	-	https://timesofindia.indiatimes.com/city/puducherry/coronavirus-in-tamil-nadu-part-of-puducherry-town-brought-under-containment-plan/articleshow/75007091.cms
 Tamil Nadu	Villupuram	Kottakuppam	https://timesofindia.indiatimes.com/city/puducherry/coronavirus-in-tamil-nadu-part-of-puducherry-town-brought-under-containment-plan/articleshow/75007091.cms
-Tamil Nadu	Cuddalore	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
-Tamil Nadu	Thiruvallur	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
-Tamil Nadu	Thiruvarur	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
 Tamil Nadu	Tirupattur	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
-Tamil Nadu	Nagapattinam	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
 Tamil Nadu	Thanjavur	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
-Tamil Nadu	Salem	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
-Tamil Nadu	Virudhunagar	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
 Tamil Nadu	Thiruvannamalai	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
 Tamil Nadu	Kanchipuram	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
 Tamil Nadu	Kanyakumari	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
-Tamil Nadu	Namakkal	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
-Tamil Nadu	Erode	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
 Himachal Pradesh	Chamba	Nine panchayats of Teesa area	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
 Himachal Pradesh	Sirmaur	Mishrawala	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
 Himachal Pradesh	Sirmaur	Taruwala	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
@@ -690,7 +662,6 @@ Karnataka	Belagavi	Hire Bagewadi 	https://www.thehindu.com/news/national/karnata
 Karnataka	Belagavi	Kudchi in Raibag	https://www.thehindu.com/news/national/karnataka/officers-working-on-three-tasks-in-containment-zones/article31325197.ece
 Karnataka	Kalaburagi	Pilakamma area of Wadi town	https://www.deccanherald.com/state/kalaburagi/karnataka-two-year-old-boy-tests-positive-for-coronavirus-in-kalaburagi-824531.html
 Karnataka	Kalaburagi	Ward No. 11, 12, 13, 14	
-Karnataka	Dakshina Kannada	more than 5 cases reported	
 Karnataka	Uttara Kannada	more than 5 cases reported	
 Karnataka	Chikkaballapura	more than 5 cases reported	
 Karnataka	Bagalkote	Killa Area	
@@ -920,4 +891,177 @@ Jammu & Kashmir	Srinagar	Chattabal (Zone: Batamaloo)	https://twitter.com/ANI/sta
 Jammu & Kashmir	Srinagar	Natipora (Zone: Batamaloo)	https://twitter.com/ANI/status/1250141271500324864?s=09
 Jammu & Kashmir	Srinagar	Lasjan (Zone: Batamaloo)	https://twitter.com/ANI/status/1250141271500324864?s=09
 Jammu & Kashmir	Srinagar	Tengpora (Zone: Batamaloo)	https://twitter.com/ANI/status/1250141271500324864?s=09
-Punjab	Chandigarh	Entire District is declared Hotspot	
+Punjab 	Pathankot	Sujanpur area	https://www.hindustantimes.com/cities/17-hotspots-identified-in-9-districts/story-ypklVS8PEghvjeblu4FK9L.html
+Punjab 	SBS Nagar	Pathlawa village	https://www.hindustantimes.com/cities/17-hotspots-identified-in-9-districts/story-ypklVS8PEghvjeblu4FK9L.html
+Ladakh	Leh	Saboo Phu	http://universalnewstimeline.com/saboo-phu-containment-zone-now
+Andhra Pradesh 	Kurnool	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Andhra Pradesh 	Guntur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Andhra Pradesh 	Spsr Nellore	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Andhra Pradesh 	Prakasam	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Andhra Pradesh 	Krishna	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Andhra Pradesh 	YSR	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Andhra Pradesh 	West Godavari	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Andhra Pradesh 	Chittoor	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Andhra Pradesh 	Visakhapatanam	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Andhra Pradesh 	East Godavari	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Andhra Pradesh 	Anantapur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Bihar 	Siwan	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Chandigarh 	Chandigarh	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Chhattisgarh 	Korba	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Delhi 	South	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Delhi 	South East	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Delhi 	Shahdara	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Delhi 	West	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Delhi 	North	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Delhi 	Central	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Delhi 	New Delhi	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Delhi 	East	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Delhi 	South West	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Gujarat 	Ahmadabad	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Gujarat 	Vadodara	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Gujarat 	Surat	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Gujarat 	Bhavnagar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Gujarat 	Rajkot	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Haryana 	Nuh	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Haryana 	Gurugram	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Haryana 	Palwal	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Haryana 	Faridabad	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Jammu & Kashmir 	Srinagar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Jammu & Kashmir 	Bandipora	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Jammu & Kashmir 	Baramulla	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Jammu & Kashmir 	Jammu	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Jammu & Kashmir 	Udhampur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Jammu & Kashmir 	Kupwara	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Karnataka 	Bengaluru Urban	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Karnataka 	Mysuru	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Karnataka 	Belagavi	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Kerala 	Kasaragod	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Kerala 	Kannur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Kerala 	Ernakulam	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Kerala 	Malappuram	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Kerala 	Thiruvananthapuram	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Kerala 	Pathanamthitta	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Madhya Pradesh 	Indore	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Madhya Pradesh 	Bhopal	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Madhya Pradesh 	Khargone	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Madhya Pradesh 	Ujjain	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Madhya Pradesh 	Hoshangabad	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Mumbai	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Pune	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Thane	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Nagpur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Sangli	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Ahmednagar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Yavatmal	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Aurangabad	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Buldhana	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Mumbai Suburban	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Nashik	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Odisha	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Khordha	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Punjab 	SAS Nagar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Punjab 	Shahid Bhagat Singh Nagar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Punjab 	Jalandhar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Punjab 	Pathankot	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Rajasthan 	Udaipur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Rajasthan 	Tonk	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Rajasthan 	Jodhpur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Rajasthan 	Banswara	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Rajasthan 	Kata	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Rajasthan 	Jhunjhunu	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Rajasthan 	Jaisalmer	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Rajasthan 	Bhilwara	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Rajasthan 	Bikaner	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Rajasthan 	Jhalawar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Rajasthan 	Bharatpur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Chennai	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Tiruchirappalli	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Coimbatore	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Tirunelveli	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Erode	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Vellore	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Dindigul	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Villupuram	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Tiruppur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Theni	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Namakkal	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Chengalpattu	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Madurai	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	futlcorln	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Karur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Virudhunagar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Kanniyakumari	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Cuddalore	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Thiruvallur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Thiruvarur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Salem	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Nagapattinam	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Telangana 	Hyderabad	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Telangana 	Nizamabad	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Telangana 	Warangal Urban	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Telangana 	Ranga Reddy	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Telangana 	JogulambaGadwal	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Telangana 	MedchalMalkajgiri	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Telangana 	Karimnagar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Telangana 	Nirmal	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	Agra	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	Gautam Buddha Nagar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	Meerut	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	Lucknow	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	Ghaziabad	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	Saharanpur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	ShamIi	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	Firozabad	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	Moradabad	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttarakhand 	Dehradun	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+West Bengal 	Kolkata	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+West Bengal 	Howrah	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+West Bengal 	Medinipur East	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+West Bengal 	24 Paraganas North	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Andaman & Nicobar 	South Andamans	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Assam 	Golaghat	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Assam 	Marigaon	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Assam 	Nalbari	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Assam 	Goal para	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Assam 	Dhubri	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Bihar 	Munger	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Bihar 	Begusarai	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Bihar 	Gaya	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Chhattisgarh 	Raipur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Delhi 	North West	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Gujarat 	Patan	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Haryana 	Ambala	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Haryana 	Karnal	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Himachal Pradesh 	Solan	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Himachal Pradesh 	Una	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Himachal Pradesh 	Sirmaur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Himachal Pradesh 	Chamba	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Himachal Pradesh 	Kangra	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Jammu & Kashmir 	Shopian	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Jammu & Kashmir 	Rajouri	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Jharkhand 	Ranchi	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Jharkhand 	Bokaro	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Karnataka 	Dakshina Kannada	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Karnataka 	Bidar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Karnataka 	Kalaburagi	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Karnataka 	Bagalkote	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Karnataka 	Dharwad	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Kerala 	Wayanad	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Ladakh 	Kargil	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Madhya Pradesh 	Morena	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Kolhapur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Amravati	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Maharashtra 	Palghar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Odisha 	Bhadrak	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Punjab 	Mansa	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Punjab 	Amritsar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Punjab 	Ludhiana	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Punjab 	Moga	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Rajasthan 	Udaipur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Telangana 	Nalgonda	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	Bulandshahr	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	Sitapur	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	Basti	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	Baghpat	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttarakhand 	Nainital	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttarakhand	Udam Singh Nagar	Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
