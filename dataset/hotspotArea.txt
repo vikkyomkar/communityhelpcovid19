@@ -13,7 +13,7 @@ Delhi	East Delhi	F- 70 to 90 block Dilshad Colony	https://www.indiatoday.in/indi
 Delhi	East Delhi	Pratap Khand, Jhilmil Colony	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	South west Delhi	Shahajahanabad Society, Plot No 1, Sector 11, Dwarka	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	South Delhi	Entire effected street near Gandhi Park, Malviya Nagar	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	South Delhi	Entire effected street of Gali No 6, L-1 Sangam Vihar	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
+Delhi	South Delhi	Entire effected street of Gali No 5, 6 &7, L-1 Sangam Vihar	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	South Delhi	Affected area around H. No. A-176, Deoli Extension	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South east Delhi	Markaz Masjid & Nizamuddin Basti	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	South east Delhi	Nizamuddin West (G&D Block) areas	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
@@ -398,20 +398,20 @@ Uttar Pradesh	Agra	Chogra tehra	https://www.indiatvnews.com/news/india/agra-covi
 Uttar Pradesh	Agra	Subhash nagar (Sahaganj-1) and (HP East)	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
 Uttar Pradesh	Agra	Medi Health Ghatiya Azam Khan	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
 Uttar Pradesh	Agra	Basant Vihar Kamla Nagar	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Bulandshahr	1. Village Virkheda, Police Station Secunderabad	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Bulandshahr	2. Mohalla Rukansarai, Tehsil, Shiv Kumar Aggarwal Janta Inter College - Police Station Kotwali Nagar	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Bulandshahr	3. Mohalla Lodh Rajputan, Banshidhar, Ansariyan, Ahungran-Police Station Jahangirabad	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Bulandshahr	Village Virkheda, Police Station Secunderabad	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Bulandshahr	Mohalla Rukansarai, Tehsil, Shiv Kumar Aggarwal Janta Inter College - Police Station Kotwali Nagar	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Bulandshahr	Mohalla Lodh Rajputan, Banshidhar, Ansariyan, Ahungran-Police Station Jahangirabad	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Kanpur	Karnalganj	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Kanpur	2.Chamganj	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Kanpur	3.Mulganj	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Kanpur	4.Haleem College Area	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Kanpur	5. Baribal village of Ghatampur	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Kanpur	6. Katra Mohalla of Downtown Area	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Kanpur	7. Hakuli Market	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Kanpur	8. Anwarganj	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Kanpur	9. Babupurava	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Kanpur	10.Macharia	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Kanpur	11.Bakenganj	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Kanpur	Chamganj	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Kanpur	Mulganj	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Kanpur	Haleem College Area	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Kanpur	Baribal village of Ghatampur	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Kanpur	Katra Mohalla of Downtown Area	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Kanpur	Hakuli Market	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Kanpur	Anwarganj	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Kanpur	Babupurava	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Kanpur	Macharia	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Kanpur	Bakenganj	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Shamli	Nanupuri Mohalla (Timarasa), Thana Kotwali	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Shamli	Gram Bhainsani Islampur, Thana Police Station	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Shamli	Kasba Jhhinjhhana, Thana Jhhinjhhana	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
@@ -440,17 +440,17 @@ Uttar Pradesh	Lucknow	Rajauli Mosque	https://www.livehindustan.com/uttar-pradesh
 Uttar Pradesh	Meerut	Humayun Nagar	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Meerut	 Shastri Nagar Sector 13	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Meerut	 Sarai Bahleem	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	 Islamabad	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	 Suryanagar in Civil Line	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	 Khivai in Sarurpur	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	 Mahalaka in Falavada	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Meerut	Islamabad	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Meerut	Suryanagar in Civil Line	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Meerut	Khivai in Sarurpur	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Meerut	Mahalaka in Falavada	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Meerut	Harnamadas Road	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	 Some parts of Sardhana and Mawana towns	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Meerut	Some parts of Sardhana and Mawana towns	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Meerut	Arafat Mosque area of ​​Mawana	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	 Mohalla Kalyan Singh	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	 Chappar Mosque	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	 Mohalla Munnalal	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	 Mohalla Bada Mahadev town	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Meerut	Mohalla Kalyan Singh	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Meerut	Chappar Mosque	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Meerut	Mohalla Munnalal	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Meerut	Mohalla Bada Mahadev town	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Firozabad	Hussaini Square	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Firozabad	Shishagran	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Firozabad	Durgesh Nagar	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
@@ -460,9 +460,9 @@ Uttar Pradesh	Basti	Milthanagar	https://www.livehindustan.com/uttar-pradesh/stor
 Uttar Pradesh	Basti	Takiyava	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Bareilly	Subhash Nagar	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Varanasi	Madanpura	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Varanasi	 Lohta	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Varanasi	 Gangapur	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Varanasi	 Bajardiha	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Varanasi	Lohta	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Varanasi	Gangapur	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
+Uttar Pradesh	Varanasi	Bajardiha	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Maharajganj	Buddha Indradutt	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Maharajganj	Camera elderly police station crusher	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Maharajganj	Bishanpur Kurthia	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
@@ -516,9 +516,9 @@ Madhya Pradesh	Dewas	Nahar Darwaja	https://www.indiatvnews.com/news/india/madhya
 Madhya Pradesh	Dewas	Sheetlamata ward, Haatpipliya City	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Dewas	Panigaon village	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Indore	Khajrana	https://dailynews-india.com/indore-new-coronavirus-hotspot-in-madhya-pradesh-records-72-of-state-deaths/
-Madhya Pradesh	Indore	 Chandannagar	https://dailynews-india.com/indore-new-coronavirus-hotspot-in-madhya-pradesh-records-72-of-state-deaths/
-Madhya Pradesh	Indore	 Ranipura	https://dailynews-india.com/indore-new-coronavirus-hotspot-in-madhya-pradesh-records-72-of-state-deaths/
-Madhya Pradesh	Indore	 Tatpatti Bakhal	https://dailynews-india.com/indore-new-coronavirus-hotspot-in-madhya-pradesh-records-72-of-state-deaths/
+Madhya Pradesh	Indore	Chandannagar	https://dailynews-india.com/indore-new-coronavirus-hotspot-in-madhya-pradesh-records-72-of-state-deaths/
+Madhya Pradesh	Indore	Ranipura	https://dailynews-india.com/indore-new-coronavirus-hotspot-in-madhya-pradesh-records-72-of-state-deaths/
+Madhya Pradesh	Indore	Tatpatti Bakhal	https://dailynews-india.com/indore-new-coronavirus-hotspot-in-madhya-pradesh-records-72-of-state-deaths/
 Madhya Pradesh	Indore	Silawatpura areas	https://dailynews-india.com/indore-new-coronavirus-hotspot-in-madhya-pradesh-records-72-of-state-deaths/
 Rajasthan	Bikaner	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
 Rajasthan	Jodhpur	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
@@ -540,7 +540,7 @@ Kerala	Thiruvananthapuram	Entire District is declared Hotspot	https://newsable.a
 Kerala	Pathnamthitta	Entire District is declared Hotspot	https://newsable.asianetnews.com/coronavirus-india/7-kerala-districts-declared-covid-19-hotspots-by-chief-minister-q87h2a
 Andhra Pradesh	Visakhapatnam	Thatichetlapalem	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
 Andhra Pradesh	Visakhapatnam	Akkayyapalem	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
-Andhra Pradesh	Visakhapatnam	 Padmanabham	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
+Andhra Pradesh	Visakhapatnam	Padmanabham	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
 Andhra Pradesh	Visakhapatnam	Gajuwaka	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
 Andhra Pradesh	Visakhapatnam	Allipuram	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
 Andhra Pradesh	Visakhapatnam	Narsipatnam	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
@@ -565,23 +565,23 @@ Andhra Pradesh	Prakasam	Kandukur	https://www.thehindu.com/news/national/andhra-p
 Andhra Pradesh	Prakasam	Chimakurthy	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
 Andhra Pradesh	West Godavari	More than 5 cases reported	https://www.thenewsminute.com/article/133-covid-19-clusters-andhra-nellore-has-largest-number-122327
 Telangana	Hyderabad	Ramgopalpet	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	 Shaikpet	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	 Alwal	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	 Chandrayangutta	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	 Red Hills	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	 Malakpet-Santoshngar	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	 Kukatpally	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	 Kuthbullapur	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	 Mayurinagar	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	 Yousufguda	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
+Telangana	Hyderabad	Shaikpet	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
+Telangana	Hyderabad	Alwal	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
+Telangana	Hyderabad	Chandrayangutta	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
+Telangana	Hyderabad	Red Hills	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
+Telangana	Hyderabad	Malakpet-Santoshngar	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
+Telangana	Hyderabad	Kukatpally	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
+Telangana	Hyderabad	Kuthbullapur	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
+Telangana	Hyderabad	Mayurinagar	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
+Telangana	Hyderabad	Yousufguda	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
 Telangana	Hyderabad	Mallepally	https://www.siasat.com/hyderabad-mallepally-area-declared-covid19-containment-zone-1872143/
 Telangana	Nizamabad	Malapally	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Nizamabad	Hymadpura	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Nizamabad	Habeebnagar	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Nizamabad	Khilla Road	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
-Telangana	Nizamabad	 Bodhan	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
-Telangana	Nizamabad	 Bhimgal	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
-Telangana	Nizamabad	 Autonagar	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
+Telangana	Nizamabad	Bodhan	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
+Telangana	Nizamabad	Bhimgal	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
+Telangana	Nizamabad	Autonagar	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Nizamabad	Nandipet	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Kamareddy	Teachers' Colony	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Kamareddy	Madina Colony	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
@@ -593,32 +593,32 @@ Telangana	Adilabad	five villages in Neradigonda	https://timesofindia.indiatimes.
 Telangana	Adilabad	three in Utnoor mandal	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Rangareddy	Chegur village	https://www.newindianexpress.com/states/telangana/2020/apr/06/covid-19-death-sparks-fear-in-rangareddy-villages-2126321.html
 Telangana	Warangal	Julaiwada	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
-Telangana	Warangal	 Subedari	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
-Telangana	Warangal	 Eidga	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
-Telangana	Warangal	 Kumarpally	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
-Telangana	Warangal	 Mandi Bazar	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
-Telangana	Warangal	 Pochamma Maidan	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
-Telangana	Warangal	 Charbouli	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
-Telangana	Warangal	 Kasibugga	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
-Telangana	Warangal	 Ganesh Nagar	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
-Telangana	Warangal	 Nizampura	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
-Telangana	Warangal	 Laxmipuram	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
-Telangana	Warangal	 Rangampet	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
-Telangana	Warangal	 Shambhunipet	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
-Telangana	Warangal	 Bapuji Nagar	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
+Telangana	Warangal	Subedari	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
+Telangana	Warangal	Eidga	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
+Telangana	Warangal	Kumarpally	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
+Telangana	Warangal	Mandi Bazar	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
+Telangana	Warangal	Pochamma Maidan	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
+Telangana	Warangal	Charbouli	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
+Telangana	Warangal	Kasibugga	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
+Telangana	Warangal	Ganesh Nagar	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
+Telangana	Warangal	Nizampura	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
+Telangana	Warangal	Laxmipuram	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
+Telangana	Warangal	Rangampet	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
+Telangana	Warangal	Shambhunipet	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
+Telangana	Warangal	Bapuji Nagar	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
 Telangana	Warangal	Chintagattu camp	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
 Telangana	Nirmal	Chatpelli panchayat in Narsapur-G mandal	https://www.newindianexpress.com/states/telangana/2020/apr/10/covid-19-telanganas-adilabad-and-nirmal-on-the-edge-as-social-distancing-goes-for-a-toss-2128168.html
 Uttar Pradesh	Mathura	Ol Village, Farah Block	https://www.amarujala.com/uttar-pradesh/agra/coronavirus-update-many-areas-of-mathura-sealed-after-getting-two-covid-19-cases
 Uttar Pradesh	Mathura	Andhi kuiyan Markaz Mosque area	https://www.amarujala.com/uttar-pradesh/agra/coronavirus-update-many-areas-of-mathura-sealed-after-getting-two-covid-19-cases
 Odisha	Bhubaneswar	Bomikhal	https://www.thehindu.com/news/national/other-states/coronavirus-odisha-witnesses-highest-single-day-spike-in-new-cases/article31267396.ece
 Tamil Nadu	Coimbatore	Vilankurichi	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
-Tamil Nadu	Coimbatore	 Cheran Managar	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
-Tamil Nadu	Coimbatore	 R.S. Puram	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
-Tamil Nadu	Coimbatore	 Sundarapuram	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
+Tamil Nadu	Coimbatore	Cheran Managar	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
+Tamil Nadu	Coimbatore	R.S. Puram	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
+Tamil Nadu	Coimbatore	Sundarapuram	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
 Tamil Nadu	Coimbatore	Kuniamuthur	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
 Tamil Nadu	Coimbatore	K.K. Pudur	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
-Tamil Nadu	Coimbatore	 Ukkadam	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
-Tamil Nadu	Coimbatore	 Podanur.	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
+Tamil Nadu	Coimbatore	Ukkadam	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
+Tamil Nadu	Coimbatore	Podanur.	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
 Tamil Nadu	Coimbatore	Annur	https://www.covaipost.com/coimbatore/annur-in-coimbatore-rural-limits-brought-under-local-containment/?__cf_chl_jschl_tk__=291e1c3d1a07aad8f58e204baadedd1cf15f4019-1586720477-0-AVC4wg96LrnBykZX46ffDCirhFNgEKkeW5pxwqTaITy_-5XrzzePIZ1voPnCLnOZ2liJf9FXGdo7SVneuSHP-BgZu5aAPFSjvpxNoIbE_V27KyPzWhiEFY8wYXSPbCfeX6h6f3cJCnFn_ieGI9h1KLYzTYp9cNiP58mUuVqUFL8kkBBrr6JgrUkN81Qoa61_5_fpD6YF0QAUlnmgIerw7vC04Ptw4dHP6BK1smaqmISMcb8G-ivlGpYotU87HfZqcQDpHAI2zWzqAv_JnOjw6d5pO8fOwxwj-f2wyHx-nvj5nq23_WXpsAFKDN73FTilEG_12sX2YLi3GhtnN96QLtvtQd3O0LOVIi0HRMkLh_Dr4FxtWUTdyt9vN60QYqxQfg
 Tamil Nadu	Chennai	Pudhupettai	https://www.business-standard.com/article/news-ani/puddhupettai-area-identified-as-containment-zone-in-chennai-sealed-120041201113_1.html
 Tamil Nadu	Chennai	Royapuram zone	https://www.dtnext.in/News/City/2020/04/08033840/1223903/With-149-ve-cases-Corpn-seals-67-cluster-containment-.vpf
@@ -637,15 +637,15 @@ Tamil Nadu	Dindigul	kosukurichi	https://cdn.s3waas.gov.in/s3f74909ace68e51891440
 Tamil Nadu	Trichy	Ponmalai zone	https://timesofindia.indiatimes.com/city/chennai/covid-19-four-more-containment-zones-established-in-trichy-city/articleshow/75027586.cms
 Tamil Nadu	Trichy	Abishekapuram zone	https://timesofindia.indiatimes.com/city/chennai/covid-19-four-more-containment-zones-established-in-trichy-city/articleshow/75027586.cms
 Tamil Nadu	Trichy	Alwaarthoppu	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
-Tamil Nadu	Trichy	 10th and 11th crosses of Thillai Nagar	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
-Tamil Nadu	Trichy	 Purathangudi	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
-Tamil Nadu	Trichy	 Koothur	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
-Tamil Nadu	Trichy	 Iyankudi	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
-Tamil Nadu	Trichy	 Puthanatham 	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
+Tamil Nadu	Trichy	10th and 11th crosses of Thillai Nagar	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
+Tamil Nadu	Trichy	Purathangudi	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
+Tamil Nadu	Trichy	Koothur	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
+Tamil Nadu	Trichy	Iyankudi	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
+Tamil Nadu	Trichy	Puthanatham 	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
 Tamil Nadu	Vellore	RN Palayam	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
-Tamil Nadu	Vellore	 Karugamputhur	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
-Tamil Nadu	Vellore	 Ditter Line	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
-Tamil Nadu	Vellore	 Kaspa	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
+Tamil Nadu	Vellore	Karugamputhur	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
+Tamil Nadu	Vellore	Ditter Line	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
+Tamil Nadu	Vellore	Kaspa	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
 Tamil Nadu	Vellore	Chinna Allapuram	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
 Tamil Nadu	Tirunelveli	Melappalayam	https://tamil.samayam.com/latest-news/state-news/tirunelveli-melapalayam-has-been-isolated-by-police-due-to-coronavirus/articleshow/74918415.cms
 Tamil Nadu	Katpadi	Barneespuram	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
@@ -654,8 +654,8 @@ Tamil Nadu	Ranipet	Arcot	https://www.newindianexpress.com/states/tamil-nadu/2020
 Tamil Nadu	Ranipet	Kalmelkuppam	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
 Tamil Nadu	Ranipet	Banavaram	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
 Tamil Nadu	Madurai	Melamadai	https://timesofindia.indiatimes.com/city/madurai/530-health-workers-monitor-residents-in-containment-zones/articleshow/75102246.cms
-Tamil Nadu	Madurai	 Bibikulam	https://timesofindia.indiatimes.com/city/madurai/530-health-workers-monitor-residents-in-containment-zones/articleshow/75102246.cms
-Tamil Nadu	Madurai	 Narimedu	https://timesofindia.indiatimes.com/city/madurai/530-health-workers-monitor-residents-in-containment-zones/articleshow/75102246.cms
+Tamil Nadu	Madurai	Bibikulam	https://timesofindia.indiatimes.com/city/madurai/530-health-workers-monitor-residents-in-containment-zones/articleshow/75102246.cms
+Tamil Nadu	Madurai	Narimedu	https://timesofindia.indiatimes.com/city/madurai/530-health-workers-monitor-residents-in-containment-zones/articleshow/75102246.cms
 Tamil Nadu	Madurai	Mahaboobpalayam	https://timesofindia.indiatimes.com/city/madurai/530-health-workers-monitor-residents-in-containment-zones/articleshow/75102246.cms
 Tamil Nadu	Tiruvarur	Mannargudi	https://timesofindia.indiatimes.com/city/trichy/13-more-cases-take-covid-19-positive-to-40-in-central-tn/articleshow/74975227.cms
 Tamil Nadu	Tiruvarur	Muthupettai	https://timesofindia.indiatimes.com/city/trichy/13-more-cases-take-covid-19-positive-to-40-in-central-tn/articleshow/74975227.cms
@@ -705,18 +705,18 @@ Karnataka	Mandya	Ward 12, 14, 15, 16	https://www.deccanherald.com/state/karnatak
 Karnataka	Mandya	Ward No 32 and 33	https://timesofindia.indiatimes.com/city/mysuru/two-wards-declared-containment-zones-in-mandya/articleshow/75087157.cms
 Tamil Nadu	Madurai	Thabal Thanthi Nagar	https://www.aninews.in/videos/national/covid-19-madurais-thabal-thanthi-nagar-sealed-after-identified-as-containment-zone/
 Gujarat	Ahmedabad	New Vasahat at Jashodanagar	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	 two residential apartment blocks at Bodakdev 	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	 Juhapura	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	 Sakarkha ni Pol in Dariapur	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
+Gujarat	Ahmedabad	Two residential apartment blocks at Bodakdev 	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
+Gujarat	Ahmedabad	Juhapura	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
+Gujarat	Ahmedabad	Sakarkha ni Pol in Dariapur	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
 Gujarat	Ahmedabad	Devpreet and Devraj Towers  	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	an area near Usmani mosque in Sanklitnagar	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
+Gujarat	Ahmedabad	Area near Usmani mosque in Sanklitnagar	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
 Gujarat	Ahmedabad	Qutubbi Mohalla in Kalupur.	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
 Gujarat	Ahmedabad	two buildings in Bodakdev area	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	 Kalupur area	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	 Dariapur	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	 Gomtipur	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	 Shah-e-Alam	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	 Sola.	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
+Gujarat	Ahmedabad	Kalupur area	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
+Gujarat	Ahmedabad	Dariapur	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
+Gujarat	Ahmedabad	Gomtipur	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
+Gujarat	Ahmedabad	Shah-e-Alam	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
+Gujarat	Ahmedabad	Sola.	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
 Gujarat	Ahmedabad	Navrangpura	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
 Gujarat	Ahmedabad	Danilimda	https://www.vtvgujarati.com/news-details/coronavirus-in-gujarat-ahmedabad-8-area-cluster-containment
 Gujarat	Ahmedabad	Ambawadi	https://www.vtvgujarati.com/news-details/coronavirus-in-gujarat-ahmedabad-8-area-cluster-containment
@@ -730,7 +730,7 @@ Gujarat	Surat	Begumpura	https://www.outlookindia.com/newsscroll/strict-lockdown-
 Gujarat	Surat	Sachin area	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
 Gujarat	Rajkot	Jungleshwar	https://in.news.yahoo.com/look-gujarat-contained-neighbourhoods-195235424.html
 Gujarat	Bhavnagar	Sandhiyavad	https://in.news.yahoo.com/look-gujarat-contained-neighbourhoods-195235424.html
-Gujarat	Bhavnagar	 Vadva-Sidivad	https://in.news.yahoo.com/look-gujarat-contained-neighbourhoods-195235424.html
+Gujarat	Bhavnagar	Vadva-Sidivad	https://in.news.yahoo.com/look-gujarat-contained-neighbourhoods-195235424.html
 Gujarat	Bhavnagar	Sandhyawada	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
 Gujarat	Bhavnagar	Ruvapari area	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
 Gujarat	vadodara	Nagarwada	https://indianexpress.com/article/india/vadodara-divides-city-into-four-zones-on-basis-of-covid-19-severity-6357036/
@@ -785,19 +785,19 @@ Karnataka	Bengaluru	West Bengaluru Ward  136 - Jagjivanramnagar	https://twitter.
 Karnataka	Bengaluru	West Bengaluru Ward 80 - Subhasnagar	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru	Yelahanka Ward 6 - Thanisandra	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru	Yelahanka Ward  7 - Byatarayanapura	https://twitter.com/ANI/status/1250103927330111488
-Delhi	South Delhi	Pandit Mohalla & Jain Mohalla, from Epic centre 715, Chirag Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
-Delhi	South Delhi	shop No J-4/49 (Khirki Extension)	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
+Delhi	South	Pandit Mohalla & Jain Mohalla, from Epic centre 715, Chirag Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
+Delhi	South	shop No J-4/49 (Khirki Extension)	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South west Delhi	C-2 Block-Janakpuri-Kothi number-119	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South east Delhi	H. No. 811 to 829 and 842 to 835 - Khadda Colony, Jaitpur, Extension, Part-II	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South east Delhi	H. No. 1144 to 1134 and 618 to 623 - Khadda Colony, Jaitpur, Extension, Part-II	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South east Delhi	Entire Gali starting from House no. G-54 to F-107 & Entire Gali starting from House no. CN 854 to House no.137, Chhuriya Mohalla (Tughlakabad village)	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South east Delhi	Gali No 1,2 & 3 Block D Sangam Vihar, H.No. 112, Gali No. 2 	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
-Delhi	North Delhi	1100 Wali Gali (H.No. 1181-1200), 1200 wali gali (H. No. 1238-1268), 1300 wali Gali (H. No. 1306-1331), H-3 Block, Jhangirpuri	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
+Delhi	North	1100 Wali Gali (H.No. 1181-1200), 1200 wali gali (H. No. 1238-1268), 1300 wali Gali (H. No. 1306-1331), H-3 Block, Jhangirpuri	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	Central	Bara Hindu Rao area	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	Central	Balaji Apartment, Sant Nagar, Burari, Delhi - 110084	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	Central	Nawab Ganj area	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	North east Delhi	House no 62, Gali no.4, B- block, Shastri Park	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
-Delhi	West Delhi	 In and around area of 11/3, 2nd Floor Ashok Nagar	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
+Delhi	West Delhi	In and around area of 11/3, 2nd Floor Ashok Nagar	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	West Delhi	In and around area of H. No. A-30, Mansarovar Garden	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	West Delhi	In and around area of A-1B/75A, Krishna Apartment, Pashchim Vihar, Delhi - 110063	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Maharashtra	Nagpur	Gitanjali Square	https://twitter.com/ANI/status/1250258393996107777
@@ -832,22 +832,22 @@ Jammu & Kashmir	Udhampur	Village Padanoo  Block Tikri	https://twitter.com/ANI/st
 Jammu & Kashmir	Udhampur	Village Chopra Shop  Block Tikri	https://twitter.com/ANI/status/1250141271500324864?s=09
 Jammu & Kashmir	Udhampur	Village Mageni area (Village Rehambal)  Block Tikri	https://twitter.com/ANI/status/1250141271500324864?s=09
 Jammu & Kashmir	Udhampur	Village Mohra Duggar (Village Jib)  Block Tikri	https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Udhampur	Village Thaplal  Block Ramnagar https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Udhampur	Village Kannals  Block Ramnagar https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Udhampur	Village Marta (Mora Bassi)  Block Ramnagar https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Udhampur	Village Dalsar  Block Ramnagar  https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Udhampur	Village Kheen  Block Ramnagar https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Udhampur	Village Kirmoo  Block Ramnagar  https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Udhampur	Village Ramnagar Town including Suka Talab area  Block Ramnagar https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Udhampur	Village Tikri  Block Tikri  https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Udhampur	Village Lehnu  Block Tikri  https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Udhampur	Village Thaplal  Block Ramnagar	https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Udhampur	Village Kannals  Block Ramnagar	https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Udhampur	Village Marta (Mora Bassi)  Block Ramnagar	https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Udhampur	Village Dalsar  Block Ramnagar	https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Udhampur	Village Kheen  Block Ramnagar	https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Udhampur	Village Kirmoo  Block Ramnagar	https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Udhampur	Village Ramnagar Town including Suka Talab area  Block Ramnagar	https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Udhampur	Village Tikri  Block Tikri	https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Udhampur	Village Lehnu  Block Tikri	https://twitter.com/ANI/status/1250141271500324864?s=09
 Jammu & Kashmir	Udhampur	Village Jarmara  Block Tikri	https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Udhampur	Village Mand East   Block Tikri https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Udhampur	Village Mand West  Block Tikri  https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Bandipura	Parray Mohalla  https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Bandipura	Chandergeer https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Bandipura	Batagund  https://twitter.com/ANI/status/1250141271500324864?s=09
-Jammu & Kashmir	Bandipura	SK Bala https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Udhampur	Village Mand East   Block Tikri	https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Udhampur	Village Mand West  Block Tikri	https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Bandipura	Parray Mohalla	https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Bandipura	Chandergeer	https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Bandipura	Batagund	https://twitter.com/ANI/status/1250141271500324864?s=09
+Jammu & Kashmir	Bandipura	SK Bala	https://twitter.com/ANI/status/1250141271500324864?s=09
 Jammu & Kashmir	Bandipura	Hakbara	https://twitter.com/ANI/status/1250141271500324864?s=09
 Jammu & Kashmir	Bandipura	Naidkhi	https://twitter.com/ANI/status/1250141271500324864?s=09
 Jammu & Kashmir	Bandipura	Block Hajin	https://twitter.com/ANI/status/1250141271500324864?s=09
@@ -920,3 +920,4 @@ Jammu & Kashmir	Srinagar	Chattabal (Zone: Batamaloo)	https://twitter.com/ANI/sta
 Jammu & Kashmir	Srinagar	Natipora (Zone: Batamaloo)	https://twitter.com/ANI/status/1250141271500324864?s=09
 Jammu & Kashmir	Srinagar	Lasjan (Zone: Batamaloo)	https://twitter.com/ANI/status/1250141271500324864?s=09
 Jammu & Kashmir	Srinagar	Tengpora (Zone: Batamaloo)	https://twitter.com/ANI/status/1250141271500324864?s=09
+Punjab	Chandigarh	Entire District is declared Hotspot	
