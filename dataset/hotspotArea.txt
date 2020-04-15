@@ -747,3 +747,41 @@ Bihar	Begusarai	Nawada
 Bihar	Begusarai	Six Tolls of Bachwara Block	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Bihar	Begusarai	Teghra Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Bihar	Begusarai	Mansoorchak Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
+Karnataka	Bengaluru	Bommanahalli  Ward 191 - Singasandra	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	Bommanahalli  Ward 192 - Begur	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	Mahadevpura  Ward 84 - Hagdur	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	Mahadevpura  Ward 82 - Garudachar Palaya	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	Mahadevpura  Ward 149 - Varthuru	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	Mahadevpura  Ward 54 - Hudi	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	Mahadevpura  Ward 25 - Hormavu	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	Mahadevpura  Ward 26 - Rammurthy nagar 	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	East Bengaluru Ward  93 - Vasanth Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	East Bengaluru Ward  20 - Ganga Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	East Bengaluru Ward 49 - Lingarajapura	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	East Bengaluru Ward  88 - Jeevanbhima Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	East Bengaluru Ward  18 - RadhaKrishna Temple	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	East Bengaluru Ward  57 - CV Raman Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	East Bengaluru Ward  62 - Ramaswami Palya	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	East Bengaluru Ward  59 - MaruthiSevanagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	East Bengaluru Ward  110 - Sampangi ram nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	South Bengluru Ward  162 - Girinagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	South Bengluru Ward  147 - Adugodi	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	South Bengluru Ward  152 - Suddagunte Palya	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	South Bengluru Ward  179 - Shakambari Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	South Bengluru Ward  !77 - Gurappanapalya	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	South Bengluru Ward  134 - Bapu Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	South Bengluru Ward  124 - Hosahalli	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	South Bengluru Ward  118 - Sudhamnagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	South Bengluru Ward  172 - Madiwala	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	South Bengluru Ward  132 - Attiguppe	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	South Bengluru Ward  166 - Karisandra	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	South Bengluru Ward  132 - Attiguppe	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	West Bengaluru Ward  35 - Aramane Nagara	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	West Bengaluru Ward  128 - NagaraBhavi	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	West Bengaluru Ward  67- Nagapura	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	West Bengaluru Ward  107- Shivanagara	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	West Bengaluru Ward  141 - Azad Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	West Bengaluru Ward  136 - Jagjivanramnagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	West Bengaluru Ward 80 - Subhasnagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	Yelahanka Ward 6 - Thanisandra	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru	Yelahanka Ward  7 - Byatarayanapura	https://twitter.com/ANI/status/1250103927330111488
