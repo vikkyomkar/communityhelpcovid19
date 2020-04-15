@@ -802,3 +802,12 @@ Delhi	West Delhi	In and around area of H. No. A-30, Mansarovar Garden	https://ww
 Delhi	West Delhi	In and around area of A-1B/75A, Krishna Apartment, Pashchim Vihar, Delhi - 110063	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Maharashtra	Nagpur	Gitanjali Square	https://twitter.com/ANI/status/1250258393996107777
 Maharashtra	Nagpur	Hasanbagh	https://twitter.com/ANI/status/1250258393996107777
+Madhya Pradesh	Bhopal	Professor’s Colony	https://www.republicworld.com/india-news/city-news/coronavirus-hotspot-areas-in-bhopal-list-of-all-the-sealed-areas.html
+Madhya Pradesh	Bhopal	Durga Nagar	https://www.republicworld.com/india-news/city-news/coronavirus-hotspot-areas-in-bhopal-list-of-all-the-sealed-areas.html
+Madhya Pradesh	Bhopal	Semra	https://www.republicworld.com/india-news/city-news/coronavirus-hotspot-areas-in-bhopal-list-of-all-the-sealed-areas.html
+Madhya Pradesh	Bhopal	Shyamla Hills	https://www.republicworld.com/india-news/city-news/coronavirus-hotspot-areas-in-bhopal-list-of-all-the-sealed-areas.html
+Madhya Pradesh	Bhopal	Aishbagh	https://www.republicworld.com/india-news/city-news/coronavirus-hotspot-areas-in-bhopal-list-of-all-the-sealed-areas.html
+Madhya Pradesh	Bhopal	Jahangirabad	https://www.republicworld.com/india-news/city-news/coronavirus-hotspot-areas-in-bhopal-list-of-all-the-sealed-areas.html
+Madhya Pradesh	Bhopal	Shivaji Nagar	https://www.republicworld.com/india-news/city-news/coronavirus-hotspot-areas-in-bhopal-list-of-all-the-sealed-areas.html
+Madhya Pradesh	Bhopal	Char Imli	https://www.republicworld.com/india-news/city-news/coronavirus-hotspot-areas-in-bhopal-list-of-all-the-sealed-areas.html
+Madhya Pradesh	Bhopal	Indira Vihar Colony, Tilak Nagar, Lalghati	https://www.republicworld.com/india-news/city-news/coronavirus-hotspot-areas-in-bhopal-list-of-all-the-sealed-areas.html
