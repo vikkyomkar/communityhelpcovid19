@@ -155,9 +155,9 @@ West Bengal	Howrah	 Mallick Fatak area	https://www.newindianexpress.com/nation/2
 West Bengal	Howrah	Foreshore road	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
 West Bengal	Howrah	Rajballabh Saha Lane	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
 West Bengal	Howrah	Salkia	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	Howrah	Dumdum	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	Howrah	Salt Lake	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	Howrah	Ultadanga	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
+West Bengal	North 24 Parganas	Dumdum	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
+West Bengal	North 24 Parganas	Salt Lake	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
+West Bengal	Kolkata	Ultadanga	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
 Assam	Guwahati	Athgaon Kabarsthan Masjid	https://www.ndtv.com/india-news/assam-coronavirus-news-guwahatis-athgaon-kabarsthan-masjid-declared-hotspot-after-first-death-in-sta-2209846
 Maharashtra	Thane	Kajuwadi	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
 Maharashtra	Thane	 Dosti Vihar	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
@@ -800,3 +800,5 @@ Delhi	North east Delhi	House no 62, Gali no.4, B- block, Shastri Park	https://ww
 Delhi	West Delhi	 In and around area of 11/3, 2nd Floor Ashok Nagar	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	West Delhi	In and around area of H. No. A-30, Mansarovar Garden	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	West Delhi	In and around area of A-1B/75A, Krishna Apartment, Pashchim Vihar, Delhi - 110063	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
+Maharashtra	Nagpur	Gitanjali Square	https://twitter.com/ANI/status/1250258393996107777
+Maharashtra	Nagpur	Hasanbagh	https://twitter.com/ANI/status/1250258393996107777
