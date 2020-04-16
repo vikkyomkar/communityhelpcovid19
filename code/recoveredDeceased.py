@@ -17,16 +17,20 @@ for case in ['Recovered','Deceased']:
 		postQuery = "{0},detectedstate={1},statecode={2} {3}=0".format(table,k,v,case)
 		influx.Post(db,postQuery)
 
+for case in ['newRecovered','newDeceased']:
+	postQuery = "{0},detectedstate=Maharashtra,statecode=Mumbai {1}=0".format(table,case)
+	influx.Post(db,postQuery)
+
 def dataProcess(textdata):
 	startHr = 1
 	flag = 0
 	for line1 in textdata.split('\n'):
 		try:
 			line = line1.replace('#','')
-			city = 'UnKnown'
-			district = 'UnKnown'
-			state = 'UnKnown'
-			statecode = 'UnKnown'
+			city = 'Details_Awaited'
+			district = 'Details_Awaited'
+			state = 'Details_Awaited'
+			statecode = 'Details_Awaited'
 			pArray = line.split(',')
 			if pArray[4] != "" and pArray[1] != "Date" and pArray[7] not in ['Kerala/Puducherry?']:
 				flag +=1
@@ -61,4 +65,3 @@ try:
 except Exception as e:
 	print(e)
 	sys.exit(1)
-
