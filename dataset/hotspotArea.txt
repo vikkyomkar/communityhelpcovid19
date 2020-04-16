@@ -519,8 +519,8 @@ Madhya Pradesh	Indore	Tatpatti Bakhal	https://dailynews-india.com/indore-new-cor
 Madhya Pradesh	Indore	Silawatpura areas	https://dailynews-india.com/indore-new-coronavirus-hotspot-in-madhya-pradesh-records-72-of-state-deaths/
 Rajasthan	Kota	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
 Rajasthan	Jaipur	Ramganj; Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
-Karnataka	Bengaluru	Bapuji Nagar	https://www.deccanherald.com/city/top-bengaluru-stories/coronavirus-two-wards-of-bengaluru-sealed-completely-to-contain-covid-19-spread-823604.html
-Karnataka	Bengaluru	Padarayanapura	https://www.deccanherald.com/city/top-bengaluru-stories/coronavirus-two-wards-of-bengaluru-sealed-completely-to-contain-covid-19-spread-823604.html
+Karnataka	Bengaluru Urban	Ward 134 - Bapuji Nagar	https://www.deccanherald.com/city/top-bengaluru-stories/coronavirus-two-wards-of-bengaluru-sealed-completely-to-contain-covid-19-spread-823604.html
+Karnataka	Bengaluru Urban	Ward 135 - Padarayanapura	https://www.deccanherald.com/city/top-bengaluru-stories/coronavirus-two-wards-of-bengaluru-sealed-completely-to-contain-covid-19-spread-823604.html
 Karnataka	Mysuru	Nanjangud town	https://www.dtnext.in/News/National/2020/04/02135830/1222923/Covid19--Mysuru-district-declared-Red-Zone-security-.vpf
 Kerala	Kozhikode	Entire District is declared Hotspot	https://newsable.asianetnews.com/coronavirus-india/7-kerala-districts-declared-covid-19-hotspots-by-chief-minister-q87h2a
 Andhra Pradesh	Visakhapatnam	Thatichetlapalem	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
@@ -639,7 +639,7 @@ Tamil Nadu	Madurai	Narimedu	https://timesofindia.indiatimes.com/city/madurai/530
 Tamil Nadu	Madurai	Mahaboobpalayam	https://timesofindia.indiatimes.com/city/madurai/530-health-workers-monitor-residents-in-containment-zones/articleshow/75102246.cms
 Tamil Nadu	Tiruvarur	Mannargudi	https://timesofindia.indiatimes.com/city/trichy/13-more-cases-take-covid-19-positive-to-40-in-central-tn/articleshow/74975227.cms
 Tamil Nadu	Tiruvarur	Muthupettai	https://timesofindia.indiatimes.com/city/trichy/13-more-cases-take-covid-19-positive-to-40-in-central-tn/articleshow/74975227.cms
-Puducherry	Muthilapet	-	https://timesofindia.indiatimes.com/city/puducherry/coronavirus-in-tamil-nadu-part-of-puducherry-town-brought-under-containment-plan/articleshow/75007091.cms
+Puducherry	Muthilapet	Declared green now	https://timesofindia.indiatimes.com/city/puducherry/coronavirus-in-tamil-nadu-part-of-puducherry-town-brought-under-containment-plan/articleshow/75007091.cms
 Tamil Nadu	Villupuram	Kottakuppam	https://timesofindia.indiatimes.com/city/puducherry/coronavirus-in-tamil-nadu-part-of-puducherry-town-brought-under-containment-plan/articleshow/75007091.cms
 Tamil Nadu	Tirupattur	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
 Tamil Nadu	Thanjavur	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
@@ -682,9 +682,7 @@ Gujarat	Ahmedabad	Sakarkha ni Pol in Dariapur	https://indianexpress.com/article/
 Gujarat	Ahmedabad	Devpreet and Devraj Towers  	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
 Gujarat	Ahmedabad	Area near Usmani mosque in Sanklitnagar	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
 Gujarat	Ahmedabad	Qutubbi Mohalla in Kalupur.	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	two buildings in Bodakdev area	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
 Gujarat	Ahmedabad	Kalupur area	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	Dariapur	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
 Gujarat	Ahmedabad	Gomtipur	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
 Gujarat	Ahmedabad	Shah-e-Alam	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
 Gujarat	Ahmedabad	Sola.	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
@@ -704,9 +702,9 @@ Gujarat	Bhavnagar	Sandhiyavad	https://in.news.yahoo.com/look-gujarat-contained-n
 Gujarat	Bhavnagar	Vadva-Sidivad	https://in.news.yahoo.com/look-gujarat-contained-neighbourhoods-195235424.html
 Gujarat	Bhavnagar	Sandhyawada	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
 Gujarat	Bhavnagar	Ruvapari area	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
-Gujarat	vadodara	Nagarwada	https://indianexpress.com/article/india/vadodara-divides-city-into-four-zones-on-basis-of-covid-19-severity-6357036/
-Gujarat	vadodara	Tandalja	https://indianexpress.com/article/india/vadodara-divides-city-into-four-zones-on-basis-of-covid-19-severity-6357036/
-Gujarat	vadodara	Syedpura	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
+Gujarat	Vadodara	Nagarwada	https://indianexpress.com/article/india/vadodara-divides-city-into-four-zones-on-basis-of-covid-19-severity-6357036/
+Gujarat	Vadodara	Tandalja	https://indianexpress.com/article/india/vadodara-divides-city-into-four-zones-on-basis-of-covid-19-severity-6357036/
+Gujarat	Vadodara	Syedpura	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
 Gujarat	Gandhinagar	Amroha	https://www.amarujala.com/uttar-pradesh/moradabad/five-more-corona-infected-patients-found-in-amroha
 Gujarat	Patan	Nedrana village near Sidhpur	https://gujarati.abplive.com/videos/news/gujarat-seven-more-corona-positive-cases-in-patan-503762
 Bihar	Gaya	Gurudwara Road locality of Gaya town	https://timesofindia.indiatimes.com/city/patna/covid-19-containment-zone-created-in-gaya/articleshow/74955093.cms
@@ -714,48 +712,48 @@ Bihar	Gaya	Paharpur area	https://timesofindia.indiatimes.com/city/patna/covid-19
 Gujarat	Bharuch	ikkhar Village	https://www.bhaskar.com/local/gujarat/news/report-of-4-people-of-tabligi-jamaat-who-came-from-tamil-nadu-in-bharuch-positive-admitted-in-civil-127144218.html
 Gujarat	Anand	Enterprise Society in Padariya area	https://timesofindia.indiatimes.com/city/vadodara/anand-records-its-first-covid-19-case/articleshow/75034959.cms
 Gujarat	Anand	Hadgood Village	https://www.patrika.com/ahmedabad-news/anand-corona-virus-gujarat-5991931/
-Bihar	Begusarai	Nawada	
+Bihar	Nawada	Sitamarhi	https://www.livehindustan.com/bihar/nawada/story-3-km-sealing-area-in-sitamarhi-nawada-bihar-after-getting-corona-virus-positive-patient-3146873.html
 Bihar	Begusarai	Six Tolls of Bachwara Block	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Bihar	Begusarai	Teghra Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Bihar	Begusarai	Mansoorchak Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
-Karnataka	Bengaluru	Bommanahalli  Ward 191 - Singasandra	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	Bommanahalli  Ward 192 - Begur	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	Mahadevpura  Ward 84 - Hagdur	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	Mahadevpura  Ward 82 - Garudachar Palaya	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	Mahadevpura  Ward 149 - Varthuru	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	Mahadevpura  Ward 54 - Hudi	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	Mahadevpura  Ward 25 - Hormavu	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	Mahadevpura  Ward 26 - Rammurthy nagar 	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	East Bengaluru Ward  93 - Vasanth Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	East Bengaluru Ward  20 - Ganga Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	East Bengaluru Ward 49 - Lingarajapura	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	East Bengaluru Ward  88 - Jeevanbhima Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	East Bengaluru Ward  18 - RadhaKrishna Temple	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	East Bengaluru Ward  57 - CV Raman Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	East Bengaluru Ward  62 - Ramaswami Palya	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	East Bengaluru Ward  59 - MaruthiSevanagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	East Bengaluru Ward  110 - Sampangi ram nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	South Bengluru Ward  162 - Girinagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	South Bengluru Ward  147 - Adugodi	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	South Bengluru Ward  152 - Suddagunte Palya	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	South Bengluru Ward  179 - Shakambari Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	South Bengluru Ward  !77 - Gurappanapalya	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	South Bengluru Ward  134 - Bapu Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	South Bengluru Ward  124 - Hosahalli	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	South Bengluru Ward  118 - Sudhamnagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	South Bengluru Ward  172 - Madiwala	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	South Bengluru Ward  132 - Attiguppe	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	South Bengluru Ward  166 - Karisandra	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	South Bengluru Ward  132 - Attiguppe	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	West Bengaluru Ward  35 - Aramane Nagara	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	West Bengaluru Ward  128 - NagaraBhavi	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	West Bengaluru Ward  67- Nagapura	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	West Bengaluru Ward  107- Shivanagara	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	West Bengaluru Ward  141 - Azad Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	West Bengaluru Ward  136 - Jagjivanramnagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	West Bengaluru Ward 80 - Subhasnagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	Yelahanka Ward 6 - Thanisandra	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru	Yelahanka Ward  7 - Byatarayanapura	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	Bommanahalli  Ward 191 - Singasandra	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	Bommanahalli  Ward 192 - Begur	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	Mahadevpura  Ward 84 - Hagdur	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	Mahadevpura  Ward 82 - Garudachar Palaya	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	Mahadevpura  Ward 149 - Varthuru	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	Mahadevpura  Ward 54 - Hudi	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	Mahadevpura  Ward 25 - Hormavu	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	Mahadevpura  Ward 26 - Rammurthy nagar 	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	East Bengaluru Ward  93 - Vasanth Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	East Bengaluru Ward  20 - Ganga Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	East Bengaluru Ward 49 - Lingarajapura	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	East Bengaluru Ward  88 - Jeevanbhima Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	East Bengaluru Ward  18 - RadhaKrishna Temple	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	East Bengaluru Ward  57 - CV Raman Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	East Bengaluru Ward  62 - Ramaswami Palya	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	East Bengaluru Ward  59 - MaruthiSevanagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	East Bengaluru Ward  110 - Sampangi ram nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  162 - Girinagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  147 - Adugodi	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  152 - Suddagunte Palya	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  179 - Shakambari Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  !77 - Gurappanapalya	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  134 - Bapu Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  124 - Hosahalli	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  118 - Sudhamnagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  172 - Madiwala	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  132 - Attiguppe	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  166 - Karisandra	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  132 - Attiguppe	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	West Bengaluru Ward  35 - Aramane Nagara	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	West Bengaluru Ward  128 - NagaraBhavi	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	West Bengaluru Ward  67- Nagapura	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	West Bengaluru Ward  107- Shivanagara	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	West Bengaluru Ward  141 - Azad Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	West Bengaluru Ward  136 - Jagjivanramnagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	West Bengaluru Ward 80 - Subhasnagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	Yelahanka Ward 6 - Thanisandra	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	Yelahanka Ward  7 - Byatarayanapura	https://twitter.com/ANI/status/1250103927330111488
 Delhi	South Delhi	Pandit Mohalla & Jain Mohalla, from Epic centre 715, Chirag Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South Delhi	shop No J-4/49 (Khirki Extension)	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South west Delhi	C-2 Block-Janakpuri-Kothi number-119	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
@@ -959,7 +957,6 @@ Maharashtra 	Mumbai Suburban	Note: Entire District declared Red Zone Hotspot as 
 Maharashtra 	Nashik	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Maharashtra 	Odisha	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Maharashtra 	Khordha	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Punjab 	SAS Nagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Punjab 	SAS Nagar Mohali	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Punjab 	Jalandhar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Punjab 	Pathankot	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -1065,3 +1062,33 @@ Uttar Pradesh 	Basti	Note: Entire District declared Red Zone Hotspot as on 15 Ap
 Uttar Pradesh 	Baghpat	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttarakhand 	Nainital	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttarakhand	Udam Singh Nagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Karnataka 	Bengaluru Rural	Kodipalya village, Doddaballapur	https://www.youtube.com/watch?v=GPiXVVMipAA
+Delhi 	New Delhi	B-4/206 in Safdarjung Enclave	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
+Delhi 	South Delhi	Boundary Start from B-4/200 and cover the whole locality till backside of Humayun lane includes, Ashiana complex & B-4/206 Safdarjung Enclave, New Delhi	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
+Delhi 	West Delhi	In and around area of 36/4, East Patel Nagar, Delhi 110008	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
+Delhi 	North Delhi	G,H and I Block of Police Colony in Model Town	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
+Delhi 	Shahdara	Gali No. 3, 4 and 5 in East Ram Nagar	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
+Delhi 	South Delhi	House No. 50 in Hauz Rani -- from Mother Dairy to Raja Ram Mohan School	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
+Delhi 	South east Delhi	Gali No. 6, A Block, Abul Fazal Enclave, in Shaheen Bagh	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
+Punjab 	Pathankot	T-3 Quarters at Additional Land Colony, ShahpurKandi Township, Jugial	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041154.pdf
+Punjab 	Pathankot	Anandpur Rara/Kulian	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041380.pdf
+Punjab 	Pathankot	Village Sarti, Tikka Tarowan, Hadbast No. 404, Tehsil Dharkalan	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041295.pdf
+Punjab 	SBS Nagar	Pathlawa	https://www.hindustantimes.com/cities/procurement-an-uphill-task-in-sbs-nagar-containment-zone/story-Gz60XbR6GpCnVeK5zkIIXM.html
+Punjab 	SBS Nagar	Ucha Ladhana	https://www.hindustantimes.com/cities/procurement-an-uphill-task-in-sbs-nagar-containment-zone/story-Gz60XbR6GpCnVeK5zkIIXM.html
+Punjab 	SBS Nagar	Maalgill villages	https://www.hindustantimes.com/cities/procurement-an-uphill-task-in-sbs-nagar-containment-zone/story-Gz60XbR6GpCnVeK5zkIIXM.html
+Punjab 	Jalandhar	Mitha Bazaar	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
+Punjab 	Jalandhar	 Lal Bazar	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
+Punjab 	Jalandhar	 Nijatam Nagar	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
+Punjab 	Jalandhar	 Narayan Nagar	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
+Punjab 	Jalandhar	 Maqsudan	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
+Punjab 	Jalandhar	 Kotla Heran (Shahkot)	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
+Punjab 	Jalandhar	Kartarpur	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
+Punjab 	Amritsar	Diamond Estate Colony	https://punjab.punjabkesari.in/amritsar/news/two-areas-of-amritsar-included-in-hotspot-11-people-so-far-corona-positive-1154262
+Punjab 	Amritsar	Udham singh nagar	https://punjab.punjabkesari.in/amritsar/news/two-areas-of-amritsar-included-in-hotspot-11-people-so-far-corona-positive-1154262
+Punjab 	Hoshiarpur	Moranwali,Garhshankar	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
+Punjab 	Ludhiana	Amarpura	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
+Punjab 	Mansa	Budhlada town	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
+Punjab 	Rupnagar	Chatwali	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
+Punjab 	SAS Nagar Mohali	Phase 3 A	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
+Punjab 	SAS Nagar Mohali	Sector 69	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
+Punjab 	SAS Nagar Mohali	Sector 91	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
