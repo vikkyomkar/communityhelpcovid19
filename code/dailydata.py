@@ -14,8 +14,9 @@ def totalTests(datajson):
 	yesterday = (datetime.datetime.now() - datetime.timedelta(days = 1)).strftime("%d/%m")
 	for key in datajson['tested']:
 		try:
-			if yesterday in key['updatetimestamp']:
+			if key['totalsamplestested'] != "": #if yesterday in key['updatetimestamp']:
 				postQuery = "{0} totalsamplestested={1}".format(table,key['totalsamplestested'])
+				#print(postQuery)
 				influx.Post(db,postQuery)
 		except Exception as e:
 			print(e)
@@ -30,6 +31,7 @@ def dailyCases(datajson):
 			announcedate = (datetime.datetime(int(y), int(month[m]), int(d), 0, 0).strftime('%s')) + "000000000"
 			dailyactive = int(key['dailyconfirmed']) - int(key['dailyrecovered']) - int(key['dailydeceased'])
 			postQuery = "{0} dailyactive={1},dailyrecovered={2},dailydeceased={3} {4}".format(table,dailyactive,key['dailyrecovered'],key['dailydeceased'],announcedate)
+			#print(postQuery)
 			influx.Post(db,postQuery)
 		except Exception as e:
 			print(e)
