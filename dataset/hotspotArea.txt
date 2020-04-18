@@ -1092,3 +1092,12 @@ Punjab 	Rupnagar	Chatwali	https://punjabi.abplive.com/videos/news/punjab-punjab-
 Punjab 	SAS Nagar Mohali	Phase 3 A	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
 Punjab 	SAS Nagar Mohali	Sector 69	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
 Punjab 	SAS Nagar Mohali	Sector 91	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
+Delhi 	West Delhi	in and around area of C-105, Hari Nagar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
+Delhi 	West Delhi	in and around area of B-333, Hari Nagar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
+Delhi 	West Delhi	in and around area of C-785, third floor, camp-2, Nangloi	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
+Delhi 	West Delhi	in and around area of RZ-168, K2 Block, Nihal Vihar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
+Delhi 	South east Delhi	Gali numbers 26, 26B, 27 and 27B, Tughlakabad Extension	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
+Delhi 	North Delhi	K-Block Jahangir Puri between houses 716 and 785; 786 to 860 and 861 to 950	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
+Delhi 	South Delhi	area around house number 859/20, L-II, Sangam Vihar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
+Delhi 	South Delhi	House number 153/B, 4th floor, Savitri Nagar in Malviya Nagar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
+Madhya Pradesh 	Ujjain	Kamri Marg	https://www.naidunia.com/madhya-pradesh/bhopal-live-madhya-pradesh-news-update-one-more-corona-positive-in-ujjain-so-far-28-lb-5510564
