@@ -59,6 +59,14 @@ if [[ ${out} != 0 ]];then
 fi
 exitCode=`expr ${exitCode} + ${out}`
 
+##### Get daily sample test data #############
+python /mnt/covid/sampleTestingDdata.py  ${db}
+out=`echo $?`
+if [[ ${out} != 0 ]];then
+        echo "daily sample tests data collection failed"
+fi
+exitCode=`expr ${exitCode} + ${out}`
+
 ##### Check and update DB #######
 if [[ ${exitCode} == 0 ]];then
 	echo "All Jobs executed successfully"
