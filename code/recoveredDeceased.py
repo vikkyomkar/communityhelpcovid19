@@ -17,7 +17,7 @@ for case in ['Recovered','Deceased']:
 		postQuery = "{0},detectedstate={1},statecode={2} {3}=0".format(table,k,v,case)
 		influx.Post(db,postQuery)
 
-for case in ['newRecovered','newDeceased']:
+for case in ['NewConfirmed','newRecovered','newDeceased']:
 	postQuery = "{0},detectedstate=Maharashtra,statecode=Mumbai {1}=0".format(table,case)
 	influx.Post(db,postQuery)
 
