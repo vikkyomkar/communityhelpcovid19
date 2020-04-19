@@ -1101,3 +1101,31 @@ Delhi 	North Delhi	K-Block Jahangir Puri between houses 716 and 785; 786 to 860 
 Delhi 	South Delhi	area around house number 859/20, L-II, Sangam Vihar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Delhi 	South Delhi	House number 153/B, 4th floor, Savitri Nagar in Malviya Nagar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Madhya Pradesh 	Ujjain	Kamri Marg	https://www.naidunia.com/madhya-pradesh/bhopal-live-madhya-pradesh-news-update-one-more-corona-positive-in-ujjain-so-far-28-lb-5510564
+Delhi 	South Delhi	A Block, Khizrabad, New Friends Colony	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
+Delhi 	West Delhi	Israel Camp, Rang Puri Pahari	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
+Delhi 	North east Delhi	Budh Nagar, Inderpuri	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
+Delhi 	North Delhi	Oberoi Apartment	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
+Delhi 	New Delhi	G-1 2nd Floor Mansarovar Garden	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
+Delhi 	North east Delhi	E-51 and E-21 street 8, Shastri Park	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
+Delhi 	Shahdara	T-606 street-18 Gautam Puri	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
+Delhi 	North east Delhi	A-97,98,99 near Buland Masjid, Shastri Park.	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
+Maharashtra	Raigad	Panvel	https://www.lokmat.com/raigad/coronavirus-six-corona-patient-increase-panvel-uran-28-patients-raigad/?utm_source=Lokmat.com&utm_medium=InfiniteArticle-Desktop
+Maharashtra	Raigad	Uran	https://www.lokmat.com/raigad/coronavirus-six-corona-patient-increase-panvel-uran-28-patients-raigad/?utm_source=Lokmat.com&utm_medium=InfiniteArticle-Desktop
+Maharashtra	Raigad	Kharghar	https://www.lokmat.com/raigad/coronavirus-six-corona-patient-increase-panvel-uran-28-patients-raigad/?utm_source=Lokmat.com&utm_medium=InfiniteArticle-Desktop
+Maharashtra	Raigad	Kalamboli	https://www.lokmat.com/raigad/coronavirus-six-corona-patient-increase-panvel-uran-28-patients-raigad/?utm_source=Lokmat.com&utm_medium=InfiniteArticle-Desktop
+Maharashtra	Raigad	Raigad Rural	https://www.lokmat.com/raigad/coronavirus-six-corona-patient-increase-panvel-uran-28-patients-raigad/?utm_source=Lokmat.com&utm_medium=InfiniteArticle-Desktop
+Tamil Nadu	Ambur	Total lockdown declared by TN Govt	https://www.dtnext.in/News/TamilNadu/2020/04/18025454/1225666/Tirupattur-to-be-locked-down-from-today.vpf
+Tamil Nadu	Vaniyambadi	Total lockdown declared by TN Govt	https://www.dtnext.in/News/TamilNadu/2020/04/18025454/1225666/Tirupattur-to-be-locked-down-from-today.vpf
+Tamil Nadu	Thanjavur	Athiramapattinam.	https://tamil.oneindia.com/news/thanjavur/coronavirus-17-cases-in-a-single-day-what-happened-in-thanjavur/articlecontent-pf450665-382958.html
+Tamil Nadu	Thanjavur	Kumbakonam	https://tamil.oneindia.com/news/thanjavur/coronavirus-17-cases-in-a-single-day-what-happened-in-thanjavur/articlecontent-pf450665-382958.html
+Tamil Nadu	kanyakumari	Manikattipottal	https://twitter.com/SharanyaAri/status/1250041780067643393
+Tamil Nadu	kanyakumari	Thengapattanam	https://twitter.com/SharanyaAri/status/1250748101708574721
+Tamil Nadu	kanyakumari	ISED Nagar	https://twitter.com/SharanyaAri/status/1250748101708574721
+Tamil Nadu	kanyakumari	Vairavilai	https://twitter.com/SharanyaAri/status/1250748101708574721
+Tamil Nadu	kanyakumari	Mela Udayappan Kudieruppu	https://twitter.com/SharanyaAri/status/1250748101708574721
+Tamil Nadu	kanyakumari	Kesavan Putoor	https://twitter.com/SharanyaAri/status/1250748101708574721
+Tamil Nadu	kanyakumari	Nagarcoil	https://twitter.com/SharanyaAri/status/1250748101708574721
+Tamil Nadu	Coimbatore	Podanur Railway Station	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
+Tamil Nadu	Coimbatore	Poomarket	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
+Tamil Nadu	Coimbatore	Kavundampalyam	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
+Karnataka	Chikkaballapura	Gauribidanur taluk	http://www.onefivenine.com/india/villag/Chikballapur/Gauribidanur
