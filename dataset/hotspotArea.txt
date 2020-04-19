@@ -1126,3 +1126,5 @@ Tamil Nadu	Coimbatore	Podanur Railway Station	https://twitter.com/NewsbioU/statu
 Tamil Nadu	Coimbatore	Poomarket	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
 Tamil Nadu	Coimbatore	Kavundampalyam	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
 Karnataka	Chikkaballapura	Gauribidanur taluk	http://www.onefivenine.com/india/villag/Chikballapur/Gauribidanur
+Delhi	South west Delhi	Plot No. 1294 in Theke Wali Gali opposite DC Office Kapashera	https://twitter.com/ANI/status/1251889034399567873
+Delhi	New Delhi	EA Block in Inderpuri	https://twitter.com/ANI/status/1251889034399567873
