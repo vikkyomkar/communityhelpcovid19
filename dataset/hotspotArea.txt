@@ -359,7 +359,6 @@ Maharashtra	Kalyan-Dombivali	 Sahakar Nagar	https://www.firstpost.com/health/cor
 Maharashtra	Kalyan-Dombivali	 Chedda Road	https://www.firstpost.com/health/coronavirus-outbreak-maharashtras-kalyan-dombivli-municipality-seals-more-areas-as-confirmed-cases-in-covid-19-hotspot-rise-to-50-8250701.html
 Maharashtra	Kalyan-Dombivali	 Samata Nagar	https://www.firstpost.com/health/coronavirus-outbreak-maharashtras-kalyan-dombivli-municipality-seals-more-areas-as-confirmed-cases-in-covid-19-hotspot-rise-to-50-8250701.html
 Maharashtra	Sangli	Islampur	https://www.indiatoday.in/india/story/coronavirus-how-islampur-a-small-maharashtra-town-fought-against-covid-19-1665617-2020-04-10
-Maharashtra	Raigad	More than 5 cases reported	https://www.sakaltimes.com/coronavirus-maharashtra/coronavirus-maharashtra-state-lockdown-divided-three-zones-48537
 Uttar Pradesh	Ghaziabad	Nandgram	https://www.indiatvnews.com/news/india/know-the-coronavirus-hotspots-in-ghaziabad-which-will-be-sealed-from-midnight-605817
 Uttar Pradesh	Ghaziabad	 KDP Ground (Rajnagar Extension)	https://www.indiatvnews.com/news/india/know-the-coronavirus-hotspots-in-ghaziabad-which-will-be-sealed-from-midnight-605817
 Uttar Pradesh	Ghaziabad	 Saviour Society	https://www.indiatvnews.com/news/india/know-the-coronavirus-hotspots-in-ghaziabad-which-will-be-sealed-from-midnight-605817
@@ -641,11 +640,10 @@ Tamil Nadu	Tiruvarur	Mannargudi	https://timesofindia.indiatimes.com/city/trichy/
 Tamil Nadu	Tiruvarur	Muthupettai	https://timesofindia.indiatimes.com/city/trichy/13-more-cases-take-covid-19-positive-to-40-in-central-tn/articleshow/74975227.cms
 Puducherry	Muthilapet	Declared green now	https://timesofindia.indiatimes.com/city/puducherry/coronavirus-in-tamil-nadu-part-of-puducherry-town-brought-under-containment-plan/articleshow/75007091.cms
 Tamil Nadu	Villupuram	Kottakuppam	https://timesofindia.indiatimes.com/city/puducherry/coronavirus-in-tamil-nadu-part-of-puducherry-town-brought-under-containment-plan/articleshow/75007091.cms
-Tamil Nadu	Tirupattur	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
+Tamil Nadu	Tirupattur	Total lockdown declared by TN Govt	https://www.dtnext.in/News/TamilNadu/2020/04/18025454/1225666/Tirupattur-to-be-locked-down-from-today.vpf
 Tamil Nadu	Thanjavur	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
 Tamil Nadu	Thiruvannamalai	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
 Tamil Nadu	Kanchipuram	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
-Tamil Nadu	Kanniyakumari	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
 Himachal Pradesh	Chamba	Nine panchayats of Teesa area	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
 Himachal Pradesh	Sirmaur	Mishrawala	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
 Himachal Pradesh	Sirmaur	Taruwala	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
@@ -663,7 +661,6 @@ Karnataka	Belagavi	Kudchi in Raibag	https://www.thehindu.com/news/national/karna
 Karnataka	Kalaburagi	Pilakamma area of Wadi town	https://www.deccanherald.com/state/kalaburagi/karnataka-two-year-old-boy-tests-positive-for-coronavirus-in-kalaburagi-824531.html
 Karnataka	Kalaburagi	Ward No. 11, 12, 13, 14	
 Karnataka	Uttara Kannada	more than 5 cases reported	
-Karnataka	Chikkaballapura	more than 5 cases reported	
 Karnataka	Bagalkote	Killa Area	
 Karnataka	Mandya	Swarnasandra Layout	https://www.deccanherald.com/state/karnataka-districts/dc-team-on-toes-inspect-containment-zone-in-mandya-823860.html
 Karnataka	Vijayapura	Gol Gumbaz	
@@ -1118,13 +1115,13 @@ Tamil Nadu	Ambur	Total lockdown declared by TN Govt	https://www.dtnext.in/News/T
 Tamil Nadu	Vaniyambadi	Total lockdown declared by TN Govt	https://www.dtnext.in/News/TamilNadu/2020/04/18025454/1225666/Tirupattur-to-be-locked-down-from-today.vpf
 Tamil Nadu	Thanjavur	Athiramapattinam.	https://tamil.oneindia.com/news/thanjavur/coronavirus-17-cases-in-a-single-day-what-happened-in-thanjavur/articlecontent-pf450665-382958.html
 Tamil Nadu	Thanjavur	Kumbakonam	https://tamil.oneindia.com/news/thanjavur/coronavirus-17-cases-in-a-single-day-what-happened-in-thanjavur/articlecontent-pf450665-382958.html
-Tamil Nadu	kanyakumari	Manikattipottal	https://twitter.com/SharanyaAri/status/1250041780067643393
-Tamil Nadu	kanyakumari	Thengapattanam	https://twitter.com/SharanyaAri/status/1250748101708574721
-Tamil Nadu	kanyakumari	ISED Nagar	https://twitter.com/SharanyaAri/status/1250748101708574721
-Tamil Nadu	kanyakumari	Vairavilai	https://twitter.com/SharanyaAri/status/1250748101708574721
-Tamil Nadu	kanyakumari	Mela Udayappan Kudieruppu	https://twitter.com/SharanyaAri/status/1250748101708574721
-Tamil Nadu	kanyakumari	Kesavan Putoor	https://twitter.com/SharanyaAri/status/1250748101708574721
-Tamil Nadu	kanyakumari	Nagarcoil	https://twitter.com/SharanyaAri/status/1250748101708574721
+Tamil Nadu	Kanniyakumari	Manikattipottal	https://twitter.com/SharanyaAri/status/1250041780067643393
+Tamil Nadu	Kanniyakumari	Thengapattanam	https://twitter.com/SharanyaAri/status/1250748101708574721
+Tamil Nadu	Kanniyakumari	ISED Nagar	https://twitter.com/SharanyaAri/status/1250748101708574721
+Tamil Nadu	Kanniyakumari	Vairavilai	https://twitter.com/SharanyaAri/status/1250748101708574721
+Tamil Nadu	Kanniyakumari	Mela Udayappan Kudieruppu	https://twitter.com/SharanyaAri/status/1250748101708574721
+Tamil Nadu	Kanniyakumari	Kesavan Putoor	https://twitter.com/SharanyaAri/status/1250748101708574721
+Tamil Nadu	Kanniyakumari	Nagarcoil	https://twitter.com/SharanyaAri/status/1250748101708574721
 Tamil Nadu	Coimbatore	Podanur Railway Station	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
 Tamil Nadu	Coimbatore	Poomarket	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
 Tamil Nadu	Coimbatore	Kavundampalyam	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
