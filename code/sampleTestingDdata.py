@@ -6,7 +6,8 @@ import json
 import influx
 
 ### Variables ####
-url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSz8Qs1gE_IYpzlkFkCXGcL_BqR8hZieWVi-rphN1gfrO3H4lDtVZs4kd0C3P8Y9lhsT1rhoB-Q_cP4/pub?output=csv&gid=486127050"
+##url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSz8Qs1gE_IYpzlkFkCXGcL_BqR8hZieWVi-rphN1gfrO3H4lDtVZs4kd0C3P8Y9lhsT1rhoB-Q_cP4/pub?output=csv&gid=486127050"
+url = "https://api.covid19india.org/csv/latest/statewise_tested_numbers_data.csv"
 db = sys.argv[1]
 #table = 'sampleTests'
 table = 'covid_india'
@@ -45,11 +46,12 @@ population = {
 
 for k,v in population.items():
 	postQuery = "{0},detectedstate={1} population={2}".format(table,k,v)
-	print(postQuery)
+	#print(postQuery)
 	influx.Post(db,postQuery)
 
-def dataProcess(textdata):
-	for line in textdata.split('\n'):
+def dataProcess():
+	FH = open('/mnt/covid/sampletestdata','r')
+	for line in FH:
 		try:
 			#positiveTests = 0
 			testArray = line.split(',')
@@ -65,7 +67,7 @@ def dataProcess(textdata):
 		
 				#postQuery = "{0},detectedstate={1} totalTests={2},positiveTests={3} {4}".format(table,state,totalTests,positiveTests,int(date))				
 				postQuery = "{0},detectedstate={1} sampleTestsdone={2} {3}".format(table,state,totalTests,int(date))				
-				print(postQuery)
+				#print(postQuery)
 				influx.Post(db,postQuery)
 		except Exception as e:
 			print(e)
@@ -73,9 +75,10 @@ def dataProcess(textdata):
 
 ##### Fetch data Starts here########
 try:
-	req = requests.get(url)
-	if req.status_code == 200:
-		dataProcess(req.text)
+	dataProcess()
+	#req = requests.get(url)
+	#f req.status_code == 200:
+	#	dataProcess(req.text)
 except Exception as e:
 	print(e)
 	sys.exit(1)
