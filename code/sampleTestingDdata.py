@@ -8,7 +8,8 @@ import influx
 ### Variables ####
 url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSz8Qs1gE_IYpzlkFkCXGcL_BqR8hZieWVi-rphN1gfrO3H4lDtVZs4kd0C3P8Y9lhsT1rhoB-Q_cP4/pub?output=csv&gid=486127050"
 db = sys.argv[1]
-table = 'sampleTests'
+#table = 'sampleTests'
+table = 'covid_india'
 
 population = {
 	"Uttar_Pradesh" : 223897418,
@@ -50,7 +51,7 @@ for k,v in population.items():
 def dataProcess(textdata):
 	for line in textdata.split('\n'):
 		try:
-			positiveTests = 0
+			#positiveTests = 0
 			testArray = line.split(',')
 			if testArray[1] != "" and testArray[2] != "" and testArray[1] != "State":
 
@@ -59,10 +60,11 @@ def dataProcess(textdata):
 				date = (datetime.datetime(int(y), int(m), int(d), 0, 0).strftime('%s')) + "000000000"
 				if testArray[2] != "":
 					totalTests = testArray[2] 
-				if testArray[3] != "":
-					positiveTests = testArray[3]
+				#if testArray[3] != "":
+				#	positiveTests = testArray[3]
 		
-				postQuery = "{0},detectedstate={1} totalTests={2},positiveTests={3} {4}".format(table,state,totalTests,positiveTests,int(date))				
+				#postQuery = "{0},detectedstate={1} totalTests={2},positiveTests={3} {4}".format(table,state,totalTests,positiveTests,int(date))				
+				postQuery = "{0},detectedstate={1} sampleTestsdone={2} {3}".format(table,state,totalTests,int(date))				
 				print(postQuery)
 				influx.Post(db,postQuery)
 		except Exception as e:
