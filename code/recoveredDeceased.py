@@ -10,7 +10,8 @@ url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSz8Qs1gE_IYpzlkFkCXGcL_B
 db = sys.argv[1]
 table = 'covid_india'
 
-dummyData = {'Nagaland' : 'NL','Meghalaya' : 'ML','Assam' : 'AS','Jharkhand' : 'JH' ,'Andaman_and_Nicobar_Islands' : 'AN','Arunachal_Pradesh': 'AR','Chandigarh' : 'CH','Chhattisgarh': 'CT','Dadra_and_Nagar_Haveli' : 'DN','Goa' : 'GA','Ladakh' : 'LA','Manipur' : 'MN','Uttarakhand' : 'UT','Tripura' : 'TR' ,'Puducherry' : 'PY','Mizoram' : 'MZ'}
+### removed 'Nagaland' : 'NL'
+dummyData = {'Meghalaya' : 'ML','Assam' : 'AS','Jharkhand' : 'JH' ,'Andaman_and_Nicobar_Islands' : 'AN','Arunachal_Pradesh': 'AR','Chandigarh' : 'CH','Chhattisgarh': 'CT','Goa' : 'GA','Ladakh' : 'LA','Manipur' : 'MN','Uttarakhand' : 'UT','Tripura' : 'TR' ,'Puducherry' : 'PY','Mizoram' : 'MZ'}
 
 for case in ['Recovered','Deceased']:
 	for k,v in dummyData.items():
@@ -44,7 +45,11 @@ def dataProcess(textdata):
 				if pArray[6] != "":  
 					district = '_'.join(pArray[6].split(' ')) 
 				if pArray[7] != "":
+					#### Condition due to wrong data in sheet 159 line in recovery sheet
 					state = '_'.join(pArray[7].split(' ')) 
+					if state == "Hyderabad":
+						state = 'Andhra_Pradesh'
+						district = 'Hyderabad'
 				if pArray[8] != "":
 					statecode = '_'.join(pArray[8].split(' '))
 				postQuery = "{0},city={1},detecteddistrict={2},detectedstate={3},statecode={4} {5}=1".format(table,city,district,state,statecode,pArray[4])
