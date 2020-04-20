@@ -11,6 +11,8 @@ db+=`date +'%m%d%H%M'`
 
 rawdataUrl="https://api.covid19india.org/raw_data.json"
 dailydata="https://api.covid19india.org/data.json"
+sampledata="https://api.covid19india.org/csv/latest/statewise_tested_numbers_data.csv"
+deathRecoverdata="https://api.covid19india.org/csv/latest/death_and_recovered.csv"
 
 ####### Create DB #########
 curl -i -XPOST http://localhost:8086/query --data-urlencode "q=CREATE DATABASE ${db}"
@@ -26,6 +28,10 @@ fi
 exitCode=`expr ${exitCode} + ${out}`
 
 ###### Death and recover #########
+curl ${deathRecoverdata} > /mnt/covid/deathRecoverdata
+if [[ `echo $?` != 0 ]];then
+        echo "failed"
+fi
 python /mnt/covid/recoveredDeceased.py ${db}
 out=`echo $?`
 if [[ ${out} != 0 ]];then
@@ -60,6 +66,10 @@ fi
 exitCode=`expr ${exitCode} + ${out}`
 
 ##### Get daily sample test data #############
+curl ${sampledata} > /mnt/covid/sampletestdata
+if [[ `echo $?` != 0 ]];then
+        echo "failed"
+fi
 python /mnt/covid/sampleTestingDdata.py  ${db}
 out=`echo $?`
 if [[ ${out} != 0 ]];then
@@ -77,4 +87,3 @@ else
 	echo "Send failure email"
 
 fi
-
