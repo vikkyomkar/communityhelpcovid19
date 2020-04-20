@@ -6,7 +6,8 @@ import json
 import influx
 
 ### Variables ####
-url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSz8Qs1gE_IYpzlkFkCXGcL_BqR8hZieWVi-rphN1gfrO3H4lDtVZs4kd0C3P8Y9lhsT1rhoB-Q_cP4/pub?output=csv&gid=200733542"
+#url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSz8Qs1gE_IYpzlkFkCXGcL_BqR8hZieWVi-rphN1gfrO3H4lDtVZs4kd0C3P8Y9lhsT1rhoB-Q_cP4/pub?output=csv&gid=200733542"
+url = "https://api.covid19india.org/csv/latest/death_and_recovered.csv"
 db = sys.argv[1]
 table = 'covid_india'
 
@@ -22,10 +23,11 @@ for case in ['NewConfirmed','newRecovered','newDeceased']:
 	postQuery = "{0},detectedstate=Maharashtra,statecode=Mumbai {1}=0".format(table,case)
 	influx.Post(db,postQuery)
 
-def dataProcess(textdata):
+def dataProcess():
 	startHr = 1
 	flag = 0
-	for line1 in textdata.split('\n'):
+	FH = open('/mnt/covid/deathRecoverdata','r')
+	for line1 in FH:
 		try:
 			line = line1.replace('#','')
 			city = 'Details_Awaited'
@@ -64,9 +66,9 @@ def dataProcess(textdata):
 
 ##### Fetch data Starts here########
 try:
-	req = requests.get(url)
-	if req.status_code == 200:
-		dataProcess(req.text)
+	#req = requests.get(url)
+	#if req.status_code == 200:
+	dataProcess()
 except Exception as e:
 	print(e)
 	sys.exit(1)
