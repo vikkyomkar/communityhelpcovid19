@@ -17,4 +17,3 @@ influx.Post(db,postQuery)
 postQuery = "{0} lockdownDays={1}".format(table,(today - lockdownStart).days)
 influx.Post(db,postQuery)
 
-
