@@ -8,7 +8,7 @@ import influx
 db = sys.argv[1] 
 table = "covid_india"
 
-with open('/mnt/covid/rawdata') as f:
+with open('/mnt/covid/code/rawdata') as f:
 	data = json.load(f)
 
 totalConfirm = 0
@@ -86,8 +86,4 @@ for patient in data['raw_data']:
 for k,v in ages.items():
 	postQuery="{0},age_bracket={1} count={2}".format(table,k,v)
 	influx.Post(db,postQuery)	
-
-
-
-
 
