@@ -344,9 +344,8 @@ Madhya Pradesh	Dewas	Nahar Darwaja	https://www.indiatvnews.com/news/india/madhya
 Madhya Pradesh	Dewas	Sheetlamata ward, Haatpipliya City	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Dewas	Panigaon village	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Rajasthan	Kota	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
-Rajasthan	Jaipur	Ramganj; Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
-Karnataka	Bengaluru Urban	Ward 134 - Bapuji Nagar	https://www.deccanherald.com/city/top-bengaluru-stories/coronavirus-two-wards-of-bengaluru-sealed-completely-to-contain-covid-19-spread-823604.html
-Karnataka	Bengaluru Urban	Ward 135 - Padarayanapura	https://www.deccanherald.com/city/top-bengaluru-stories/coronavirus-two-wards-of-bengaluru-sealed-completely-to-contain-covid-19-spread-823604.html
+Rajasthan	Jaipur	Ramganj	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
+Karnataka	Bengaluru Urban	West Bengaluru Ward 135 - Padarayanapura	https://www.deccanherald.com/city/top-bengaluru-stories/coronavirus-two-wards-of-bengaluru-sealed-completely-to-contain-covid-19-spread-823604.html
 Karnataka	Mysuru	Nanjangud town	https://www.dtnext.in/News/National/2020/04/02135830/1222923/Covid19--Mysuru-district-declared-Red-Zone-security-.vpf
 Kerala	Kozhikode	Entire District is declared Hotspot	https://newsable.asianetnews.com/coronavirus-india/7-kerala-districts-declared-covid-19-hotspots-by-chief-minister-q87h2a
 Andhra Pradesh	Visakhapatnam	Thatichetlapalem	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
@@ -396,7 +395,7 @@ Telangana	Khammam	Pedda Thanda	https://timesofindia.indiatimes.com/city/hyderaba
 Telangana	Suryapet	Wardhamanu Kota village	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Suryapet	Masireddypally	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Adilabad	five villages in Neradigonda	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
-Telangana	Adilabad	three in Utnoor mandal	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
+Telangana	Adilabad	three villages in Utnoor mandal	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Ranga Reddy	Chegur village	https://www.newindianexpress.com/states/telangana/2020/apr/06/covid-19-death-sparks-fear-in-rangareddy-villages-2126321.html
 Telangana	Warangal	Julaiwada	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
 Telangana	Warangal	Subedari	https://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html
@@ -425,9 +424,6 @@ Tamil Nadu	Coimbatore	K.K. Pudur	https://www.thehindu.com/news/cities/Coimbatore
 Tamil Nadu	Coimbatore	Ukkadam	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
 Tamil Nadu	Coimbatore	Podanur.	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
 Tamil Nadu	Coimbatore	Annur	https://www.covaipost.com/coimbatore/annur-in-coimbatore-rural-limits-brought-under-local-containment/?__cf_chl_jschl_tk__=291e1c3d1a07aad8f58e204baadedd1cf15f4019-1586720477-0-AVC4wg96LrnBykZX46ffDCirhFNgEKkeW5pxwqTaITy_-5XrzzePIZ1voPnCLnOZ2liJf9FXGdo7SVneuSHP-BgZu5aAPFSjvpxNoIbE_V27KyPzWhiEFY8wYXSPbCfeX6h6f3cJCnFn_ieGI9h1KLYzTYp9cNiP58mUuVqUFL8kkBBrr6JgrUkN81Qoa61_5_fpD6YF0QAUlnmgIerw7vC04Ptw4dHP6BK1smaqmISMcb8G-ivlGpYotU87HfZqcQDpHAI2zWzqAv_JnOjw6d5pO8fOwxwj-f2wyHx-nvj5nq23_WXpsAFKDN73FTilEG_12sX2YLi3GhtnN96QLtvtQd3O0LOVIi0HRMkLh_Dr4FxtWUTdyt9vN60QYqxQfg
-Tamil Nadu	Chennai	Pudhupettai	https://www.business-standard.com/article/news-ani/puddhupettai-area-identified-as-containment-zone-in-chennai-sealed-120041201113_1.html
-Tamil Nadu	Chennai	Royapuram zone	https://www.dtnext.in/News/City/2020/04/08033840/1223903/With-149-ve-cases-Corpn-seals-67-cluster-containment-.vpf
-Tamil Nadu	Chennai	Thiru-Vi-Ka Nagar	https://www.dtnext.in/News/City/2020/04/08033840/1223903/With-149-ve-cases-Corpn-seals-67-cluster-containment-.vpf
 Tamil Nadu	Dindigul	Begumpur	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040243.pdf
 Tamil Nadu	Dindigul	Ottanchattiram	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040243.pdf
 Tamil Nadu	Dindigul	Nilakottai	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040243.pdf
@@ -540,42 +536,19 @@ Bihar	Begusarai	Six Tolls of Bachwara Block	https://navbharattimes.indiatimes.co
 Bihar	Begusarai	Teghra Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Bihar	Begusarai	Mansoorchak Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Karnataka	Bengaluru Urban	Bommanahalli  Ward 191 - Singasandra	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	Bommanahalli  Ward 192 - Begur	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	Mahadevpura  Ward 84 - Hagdur	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	Mahadevpura  Ward 82 - Garudachar Palaya	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	Mahadevpura  Ward 149 - Varthuru	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	Mahadevpura  Ward 54 - Hudi	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	Mahadevpura  Ward 25 - Hormavu	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	Mahadevpura  Ward 26 - Rammurthy nagar 	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  93 - Vasanth Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	East Bengaluru Ward  20 - Ganga Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	East Bengaluru Ward 49 - Lingarajapura	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	East Bengaluru Ward  88 - Jeevanbhima Nagar	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  18 - RadhaKrishna Temple	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  57 - CV Raman Nagar	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  62 - Ramaswami Palya	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  59 - MaruthiSevanagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	East Bengaluru Ward  110 - Sampangi ram nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	South Bengluru Ward  162 - Girinagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	South Bengluru Ward  147 - Adugodi	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	South Bengluru Ward  152 - Suddagunte Palya	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	South Bengluru Ward  179 - Shakambari Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	South Bengluru Ward  !77 - Gurappanapalya	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	South Bengluru Ward  134 - Bapu Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  177 - Gurappanapalya	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	South Bengluru Ward  124 - Hosahalli	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	South Bengluru Ward  118 - Sudhamnagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	South Bengluru Ward  172 - Madiwala	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	South Bengluru Ward  132 - Attiguppe	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	South Bengluru Ward  166 - Karisandra	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	South Bengluru Ward  132 - Attiguppe	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	West Bengaluru Ward  35 - Aramane Nagara	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	West Bengaluru Ward  128 - NagaraBhavi	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	West Bengaluru Ward  67- Nagapura	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	West Bengaluru Ward  107- Shivanagara	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	West Bengaluru Ward  141 - Azad Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	West Bengaluru Ward  136 - Jagjivanramnagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	West Bengaluru Ward 80 - Subhasnagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	Yelahanka Ward 6 - Thanisandra	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	Yelahanka Ward  7 - Byatarayanapura	https://twitter.com/ANI/status/1250103927330111488
 Delhi	South Delhi	Pandit Mohalla & Jain Mohalla, from Epic centre 715, Chirag Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South Delhi	shop No J-4/49 (Khirki Extension)	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
@@ -751,7 +724,6 @@ Jammu & Kashmir 	Baramulla	Note: Entire District declared Red Zone Hotspot as on
 Jammu & Kashmir 	Jammu	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Udhampur	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Kupwara	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Karnataka 	Bengaluru Urban	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Karnataka 	Mysuru	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Karnataka 	Belagavi	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Kerala 	Kasaragod	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -1756,12 +1728,6 @@ Madhya Pradesh 	Indore	Vinobha Nagar	https://english.jagran.com/india/coronaviru
 Madhya Pradesh 	Indore	Om Vihar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
 Madhya Pradesh 	Indore	Lodhipura	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
 Madhya Pradesh 	Indore	Sudama Nagar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Tamil Nadu 	Chennai	Tondiarpet	https://twitter.com/chennaicorp/status/1252093384245694464
-Tamil Nadu 	Chennai	Annanagar	https://twitter.com/chennaicorp/status/1252093384245694464
-Tamil Nadu 	Chennai	Teynampet	https://twitter.com/chennaicorp/status/1252093384245694464
-Tamil Nadu 	Chennai	Kodambakkam	https://twitter.com/chennaicorp/status/1252093384245694464
-Tamil Nadu 	Chennai	Adyar	https://twitter.com/chennaicorp/status/1252093384245694464
-Tamil Nadu 	Chennai	Perungudi	https://twitter.com/chennaicorp/status/1252093384245694464
 Tamil Nadu 	Dindigul	Sanarpatti	https://twitter.com/Dindigulmemes/status/1251860024378437632
 Maharashtra	Thane	Navi Mumbai	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
 Maharashtra	Thane	Mira-Bhayander	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
@@ -1810,7 +1776,7 @@ Odisha 	Sundargarh	Puruna Bisra	https://www.ommcomnews.com/odisha-news/15-covid-
 Odisha 	Sundargarh	Budheljar	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Sundargarh	Santoshpur	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Balasore	Mission Field Gate	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
-Odisha 	Balasore	 Entrance of NILLIABAG lane near 	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
+Odisha 	Balasore	 Enterance of NILLIABAG lane near 	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Balasore	CHIDIAPOL	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Balasore	Ranipatana Chhaka	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Balasore	Apple Tower	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
@@ -1827,3 +1793,122 @@ Karnataka 	Kalaburagi	Shahabad	https://www.jagranjosh.com/current-affairs/corona
 Karnataka 	Kalaburagi	Basavakalyana	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-karnataka-and-bengaluru-mysuru-red-zone-list-get-complete-list-of-containment-zones-here-1587364293-1
 Karnataka	Vijayapura	Mudhol	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-karnataka-and-bengaluru-mysuru-red-zone-list-get-complete-list-of-containment-zones-here-1587364293-1
 Karnataka	Vijayapura	Jamakhandi	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-karnataka-and-bengaluru-mysuru-red-zone-list-get-complete-list-of-containment-zones-here-1587364293-1
+Punjab 	SAS Nagar Mohali	Jagatpura	https://twitter.com/dcmohali/status/1251442006364008448
+Andhra Pradesh	Rajahmundry	Wards 26, 28 & 29 Mangalavarapupeta	https://twitter.com/RMCoffice/status/1252065208547209216
+Tamil Nadu 	Chennai	Zone-1 DIV-1 Kamraj nagar 3rd Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-1 DIV-1 Valluvar Nagar	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-1 DIV-2 Raamamoorti Nagar	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-3 DIV-25 Sri Lakshmi Nagar	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-3 DIV-32 LakshmipuramGangaiamman Koil Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-3 DIV-31 Kalkotta 3rd Street, Madhavaram	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-4 DIV-34 Thendral Nagar, Vedhanta Murugappa Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-4 DIV-37 MKB Nagar-3rd Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-4 DIV-37 2nd Cross street, Manali Salai	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-4 DIV-38 Netaji Nagar 3rd Street, (2 and 5 Street)	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-4 DIV-40 VOC Nagar main, South and 7th Link 3rd Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-4 DIV-43 Puthumanai Kuppam, 7th Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-4 DIV-45 Radiant Empire Appt.,Vysarpadi	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-4 DIV-47 Meenambal Nagar 1-6 Street + Cross Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-4 DIV-46 New Magaginepuram, EH Road	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-4 DIV-48 Parthasarathy Main St, 2,5 and 6 Street, and Jamal Sowcar Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-50 North Madha church Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-50 West Madha church Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-52 PC Press Road + Nagathamman Koil Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-53 Mint Modern City	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-53 Katpada 2nd Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-55 Seven Wall Street, Appu Mastri Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-55 MP Garden Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-56 Madura Vasal Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-57 Davidson Street, Prakasam Salai, Kandappa Chetty Street, Chempudoss Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-57 Kasi Chetty Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-58 Kodalam muttu Street, Kattur Sadaiappan Street, Naval Hospital Road, Arunachalam Lane	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-59 Owlia Sahib Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-59 Mint Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-59 Marusahib Street, VN Dass Road, LGN Road	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-60 Maraikayar Street, Ibrahim Sahib Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-60 Bearer Street Mannady	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-60 Venkata Maistry Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-61 Thiruvengadam Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-5 DIV-63 Pudupet, Narayana Naickan 1 -12 Streets LG Road	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-64 Sathiyasai Nagar	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-66 K.C. Garden 1st	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-66 Bashiam St.	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-66 Kumaran Nagar	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-66 Chandrasekaran Salai	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-66 Periar Nagar 16th Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-68 Deep Garden 6th Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-68 Verkadalai Sami Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-71 Krishnadass Road	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-73 Alexander st,	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-73 Gracy Naga, Pulianthope	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-74 Ak samy st,	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-75 Chellappa st,   	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-76 sathiyandam st,	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-77 Dr. Ansari st,	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-77 Avadi srinivaan st,	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-78 sattannan st,	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-6 DIV-78 Arunachalam st, Puraisawakkam	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-8 DIV-108 Thirukuralar Street, MMDA Main Road 	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-8 DIV-108 MGR Street, MMDA Main road	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-9 DIV-109 Chetpet Harrington road	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-9 DIV-112 Varadarajanpettai (choolaimedu)	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-9 DIV-112 Trust puram	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-9 DIV-115 Haji sheikh hussain main street, Royapettah	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-9 DIV-115 Pallappan street, Triplicane	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-9 DIV-115 Mirbakshi ali street, Royapettai	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-9 DIV-115 goyya arungiri street, Triplicane	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-9 DIV-120 Jawahar hussain street, Royapettah	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-9 DIV-120 mohammed hussain lane, Royapettah	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-9 DIV-126 Snathome high road,	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-10 DIV-128 sheik abdulla nagar,	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-10 DIV-137 ponnammal street,	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-10 DIV-139 Venugopal street, Saidapet	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-10 DIV-142 masuthi pallam, Saidapet	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-11 DIV-145 Anna main road, Nerkundram	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-11 DIV-148 Balaji Nagar, 7th street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-11 DIV-148 Angamuthu salai	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-13 DIV-170 V.G.P salai, Saithapet, ch 15	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-13 DIV-172 Ellaiamman Koil st, Kotturpuram	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-13 DIV-172 Angalamman Koil st, Kotturpuram	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-14 DIV-169 Annai Thiraisha Nagar, Pulithivakkam	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-14 DIV-169 Arul jothi street, Pulithivakkam	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-14 DIV-184 Nehru street, kalkutti, Perungudi	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-14 DIV-185 Krishna nagar, Pallavakkam	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-14 DIV-185 Kolavizhi amman nagar, Pallavakkam	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-15 DIV-196 Springdale avenue	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-15 DIV-196 injambakkam, Chennai	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Tamil Nadu 	Chennai	Zone-15 DIV-198 MGR Nagar Paniyur, Chennai	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
+Telangana	Khammam	Khammam Town	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
+Telangana	Secunderabad	Lalapet	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
+Telangana	Secunderabad	Moula Ali	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
+Telangana	Secunderabad	Seethaphalmandi	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
+Telangana	Secunderabad	Habsiguda	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
+Telangana	Secunderabad	Kakateeynagar	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
+Telangana	Adilabad	Adilabad municipality (19 Wards)	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
+Uttar Pradesh	Noida	Shatabdi Rail Vihar Sector 62 Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
+Uttar Pradesh	Noida	Sector 50 Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
+Uttar Pradesh	Noida	Eta-1 Greater Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
+Uttar Pradesh	Noida	Begampur Kulesra Greater Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
+Uttar Pradesh	Noida	Gamma 1, Greater Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
+Uttar Pradesh	Noida	Sector 20, Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
+Uttar Pradesh	Noida	Kendriya Vihar, Sector 82	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
+Uttar Pradesh	Noida	Eicher Village, Greater Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
+Tamil Nadu 	Vellore	Saidapet	https://www.owlynews.com/news/eng/areas-in-vellore-town-declared-as-containment-zones_682f1ec839bdf3e4c01422edd1eeebc013d74fc1
+Delhi 	East Delhi	H.No. 300, Gali No.3 Krishna Puri, Main Road Mandawali, to H.No. 739/16 Gali No. 3, Krishna Puri, Main Road Mandawali. 	https://www.jagranjosh.com/current-affairs/delhi-coronavirus-hotspots-manish-sisodia-arvind-kejriwal-coronavirus-masks-delhi-1586369305-1?ref=list_ca
+Delhi 	South Delhi	Gali No. 2, 3 and 4, Devli Extension	https://www.jagranjosh.com/current-affairs/delhi-coronavirus-hotspots-manish-sisodia-arvind-kejriwal-coronavirus-masks-delhi-1586369305-1?ref=list_ca
+Delhi 	New Delhi	H. No. F-138 and F-139, Gali No. 1 (Shiv Mandir Wali gali), Harsh Vihar, Hari Nagar Extension	https://www.jagranjosh.com/current-affairs/delhi-coronavirus-hotspots-manish-sisodia-arvind-kejriwal-coronavirus-masks-delhi-1586369305-1?ref=list_ca
+Rajasthan 	Jaipur	MD road	https://twitter.com/Shyam__INC/status/1252991250455805952
+Rajasthan 	Jaipur	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Rajasthan 	Ajmer	Mochi Mohalla	https://twitter.com/DWIJMUKESH/status/1252844321214066695
+Rajasthan 	Ajmer	Roopnagar	https://twitter.com/DrRamlal/status/1251836592102223872
+Rajasthan 	Ajmer	Beawar	https://twitter.com/DrRamlal/status/1251836592102223872
+Rajasthan 	Ajmer	Aranyi	
+Rajasthan 	Nagaur	Baasni Village	https://twitter.com/NewsRj21/status/1252956776271675395
+Rajasthan 	Nagaur	Kuchaman	
+Rajasthan 	Nagaur	Parbatsar	https://twitter.com/1stIndiaNews/status/1251098346179174401
+Rajasthan 	Bharatpur	Kasai pada, Bayana	https://twitter.com/oneindiaHindi/status/1250795078387302402
+Rajasthan 	Bharatpur	Sevar Area	https://twitter.com/zeerajasthan_/status/1250794956152729600
+Rajasthan 	Bharatpur	Atal Bandh Area	https://twitter.com/zeerajasthan_/status/1250794956152729600
+Karnataka	Bengaluru Urban	South Bengluru Ward  177 - J P Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1824231557712100/1824229974378925/?type=3&theater
+Karnataka	Bengaluru Urban	West Bengaluru Ward  139 - K R Market	https://www.facebook.com/bbmp.comm1/photos/pcb.1824231557712100/1824229974378925/?type=3&theater
+Karnataka	Bengaluru Urban	Raja Rajeshwari Nargar Ward  160 - Rajarajeshwarinagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1824231557712100/1824229974378925/?type=3&theater
