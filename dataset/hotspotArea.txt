@@ -1931,7 +1931,6 @@ Rajasthan 	Jaipur	Futta Khurra Zone 10 Ramganj	https://twitter.com/avinashkalla/
 Rajasthan 	Jaipur	Nearby Johri Bazar Zone 11 Ramganj	https://twitter.com/avinashkalla/status/1252625105605349377
 Rajasthan 	Jaipur	Ghee Walon Ka Rasta Zone 12 Ramganj	https://twitter.com/avinashkalla/status/1252625105605349377
 Rajasthan 	Jaipur	Loharon Ka Khurra Zone 13 Ramganj	https://twitter.com/avinashkalla/status/1252625105605349377
-Rajasthan 			
 Rajasthan 	Jodhpur	Khetanadi Area, Maheshwari Colony	https://twitter.com/dixitparihar/status/1251201673504215045
 Rajasthan 	Jodhpur	Banjara Basti, Jag Jeevan Ram Colony	https://twitter.com/dixitparihar/status/1251201673504215045
 Rajasthan 	Jodhpur	Sasi Basti, Bhadwaria Harijan Basti	https://twitter.com/dixitparihar/status/1251201673504215045
@@ -1976,3 +1975,5 @@ Uttar Pradesh	Gurugram	Raipur Village Sohna	https://twitter.com/ANI/status/12533
 Uttar Pradesh	Gurugram	Ward 11 Pataudi	https://twitter.com/ANI/status/1253348874569252865
 Uttar Pradesh	Gurugram	Ward 14 Pataudi	https://twitter.com/ANI/status/1253348874569252865
 Uttar Pradesh	Gurugram	Ganpati Vatika Pataudi	https://twitter.com/ANI/status/1253348874569252865
+Karnataka	Bengaluru Urban	Bommanahalli  Ward 189 - Hongasandra	https://www.thehindu.com/news/cities/bangalore/two-new-containment-zones-in-bengaluru/article31418394.ece/amp/?__twitter_impression=true
+Karnataka	Bengaluru Urban	South Bengluru Ward  134 - Bapuji Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1824231557712100/1824229974378925/?type=3&theater
