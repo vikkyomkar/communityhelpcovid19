@@ -6,10 +6,7 @@ import json
 import influx
 
 ### Variables ####
-##url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSz8Qs1gE_IYpzlkFkCXGcL_BqR8hZieWVi-rphN1gfrO3H4lDtVZs4kd0C3P8Y9lhsT1rhoB-Q_cP4/pub?output=csv&gid=486127050"
-url = "https://api.covid19india.org/csv/latest/statewise_tested_numbers_data.csv"
 db = sys.argv[1]
-#table = 'sampleTests'
 table = 'covid_india'
 
 population = {
@@ -30,7 +27,7 @@ population = {
 	"Punjab" : 30471254,
 	"Haryana" : 28237755,
 	"Chhattisgarh" : 27134411,
-	"Jammu_and_Kashmir" : 14591623,
+	"Jammu_Kashmir" : 14591623,
 	"Uttarakhand" : 11453488,
 	"Himachal_Pradesh" : 7234695,
 	"Tripura" : 3914581,
@@ -49,37 +46,30 @@ for k,v in population.items():
 	#print(postQuery)
 	influx.Post(db,postQuery)
 
-def dataProcess():
-	FH = open('/mnt/covid/sampletestdata','r')
-	for line in FH:
+def dataProcess(datajson):
+	state_dict = {'Jammu_and_Kashmir' : 'Jammu_Kashmir', 'Dadra_and_Nagar_Haveli' : 'Dadra_Nagar_Haveli', 'Andaman_and_Nicobar_Islands' : 'Andaman_Nicobar'}
+	for key in datajson['states_tested_data']:
 		try:
-			#positiveTests = 0
-			testArray = line.split(',')
-			if testArray[1] != "" and testArray[2] != "" and testArray[1] != "State":
-
-				state = '_'.join(testArray[1].split(' '))
-				d,m,y = testArray[0].split('/')
+			if key['totaltested'] != "":
+				statename = '_'.join(key['state'].split(' '))   		
+				if statename in state_dict.keys():
+					state = state_dict[statename]
+				else:
+					state = statename
+				d,m,y = key['updatedon'].split('/')
 				date = (datetime.datetime(int(y), int(m), int(d), 0, 0).strftime('%s')) + "000000000"
-				if testArray[2] != "":
-					totalTests = testArray[2] 
-				#if testArray[3] != "":
-				#	positiveTests = testArray[3]
-		
-				#postQuery = "{0},detectedstate={1} totalTests={2},positiveTests={3} {4}".format(table,state,totalTests,positiveTests,int(date))				
-				postQuery = "{0},detectedstate={1} sampleTestsdone={2} {3}".format(table,state,totalTests,int(date))				
-				#print(postQuery)
-				influx.Post(db,postQuery)
+				postQuery = "{0},detectedstate={1} sampleTestsdone={2} {3}".format(table,state,key['totaltested'],int(date))
+				influx.Post(db,postQuery)	
 		except Exception as e:
 			print(e)
 			sys.exit(1)
 
 ##### Fetch data Starts here########
 try:
-	dataProcess()
-	#req = requests.get(url)
-	#f req.status_code == 200:
-	#	dataProcess(req.text)
+	with open('/mnt/covid/code/sampletestdata') as f:
+		datajson = json.load(f)
+		dataProcess(datajson)
+
 except Exception as e:
 	print(e)
 	sys.exit(1)
-
