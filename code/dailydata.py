@@ -53,7 +53,8 @@ def statewise(datajson):
 				#print(postQuery)
 			else:
                                 postQuery = "{0} dailyconfirmed={1},dailyrecovered={2},dailydeceased={3},totalconfirmed={4},totalactive={5},totalrecovered={6},totaldeceased={7}".format(table,key['deltaconfirmed'],key['deltarecovered'],key['deltadeaths'],key['confirmed'],key['active'],key['recovered'],key['deaths'])
-                                print(postQuery)
+                                influx.Post(db,postQuery)
+				#print(postQuery)
 		except Exception as e:		
 			print(e)
 			sys.exit(1)
