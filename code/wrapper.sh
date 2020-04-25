@@ -11,7 +11,7 @@ db+=`date +'%m%d%H%M'`
 
 rawdataUrl="https://api.covid19india.org/raw_data.json"
 dailydata="https://api.covid19india.org/data.json"
-sampledata="https://api.covid19india.org/csv/latest/statewise_tested_numbers_data.csv"
+sampledata="https://api.covid19india.org/state_test_data.json"
 deathRecoverdata="https://api.covid19india.org/csv/latest/death_and_recovered.csv"
 districtdata="https://api.covid19india.org/state_district_wise.json"
 ####### Create DB #########
@@ -28,17 +28,17 @@ fi
 exitCode=`expr ${exitCode} + ${out}`
 
 ###### Death and recover #########
-curl ${deathRecoverdata} > /mnt/covid/code/deathRecoverdata
-if [[ `echo $?` != 0 ]];then
-        echo "failed"
-fi
-python /mnt/covid/code/recoveredDeceased.py ${db}
-out=`echo $?`
-if [[ ${out} != 0 ]];then
-        echo "Recover and Deceased data collection failed"
-fi
+#curl ${deathRecoverdata} > /mnt/covid/code/deathRecoverdata
+#if [[ `echo $?` != 0 ]];then
+#        echo "failed"
+#fi
+#python /mnt/covid/code/recoveredDeceased.py ${db}
+#out=`echo $?`
+#if [[ ${out} != 0 ]];then
+#        echo "Recover and Deceased data collection failed"
+#fi
 
-exitCode=`expr ${exitCode} + ${out}`
+#exitCode=`expr ${exitCode} + ${out}`
 
 
 ##### Get raw data #########
@@ -81,7 +81,7 @@ curl ${sampledata} > /mnt/covid/code/sampletestdata
 if [[ `echo $?` != 0 ]];then
         echo "failed"
 fi
-python /mnt/covid/code/sampleTestingDdata.py  ${db}
+python /mnt/covid/code/sampleTestingData.py  ${db}
 out=`echo $?`
 if [[ ${out} != 0 ]];then
         echo "daily sample tests data collection failed"
@@ -97,3 +97,4 @@ else
 	echo "Send failure email"
 
 fi
+
