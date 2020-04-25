@@ -1952,28 +1952,28 @@ Rajasthan 	Jaipur	Mansarovar	https://twitter.com/dineshkumawat/status/1253348240
 Delhi 	South west Delhi	Samshi Talab in Mehrauli including A-3 Lake view apartment	https://twitter.com/ANI/status/1253336501812789252
 Delhi 	South west Delhi	 gali number 1 band of Raj Nagar 2 in Dwarka	https://twitter.com/ANI/status/1253336501812789252
 Delhi 	East Delhi	 house number 15 to 101 in Dayanand Vihar	https://twitter.com/ANI/status/1253336501812789252
-Uttar Pradesh	Gurugram	Jharsa Village	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Sector-39	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Sector-47	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Devi Lal Colony	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Sun City Society in Sector 54	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Sarhaul Village	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Tyagiwara Badshahpur (R.R. Colony, Loharwada, Bada Bazar, Tygiwara 2)	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Meghdoot Apratments, Sector-10A, Gurugram	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Om Nagar	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Gehlot Vihar, Sohna	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Javed Colony Sohna	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Pahar Colony Sohna	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Nut Colony Sogna	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	ITI Colony Sohna	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Mohalla Bhood Para Sohna	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Mohalla Thakurwara Sohna	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Tripat Colony Sohna	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Shiv Kund Sohna	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Raipur Village Sohna	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Ward 11 Pataudi	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Ward 14 Pataudi	https://twitter.com/ANI/status/1253348874569252865
-Uttar Pradesh	Gurugram	Ganpati Vatika Pataudi	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Jharsa Village	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Sector-39	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Sector-47	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Devi Lal Colony	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Sun City Society in Sector 54	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Sarhaul Village	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Tyagiwara Badshahpur (R.R. Colony, Loharwada, Bada Bazar, Tygiwara 2)	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Meghdoot Apratments, Sector-10A, Gurugram	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Om Nagar	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Gehlot Vihar, Sohna	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Javed Colony Sohna	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Pahar Colony Sohna	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Nut Colony Sogna	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	ITI Colony Sohna	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Mohalla Bhood Para Sohna	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Mohalla Thakurwara Sohna	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Tripat Colony Sohna	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Shiv Kund Sohna	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Raipur Village Sohna	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Ward 11 Pataudi	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Ward 14 Pataudi	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Ganpati Vatika Pataudi	https://twitter.com/ANI/status/1253348874569252865
 Karnataka	Mysuru	Kuvempunagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
 Karnataka	Mysuru	Jayalakshminagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
 Karnataka	Mysuru	JP Nagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
