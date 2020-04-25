@@ -1,5 +1,4 @@
 Delhi	East Delhi	House no. 141-180, Gali No. 14, Kalyan Puri	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	East Delhi	Mansara Apartment, Vasundhra Enclave	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	East Delhi	3 Galis of Khichripur including Gali containing H.No. 5/387 Khichirpur Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	East Delhi	Vardhman Apartments, Mayur Vihar, Phase I, Extension, Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	East Delhi	Mayurdhwaj Appartments , I P Extension, Patparganj,	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
@@ -1975,5 +1974,17 @@ Uttar Pradesh	Gurugram	Raipur Village Sohna	https://twitter.com/ANI/status/12533
 Uttar Pradesh	Gurugram	Ward 11 Pataudi	https://twitter.com/ANI/status/1253348874569252865
 Uttar Pradesh	Gurugram	Ward 14 Pataudi	https://twitter.com/ANI/status/1253348874569252865
 Uttar Pradesh	Gurugram	Ganpati Vatika Pataudi	https://twitter.com/ANI/status/1253348874569252865
-Karnataka	Bengaluru Urban	Bommanahalli  Ward 189 - Hongasandra	https://www.thehindu.com/news/cities/bangalore/two-new-containment-zones-in-bengaluru/article31418394.ece/amp/?__twitter_impression=true
-Karnataka	Bengaluru Urban	South Bengluru Ward  134 - Bapuji Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1824231557712100/1824229974378925/?type=3&theater
+Karnataka	Mysuru	Kuvempunagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	Jayalakshminagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	JP Nagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	Srirampura 2nd Stage	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	Janata Nagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	Meena Bazar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	Sardar Vallabhai Patel Nagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	Vijayanagar 1st and 2nd Stage	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	Nazarbad	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	Teacher's Layout	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	Housing Boarding Colony	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	Gokulam	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Rajasthan 	Jodhpur	Shastri Nagar	https://twitter.com/manit_choudhary/status/1253745085235302405?cn=ZmxleGlibGVfcmVjc18y&refsrc=email
+Delhi 	Shahdara	Maujpur- Gali No18 of Vijay Park	https://twitter.com/CovidIndiaSeva/status/1253926184343097345
