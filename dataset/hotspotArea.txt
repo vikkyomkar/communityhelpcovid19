@@ -2355,13 +2355,13 @@ Gujarat 	Vadodara	Nawabwada	https://www.patrika.com/ahmedabad-news/gujrat-lockdo
 Gujarat 	Vadodara	Sardar Bhavan Khancho and Kashamohalla	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Vadodara	Saffron Bliss, Chhandi	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Vadodara	Randaldhaam Society, Sama	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
-Gujarat 	Surat 	Kozhave Raod, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
-Gujarat 	Surat 	Goraat,Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
-Gujarat 	Surat 	Rander Gam, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
-Gujarat 	Surat 	Hanuman Tekri, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
-Gujarat 	Surat 	Area around Bhanki Stadium, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
-Gujarat 	Surat 	Ugat Site, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
-Gujarat 	Surat 	Service Schema Jahangirabad, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Kozhave Raod, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Goraat,Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Rander Gam, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Hanuman Tekri, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Area around Bhanki Stadium, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Ugat Site, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Service Schema Jahangirabad, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Surat	Varachha Zone-A, next to SMC EWS Housing, Central Zone of Surat Metropolis	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Surat	Water tank of South West Zone (Athwa), Central Zone of Surat Metropolis	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Surat	Vesu, Central Zone of Surat Metropolis	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
