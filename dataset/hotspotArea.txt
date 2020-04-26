@@ -479,8 +479,7 @@ Gujarat	Ahmedabad	Dariapur	https://www.vtvgujarati.com/news-details/coronavirus-
 Gujarat	Ahmedabad	Jamalpur	https://www.vtvgujarati.com/news-details/coronavirus-in-gujarat-ahmedabad-8-area-cluster-containment
 Gujarat	Ahmedabad	Rakhilal	https://www.vtvgujarati.com/news-details/coronavirus-in-gujarat-ahmedabad-8-area-cluster-containment
 Gujarat	Ahmedabad	Gujarat Housing Board near Momin Masjid in Bapunagar	https://timesofindia.indiatimes.com/city/ahmedabad/coronavirus-in-ahmedabad-6-positive-cases-in-family-led-to-containment/articleshow/75038438.cms
-Gujarat	Surat	Rande	https://in.news.yahoo.com/look-gujarat-contained-neighbourhoods-195235424.html
-Gujarat	Surat	Adajan Patiya	https://in.news.yahoo.com/look-gujarat-contained-neighbourhoods-195235424.html
+Gujarat	Surat	Adajan Patiya, Rander	https://in.news.yahoo.com/look-gujarat-contained-neighbourhoods-195235424.html
 Gujarat	Surat	Begumpura	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
 Gujarat	Surat	Sachin area	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
 Gujarat	Rajkot	Jungleshwar	https://in.news.yahoo.com/look-gujarat-contained-neighbourhoods-195235424.html
@@ -2308,3 +2307,95 @@ Maharashtra 	Mumbai	Ward - T DHANSAMPADA CHS,NEELAM NAGAR,ABOVE SAHKAR BHAVAN,MU
 Gujarat 	Ahmedabad	Shahpur	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Ahmedabad	Khandia	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Ahmedabad	Baherampur	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Dabhoi, Vadodara Rural	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Bhayali, Vadodara Rural	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Vaghodiya, Vadodara Rural	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Karjana, Vadodara Rural	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Padra, Vadodara Rural	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Vrindavan Park	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Dhanani Park	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Mogalwara of Yubali Bagh	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Kalupura	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Narasimhaji Pole	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Marathi Mohalla	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Nava Bazar	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Rokadnath Police chowki	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Jagamaal Pole	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Sudipapuri's Gulistan Apartment	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Ramdev City Banyan City Duplex	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Bapodana Ekta Nagar	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Kuresha Park of Gorwa	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Ayodhyapuri of Divalipura	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Prasith Residency of Gokul Nagar	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Tandalja's Gulab Vatika Society	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Nilgiri Wuda	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Fatima Banglows	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Anupam Nagar of Danteshwar	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Shanidev Temple of Gajravadi	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Moti Morvad	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Mali Mohalla	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Vishwakarma of Yamuna Mill (Shiv Nagar-2) 	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Rushikesh Sosasti of Makarpura	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Satyam flat of Kareli Bagh	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Ranavas	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	MIG Flat	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Shinde Colony of Shia Bagh	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Mehboob Nagar	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Nawapura Hanuman Faliya	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Dayalbawa Khancha	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Akbari Masjid Naan Court	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Nava Yard Bhawanipura	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Nagarwad, Navi Dharti 	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Ambali Faliya	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Rohitwas	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Amadawadi Pole	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Mehta Pole	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Mehta Wadi 	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Nawabwada	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Sardar Bhavan Khancho and Kashamohalla	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Saffron Bliss, Chhandi	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Vadodara	Randaldhaam Society, Sama	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat 	Kozhave Raod, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat 	Goraat,Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat 	Rander Gam, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat 	Hanuman Tekri, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat 	Area around Bhanki Stadium, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat 	Ugat Site, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat 	Service Schema Jahangirabad, Rander	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Varachha Zone-A, next to SMC EWS Housing, Central Zone of Surat Metropolis	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Water tank of South West Zone (Athwa), Central Zone of Surat Metropolis	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Vesu, Central Zone of Surat Metropolis	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Tajnagar near Azad Nagar, Central Zone of Surat Metropolis	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Bhatur Road, Central Zone of Surat Metropolis	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Swaminarayan Nagar, Udhna	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Ramnagar, Udhna	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Shriram Nagar, Udhna	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Chhatrapati Shivajinagar, Udhna	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Gourinagar, Udhna 	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Bhestan H-15 Housing, A-42 to 44 and 49-51	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Manish Garanala, Mansarovar circle of North Zone, katargam	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Kosad Road, Mansarovar circle of North Zone, katargam	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Krishna Nagar Society, Mansarovar circle of North Zone, katargam	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Gujarat 	Surat	Saddhar Society, Mansarovar circle of North Zone, katargam	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
+Rajasthan 	Tonk	Bamor gate	https://www.bhaskar.com/local/rajasthan/news/rajasthan-jaipur-tonk-coronavirus-covid-19-hotspots-latest-today-news-updates-37-covid-19-positive-cases-in-tonk-127181676.html
+Punjab 	Jalandhar	Basti Daanishamda	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
+Punjab 	Jalandhar	Raja Garden, Kapurthala Road	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
+Punjab 	Jalandhar	Purani Sanjimandi	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
+Punjab 	Jalandhar	Nila Mahal	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
+Punjab 	Jalandhar	Bhairon Bazar	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
+Punjab 	Jalandhar	Kila Mohalla	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
+Punjab 	Jalandhar	Basti Shaikh	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
+Punjab 	Jalandhar	Link Road	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
+Punjab 	Jalandhar	Lohiyan	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
+Punjab 	Jalandhar	Virk Village, Goraya	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
+Rajasthan	Kota	Makbara Area	https://www.bhaskar.com/local/rajasthan/news/coronavirus-kota-update-covid-19-news-rajasthan-kota-corona-hotspots-areas-total-corona-cases-rise-to-7-127175419.html
+Rajasthan	Kota	TailGhar	https://www.bhaskar.com/local/rajasthan/news/coronavirus-kota-update-covid-19-news-rajasthan-kota-corona-hotspots-areas-total-corona-cases-rise-to-7-127175419.html
+Punjab 	Patiala	Rajpura	https://www.hindustantimes.com/cities/gambling-hookah-parties-turn-rajpura-into-punjab-s-new-covid-hotspot/story-BRB2Y2vkiO2JMfVwPcvF3L.html
+Haryana	Sonipat	Gudmandi	https://www.jagran.com/haryana/sonipat-ncr-coronavirus-4-new-covid-19-cases-reported-in-sonipat-haryana-20213230.html
+Haryana	Ambala	Village Thharwa	https://www.bhaskar.com/local/haryana/ambala/news/seal-the-village-and-put-quarantine-posters-on-12-shops-making-the-district-the-third-containment-zone-127241870.html
+Haryana	Ambala	Timber market in Cantt	https://www.bhaskar.com/local/haryana/ambala/news/seal-the-village-and-put-quarantine-posters-on-12-shops-making-the-district-the-third-containment-zone-127241870.html
+Haryana	Ambala	Shejadpur	https://www.bhaskar.com/local/haryana/ambala/news/seal-the-village-and-put-quarantine-posters-on-12-shops-making-the-district-the-third-containment-zone-127241870.html
+Delhi 	New Delhi	Area between Kumhar Gali and Chaupal Chawk in Kotla Mubarakpur	https://www.livemint.com/news/india/delhi-number-of-covid-19-containment-zones-rise-to-97-full-list-here-11587917642337.html
+Delhi 	North Delhi	Gali No. 3, 4, 5 in Majlis Park	https://www.livemint.com/news/india/delhi-number-of-covid-19-containment-zones-rise-to-97-full-list-here-11587917642337.html
+Madhya Pradesh	Jabalpur	Sarafa Area	https://www.patrika.com/jabalpur-news/corona-patients-being-searched-in-six-containment-zones-in-jabalpur-6017754/
+Madhya Pradesh 	Ujjain	Amber Colony	https://timesofindia.indiatimes.com/city/indore/ujjain-cop-succumbs-to-coronavirus/articleshow/75265492.cms
