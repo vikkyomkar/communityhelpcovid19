@@ -9,6 +9,7 @@ import influx
 influxPost = "curl -i -XPOST 'http://localhost:8086/write?db=covid' --data-binary "
 db=sys.argv[1]
 table = 'covid_india'
+#latestDay = ""
 
 def totalTests(datajson):
 	yesterday = (datetime.datetime.now() - datetime.timedelta(days = 1)).strftime("%d/%m")
@@ -28,6 +29,7 @@ def dailyCases(datajson):
 		try:
 			y = 2020	
 			d ,m = key['date'].strip().split(' ')
+			#latestDay = "{0}/{1}/{2}".format(d,month[m],y)
 			announcedate = (datetime.datetime(int(y), int(month[m]), int(d), 0, 0).strftime('%s')) + "000000000"
 			totalactive = int(key['totalconfirmed']) - int(key['totalrecovered']) - int(key['totaldeceased'])
 			postQuery = "{0} dailyconfirmed={1},dailyrecovered={2},dailydeceased={3},totalconfirmed={4},totalactive={5},totalrecovered={6},totaldeceased={7} {8}".format(table,key['dailyconfirmed'],key['dailyrecovered'],key['dailydeceased'],key['totalconfirmed'],totalactive,key['totalrecovered'],key['totaldeceased'],announcedate)
@@ -51,7 +53,7 @@ def statewise(datajson):
 
 				influx.Post(db,postQuery)
 				#print(postQuery)
-			else:
+			else:  # latestDay not in key['lastupdatedtime']:
 				y = 2020
 				d , m, rest = key['lastupdatedtime'].strip().split('/')
 				announcedate = (datetime.datetime(int(y), int(m), int(d), 0, 0).strftime('%s')) + "000000000"
@@ -67,8 +69,8 @@ def main():
 		with open('/mnt/covid/code/dailydata') as f:
 			datajson = json.load(f)
 			totalTests(datajson)
-			dailyCases(datajson)
 			statewise(datajson)
+			dailyCases(datajson)
 	except Exception as e:
 		print(e)
 		sys.exit(1)
