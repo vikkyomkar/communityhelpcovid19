@@ -761,7 +761,7 @@ Telangana 	MedchalMalkajgiri	Note: Entire District declared Red Zone Hotspot as 
 Telangana 	Karimnagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Nirmal	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Agra	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttar Pradesh 	Gautam Buddha Nagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Uttar Pradesh 	Gautam Buddh Nagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Meerut	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Lucknow	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Ghaziabad	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -1150,39 +1150,6 @@ Rajasthan 	Bharatpur	Atal Bandh Area	https://twitter.com/zeerajasthan_/status/12
 Karnataka	Bengaluru Urban	South Bengluru Ward  177 - J P Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1824231557712100/1824229974378925/?type=3&theater
 Karnataka	Bengaluru Urban	West Bengaluru Ward  139 - K R Market	https://www.facebook.com/bbmp.comm1/photos/pcb.1824231557712100/1824229974378925/?type=3&theater
 Karnataka	Bengaluru Urban	Raja Rajeshwari Nargar Ward  160 - Rajarajeshwarinagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1824231557712100/1824229974378925/?type=3&theater
-Uttar Pradesh	Noida	Sector 27, Sector 28	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Sector 44, Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Eldico Utopia Sector 93 A	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Greater Noida	Nirala Green Shire, Sector 2, Greater Noida and Patwari Village	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Logix Blosson County Sector 137 Noida, Paras Tierra, Sector 137 Noida and Wazidpur village	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Greater Noida	Omicron-3, Sector 3, Greater Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Greater Noida	Mehak Residency, Achega Greater Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Jay Pee Wish Town, Sector 128, Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Village Visnoli Post Dujana Dadri	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Sector 37, Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Village Ghodi Bacheda, GB Nagar	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Greater Noida	Palm Olympia, Gaur City-2, Greater Noida West, Sector 16	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Sector 22, Chauda Village, Noida,	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Grand Omaxe, Sector 93B, Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Sector 5, 8, JJ Colony, Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Designer Park Sector 62, Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	14th Avenue Gaur City	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Shatabdi Rail Vihar Sector 62 Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Greater Noida	Eta-1 Greater Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Sector 50 Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Greater Noida	Silver City Pi-2 Greater Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Greater Noida	Begampur Kulesra Greater Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Greater Noida	Gamma 1, Greater Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Sector 20, Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Kendriya Vihar, Sector 82	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Greater Noida	Achcher Village, Greater Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Sector 15 A, Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Sector 34, Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Greater Noida	Cherry Country, Techzone 4, Greater Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Sector 55, Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Skytech Metrott, Sector 76, Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Sector 19, Noida	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
-Uttar Pradesh	Noida	Supertech Capetown sector 74	https://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1?ref=list_ca
 Rajasthan 	Jaipur	Bisariyon Ka Rasta Zone 1 Ramganj	https://twitter.com/avinashkalla/status/1252625105605349377
 Rajasthan 	Jaipur	Meharo Ka Rasta Zone 1 Ramganj	https://twitter.com/avinashkalla/status/1252625105605349377
 Rajasthan 	Jaipur	Koyale Wali Gali Zone 1 Ramganj	https://twitter.com/avinashkalla/status/1252625105605349377
@@ -2399,3 +2366,43 @@ Delhi 	New Delhi	Area between Kumhar Gali and Chaupal Chawk in Kotla Mubarakpur	
 Delhi 	North Delhi	Gali No. 3, 4, 5 in Majlis Park	https://www.livemint.com/news/india/delhi-number-of-covid-19-containment-zones-rise-to-97-full-list-here-11587917642337.html
 Madhya Pradesh	Jabalpur	Sarafa Area	https://www.patrika.com/jabalpur-news/corona-patients-being-searched-in-six-containment-zones-in-jabalpur-6017754/
 Madhya Pradesh 	Ujjain	Amber Colony	https://timesofindia.indiatimes.com/city/indore/ujjain-cop-succumbs-to-coronavirus/articleshow/75265492.cms
+Uttar Pradesh	Varanasi	Arjunpur, Sevapuri Vikas Khand	https://twitter.com/livesanmarg/status/1254725293199196161
+Uttar Pradesh	Varanasi	Madauli	https://twitter.com/livesanmarg/status/1254725982998728704/photo/1
+Uttar Pradesh	Varanasi	Pitarkunda	https://twitter.com/livesanmarg/status/1252940715849646081
+Uttar Pradesh	Varanasi	Nakkhighat	https://twitter.com/livesanmarg/status/1252565443019255808
+Delhi 	New Delhi	H. No. P-65 and H.No. P-184, Pillanji Village	https://www.indiatoday.in/india/story/coronavirus-delhi-govt-adds-two-more-areas-in-hotspot-list-check-full-list-of-99-containment-zones-here-1671780-2020-04-27
+Delhi 	South Delhi	Nirankari Gali, Nakshatra Gali, Nala Boring Gali, Ravan Wali Gali, Jamila Masjid Gali, Dargah Gurudwara Gali, Thane Wali Gali and Terminal Wali Gali	https://www.indiatoday.in/india/story/coronavirus-delhi-govt-adds-two-more-areas-in-hotspot-list-check-full-list-of-99-containment-zones-here-1671780-2020-04-27
+Uttar Pradesh	Gautam Buddh Nagar	Chotpur village Sector-63	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Jevar - village Jonchana block	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Village Tilapta, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Chauda village	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	PI 1st, Greater Noida 	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Supertech Metrott, Sector-74, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Kulesra, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Sector 20, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Sector 15A, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Achcher Village, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Cherry County Techzone-14, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Kendriya Vihar-2, Sector-82, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Sector-55, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Skytech Metrott Sector 76, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Sector 34, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Sector 19, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Sector-5 and Sector 8, JJ Colony, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Sector 45, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Sector 80, Noida Kakrala village	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Sector-37, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Logix Blossom County Sector-137 Noida, Paras Tierra Sector-137 and Wajidpur village	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Grand Omaxe, Sector-93B, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Designer Park, Sector-62, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Sector-28	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Silver City Sector PI-2, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	14th Avenue, Gaur City	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Shatabdi Rail Vihar, Sector 62, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	ETA-1, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Supertech Cape Town, Sector-74, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Sector-50, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	GAMMA-1, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Eldeco Utopia, Sector 93A, Noida 	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Nithari Sector-31	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Karnataka	Bengaluru Urban	Bommanahalli  Ward 189 -Hongasandara	https://bangaloremirror.indiatimes.com/bangalore/others/better-to-be-safe-than-sorry-in-hongasandra/articleshow/75397004.cms
