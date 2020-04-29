@@ -172,28 +172,6 @@ Uttar Pradesh	Ghaziabad	 Naipura (Loni)	https://www.indiatvnews.com/news/india/k
 Uttar Pradesh	Ghaziabad	 Mussoorie	https://www.indiatvnews.com/news/india/know-the-coronavirus-hotspots-in-ghaziabad-which-will-be-sealed-from-midnight-605817
 Uttar Pradesh	Ghaziabad	 Ghatu Shyam Colony	https://www.indiatvnews.com/news/india/know-the-coronavirus-hotspots-in-ghaziabad-which-will-be-sealed-from-midnight-605817
 Uttar Pradesh	Ghaziabad	COVID-7 CHC (Muradnagar).	https://www.indiatvnews.com/news/india/know-the-coronavirus-hotspots-in-ghaziabad-which-will-be-sealed-from-midnight-605817
-Uttar Pradesh	Agra	Master Plan road, Khandari	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Tajgang Agra	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Railway colony Cantt	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Kamla Nagar	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Eminant appartment	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Mohanpura Raoli	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Sr Hospital, Namner	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Krishna Vihar Jeonimandi 	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Azampada Ramnagar	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Mantola	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Villahe Magtai	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Heeng ki Mandi, Chhatta 	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Lady Lyall	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Gadhaiya-Tajganj	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Sabun Katra Masjid-SNMC	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Sita Nagar-Ram Bagh	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Charsu Gate	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Kishorepura-Jagdishpura	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Chogra tehra	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Subhash nagar (Sahaganj-1) and (HP East)	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Medi Health Ghatiya Azam Khan	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
-Uttar Pradesh	Agra	Basant Vihar Kamla Nagar	https://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821
 Uttar Pradesh	Bulandshahr	Village Virkheda, Police Station Secunderabad	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Bulandshahr	Mohalla Rukansarai, Tehsil, Shiv Kumar Aggarwal Janta Inter College - Police Station Kotwali Nagar	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Bulandshahr	Mohalla Lodh Rajputan, Banshidhar, Ansariyan, Ahungran-Police Station Jahangirabad	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
@@ -2406,3 +2384,159 @@ Uttar Pradesh	Gautam Buddh Nagar	GAMMA-1, Greater Noida	https://www.indiatvnews.
 Uttar Pradesh	Gautam Buddh Nagar	Eldeco Utopia, Sector 93A, Noida 	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
 Uttar Pradesh	Gautam Buddh Nagar	Nithari Sector-31	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
 Karnataka	Bengaluru Urban	Bommanahalli  Ward 189 -Hongasandara	https://bangaloremirror.indiatimes.com/bangalore/others/better-to-be-safe-than-sorry-in-hongasandra/articleshow/75397004.cms
+Uttar Pradesh	Agra	Wazirpura Gandhi Nagar	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Khandari Area	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	SNMC/Fawara Hospital Road/Chitra talkies/Khatik Pada/Mansi Sayeed Khan/Bagh Mujaffar Nagar	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Awas Vikash HP West	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Mantola/ Dholi khar	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Tajganj Ghadhaiya	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Kamla Nagar	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Jagdishpura/Lohamandi	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Chhatta Area DhuliaGanj/ Free ganj/ Jeoni Mandi/Madar Gate	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	F/Sikri Urban/Rural	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	TYC/Rambagh/Sita Nagar/ Gokul Nagar Naraich/Tedi Bagiya	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Shahadara/Susheel Nagar/Yamuna Bridge	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Vibhav Nagar	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Shahganj-02 Rasoolpur	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Namner/ SR Hospital/Mohanpura/Chhaua N	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Azam Pada/ Ram Nagar/Prithvi Nath Fatak	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Bah Urban	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Bhagwant Talkies	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Top Khana / Raja Mandi	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Moti Kunj Madiya Katra	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Dadu Kara F/Sikri	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Chhipi Tola	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	N/Kali Deori Road	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Maruti Estate /Gyaspura Shahganj	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Pathwari Chhatta UPHC	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Moolchand Hostpital Achhenra/ Sikandra Sabji Mandi	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Dayal Bagh	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Village /Rajrai B/Aheer	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Mandi Sayeed Khan	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Village Kakua Block Saiyan	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Sadar Bazar/Naulakha	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Mustafa Quarter Rly Cantt	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Police line Shahganj-1	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Uttar Pradesh	Agra	Kolihayi Kothi Meena Bazar	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Delhi	South Delhi	House no 152 to 162 in Block D of Shaheen Bagh	https://twitter.com/news24tvchannel/status/1255158789256306688
+Tamil Nadu	Tenkasi	Puliangudi	https://www.maalaimalar.com/news/district/2020/04/17201443/1426024/puliyangudi-including-3-women-and-4-men-Corona.vpf
+Tamil Nadu	Thiruvallur	Thiruverkadu	https://www.dailythanthi.com/News/Districts/2020/04/24041115/Municipality-of-Thiruverkadu-is-divided-into-3-zones.vpf
+Tamil Nadu	Chengalpattu	Narasathapuram area of ​​the Parangimalai	https://www.dailythanthi.com/News/Districts/2020/04/27042552/parangi-malai-Set-up-a-barrier-fence-in-the-corona.vpf
+Tamil Nadu 	Chennai	Zone-1 DIV-1 Sathiyavani Muttu Nagar 10th Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-1 DIV-1 Thiruvallur Nagar 2nd Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-1 DIV-3 Netaji Nagar, 5 Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-1 DIV-3 Annai Sivagami Nagar 1st street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-1 DIV-4 Kamraj nagar 6th cross Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-1 DIV-5 Bharthiyar Nagar 3rd Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-1 DIV-6 Saraswathi Nagar 10th Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-2 DIV-21 BRK Sharma Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-4 DIV-34 Everyready Colony	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-4 DIV-34 RV Nagar	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-4 DIV-35 Rettai Mali Srivasan Street, Erukan Cheri	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-4 DIV-36 SA Colony	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-4 DIV-38 Netaji Nagar 1st Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-4 DIV-38 Vinoba Nagar, Tondaiyarpet	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-4 DIV-38 Sasthiri Nagar	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-4 DIV-41 Azeez Nagar, Tondaiyarpet	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-4 DIV-44 Thulasingam Street, Perumbur	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-4 DIV-47 Bharathi Nagar Housing Board, Korukupet	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-4 DIV-46 Selva vinayarkar Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-4 DIV-48 kanni Kovil Street, Old Washermenpet	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-49 GA Road, Old Washermenpet	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-50 Market Lane	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-50 Kamaraj Park Lane (Sathiyam TV)	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-50 GM Pet 2nd Lane	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-52 Adam Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-52 Viaikudam Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-52 Appiyar Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-52 Padavattamman Kovil Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-52 Old Slatter House Road	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-54 Kanniah Naidu Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-54 PKG Anna Pillai	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-54 MK Garden	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-55 Thaiappan Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-56 Salai Vinayagar Kovil Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-56 Coramarchant Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-56 Venkataah Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-58 Othukadam Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-59 RGGGH 	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV- MMC Mens Hostal	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-60 4th Lane, Beach Road	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-60 4th Lane, Beach Road TNSCB "C" Block	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-60 2nd Lane, Beach Road	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-60 Angappan Naichen Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-60 Mannady Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-61 Railway Police Qrts Gengu Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-62 Vethagiri Street, Chindaripet	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-62 Mukkaiayannya Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-62 Samy Naiyakan Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-63 MRS Mainsion, LG Colony Pudupet	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-5 DIV-63 Thayar Sahib Arched Lane	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-66 Temple Road Jawahar Nagar	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-67 JKM Colony 23rd Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-67 Jeevanandhan Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-68 Teeds Gardan 3rd Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-69 Kollvam Thottam 2nd Street, Semvium 	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-70 Mettupalyam 	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-70 Eden Garden Jamaliya	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-70 SBI Office Colony Perambur	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-71 Sashtri Nagar, Mangala Puram	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-72 Sashtri Nagar 14th Street, Pulianthope	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-73 Gray Nagar, Pulianthope	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-73 Nachar Amman Koil Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-73 Kuttithambiran Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-71 Gandhi Nagar Pulianthope	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-77 4th Street, Pulianthope	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-77 Sivarajpuram, Pulianthope	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-77 Kattur Nallamuthu Street,	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-77 Sheik Jaaswanthammal sawkar Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-77 Asirvathapuram	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-77 Gurusaami Nagar	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-77 Ayyavoo street, Thttakullam	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-77 P.K. Colony	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-77 K.P.Park	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-77 Play Ground Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-78 Rangaiah Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-6 DIV-78 Govindhan Street, Choolai	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-7 DIV-90 Collector Nagar	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-7 DIV-93 Angalammal koil street, Padikuppam	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-8 DIV-97 Vallalar street, Ayanavaram	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-8 DIV-100 NSK Nagar	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-8 DIV-100 1st, Shanthi Colony	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-8 DIV-101 2nd Street, Bharathi Puram	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-8 DIV-105 Pillayar koil Street, Arumbakkam	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-109 Vaniyar 2nd Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-110 Tank Bunk Road	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-111 8th Street, Gopalapuram	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-112 Vellalar Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-112 Trust Puram 9th Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-113 Habibula Road	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-114 Big Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-115 Koya Arunagiri 1st Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-118 Poes Road 	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-119 Balaji Nagar 4th Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-119 Selva Mutthuiah 2nd Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-119 Puram Prakasam Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-120 V.R. Pillai Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-121 Ishmal Ground	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-123 VOC Street, Alwarpet	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-125 Meenambalpuram, Dr. Ambedkar Palam	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-125 Appu Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-9 DIV-126 Trust Pakkam South Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-10 DIV-130 Vadapalani Market	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-10 DIV-130 Amman Kovil Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-10 DIV-137 15th Street, 4th Sector, K.K. Nagar	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-10 DIV-139 Veethimariamman Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-10 DIV-142 Kamakodi Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-11 DIV-145 Thirumalai Nagar 3rd Cross Street, Nerkundram	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-11 DIV-147 Krishna Nagar	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-11 DIV-147 Pallavan Nagar 2nd Cross Street, Maduravoyal	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-11 DIV-149 Sridevi Kuppam	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-11 DIV-152 1st Street Sairam Avenue	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-11 DIV-155 Kannadhasa Nagar	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-12 DIV-160 Azur Khan Street, Alandur	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-12 DIV-161 Market Sandu Alandhur	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-13 DIV-172 Sri Ram Nagar 1st street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-13 DIV-180 Kalaingar Nagar 5th Cross street, Tharamani	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-14 DIV-184 KPK 3rd Street	https://twitter.com/albyjohnV/status/1255109883440971776
+Tamil Nadu 	Chennai	Zone-14 DIV-187 Vajanai Koil Street, Madipakkam	https://twitter.com/albyjohnV/status/1255109883440971776
