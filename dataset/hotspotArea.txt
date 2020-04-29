@@ -491,7 +491,6 @@ Karnataka	Bengaluru Urban	South Bengluru Ward  171 - Gurappanapalya	https://twit
 Karnataka	Bengaluru Urban	South Bengluru Ward  124 - Hosahalli	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	South Bengluru Ward  118 - Sudhamnagar	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	South Bengluru Ward  166 - Karisandra	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	Yelahanka Ward  7 - Byatarayanapura	https://twitter.com/ANI/status/1250103927330111488
 Delhi	South Delhi	Pandit Mohalla & Jain Mohalla, from Epic centre 715, Chirag Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South Delhi	shop No J-4/49 (Khirki Extension)	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South west Delhi	C-2 Block-Janakpuri-Kothi number-119	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
