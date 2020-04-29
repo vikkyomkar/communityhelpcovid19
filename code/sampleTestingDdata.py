@@ -14,7 +14,7 @@ population = {
 	"Maharashtra" : 124945748,
 	"Bihar" : 121741741,
 	"West_Bengal" : 98785114,
-	"Andhra_Pradesh" : 87641369,
+	"Andhra_Pradesh" : 54000000,
 	"Madhya_Pradesh" : 82961852,
 	"Tamil_Nadu" : 80288487,
 	"Rajasthan" : 77122315,
