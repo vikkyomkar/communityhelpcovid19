@@ -426,7 +426,7 @@ Karnataka	Belagavi	Belagundi villages in Belagavi taluk	https://www.thehindu.com
 Karnataka	Belagavi	Hire Bagewadi 	https://www.thehindu.com/news/national/karnataka/officers-working-on-three-tasks-in-containment-zones/article31325197.ece
 Karnataka	Belagavi	Kudchi in Raibag	https://www.thehindu.com/news/national/karnataka/officers-working-on-three-tasks-in-containment-zones/article31325197.ece
 Karnataka	Kalaburagi	Pilakamma area of Wadi town	https://www.deccanherald.com/state/kalaburagi/karnataka-two-year-old-boy-tests-positive-for-coronavirus-in-kalaburagi-824531.html
-Karnataka	Kalaburagi	Ward No. 11, 12, 13, 14	
+Karnataka	Kalaburagi	Ward No. 11, 12, 13, 14, Wadi town	
 Karnataka	Uttara Kannada	more than 5 cases reported	
 Karnataka	Bagalkote	Killa Area	
 Karnataka	Mandya	Swarnasandra Layout	https://www.deccanherald.com/state/karnataka-districts/dc-team-on-toes-inspect-containment-zone-in-mandya-823860.html
@@ -479,20 +479,18 @@ Bihar	Nawada	Sitamarhi	https://www.livehindustan.com/bihar/nawada/story-3-km-sea
 Bihar	Begusarai	Six Tolls of Bachwara Block	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Bihar	Begusarai	Teghra Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Bihar	Begusarai	Mansoorchak Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
-Karnataka	Bengaluru Urban	Bommanahalli  Ward 191 - Singasandra	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	Mahadevpura  Ward 54 - Hudi	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	Mahadevpura  Ward 84 - Hagaduru	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	Mahadevpura  Ward 25 - Hormavu	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  93 - Vasanth Nagar	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  18 - RadhaKrishna Temple	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	East Bengaluru Ward  57 - CV Raman Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	East Bengaluru Ward  78 - Pulikeshi Nagar	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  62 - Ramaswami Palya	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  59 - MaruthiSevanagar	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	South Bengluru Ward  179 - Shakambari Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	South Bengluru Ward  177 - Gurappanapalya	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	South Bengluru Ward  171 - Gurappanapalya	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	South Bengluru Ward  124 - Hosahalli	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	South Bengluru Ward  118 - Sudhamnagar	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	South Bengluru Ward  166 - Karisandra	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	West Bengaluru Ward  107- Shivanagara	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	Yelahanka Ward  7 - Byatarayanapura	https://twitter.com/ANI/status/1250103927330111488
 Delhi	South Delhi	Pandit Mohalla & Jain Mohalla, from Epic centre 715, Chirag Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South Delhi	shop No J-4/49 (Khirki Extension)	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
@@ -982,9 +980,9 @@ Odisha 	Khorda	Satyanagar	https://www.ommcomnews.com/odisha-news/15-covid-19-con
 Odisha 	Jajpur	Brahmabarad	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Jajpur	Rasulpur Block Sana Trilochanpur	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Jajpur	Sana Trilochanpur	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
-Odisha 	Jajpur	 Saipur	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
+Odisha 	Jajpur	Saipur	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Kendrapada	Radhanagar	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
-Odisha 	Kendrapada	 Balabhadrapur	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
+Odisha 	Kendrapada	Balabhadrapur	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Kendrapada	Sitaleswar	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Kendrapada	Silasthamb	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Kendrapada	Nial	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
@@ -2372,7 +2370,6 @@ Uttar Pradesh	Gautam Buddh Nagar	Sector 80, Noida Kakrala village	https://www.in
 Uttar Pradesh	Gautam Buddh Nagar	Sector-37, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
 Uttar Pradesh	Gautam Buddh Nagar	Logix Blossom County Sector-137 Noida, Paras Tierra Sector-137 and Wajidpur village	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
 Uttar Pradesh	Gautam Buddh Nagar	Grand Omaxe, Sector-93B, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Designer Park, Sector-62, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
 Uttar Pradesh	Gautam Buddh Nagar	Sector-28	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
 Uttar Pradesh	Gautam Buddh Nagar	Silver City Sector PI-2, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
 Uttar Pradesh	Gautam Buddh Nagar	14th Avenue, Gaur City	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
@@ -2540,3 +2537,23 @@ Tamil Nadu 	Chennai	Zone-13 DIV-172 Sri Ram Nagar 1st street	https://twitter.com
 Tamil Nadu 	Chennai	Zone-13 DIV-180 Kalaingar Nagar 5th Cross street, Tharamani	https://twitter.com/albyjohnV/status/1255109883440971776
 Tamil Nadu 	Chennai	Zone-14 DIV-184 KPK 3rd Street	https://twitter.com/albyjohnV/status/1255109883440971776
 Tamil Nadu 	Chennai	Zone-14 DIV-187 Vajanai Koil Street, Madipakkam	https://twitter.com/albyjohnV/status/1255109883440971776
+Odisha 	Jajpur	Katikata village, Bihipur village in Katikata GP	https://sambadenglish.com/odisha-two-more-gps-declared-covid-19-containment-zones-in-jajpur/
+Odisha 	Jajpur	Mohanty Patna village and Mallikapur (Part) in Mallikapur GP under Dasarathpur Block	https://sambadenglish.com/odisha-two-more-gps-declared-covid-19-containment-zones-in-jajpur/
+Odisha 	Jajpur	Birajapur under Dasarathpur Block	https://sambadenglish.com/odisha-two-more-gps-declared-covid-19-containment-zones-in-jajpur/
+Karnataka 	Kalaburagi	Chittapur taluk	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
+Karnataka 	Kalaburagi	Kalaburagi Nagar	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
+Karnataka 	Kalaburagi	Kalaburagi Taluk	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
+Karnataka	Bengaluru Urban	South Bengluru Ward  134 - Bapuji Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
+Karnataka	Bengaluru Urban	South Bengluru Ward  133 - Hampi Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
+Karnataka	Bengaluru Urban	South Bengluru Ward  169 - Byrasandra	http://covid.bbmpgov.in/reports/report20200429.pdf
+Karnataka	Bengaluru Urban	West Bengaluru Ward  136 - Jagajeevanram Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
+Karnataka	Bengaluru Urban	West Bengaluru Ward  138 - Chalavadipalya	http://covid.bbmpgov.in/reports/report20200429.pdf
+Karnataka	Bengaluru Urban	Raja Rajeshwari Nargar Ward  37 - Yeshwanthpur	http://covid.bbmpgov.in/reports/report20200429.pdf
+Karnataka	Kalaburagi	Kawalga Village, Kalaburagi rural	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
+Karnataka	Kalaburagi	Saradagi Village, Kalaburagi rural	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
+Karnataka	Kalaburagi	Ward 50	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
+Karnataka	Kalaburagi	Ward 22	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
+Karnataka	Kalaburagi	Ward 28	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
+Karnataka	Kalaburagi	Ward 25	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
+Karnataka	Kalaburagi	Ward 29	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
+Karnataka	Kalaburagi	Ward 2	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
