@@ -2556,3 +2556,28 @@ Karnataka	Kalaburagi	Ward 28	https://twitter.com/get2nmukul/status/1253520508903
 Karnataka	Kalaburagi	Ward 25	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka	Kalaburagi	Ward 29	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka	Kalaburagi	Ward 2	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
+Bihar	Buxar	Naya Bhojpur Area in Dumraon	https://www.prabhatkhabar.com/state/bihar/buxar/bihar-hotspots-areas-news-update-total-238-corona-positive-patients-cases-in-bihar-buxar-coronas-hotspot-in-bihar-state
+Bihar	Rohtas	Kochas	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
+Bihar	Rohtas	Sasaram	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
+Bihar	Rohtas	Shobhaganj	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
+Bihar	Rohtas	Agree	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
+Bihar	Rohtas	Gola Mandi	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
+Bihar	Rohtas	Nokha	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
+Bihar	Rohtas	Tapeshwariganj	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
+Bihar	Rohtas	Dehri-on-Sone	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
+Bihar	Patna	Khajpura	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
+Bihar	Patna	Jagdevpath	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
+Bihar	Patna	Saalimpur of Bakhtiyarpur	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
+Bihar	Patna	Beur	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
+Bihar	Kaimur	Chainpur village	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
+Bihar	Munger	Sadar Bazar area of Jamalpur	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
+Bihar	West Champaran	Shanichari in Yogapatti, West Champaran	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
+Bihar	Patna	New Patliputra Colony	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
+Bihar	Patna	Rajabajar Machhli Gali	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
+Bihar	Patna	Phulwari	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
+Bihar	Patna	Parsa	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
+Bihar	Patna	airport	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
+Bihar	Patna	Daak Bangla Chauraha	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
+Bihar	Patna	Birla Colony	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
+Bihar	Patna	Naubatpur	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
+Bihar	Patna	Street Behind BPSC Office	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
