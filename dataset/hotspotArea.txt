@@ -2557,7 +2557,6 @@ Karnataka	Kalaburagi	Ward 28	https://twitter.com/get2nmukul/status/1253520508903
 Karnataka	Kalaburagi	Ward 25	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka	Kalaburagi	Ward 29	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka	Kalaburagi	Ward 2	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
-
 Bihar	Buxar	Naya Bhojpur Area in Dumraon	https://www.prabhatkhabar.com/state/bihar/buxar/bihar-hotspots-areas-news-update-total-238-corona-positive-patients-cases-in-bihar-buxar-coronas-hotspot-in-bihar-state
 Bihar	Rohtas	Kochas	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
 Bihar	Rohtas	Sasaram	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
