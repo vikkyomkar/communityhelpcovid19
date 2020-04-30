@@ -2544,6 +2544,7 @@ Karnataka 	Kalaburagi	Kalaburagi Nagar	https://twitter.com/get2nmukul/status/125
 Karnataka 	Kalaburagi	Kalaburagi Taluk	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka	Bengaluru Urban	South Bengluru Ward  134 - Bapuji Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	South Bengluru Ward  133 - Hampi Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
+Karnataka	Bengaluru Urban	South Bengluru Ward  158 - Deepanjali Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	South Bengluru Ward  169 - Byrasandra	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	West Bengaluru Ward  136 - Jagajeevanram Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	West Bengaluru Ward  138 - Chalavadipalya	http://covid.bbmpgov.in/reports/report20200429.pdf
@@ -2556,6 +2557,7 @@ Karnataka	Kalaburagi	Ward 28	https://twitter.com/get2nmukul/status/1253520508903
 Karnataka	Kalaburagi	Ward 25	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka	Kalaburagi	Ward 29	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka	Kalaburagi	Ward 2	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
+
 Bihar	Buxar	Naya Bhojpur Area in Dumraon	https://www.prabhatkhabar.com/state/bihar/buxar/bihar-hotspots-areas-news-update-total-238-corona-positive-patients-cases-in-bihar-buxar-coronas-hotspot-in-bihar-state
 Bihar	Rohtas	Kochas	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
 Bihar	Rohtas	Sasaram	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
