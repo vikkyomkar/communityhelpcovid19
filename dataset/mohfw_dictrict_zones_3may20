@@ -128,7 +128,7 @@ Korea;ct;Green_Zone
 Mahasamund;ct;Green_Zone
 Raigarh;ct;Green_Zone
 Surguja;ct;Green_Zone
-Bijapur Chhattissa rh;Green_Zone
+Bijapur;ct;Green_Zone
 Narayanpur;ct;Green_Zone
 Sukma;ct;Green_Zone
 Kondagaon;ct;Green_Zone
@@ -149,7 +149,7 @@ North East;dl;Red_Zone
 West;dl;Red_Zone
 Shahdara;dl;Red_Zone
 East;dl;Red_Zone
-New;dl;dl;Red_Zone
+New Delhi;dl;Red_Zone
 North West;dl;Red_Zone
 South West;dl;Red_Zone
 North Goa;ga;Green_Zone
@@ -168,7 +168,7 @@ Bharuch;gj;Orange_Zone
 Botad;gj;Orange_Zone
 Narmada;gj;Orange_Zone
 Chhotaudepur;gj;Orange_Zone
-Mahisagar;gj Oranse_Zone
+Mahisagar;gj;Orange_Zone
 Mahesana;gj;Orange_Zone
 Patan;gj;Orange_Zone
 Kheda;gj;Orange_Zone
@@ -206,7 +206,7 @@ Jind;hr;Orange_Zone
 Sirsa;hr;Orange_Zone
 Yamunanagar;hr;Orange_Zone
 Fatehabad;hr;Orange_Zone
-CharkiDadri;hr 0range_Zone
+CharkiDadri;hr;Orange_Zone
 Mahendragarh;hr;Green_Zone
 Rewari;hr;Green_Zone
 Una;hp;Orange_Zone
@@ -305,7 +305,7 @@ Palakkad;kl;Orange_Zone
 Pathanamthitta;kl;Orange_Zone
 Malappuram;kl;Orange_Zone
 Thiruvananthapuram;kl;Orange_Zone
-Alappuzha;kl Oranee_Zone
+Alappuzha;kl;Orange_Zone
 Thrissur;kl;Orange_Zone
 Ernakulam;kl;Green_Zone
 Wayanad;kl;Green_Zone
@@ -484,26 +484,26 @@ Karaikal;py;Green_Zone
 Mahe ;py;Green_Zone
 Yanam;py;Green_Zone
 Jalandhar;pb;Red_Zone
-Patiala:pb;Red_Zone
+Patiala;pb;Red_Zone
 Ludhiana;pb;Red_Zone
-S.A.S Nagar:pb;Orange_Zone
+S.A.S Nagar;pb;Orange_Zone
 Pathankot;pb Oranee_Zone
-Mansa:pb;Orange_Zone
+Mansa;pb;Orange_Zone
 Tarn Taran;pb;Orange_Zone
-Amritsar:pb;Orange_Zone
+Amritsar;pb;Orange_Zone
 Kapurthala;pb;Orange_Zone
 Hoshiarpur;pb;Orange_Zone
-Faridkot:pb;Orange_Zone
-Sangrur:pb;Orange_Zone
-Shahid Bhagat Singh Nagar(Nawanshahr):pb;Orange_Zone
+Faridkot;pb;Orange_Zone
+Sangrur;pb;Orange_Zone
+Shahid Bhagat Singh Nagar(Nawanshahr);pb;Orange_Zone
 Firozepur;pb;Orange_Zone
-Sri Muktsar Sahib:pb;Orange_Zone
+Sri Muktsar Sahib;pb;Orange_Zone
 Moga;pb;Orange_Zone
 Gurdaspur;pb;Orange_Zone
-Barnala:pb;Orange_Zone
+Barnala;pb;Orange_Zone
 Rupnagar (Ropar);pb;Green_Zone
 Fatehgarh Sahib;pb;Green_Zone
-Bathinda:pb;Green_Zone
+Bathinda;pb;Green_Zone
 FaziIka;pb;Green_Zone
 Jaipur;rj;Red_Zone
 Jodhpur;rj;Red_Zone
@@ -559,12 +559,12 @@ Tenkasi;tn;Orange_Zone
 Nagapattinam;tn;Orange_Zone
 Dindigul;tn;Orange_Zone
 Villupuram;tn;Orange_Zone
-Coimbatore;tn Oranqe_Zone
+Coimbatore;tn;Orange_Zone
 Cuddalore;tn;Orange_Zone
 Salem;tn;Orange_Zone
 Karur;tn;Orange_Zone
 Tuticorin;tn;Orange_Zone
-Tiruchirappalli;tn Oranee_Zone
+Tiruchirappalli;tn;Orange_Zone
 Tirupathur;tn;Orange_Zone
 Kanniyakumari;tn;Orange_Zone
 Tiruvannamalai;tn;Orange_Zone
