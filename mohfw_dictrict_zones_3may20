@@ -1,0 +1,733 @@
+South Andamans;an;Red_Zone
+Nicobars;an;Green_Zone
+North And Middle Andaman;an;Green_Zone
+Kurnool;ap;Red_Zone
+Guntur;ap;Red_Zone
+Krishna;ap;Red_Zone
+Chittoor;ap;Red_Zone
+Spsr Nellore;ap;Red_Zone
+West Godavari;ap;Orange_Zone
+Y.S.R.;ap;Orange_Zone
+Anantapur;ap;Orange_Zone
+Prakasam;ap;Orange_Zone
+East Godavari;ap;Orange_Zone
+Srikakulam;ap;Orange_Zone
+Visakhapatanam;ap;Orange_Zone
+Vizianagaram;ap;Green_Zone
+Lohit;ar;Green_Zone
+Changlang;ar;Green_Zone
+Dibang Valley;ar;Green_Zone
+East Kameng;ar;Green_Zone
+East Siang;ar;Green_Zone
+KurungKumey;ar;Green_Zone
+Lower Dibang Valley;ar;Green_Zone
+Lower Subansiri;ar;Green_Zone
+Papum Pare;ar;Green_Zone
+Tawang;ar;Green_Zone
+Tirap;ar;Green_Zone
+Upper Siang;ar;Green_Zone
+Upper Subansiri;ar;Green_Zone
+West Kameng;ar;Green_Zone
+West Siang;ar;Green_Zone
+Anjaw;ar;Green_Zone
+Longding;ar;Green_Zone
+KraDaadi;ar;Green_Zone
+Namsai;ar;Green_Zone
+Siang;ar;Green_Zone
+Kamle;ar;Green_Zone
+Lower Siang;ar;Green_Zone
+PakkeKessang;ar;Green_Zone
+Leparada;ar;Green_Zone
+ShiYomi;ar;Green_Zone
+Dhubri;as;Orange_Zone
+Marigaon;as;Orange_Zone
+Goalpara;as;Orange_Zone
+Golaghat;as;Green_Zone
+Karimganj;as;Green_Zone
+Nalbari;as;Green_Zone
+Hailakandi;as;Green_Zone
+Cachar;as;Green_Zone
+Kamrup;as;Green_Zone
+Lakhimpur;as;Green_Zone
+Kamrup Metro;as;Green_Zone
+South Salmara Mancachar;as;Green_Zone
+Barpeta;as;Green_Zone
+Bongaigaon;as;Green_Zone
+Darrang;as;Green_Zone
+Dhemaji;as;Green_Zone
+Dibrugarh;as;Green_Zone
+Jorhat;as;Green_Zone
+KarbiAnglong;as;Green_Zone
+Kokrajhar;as;Green_Zone
+Nagaon;as;Green_Zone
+Dima Hasao;as;Green_Zone
+Sivasagar;as;Green_Zone
+Sonitpur;as;Green_Zone
+Tinsukia;as;Green_Zone
+Chirang;as;Green_Zone
+Baksa;as;Green_Zone
+Udalguri;as;Green_Zone
+Biswanath;as;Green_Zone
+Majuli;as;Green_Zone
+Charaideo;as;Green_Zone
+Hojai;as;Green_Zone
+West KarbiAnglong;as;Green_Zone
+Munger;br;Red_Zone
+Patna;br;Red_Zone
+Rohtas;br;Red_Zone
+Buxar;br;Red_Zone
+Gaya;br;Red_Zone
+Nalanda;br;Orange_Zone
+Kaimur (Bhabua);br;Orange_Zone
+Siwan;br;Orange_Zone
+Gopalganj;br;Orange_Zone
+Bhojpur;br;Orange_Zone
+Begusarai;br;Orange_Zone
+Aurangabad;br;Orange_Zone
+Madhubani;br;Orange_Zone
+PurbiChamparan;br;Orange_Zone
+Bhagalpur;br;Orange_Zone
+Arwal;br;Orange_Zone
+Saran;br;Orange_Zone
+Nawada;br;Orange_Zone
+Lakhisarai;br;Orange_Zone
+Banka;br;Orange_Zone
+Vaishali;br;Orange_Zone
+Darbhanga;br;Orange_Zone
+Jehanabad;br;Orange_Zone
+Madhepura;br;Orange_Zone
+Purnia;br;Orange_Zone
+Sheikhpura;br;Green_Zone
+Araria;br;Green_Zone
+Jamui;br;Green_Zone
+Katihar;br;Green_Zone
+Khagaria;br;Green_Zone
+Kishanganj;br;Green_Zone
+Muzaffarpur;br;Green_Zone
+PashchimChamparan;br;Green_Zone
+Saharsa;br;Green_Zone
+Samastipur;br;Green_Zone
+Sheohar;br;Green_Zone
+Sitamarhi;br;Green_Zone
+Supaul;br;Green_Zone
+Chandigarh;ch;Red_Zone
+Raipur;ct;Red_Zone
+Korba;ct;Orange_Zone
+Surajpur;ct;Green_Zone
+Bilaspur;ct;Green_Zone
+Durg;ct;Green_Zone
+Rajnandgaon;ct;Green_Zone
+Bastar;ct;Green_Zone
+Dantewada;ct;Green_Zone
+Dhamtari;ct;Green_Zone
+Janjgir-Champa;ct;Green_Zone
+Jashpur;ct;Green_Zone
+Kanker;ct;Green_Zone
+Kabirdham;ct;Green_Zone
+Korea;ct;Green_Zone
+Mahasamund;ct;Green_Zone
+Raigarh;ct;Green_Zone
+Surguja;ct;Green_Zone
+Bijapur Chhattissa rh;Green_Zone
+Narayanpur;ct;Green_Zone
+Sukma;ct;Green_Zone
+Kondagaon;ct;Green_Zone
+Baloda Bazar;ct;Green_Zone
+Garivaband;ct;Green_Zone
+Balod;ct;Green_Zone
+Mungeli;ct;Green_Zone
+Balrampur;ct;Green_Zone
+Bemetara;ct;Green_Zone
+Dadra And Nagar Haveli;dn;Green_Zone
+Daman;dd;Green_Zone
+Diu;dd;Green_Zone
+South East;dl;Red_Zone
+Central;dl;Red_Zone
+North;dl;Red_Zone
+South;dl;Red_Zone
+North East;dl;Red_Zone
+West;dl;Red_Zone
+Shahdara;dl;Red_Zone
+East;dl;Red_Zone
+New;dl;dl;Red_Zone
+North West;dl;Red_Zone
+South West;dl;Red_Zone
+North Goa;ga;Green_Zone
+South Goa;ga;Green_Zone
+Ahmadabad;gj;Red_Zone
+Surat;gj;Red_Zone
+Vadodara;gj;Red_Zone
+Anand;gj;Red_Zone
+Banas Kantha;gj;Red_Zone
+PanchMahals;gj;Red_Zone
+Bhavnagar;gj;Red_Zone
+Gandhinagar;gj;Red_Zone
+Arvalli;gj;Red_Zone
+Rajkot;gj;Orange_Zone
+Bharuch;gj;Orange_Zone
+Botad;gj;Orange_Zone
+Narmada;gj;Orange_Zone
+Chhotaudepur;gj;Orange_Zone
+Mahisagar;gj Oranse_Zone
+Mahesana;gj;Orange_Zone
+Patan;gj;Orange_Zone
+Kheda;gj;Orange_Zone
+Valsad;gj;Orange_Zone
+Dohad;gj;Orange_Zone
+Kachchh;gj;Orange_Zone
+Navsari;gj;Orange_Zone
+GirSomnath;gj;Orange_Zone
+Dang;gj;Orange_Zone
+SabarKantha;gj;Orange_Zone
+Tapi;gj;Orange_Zone
+Jamnagar;gj;Orange_Zone
+Surendranagar;gj;Orange_Zone
+Morbi;gj;Green_Zone
+Amreli;gj;Green_Zone
+Porbandar;gj;Green_Zone
+Junagadh;gj;Green_Zone
+DevbhumiDwarka;gj;Green_Zone
+Sonipat;hr;Red_Zone
+Faridabad;hr;Red_Zone
+Gurugram;hr;Orange_Zone
+Nuh;hr;Orange_Zone
+Panipat;hr;Orange_Zone
+Panchkula;hr;Orange_Zone
+Palwal;hr;Orange_Zone
+Rohtak;hr;Orange_Zone
+Hisar;hr;Orange_Zone
+Ambala;hr;Orange_Zone
+Jhajjar;hr;Orange_Zone
+Bhiwani;hr;Orange_Zone
+Kaithal;hr;Orange_Zone
+Kurukshetra;hr;Orange_Zone
+Karnal;hr;Orange_Zone
+Jind;hr;Orange_Zone
+Sirsa;hr;Orange_Zone
+Yamunanagar;hr;Orange_Zone
+Fatehabad;hr;Orange_Zone
+CharkiDadri;hr 0range_Zone
+Mahendragarh;hr;Green_Zone
+Rewari;hr;Green_Zone
+Una;hp;Orange_Zone
+Chamba;hp;Orange_Zone
+Hamirpur;hp;Orange_Zone
+Kangra;hp;Orange_Zone
+Sirmaur;hp;Orange_Zone
+Solan;hp;Orange_Zone
+Bilaspur;hp;Green_Zone
+Kinnaur;hp;Green_Zone
+Kullu;hp;Green_Zone
+Lahul And Spiti;hp;Green_Zone
+Mandi;hp;Green_Zone
+Shimla;hp;Green_Zone
+Bandipora;jk;Red_Zone
+Shopian;jk;Red_Zone
+Anantnag;jk;Red_Zone
+Srinagar;jk;Red_Zone
+Baramulla;jk;Orange_Zone
+Kupwara;jk;Orange_Zone
+Ganderbal;jk;Orange_Zone
+Jammu;jk;Orange_Zone
+Udhampur;jk;Orange_Zone
+Kulgam;jk;Orange_Zone
+Budgam;jk;Orange_Zone
+Samba;jk;Orange_Zone
+Kathua;jk;Orange_Zone
+Rajouri;jk;Orange_Zone
+Ramban;jk;Orange_Zone
+Reasi;jk;Orange_Zone
+Pulwama;jk;Green_Zone
+Kishtwar;jk;Green_Zone
+Doda;jk;Green_Zone
+Poonch;jk;Green_Zone
+Ranchi;jh;Red_Zone
+Bokaro;jh;Orange_Zone
+Garhwa;jh;Orange_Zone
+Dhanbad;jh;Orange_Zone
+Deoghar;jh;Orange_Zone
+Hazaribagh;jh;Orange_Zone
+Simdega;jh;Orange_Zone
+Giridih;jh;Orange_Zone
+Koderma;jh;Orange_Zone
+Jamtara;jh;Orange_Zone
+Chatra;jh;Green_Zone
+Dumka;jh;Green_Zone
+East Singhbum;jh;Green_Zone
+Godda;jh;Green_Zone
+Gumla;jh;Green_Zone
+Latehar;jh;Green_Zone
+Lohardaga;jh;Green_Zone
+Pakur;jh;Green_Zone
+Palamu;jh;Green_Zone
+Sahebganj;jh;Green_Zone
+Saraikela Kharsawan;jh;Green_Zone
+West Singhbhum;jh;Green_Zone
+Khunti;jh;Green_Zone
+Ramgarh;jh;Green_Zone
+Bengaluru Urban;ka;Red_Zone
+Mysuru;ka;Red_Zone
+Bengaluru Rural;ka;Red_Zone
+Belagavi;ka;Orange_Zone
+Vijayapura;ka;Orange_Zone
+Kalaburagi;ka;Orange_Zone
+Bagalkote;ka;Orange_Zone
+Mandya;ka;Orange_Zone
+Ballari;ka;Orange_Zone
+Dharwad;ka;Orange_Zone
+Dakshina Kannada;ka;Orange_Zone
+Bidar;ka;Orange_Zone
+Chikkaballapura;ka;Orange_Zone
+Gadag;ka;Orange_Zone
+Uttara Kannada;ka;Orange_Zone
+Tumakuru;ka;Orange_Zone
+Davangere;ka;Green_Zone
+Udupi;ka;Green_Zone
+Chamarajanagara;ka;Green_Zone
+Chikkamagaluru;ka;Green_Zone
+Chitradurga;ka;Green_Zone
+Hassan;ka;Green_Zone
+Haveri;ka;Green_Zone
+Kodagu;ka;Green_Zone
+Kolar;ka;Green_Zone
+Koppal;ka;Green_Zone
+Raichur;ka;Green_Zone
+Shivamogga;ka;Green_Zone
+Ramanagara;ka;Green_Zone
+Yadgir;ka;Green_Zone
+Kannur;kl;Red_Zone
+Kottayam;kl;Red_Zone
+Kasaragod;kl;Orange_Zone
+ldukki;kl;Orange_Zone
+Kozhikode;kl;Orange_Zone
+Kollam;kl;Orange_Zone
+Palakkad;kl;Orange_Zone
+Pathanamthitta;kl;Orange_Zone
+Malappuram;kl;Orange_Zone
+Thiruvananthapuram;kl;Orange_Zone
+Alappuzha;kl Oranee_Zone
+Thrissur;kl;Orange_Zone
+Ernakulam;kl;Green_Zone
+Wayanad;kl;Green_Zone
+LehLadakh;la;Orange_Zone
+Kargil;la;Orange_Zone
+Lakshadweep District;ld;Green_Zone
+lndore;mp;Red_Zone
+Bhopal;mp;Red_Zone
+Ujjain;mp;Red_Zone
+Jabalpur;mp;Red_Zone
+Dhar;mp;Red_Zone
+Barwani;mp;Red_Zone
+East Nimar;mp;Red_Zone
+Dewas;mp;Red_Zone
+Gwalior;mp;Red_Zone
+Khargone;mp;Orange_Zone
+Raisen;mp;Orange_Zone
+Hoshangabad;mp;Orange_Zone
+Ratlam;mp;Orange_Zone
+Agar Malwa;mp;Orange_Zone
+Mandsaur;mp;Orange_Zone
+Sagar;mp;Orange_Zone
+Shajapur;mp;Orange_Zone
+Chhindwara;mp;Orange_Zone
+Alirajpur;mp;Orange_Zone
+Tikamgarh;mp;Orange_Zone
+Shahdol;mp;Orange_Zone
+Sheopur;mp;Orange_Zone
+Dindori;mp;Orange_Zone
+Burhanpur;mp;Orange_Zone
+Harda;mp;Orange_Zone
+Betul;mp;Orange_Zone
+Vidisha;mp;Orange_Zone
+Morena;mp;Orange_Zone
+Rewa;mp;Green_Zone
+Ashoknagar;mp;Green_Zone
+Rajgarh;mp;Green_Zone
+Shivpuri;mp;Green_Zone
+Anuppur;mp;Green_Zone
+Balaghat;mp;Green_Zone
+Bhind;mp;Green_Zone
+Chhatarpur;mp;Green_Zone
+Damoh;mp;Green_Zone
+Datia;mp;Green_Zone
+Guna;mp;Green_Zone
+Jhabua;mp;Green_Zone
+Katni;mp;Green_Zone
+Mandla;mp;Green_Zone
+Narsinghpur;mp;Green_Zone
+Neemuch;mp;Green_Zone
+Panna;mp;Green_Zone
+Satna;mp;Green_Zone
+Sehore;mp;Green_Zone
+Seoni;mp;Green_Zone
+sidhi;mp;Green_Zone
+Umaria;mp;Green_Zone
+Singrauli;mp;Green_Zone
+Niwari;mp;Green_Zone
+Mumbai;mh;Red_Zone
+Pune;mh;Red_Zone
+Thane;mh;Red_Zone
+Nashik;mh;Red_Zone
+Palghar;mh;Red_Zone
+Nagpur;mh;Red_Zone
+Solapur;mh;Red_Zone
+Yavatmal;mh;Red_Zone
+Aurangabad;mh;Red_Zone
+Satara;mh;Red_Zone
+Dhule;mh;Red_Zone
+Akola;mh;Red_Zone
+Jalgaon;mh;Red_Zone
+MumbaiSuburban;mh;Red_Zone
+Raigad;mh;Orange_Zone
+Ahmednagar;mh;Orange_Zone
+Amravati;mh;Orange_Zone
+Buldhana;mh;Orange_Zone
+Nandurbar;mh;Orange_Zone
+Kolhapur;mh;Orange_Zone
+Hingoli;mh;Orange_Zone
+Ratnagiri;mh;Orange_Zone
+Jalna;mh;Orange_Zone
+Nanded;mh;Orange_Zone
+Chandrapur;mh;Orange_Zone
+Parbhani;mh;Orange_Zone
+Sangli;mh;Orange_Zone
+Latur;mh;Orange_Zone
+Bhandara;mh;Orange_Zone
+Beed;mh;Orange_Zone
+Osmanabad;mh;Green_Zone
+Washim;mh;Green_Zone
+Sindhudurg;mh;Green_Zone
+Gondia;mh;Green_Zone
+Gadchiroli;mh;Green_Zone
+Wardha;mh;Green_Zone
+lmphalWest;mn;Green_Zone
+Thoubal;mn;Green_Zone
+Bishnupur;mn;Green_Zone
+Chandel;mn;Green_Zone
+Churachandpur;mn;Green_Zone
+lmphal East;mn;Green_Zone
+Senapati;mn;Green_Zone
+Tamenglong;mn;Green_Zone
+Ukhrul;mn;Green_Zone
+Kakching;mn;Green_Zone
+Kangpokpi;mn;Green_Zone
+Jiribam;mn;Green_Zone
+Noney;mn;Green_Zone
+Pherzawl;mn;Green_Zone
+Tengnoupal;mn;Green_Zone
+Kamjong;mn;Green_Zone
+East Khasi Hills;ml;Orange_Zone
+East Garo Hills;ml;Green_Zone
+West Jaintia Hills;ml;Green_Zone
+RiBhoi;ml;Green_Zone
+South Garo Hills;ml;Green_Zone
+West Garo Hills;ml;Green_Zone
+West Khasi Hills;ml;Green_Zone
+North Garo Hills;ml;Green_Zone
+East Jaintia Hills;ml;Green_Zone
+South West Khasi Hills;ml;Green_Zone
+South West Garo Hills;ml;Green_Zone
+Aizawl;mz;Green_Zone
+Champhai;mz;Green_Zone
+Kolasib;mz;Green_Zone
+Lawngtlai;mz;Green_Zone
+Lunglei;mz;Green_Zone
+Mamit;mz;Green_Zone
+Saiha;mz;Green_Zone
+Serchhip;mz;Green_Zone
+Hnahthial;mz;Green_Zone
+Saitual;mz;Green_Zone
+Khawzawl;mz;Green_Zone
+Dimapur;nl;Green_Zone
+Kohima;nl;Green_Zone
+Mokokchung;nl;Green_Zone
+Mon;nl;Green_Zone
+Phek;nl;Green_Zone
+Tuensang;nl;Green_Zone
+Wokha;nl;Green_Zone
+Zunheboto;nl;Green_Zone
+Peren ;nl;Green_Zone
+Kiphire;nl;Green_Zone
+Longleng;nl;Green_Zone
+Jajpur;or;Red_Zone
+Bhadrak;or;Red_Zone
+Baleshwar;or;Red_Zone
+Khordha;or;Orange_Zone
+Sundargarh;or;Orange_Zone
+Kendrapara;or;Orange_Zone
+Koraput;or;Orange_Zone
+Dhenkanal;or;Orange_Zone
+Kalahandi;or;Orange_Zone
+Cuttack;or;Green_Zone
+Puri;or;Green_Zone
+Anugul;or;Green_Zone
+Balangir;or;Green_Zone
+Bargarh;or;Green_Zone
+Boudh;or;Green_Zone
+Deogarh;or;Green_Zone
+Gajapati;or;Green_Zone
+Ganjam;or;Green_Zone
+Jagatsinghapur;or;Green_Zone
+Jharsuguda;or;Green_Zone
+Kandhamal;or;Green_Zone
+Kendujhar;or;Green_Zone
+Malkangiri;or;Green_Zone
+Mayurbhanj;or;Green_Zone
+Nabarangpur;or;Green_Zone
+Nayagarh;or;Green_Zone
+Nuapada;or;Green_Zone
+Rayagada;or;Green_Zone
+Sambalpur;or;Green_Zone
+Sonepur;or;Green_Zone
+Pondicherry;py;Orange_Zone
+Karaikal;py;Green_Zone
+Mahe ;py;Green_Zone
+Yanam;py;Green_Zone
+Jalandhar;pb;Red_Zone
+Patiala:pb;Red_Zone
+Ludhiana;pb;Red_Zone
+S.A.S Nagar:pb;Orange_Zone
+Pathankot;pb Oranee_Zone
+Mansa:pb;Orange_Zone
+Tarn Taran;pb;Orange_Zone
+Amritsar:pb;Orange_Zone
+Kapurthala;pb;Orange_Zone
+Hoshiarpur;pb;Orange_Zone
+Faridkot:pb;Orange_Zone
+Sangrur:pb;Orange_Zone
+Shahid Bhagat Singh Nagar(Nawanshahr):pb;Orange_Zone
+Firozepur;pb;Orange_Zone
+Sri Muktsar Sahib:pb;Orange_Zone
+Moga;pb;Orange_Zone
+Gurdaspur;pb;Orange_Zone
+Barnala:pb;Orange_Zone
+Rupnagar (Ropar);pb;Green_Zone
+Fatehgarh Sahib;pb;Green_Zone
+Bathinda:pb;Green_Zone
+FaziIka;pb;Green_Zone
+Jaipur;rj;Red_Zone
+Jodhpur;rj;Red_Zone
+Kota;rj;Red_Zone
+Ajmer;rj;Red_Zone
+Bharatpur;rj;Red_Zone
+Nagaur;rj;Red_Zone
+Banswara;rj;Red_Zone
+Jhalawar;rj;Red_Zone
+Tonk;rj;Orange_Zone
+Jaisalmer;rj;Orange_Zone
+Dausa;rj;Orange_Zone
+Jhunjhunu;rj;Orange_Zone
+Hanumangarh ;rj;Orange_Zone
+Bhilwara;rj;Orange_Zone
+SawaiMadhopur;rj;Orange_Zone
+Chittorgarh;rj;Orange_Zone
+Dungarpur;rj;Orange_Zone
+Udaipur;rj;Orange_Zone
+Dholpur;rj;Orange_Zone
+Sikar;rj;Orange_Zone
+Alwar;rj;Orange_Zone
+Bikaner;rj;Orange_Zone
+Churu;rj;Orange_Zone
+Pali;rj;Orange_Zone
+Barmer;rj;Orange_Zone
+Karauli;rj;Orange_Zone
+Rajsamand;rj;Orange_Zone
+Baran;rj;Green_Zone
+Bundi;rj;Green_Zone
+Ganganagar;rj;Green_Zone
+Jalore;rj;Green_Zone
+Sirohi;rj;Green_Zone
+Pratapgarh;rj;Green_Zone
+North District;sk;Green_Zone
+East District;sk;Green_Zone
+South District;sk;Green_Zone
+West District;sk;Green_Zone
+Chennai;tn;Red_Zone
+Madurai;tn;Red_Zone
+Namakkal;tn;Red_Zone
+Thanjavur;tn;Red_Zone
+Chengalpattu;tn;Red_Zone
+Thiruvallur;tn;Red_Zone
+Tiruppur;tn;Red_Zone
+Ranipet;tn;Red_Zone
+Virudhunagar;tn;Red_Zone
+Thiruvarur;tn;Red_Zone
+Vellore;tn;Red_Zone
+Kanchipuram;tn;Red_Zone
+Theni;tn;Orange_Zone
+Tenkasi;tn;Orange_Zone
+Nagapattinam;tn;Orange_Zone
+Dindigul;tn;Orange_Zone
+Villupuram;tn;Orange_Zone
+Coimbatore;tn Oranqe_Zone
+Cuddalore;tn;Orange_Zone
+Salem;tn;Orange_Zone
+Karur;tn;Orange_Zone
+Tuticorin;tn;Orange_Zone
+Tiruchirappalli;tn Oranee_Zone
+Tirupathur;tn;Orange_Zone
+Kanniyakumari;tn;Orange_Zone
+Tiruvannamalai;tn;Orange_Zone
+Ramanathapuram;tn;Orange_Zone
+Tirunelveli;tn;Orange_Zone
+The Nilgiris;tn;Orange_Zone
+Sivaganga;tn;Orange_Zone
+Perambalur;tn;Orange_Zone
+Kallakurichi;tn;Orange_Zone
+Ariyalur;tn;Orange_Zone
+Erode;tn;Orange_Zone
+Pudukkottai;tn;Orange_Zone
+Dharmapuri;tn;Orange_Zone
+Krishnagiri;tn;Green_Zone
+Hyderabad;tg;Red_Zone
+Suryapet;tg;Red_Zone
+Ranga Reddy;tg;Red_Zone
+MedchalMalkajgiri;tg;Red_Zone
+Vikarabad;tg;Red_Zone
+Warangal Urban;tg;Red_Zone
+Nizamabad;tg;Orange_Zone
+JogulambaGadwal;tg;Orange_Zone
+Nirmal;tg;Orange_Zone
+Nalgonda;tg;Orange_Zone
+Adilabad;tg;Orange_Zone
+Sangareddy;tg;Orange_Zone
+Kamareddy;tg;Orange_Zone
+KumuramBheemAsifabad;tg;Orange_Zone
+Karimnagar;tg;Orange_Zone
+Khammam;tg;Orange_Zone
+Mahabubnagar;tg;Orange_Zone
+Jagitial;tg;Orange_Zone
+RajannaSircilla;tg;Orange_Zone
+JayashankarBhupalapally;tg;Orange_Zone
+Medak;tg;Orange_Zone
+Jangoan;tg;Orange_Zone
+Narayanpet;tg;Orange_Zone
+Mancherial;tg;Orange_Zone
+Peddapalli;tg;Green_Zone
+Nagarkurnool;tg;Green_Zone
+Mulugu;tg;Green_Zone
+Bhadradri Kothagudem;tg;Green_Zone
+Mahabubabad;tg;Green_Zone
+Siddipet;tg;Green_Zone
+Warangal Rural;tg;Green_Zone
+Wanaparthy;tg;Green_Zone
+YadadriBhuvanagiri;tg;Green_Zone
+North Tripura;tr;Orange_Zone
+Gomati;tr;Orange_Zone
+Dhalai;tr;Green_Zone
+South Tripura;tr;Green_Zone
+West Tripura;tr;Green_Zone
+Khowai;tr;Green_Zone
+Sepahijala;tr;Green_Zone
+Unakoti;tr;Green_Zone
+Agra;up;Red_Zone
+Lucknow;up;Red_Zone
+Saharanpur;up;Red_Zone
+Kanpur Nagar;up;Red_Zone
+Moradabad;up;Red_Zone
+Firozabad;up;Red_Zone
+Gautam Buddha Nagar;up;Red_Zone
+Bulandshahr;up;Red_Zone
+Meerut;up;Red_Zone
+RaeBareli;up;Red_Zone
+Varanasi;up;Red_Zone
+Bijnor;up;Red_Zone
+Amroha;up;Red_Zone
+Sant Kabeer Nagar;up;Red_Zone
+Aligarh;up;Red_Zone
+Muzaffarnagar;up;Red_Zone
+Rampur;up;Red_Zone
+Mathura;up;Red_Zone
+Bareilly;up;Red_Zone
+Ghaziabad;up;Orange_Zone
+Hapur;up;Orange_Zone
+Baghpat;up;Orange_Zone
+Basti;up;Orange_Zone
+Budaun;up;Orange_Zone
+Sambhal;up;Orange_Zone
+Auraiya;up;Orange_Zone
+Shamli;up;Orange_Zone
+Sitapur;up;Orange_Zone
+Bahraich;up;Orange_Zone
+Kannauj;up;Orange_Zone
+Azamgarh;up;Orange_Zone
+Mainpuri;up;Orange_Zone
+Shravasti;up;Orange_Zone
+Banda;up;Orange_Zone
+Jaunpur;up;Orange_Zone
+Etah;up;Orange_Zone
+Kasganj;up;Orange_Zone
+Sultanpur;up;Orange_Zone
+Prayagraj;up;Orange_Zone
+Jalaun;up;Orange_Zone
+Mirzapur;up;Orange_Zone
+Etawah;up;Orange_Zone
+Pratapgarh;up;Orange_Zone
+Ghazipur;up;Orange_Zone
+Gonda;up;Orange_Zone
+Mau;up;Orange_Zone
+Bhadohi;up;Orange_Zone
+Unnao;up;Orange_Zone
+Pilibhit;up;Orange_Zone
+Balrampur;up;Orange_Zone
+Ayodhya;up;Orange_Zone
+Gorakhpur;up;Orange_Zone
+Jhansi;up;Orange_Zone
+Hardoi;up;Orange_Zone
+Kaushambi;up;Orange_Zone
+Barabanki;up;Green_Zone
+Kheri;up;Green_Zone
+Hathras;up;Green_Zone
+Maharajganj;up;Green_Zone
+Shahjahanpur;up;Green_Zone
+Ambedkar Nagar;up;Green_Zone
+Ballia;up;Green_Zone
+Chandauli;up;Green_Zone
+Chitrakoot;up;Green_Zone
+Deoria;up;Green_Zone
+Farrukhabad;up;Green_Zone
+Fatehpur;up;Green_Zone
+Hamirpur;up;Green_Zone
+Kanpur Dehat;up;Green_Zone
+Kushi Nagar;up;Green_Zone
+Lalitpur;up;Green_Zone
+Mahoba;up;Green_Zone
+Siddharth Nagar;up;Green_Zone
+Sonbhadra;up;Green_Zone
+Amethi;up;Green_Zone
+Haridwar;ut;Red_Zone
+Dehradun;ut;Orange_Zone
+Nainital;ut;Orange_Zone
+Udam Singh Nagar;ut;Green_Zone
+Almora;ut;Green_Zone
+PauriGarhwal;ut;Green_Zone
+Bageshwar;ut;Green_Zone
+Chamoli;ut;Green_Zone
+Champawat;ut;Green_Zone
+Pithoragarh;ut;Green_Zone
+RudraPrayag;ut;Green_Zone
+TehriGarhwal;ut;Green_Zone
+Uttar Kashi;ut;Green_Zone
+Kolkata;wb;Red_Zone
+Howrah;wb;Red_Zone
+24 Paraganas North;wb;Red_Zone
+24 Paraganas South;wb;Red_Zone
+Medinipur West;wb;Red_Zone
+Medinipur East;wb;Red_Zone
+Darjeeling;wb;Red_Zone
+Jalpaiguri;wb;Red_Zone
+Kalimpong;wb;Red_Zone
+Maldah;wb;Red_Zone
+Hooghly;wb;Orange_Zone
+Paschim Bardhaman;wb;Orange_Zone
+Nadia;wb;Orange_Zone
+Purba Bardhaman;wb;Orange_Zone
+Murshidabad;wb;Orange_Zone
+Dinajpur Uttar;wb;Green_Zone
+Bankura;wb;Green_Zone
+Birbhum;wb;Green_Zone
+Coochbehar;wb;Green_Zone
+Dinajpur Dakshin;wb;Green_Zone
+Purulia;wb;Green_Zone
+Alipurduar;wb;Green_Zone
+Jhargram;wb;Green_Zone
