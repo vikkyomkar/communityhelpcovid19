@@ -93,39 +93,21 @@ Punjab	SAS Nagar Mohali	Jawaharpur village in Derabassi	https://timesofindia.ind
 Punjab	SAS Nagar Mohali	Mukandpur village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
 Punjab	SAS Nagar Mohali	Devi Nagar village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
 Punjab	SAS Nagar Mohali	Haripur Kurha village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
-Uttarakhand	Dehradun	Bhagat Singh Colony	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
-Uttarakhand	Dehradun	Kargi Grant	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
-Uttarakhand	Dehradun	Doiwala Keshav Basti	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
-Uttarakhand	Dehradun	Jhhabrawala 	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
-Uttarakhand	Dehradun	Lakkhibag Muslim Colony	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
-Uttarakhand	Almora	Kureshiyan Mohalla, Ranikhet	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
-Uttarakhand	Almora	Gaindikhata Gurjar Basti	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
-Uttarakhand	Almora	Paniyala Kaliyar, Roorki	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
-Uttarakhand	Almora	Malakpur Mohalla, Manglaur	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
-Uttarakhand	Haridwar	Paanvdhoi, Jwalapur	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
-Uttarakhand	Haridwar	Line No. 16 and 17, Nayi Basti, Haldwani	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
-Uttarakhand	Haridwar	Malik ka Bageecha	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
-Uttarakhand	Nainital	Banbhulpura	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
+Uttarakhand	Dehradun	Bhagat Singh Colony	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
+Uttarakhand	Dehradun	Kargi Grant, Patel Nagar	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
+Uttarakhand	Dehradun	Keshavpuri Basti, Doiwala	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
+Uttarakhand	Dehradun	Jhhabrawala, Doiwala	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
+Uttarakhand	Dehradun	Muslim Colony, Kacchi Colony Sadar Tehsil	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
+Uttarakhand	Dehradun	Azad Nagar Colony ISBT Dehradun	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
+Uttarakhand	Dehradun	Bees Bigha Colony, Nagar Nigam Rishikesh	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
+Uttarakhand	Haridwar	Jwalapur, Tehsil - Haridwar	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
+Uttarakhand	Haridwar	GandiKhata, Tehsil - Haridwar	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
+Uttarakhand	Haridwar	Paniyala Kaliyar, Roorkee	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
+Uttarakhand	Nainital	Banbhulpura, Haldwani	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
 Uttarakhand	Udam Singh Nagar	Gujjar Khatta	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
-West Bengal	Kolkata	Panditiya Road	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
-West Bengal	Kolkata	Mudiali	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
-West Bengal	Kolkata	Bhowanipore,	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
-West Bengal	Kolkata	 Burrabazar	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
-West Bengal	Kolkata	 Nayabad	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
-West Bengal	Howrah	Shibpur	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
-West Bengal	North 24 Parganas	Belgharia	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
-West Bengal	East Midnapore	Egra	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
-West Bengal	Kalimpong	-	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
-West Bengal	Alipore	-	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
+West Bengal	Medinipur East	Egra	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
+West Bengal	Kalimpong	Note: Entire District declared Red Zone Hotspot	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
 West Bengal	Nadia	Tehatta	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	Haldia	-	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	Howrah	 Mallick Fatak area	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	Howrah	Foreshore road	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	Howrah	Rajballabh Saha Lane	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	Howrah	Salkia	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	North 24 Parganas	Dumdum	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	North 24 Parganas	Salt Lake	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	Kolkata	Ultadanga	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
 Assam	Guwahati	Athgaon Kabarsthan Masjid	https://www.ndtv.com/india-news/assam-coronavirus-news-guwahatis-athgaon-kabarsthan-masjid-declared-hotspot-after-first-death-in-sta-2209846
 Maharashtra	Thane	Kajuwadi	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
 Maharashtra	Thane	 Dosti Vihar	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
@@ -810,13 +792,6 @@ Punjab 	Pathankot	Village Sarti, Tikka Tarowan, Hadbast No. 404, Tehsil Dharkala
 Punjab 	SBS Nagar	Pathlawa	https://www.hindustantimes.com/cities/procurement-an-uphill-task-in-sbs-nagar-containment-zone/story-Gz60XbR6GpCnVeK5zkIIXM.html
 Punjab 	SBS Nagar	Ucha Ladhana	https://www.hindustantimes.com/cities/procurement-an-uphill-task-in-sbs-nagar-containment-zone/story-Gz60XbR6GpCnVeK5zkIIXM.html
 Punjab 	SBS Nagar	Maalgill villages	https://www.hindustantimes.com/cities/procurement-an-uphill-task-in-sbs-nagar-containment-zone/story-Gz60XbR6GpCnVeK5zkIIXM.html
-Punjab 	Jalandhar	Mitha Bazaar	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
-Punjab 	Jalandhar	 Lal Bazar	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
-Punjab 	Jalandhar	 Nijatam Nagar	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
-Punjab 	Jalandhar	 Narayan Nagar	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
-Punjab 	Jalandhar	 Maqsudan	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
-Punjab 	Jalandhar	 Kotla Heran (Shahkot)	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
-Punjab 	Jalandhar	Kartarpur	https://www.tribuneindia.com/news/punjab/jalandhar-brings-24-areas-under-containment-plan-70648
 Punjab 	Amritsar	Diamond Estate Colony	https://punjab.punjabkesari.in/amritsar/news/two-areas-of-amritsar-included-in-hotspot-11-people-so-far-corona-positive-1154262
 Punjab 	Amritsar	Udham singh nagar	https://punjab.punjabkesari.in/amritsar/news/two-areas-of-amritsar-included-in-hotspot-11-people-so-far-corona-positive-1154262
 Punjab 	Hoshiarpur	Moranwali,Garhshankar	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
@@ -997,7 +972,7 @@ Odisha 	Sundargarh	Puruna Bisra	https://www.ommcomnews.com/odisha-news/15-covid-
 Odisha 	Sundargarh	Budheljar	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Sundargarh	Santoshpur	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Balasore	Mission Field Gate	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
-Odisha 	Balasore	 Enterance of NILLIABAG lane near 	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
+Odisha 	Balasore	 Entrance of NILLIABAG lane near 	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Balasore	CHIDIAPOL	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Balasore	Ranipatana Chhaka	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Balasore	Apple Tower	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
@@ -1017,7 +992,6 @@ Karnataka	Vijayapura	Jamakhandi	https://www.jagranjosh.com/current-affairs/coron
 Punjab 	SAS Nagar Mohali	Jagatpura	https://twitter.com/dcmohali/status/1251442006364008448
 Andhra Pradesh	Rajahmundry	Wards 26, 28 & 29 Mangalavarapupeta	https://twitter.com/RMCoffice/status/1252065208547209216
 Tamil Nadu 	Chennai	Zone-1 DIV-1 Kamraj nagar 3rd Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
-Tamil Nadu 	Chennai	Zone-1 DIV-1 Valluvar Nagar	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-1 DIV-2 Raamamoorti Nagar	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-3 DIV-25 Sri Lakshmi Nagar	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-3 DIV-32 LakshmipuramGangaiamman Koil Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
@@ -1042,10 +1016,8 @@ Tamil Nadu 	Chennai	Zone-5 DIV-55 MP Garden Street	https://www.jagranjosh.com/cu
 Tamil Nadu 	Chennai	Zone-5 DIV-56 Madura Vasal Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-5 DIV-57 Davidson Street, Prakasam Salai, Kandappa Chetty Street, Chempudoss Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-5 DIV-57 Kasi Chetty Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
-Tamil Nadu 	Chennai	Zone-5 DIV-58 Kodalam muttu Street, Kattur Sadaiappan Street, Naval Hospital Road, Arunachalam Lane	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-5 DIV-59 Owlia Sahib Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-5 DIV-59 Mint Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
-Tamil Nadu 	Chennai	Zone-5 DIV-59 Marusahib Street, VN Dass Road, LGN Road	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-5 DIV-60 Maraikayar Street, Ibrahim Sahib Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-5 DIV-60 Bearer Street Mannady	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-5 DIV-60 Venkata Maistry Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
@@ -1061,7 +1033,6 @@ Tamil Nadu 	Chennai	Zone-6 DIV-68 Deep Garden 6th Street	https://www.jagranjosh.
 Tamil Nadu 	Chennai	Zone-6 DIV-68 Verkadalai Sami Street	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-6 DIV-71 Krishnadass Road	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-6 DIV-73 Alexander st,	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
-Tamil Nadu 	Chennai	Zone-6 DIV-73 Gracy Naga, Pulianthope	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-6 DIV-74 Ak samy st,	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-6 DIV-75 Chellappa st,   	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-6 DIV-76 sathiyandam st,	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
@@ -1071,13 +1042,10 @@ Tamil Nadu 	Chennai	Zone-6 DIV-78 sattannan st,	https://www.jagranjosh.com/curre
 Tamil Nadu 	Chennai	Zone-6 DIV-78 Arunachalam st, Puraisawakkam	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-8 DIV-108 Thirukuralar Street, MMDA Main Road 	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-8 DIV-108 MGR Street, MMDA Main road	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
-Tamil Nadu 	Chennai	Zone-9 DIV-109 Chetpet Harrington road	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-9 DIV-112 Varadarajanpettai (choolaimedu)	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
-Tamil Nadu 	Chennai	Zone-9 DIV-112 Trust puram	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-9 DIV-115 Haji sheikh hussain main street, Royapettah	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-9 DIV-115 Pallappan street, Triplicane	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-9 DIV-115 Mirbakshi ali street, Royapettai	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
-Tamil Nadu 	Chennai	Zone-9 DIV-115 goyya arungiri street, Triplicane	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-9 DIV-120 Jawahar hussain street, Royapettah	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-9 DIV-120 mohammed hussain lane, Royapettah	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-9 DIV-126 Snathome high road,	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
@@ -1097,7 +1065,6 @@ Tamil Nadu 	Chennai	Zone-14 DIV-184 Nehru street, kalkutti, Perungudi	https://ww
 Tamil Nadu 	Chennai	Zone-14 DIV-185 Krishna nagar, Pallavakkam	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-14 DIV-185 Kolavizhi amman nagar, Pallavakkam	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-15 DIV-196 Springdale avenue	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
-Tamil Nadu 	Chennai	Zone-15 DIV-196 injambakkam, Chennai	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Tamil Nadu 	Chennai	Zone-15 DIV-198 MGR Nagar Paniyur, Chennai	https://www.jagranjosh.com/current-affairs/tamil-nadu-coronavirus-hotspots-get-complete-list-of-covid-19-containment-red-zones-in-chennai-and-coimbatore-here-1587462161-1
 Telangana	Khammam	Khammam Town	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
 Telangana	Secunderabad	Lalapet	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
@@ -2320,16 +2287,6 @@ Gujarat 	Surat	Kosad Road, Mansarovar circle of North Zone, katargam	https://www
 Gujarat 	Surat	Krishna Nagar Society, Mansarovar circle of North Zone, katargam	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Surat	Saddhar Society, Mansarovar circle of North Zone, katargam	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Rajasthan 	Tonk	Bamor gate	https://www.bhaskar.com/local/rajasthan/news/rajasthan-jaipur-tonk-coronavirus-covid-19-hotspots-latest-today-news-updates-37-covid-19-positive-cases-in-tonk-127181676.html
-Punjab 	Jalandhar	Basti Daanishamda	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
-Punjab 	Jalandhar	Raja Garden, Kapurthala Road	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
-Punjab 	Jalandhar	Purani Sanjimandi	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
-Punjab 	Jalandhar	Nila Mahal	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
-Punjab 	Jalandhar	Bhairon Bazar	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
-Punjab 	Jalandhar	Kila Mohalla	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
-Punjab 	Jalandhar	Basti Shaikh	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
-Punjab 	Jalandhar	Link Road	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
-Punjab 	Jalandhar	Lohiyan	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
-Punjab 	Jalandhar	Virk Village, Goraya	https://www.jagran.com/punjab/jalandhar-city-12-areas-of-jalandhar-declared-containment-zone-entry-exit-sealed-20206752.html
 Rajasthan	Kota	Makbara Area	https://www.bhaskar.com/local/rajasthan/news/coronavirus-kota-update-covid-19-news-rajasthan-kota-corona-hotspots-areas-total-corona-cases-rise-to-7-127175419.html
 Rajasthan	Kota	TailGhar	https://www.bhaskar.com/local/rajasthan/news/coronavirus-kota-update-covid-19-news-rajasthan-kota-corona-hotspots-areas-total-corona-cases-rise-to-7-127175419.html
 Punjab 	Patiala	Rajpura	https://www.hindustantimes.com/cities/gambling-hookah-parties-turn-rajpura-into-punjab-s-new-covid-hotspot/story-BRB2Y2vkiO2JMfVwPcvF3L.html
@@ -2544,7 +2501,6 @@ Karnataka 	Kalaburagi	Kalaburagi Nagar	https://twitter.com/get2nmukul/status/125
 Karnataka 	Kalaburagi	Kalaburagi Taluk	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka	Bengaluru Urban	South Bengluru Ward  134 - Bapuji Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	South Bengluru Ward  133 - Hampi Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
-Karnataka	Bengaluru Urban	South Bengluru Ward  158 - Deepanjali Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	South Bengluru Ward  169 - Byrasandra	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	West Bengaluru Ward  136 - Jagajeevanram Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	West Bengaluru Ward  138 - Chalavadipalya	http://covid.bbmpgov.in/reports/report20200429.pdf
@@ -2567,18 +2523,678 @@ Bihar	Rohtas	Nokha	https://www.newindianexpress.com/nation/2020/apr/28/patna-eme
 Bihar	Rohtas	Tapeshwariganj	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
 Bihar	Rohtas	Dehri-on-Sone	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
 Bihar	Patna	Khajpura	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
-Bihar	Patna	Jagdevpath	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
-Bihar	Patna	Saalimpur of Bakhtiyarpur	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
-Bihar	Patna	Beur	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
+Bihar	Patna	Sultanganj	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
+Bihar	Patna	Mansapuri (Machhli Gali)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
+Bihar	Patna	Adarsh Colony Road number 5 (Patel Nagar)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
 Bihar	Kaimur	Chainpur village	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
 Bihar	Munger	Sadar Bazar area of Jamalpur	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
 Bihar	West Champaran	Shanichari in Yogapatti, West Champaran	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
-Bihar	Patna	New Patliputra Colony	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
-Bihar	Patna	Rajabajar Machhli Gali	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
-Bihar	Patna	Phulwari	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
-Bihar	Patna	Parsa	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
-Bihar	Patna	airport	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
-Bihar	Patna	Daak Bangla Chauraha	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
-Bihar	Patna	Birla Colony	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
-Bihar	Patna	Naubatpur	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
-Bihar	Patna	Street Behind BPSC Office	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
+Bihar	Patna	Road 1E (New Patliputra Colony)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
+Bihar	Patna	Ashok Tower (Rajabajar Machhli Gali)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
+Bihar	Patna	Panditji Gali (Khagaul Road, Phulwarisharif)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
+Bihar	Patna	Meethakuan Road (Bhathapar, Dhanaut)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
+Bihar	Patna	Paliganj	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
+Bihar	Patna	Daak Bangla Chauraha	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
+Bihar	Patna	Birla Colony (Phulwarisharif)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
+Bihar	Patna	Naubatpur village	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
+Bihar	Patna	Slum area near BPSC office on Bailey Road	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
+Karnataka	Bengaluru Urban	South Bengluru Ward  158 - Deepanjali Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1831629006972355/1831628030305786/?type=3&theater
+Tamil Nadu 	Chennai	Zone-9 DIV-110 Chetpet Harrington road	https://www.thehindu.com/news/cities/chennai/article31456278.ece/binary/CHENNAICONTAINMENTSTREETSZONEDETAILSApril282020
+Tamil Nadu 	Chennai	Zone-9 DIV-112 Trust Puram 1st Street	https://www.thehindu.com/news/cities/chennai/article31456278.ece/binary/CHENNAICONTAINMENTSTREETSZONEDETAILSApril282020
+Tamil Nadu 	Chennai	Zone-5 DIV-58 Kovalam muthu street	https://www.thehindu.com/news/cities/chennai/article31456278.ece/binary/CHENNAICONTAINMENTSTREETSZONEDETAILSApril282020
+Tamil Nadu 	Chennai	Zone-5 DIV-58 Naval Hospital Road,8th S	https://www.thehindu.com/news/cities/chennai/article31456278.ece/binary/CHENNAICONTAINMENTSTREETSZONEDETAILSApril282020
+Tamil Nadu 	Chennai	Zone-5 DIV-58 Arunachalam Lane	https://www.thehindu.com/news/cities/chennai/article31456278.ece/binary/CHENNAICONTAINMENTSTREETSZONEDETAILSApril282020
+Tamil Nadu 	Chennai	Zone-5 DIV-58 Kattur Sadaiappan Steet	https://www.thehindu.com/news/cities/chennai/article31456278.ece/binary/CHENNAICONTAINMENTSTREETSZONEDETAILSApril282020
+Tamil Nadu 	Chennai	Zone-5 DIV-59 MMC Men's hostal	https://www.thehindu.com/news/cities/chennai/article31456278.ece/binary/CHENNAICONTAINMENTSTREETSZONEDETAILSApril282020
+Tamil Nadu 	Chennai	Zone-5 DIV-60 Ibrahim Sahib Street	https://www.thehindu.com/news/cities/chennai/article31456278.ece/binary/CHENNAICONTAINMENTSTREETSZONEDETAILSApril282020
+Tamil Nadu 	Chennai	Zone-5 DIV-63 Border thottam	https://www.thehindu.com/news/cities/chennai/article31456278.ece/binary/CHENNAICONTAINMENTSTREETSZONEDETAILSApril282020
+West Bengal	Kolkata	CZ 10 | 32/9 BT Road, Cossipore	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 11 | Chiriya More	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 11 | 26/9 Khagen Chatterjee Road (Whole Slum)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 11 | 26 Khagen Chatterjee Road (Whole Slum)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 12 | 22/4/H/6 Khagen Chatterjee Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 12 | 22 Khagen Chatterjee Road (Whole Slum)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 13 | 95 Kashipur Road (Whole Slum)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 13 | 96 Kashipur Road (Whole Slum)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 13 | 99 Kashipur Road (Whole Slum)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 13 | 100 Kashipur Road (Whole Slum)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 2 | H/22 JK Ghosh Road, Lal Maidan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 3 | Krishna Mallick Lane, Lal Maidan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 3 | 6 Belgachia Road, Lal Maidan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 3 | JK Ghosh Road, Lal Maidan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 4 | 51/2 Ananth Nath Deb Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 4 | Ananth Deb Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 4 | Manmatha Dutta Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 4 | Tala Park Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 5 | 13/A/6 Raja Manindra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 5 | 5 Raja Manindra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 5 | 6 Raja Manindra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 5 | 7 Raja Manindra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 5 | 8 Raja Manindra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 5 | 10 Raja Manindra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 5 | 11 Raja Manindra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 5 | 12 Raja Manindra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 5 | 13 Raja Manindra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 5 | 14 Raja Manindra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 5 | Rani Harshamukhi Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 5 | Chandranath Simlai Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 10 Umakanta Sen Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 11 Umakanta Sen Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 12 Umakanta Sen Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 3 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 4 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 5 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 6 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 7 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 8 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 9 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 10 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 11 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 12 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 13 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 14 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 15 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 16 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 17 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 18 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 19 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 20 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 22 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 23 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 6 | 24 Northern Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 90/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 91/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 92/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 93/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 94/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 96/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 99/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 101/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 102/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 103/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 104/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 105/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 106/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 107/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | 108/1B Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | Kolkata Station Jhupri	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 7 | Raicharan Sadhukhan Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 9 | Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 9 | 20 Belgachhia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 9 | Shirish Chowdhury Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 9 | Nilmoni Mitra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 9 | Banamali Chatterjee Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 9 | Shyamacharan Mukherjee Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 8 | 25 Belgachia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 8 | 26 Belgachia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 8 | 27 Belgachia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 8 | JK Ghosh Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 14 | Karim Box Road of Kashipur Police Station	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 15/16 | 23/1 Cossipore Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 17 | 8 Sethpukur Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 17 | 1 Jogen Mukherjee Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 17 | 4 Jogen Mukherjee Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 18 | 1/5 A Sachin Mitra Lane, Bidhan Sarani, Baghbazar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 18 | Bagbazar Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 18 | Ananda Chatterjee Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 18 | Girish Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 1 | Abhay Mitra Street, Shampukur	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 19 | 20B Shyampukur Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 19 | Nabakumar Raha Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 20 | 36 Nalin Sarkar Street, Shyambazar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 20 | Nalin Sarkar Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 20 | Sikdar Bagan Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 20 | Ganendra Mitra Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 20 | Aurobinda Sarani	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 21 | Bidhan Sarani	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 21 | Mohanlal Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 21 | RG Kar Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 36 | 33/4th Biplobi Barin Ghosh Sarani	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 35 | 109 Ultodanga Main Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 22 | 23 Canal West Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 22 | Canal West Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 22 | Vivekananda Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 22 | Munshi Para Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 22 | Kalimuddin Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 22 | Kali Banerjee Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 23 | 48 Shimla Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 23 | Khasmahal Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 23 | Haji Zakaria Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 24 | Raja Dhirendra Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 24 | Lalabagan Nirod Bihari	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 26 | 93/3 Hari Ghosh Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 27 | 37/1 Durgacharan Mitra Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 27 | Durgacharan Mitra Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 27 | Chidam Mudi Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 26 | Bhim Ghosh Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 26 | Kashi Bose Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 26 | Ram Narayan Bhattacharya Lane.	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 28 | 456A Rabindra Sarani	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 28 | Rabindra Sarani	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 28 | BK Pal Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 28 | Garanhata Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 28 | Sonagachi Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 29 | 456C Rabindra Sarani	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 30 | Imam Box Lane, Kolkata 700006	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 30 | Beadon Street, Kolkata 700006	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 30 | 1/1 Imam Bose Lane, Kolkata 700006	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 30 | Fakir Chakraborty Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 31 | Joy Mitra Street, Kolkata 700005	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 31 | Masjid Bari Street, Kolkata 700005	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 32 | Nilmoni Mitra Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 32 | 8/1 Nilmoni Mitra Street, Beniatola	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 32 | Ramchand Ghosh Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 32 | Zariff Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 25 | 103 Beniatola Street, Jorabagan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 25 | Beniatola Lane, Jorabagan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 34 | 22 Kashi Dutta Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 51 | 10 Mondal Street, Jorabagan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 51 | Sujendra Seth Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 52 | 51/4 Strand Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 52 | Strand Bank Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 53 | 2 Nirdohar Ghat Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 53 | Nalini Seth Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 53 | Sonapatti, Barabazar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 54 | Hariram Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 54 | Hariram Goenka Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 69 | 25 Shiv Thakur Lane (opposite Jorasanko Thakurbari)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 71 | Raja Brajendra Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 71 | Sikdar Para Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 72 | 3 Hanspukur First Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 72 | Sri Hariram Goenka Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 55 | Brajdulal Street, Jorabagan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 56 | 15 PK Tagore Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 56 | PK Tagore Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 57 | 8 Kali Krishna Tagore Street, Barabazar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 58 | 48 Pathuria Ghata Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 59 | Beadon Street, Jorabagan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 59 | Nimtala Ghat Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 59 | Baishnab Seth Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 68 | 8/1D Braanashi Ghosh Second Lane, Girish Park	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 60 | Ramesh Dutta Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 60 | Ramkrishna Bagchi Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 61 | 4/1/2 A Radhaprasad Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 62 | 173A Vivekananda Road, Battala	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 63 | Raja Raj Narayan Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 64 | 7C Dr. MN Chatterjee Sarani, Narkeldanga	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 65 | 15 HF Canal West Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 67 | 25 Harinath Dey Road, Narkeldanga	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 38 | Police Quarters, 49 Narkeldanga Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 40 | 43 Canal East Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 41 | 3/13 Narkeldanga Main Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 42 | P-19 Narkeldanga Main Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 43 | P342 A CIT Road, Scheme 8, Phoolbagan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 44 | Motilal Basal Lane, Phoolbagan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 45 | 32 Ramakrishna Samadhi Lane, Kadapara	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 46 | 100A Maniktala Main Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 47 | ID & BG Hospital Campus Quarters, 57 Beliaghata Main Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 50 | 165H/1 Beleghata Main Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 78 | 11/1/8/12 Harshi Street, Rajabazar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 79 | Railway Quarter 247/C, Officers Colony, Kaizer Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 80 | 7 Patwar Bagan Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 73 | 24/H Bechu Chatterjee Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 73 | Herambo Das Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 73 | Amherst Street 	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 74 | 110A MM Barman Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 74 | Shambhu Chatterjee Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 74 | Mitra Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 74 | MM Burman Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 75 | 164/A Muktaram Babu Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 75 | 2nd Lane, Muktaram Babu	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 76 | 18/1A Balak Dutta Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 76 | Marcus Square	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 83 | College Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 84 | Surya Sen Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 86 | 12/2 Harish Sikdar Path, Bowbazar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 81 | 145B Chittaranjan Avenue, Kolkata	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 82/92 | 212 C, MG Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 93 | 2B, Amartal Street, Burrabazar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 94 | Gobinda Chand Dhar Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 95 | 60 Phears Lane, Boubazar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 96 | 34 Harin Bari Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 97 | 60 Colootola Street,Kolkata 700073	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 96 | Tiretta Bazar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 96 | Damzan Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 94 | 94 Rabindra Sarani	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 95 | 73 Sagar Dutta Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 95 | Debendra Nath Mallick Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 105 | Bc Roy Students Hostel, Calcutta Medical College	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 101 | 35,Chata Wala Gali	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 101 | Haidi Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 101 | Sun Yat Sen Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 102 | 1 kabiraj Road In Front Of Kohinoor Guest House	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 103 | 20 Zakaria Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 104 | 116/5 MG Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 104 | Nilmadhab Sen lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 106 | 1 New Boubazar Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 106 | Gopi Bose Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 106 | B B Gangu1y Street, Kolkata 12	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 106 | Nirmaj Chandra Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 106 | C R Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 106 | Fakir Dey Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 106 | Halder Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 106 | Jadu Nath Dey Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 87 | 45B Premchand Boral Street,Bowbazar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 88 | 22 Dr Jagabandhu Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 90 | 114 Bipin Bihari Ganguly Street, Sealdah	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 91 | Banerjee Lane, Kolkata 700073	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 89 | Ram Banerjee Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 89 | Gobinda Sen Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 90 | Nabin Chand Boral Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 98 | 27 Scott Lane Sealdah	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 99 | Manmata Mukherjee Row	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 99 | Dr Debendra Mukherjee Row	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 99 | Amherst Street, Kol 9	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 98 | BB Ganguly Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 100 | Refuge Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 100 | Serpentine Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 100 | Santosh Mitra Square	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 100 | Sashi Bhushan Dey Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 107 | 49/1 SN Banerjee Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 107 | Smith Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 111 | 7H/11,Hatibagan Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 108 | 74,Dr. Lalmohan Bhatiacharjee Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 109 | 138 AJC Bose Road, Entally	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 110 | P-15 CIT Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 110 | Pamer Bazar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 109 | NRS Quarters	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 109 | Chatu Babulane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 109 | Dehi Entally	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 110 | Ananda Palit	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 141 | 4/2, Convent Lane, Motijheel Bustee	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 142 | 150/2B Debendra Chandra Dey Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 142 | D.C Dey Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 143 | 25/1 Radhanath Chowdhury Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 144 | 11, Gobinda Khatik Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 145 | Convent Lane, Entally	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 125 | 1/2 Rani Rashmoni Garden Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 1/1 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 1 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 2 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 3 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 4 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 5 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 6 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 7 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 8 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 9 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 10 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 11 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 12 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 13 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 14 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 15 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 16 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 17 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 18 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 19 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 20 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 21 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 22 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 23 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 126 | 24 Canal South Road, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 127 | 12/1 Beliaghata Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 128 | 70a Purbayan, Chingrighata, Canal South Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 130 | 25B, Christopher Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 58 | South Bionchtala, Dhapa	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 131 | 67, Dc Dey Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 131 | Muslim Camp, Tangra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 133 | 51A Tiljala Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 134 | B3/2 Topsla Road South	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 135 | 2A & B Lower Range, Beckbagan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 136 | Brindavan Gardens, Christopher Road (Building 21, Floor 3, Flat 3)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 136 | Gobinda Khatick Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 137 | 43 Topsia South Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 119 | 4b Jannagar Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 112 | 11 hare Krishna Konar Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 113 | Kimber Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 113 | Ostager Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 113 | Sundri Mohan Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 121 | Creamatorium Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 121 | 76 Linton Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 114 | Anjuman Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 114 | Cantopher Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 114 | Mofidul Islam Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 114 | AJC Bose Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 114 | Wailiton Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 115 | 19b, Goranchand Lane, Entally, Beniapukur, Kolkata 700094, Gorachand Lane, Kasai Para	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 116 | 17/1 Gorachand Lane, Entally, Kolkata 700094	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 117 | 35 H/O Gora Chand Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 118 | 50/C, Beniapukur Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 122 | 30 Macleod Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 149 | 127B, Park Street, Circus Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 123 | 38 Alimuddin Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 124 | 35/3 Alimuddin Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 124 | 24/1 Sharif Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 124 | Nawab Abdul Latif Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 124 | Alimuddin Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 124 | Aga Mehedi Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 139 | 22/8/7, Bright Street, Circus Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 140 | Meher Ali Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 150 | 53/3 Bright Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 152 | 9A Tiljala Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 153 | Nursing Hostel, 55 Chatterjee Heart Clinic, Dr Biresh Guha Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 154 | 6/H/8 CK Lane,Circus Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 154 |  Miajan Ostagar Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 154 | Tiljala Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 154 | CK Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 155 |  6 Miajan Ostagar Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 155 | Samsul Huda Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 156 | 62 J Topsia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 157 | 47 Golam Jalani Khan Road, Tiljala	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 162 | 70A Topsia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 162 | Topsia 2nd Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 163 | 17/1/10, Topsia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 164 | 11/1A Topsia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 165 | 5 Topsia 1st Lane, Tiljala West	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 167 | 82/7 M Ballygunge Place	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 167 | Anil Mitra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 167 | Rash Bihari Avenue	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 167 | Ballygunge Place East	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 167 | Ballygunge Garden	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 167 | Ekdalia Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 168 | 13/L Ahiripukur 2nd Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 168 | 4f Ahiripukur 1st lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 168 | Ahiripukur Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 169 | 100/1 Karaya Road, Ballygunge	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 169 | Kareya Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 169 | Tarak Dutta Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 169 | Beck Bagan Row	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 169 | Col Blswas Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 170 | 47A Hazra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 170 | 48 Hazra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 170 | 44 Hazra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 170 | 41 Hazra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 170 | Ballygunge Circular Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 170 | Deodar Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 171 | 39B, Beltala Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 171 | Lr Sarani	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 171 | Sitala Mandir, Ballygunge	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 172 | 7 Clarke Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 172 | Palit Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 172 | Ghoshal Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 173 | Quarter No 01/1, Ramkrishna Missioin Seva Prathisthan, 99 Sarat Bose Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 174 | 37 Panditiya Road Fort Oasis Complex	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 175 | Lake Avenue, Kolkata-700026	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 147 SP Mukherjee Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 15 SR Das Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 16 SR Das Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 17 SR Das Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 18 SR Das Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 19 SR Das Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 20 SR Das Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 21 SR Das Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 22 SR Das Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 23 SR Das Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 24 SR Das Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 25 SR Das Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 26 SR Das Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 27 SR Das Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 143 SP Mukherjee Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 176 | 141 SP Mukherjee Road, Kalighat	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 177 | Haji Mohshin Road, Kol- 26	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 179 | 9/6 Fern Road, Kol-19	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 178 | 10/4B Elgin Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 180 | 56A Paddapukur Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 181 | Ranisankari Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 181 | Harish Mukherjee Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 182 | Ljs Enclave,Command Hospital, Alipore	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 183 | 18/4c, Chetla Hat Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 184 | 28/1 Judges Court Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 184 | Gopal Nagar Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 185 | 7/2 Diamond Harbour Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 185 | CWE Campus	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 186 | 19/H/9 Watganj, Watganj	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 187 | Quarter No F9, Rental Housing, Georges Gate Road, Hastings (exact location not known)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 188 | Watgunge Street	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 188 | Nazir Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 189 | Bishu Babu Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 190 | 3A, Gangadhar Banerjee Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 191 | 18/1/8/7 Mominpur Road, Khidderpore	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 192 | 8no.H/32 Bhukailash Road, Ekbalpore	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 193 | 49/5 Karl Marx Sarani, Khidderpore	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 193 | 48 KM Sarani	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 194 | Block 19, Flat 15, South Eastern Railways Officers Colony, Garden Reach	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 194 | BNR North Colony	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 195 | 25 Sabjibagan Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 196 | Block J, Alipore	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 196 | Kalighat Railway Siding Quarter (exact location not known)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 197 | 119/30 Sarat Ghosh Garden Road, Kasba	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 197 | Sarat Ghosh Garden Road, Kasba	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 197 | Banerjee Para, Dhakuria	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 198 | 15/6 Rahim Ostagor Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 199 | 50/2 Hind Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 200 | 6 Briji Road, Patuli	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 201 | M Block, Baishnabghata Patuli Township	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 201 | N Block, Baishnabghata Patuli Township	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 202 | 23 Ramkrishna Nagar Garia	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 203 | Ananda Pally Purba putuary Kolkata-700093	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 204 | 18, A P C Park, Baghajatin	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 205 | ED 83, Rajdanga Main Road, Kolkata 107	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 206 | 236 Madurdaha Housing Co. Op, Kolkata 700107, Madurdaha	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 207 | Chowbaga Majhipara, Ananda Pur, Kolkata 700105	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 208 | UpL05 ,1301 Upohar Luxury Complex	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 209 | J/R, Sahid Smiriti Colony, Pancha Sayar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 210 | B/25, Bagha Jatin Park	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 211 | Flat No. 2B, 2775, Nayabad, New Garia	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 212 | 12A Tower 2, Diamond City South	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 212 | MG Road, Tollygunge	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 212 | KM Lane, Tollygunge	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 212 | RR Road, Tollygunge	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 213 | Roy Bahadur Road New Alipur	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 213 | BL Shah Road New Alipur	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 214 | P-280,Behala Airport Road,Parnashree	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 216 | 23/25/1 Dr A.K Road, Badartala, Garden Reach	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 217 | 23/65/3 Lenin Road, Badartala, Garden Reach	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 217 | Panch Para , Garden Reach	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 217 | Nadial Road, Garden Reach	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 218 | B-5,Prince Dilwar Jha Lane Gardenreach	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 219 | Paharpur Road, Metiaburuz	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 220 | G-157, Shyamlal Lane, Garden Reach	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 221 | 42/2 Kasai Mahalla, Near Bengali Bazar, Garden Reach	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 222 | 261/B Dewan Bagan, Kolkata 24	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 222 | Akra Road, Kolkata 24	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 223 | Fatepur 1st Lane, Near Metiaburuz, Kolkata 700027	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 223 | Fatepur 2nd Lane, Near Metiaburuz, Kolkata 700027	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 224 | R-121 Masjid Talab Lane, Garden Reach	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 224 | Masjid Talab, Garden Reach	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 224 | Lichu Bagan, Garden Reach	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 224 | Karbala Lane, Garden Reach	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 225 | 5176 Cotton Mill Lane, Metiaburuz	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 225 | Karbala Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 225 | Cotton Mill Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 226 | S6/3A/1, Santosh Roy Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 227 | Brojamani Debya Road, Kolkata 700061	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 227 | Narayana Road, Kolkata 700061	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 227 | KK Road, Kolkata 700061	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 227 | D.H. Road, Kolkata 700061	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Kolkata	CZ 33 | 105 MD Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Banerjee Bagan Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Fakir Pathak Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Kolu Para Lane Salkia	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Sri Aurbindo Road Howrah	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Uttam Ghosh Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Gopal Ghosh Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Kaibarta Para Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Bhirav Dutta Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Nandi Bagan Lane 	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Atul Ghosh Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Upendra Mitra Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Shyama Charan Chadhary Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Belilious Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Sanatan Mistri Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	12 No. Jolapara Masjid Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Madhusudhan Biswas Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Satkori Chatterjee Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Rameshwar Malia Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Basuruddin Munsi Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	66 No. Jolapara Masjid Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Shri Aurobindo Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Raj Ballav Saha Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Mahendra Nath Roy Lane Howrah	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Kali Babur Bazaar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Kailash Bose Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Baroda Charan Bhattacharjee Lane Howrah	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Gopal Banerjee Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Chintamoni Dey Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Hat Lane, Mullick Fatak	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Mullick Fatak	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	GCRC Cowie Ghat Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Cowies Ghat Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Ban Behari Bose Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Abinash Banerjee Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Kali Kumar Mukherjee Lane	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Ganges Garden Apartment	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Andul Road near Narayana Hospital	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Kazipara Lane, Kazipada, Shalimar, Howrah, West Bengal	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Carry Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Kashi Mondal Lane, Ghusuri	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Girish Ghosh Road, Ghusuri	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Bhattonagar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	C R Das Sarani, Ghosh Para	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	South Chakpara	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Jhawtalla Chakpara	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	ESI Housing Complex, Baltikuri (exact location not known)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Wadipur, Domjur	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Mallickpara, Uttar Dhulagori	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Panchpara, Sankrail	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal	Howrah	Village- Nalpur	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Apollo Nursing Home	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Debalaya Apartment	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Nishikanan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Charnock Hospital	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Shitala Mandir	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Kaikhali Mondal Ganthi	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Haldiram	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Teghoria 2nd Lane (Near Tarun Sangha Club)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Karunamoyee Area	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	FD Block	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	197, GC Block	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	AD Block	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	N. N. Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Lake Town Block B	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Golaghata Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Dakshindari Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Gorakshabasi Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Kabi Bharat Chandra Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Neogipara Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Vikram Super Market	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Nanda Kumar Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Rathtala	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Club Town Heights	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Old Nimta Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Jaganta Pally	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Rani Park	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Sarat Pally	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Khalisakota Pally	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Bisorpara Gazibari More 	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Sibachal Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	K.K. Ram Das Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Pathanpur	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Purba Alipur (near Gangulybari)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Airport Gate No 1	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Mahajati Nagar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Prasanna Chatterjee Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Barishal Pally	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Michael Nagar (opposite Madhusudhan Lake)	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	East Bankimpally	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	East Udayrajpur	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Tutepara Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Ghatakpara	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Sadhu Mukherjee Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Kalikapur	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Shrinikatan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Building no 5	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Sithir Para Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	North 24 Parganas	Chandrasekhar Roy Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	Hooghly	Uttarpara Kotrung	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	Hooghly	Dankuni	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	Hooghly	Srerampore	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	Hooghly	Rishra	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	Hooghly	Konnagar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	Hooghly	Baidyabati	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	Hooghly	Champadani	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	Hooghly	Chandannagar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	Hooghly	Bhadreshwar	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	Hooghly	Raghunathpur	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	Hooghly	Garalgacha	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+West Bengal 	Hooghly	Barijhati	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
+Bihar	Patna	Beur	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
+Bihar	Patna	parsa	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
+West Bengal	Siliguri	Ward 41 (Bankim Colony)	https://www.google.com/maps/d/u/0/embed?mid=1x7LsCnI9Hx0VUBEbhI2JVxA5Qy66S0BX&ll=26.729932135049125%2C88.4088164798219&z=13
+West Bengal	Siliguri	Ward 47 (Pati Colony & Dhanchanan Colony	https://www.google.com/maps/d/u/0/embed?mid=1x7LsCnI9Hx0VUBEbhI2JVxA5Qy66S0BX&ll=26.729932135049125%2C88.4088164798219&z=13
+West Bengal	Siliguri	Kawakhli	https://www.google.com/maps/d/u/0/embed?mid=1x7LsCnI9Hx0VUBEbhI2JVxA5Qy66S0BX&ll=26.729932135049125%2C88.4088164798219&z=13
+Maharashtra 	Mumbai	Ward - FS ITC Hotel, Dr Ambedkar Road, Parel	https://twitter.com/Mumbaipays/status/1254707552245301249
+Maharashtra 	Mumbai	Ward - FS Javeri House, Dr Batliwala Road, Parel	https://twitter.com/Mumbaipays/status/1254707552245301249
+Maharashtra 	Mumbai	Ward - FS Bhuvaneshwar Bldg, Dr Walimbe Marg, Parel	https://twitter.com/Mumbaipays/status/1254707552245301249
+Odisha 	Balasore	6 villages of Talanagar	https://pragativadi.com/balasore-containment-orders-issued-for-several-villages/
+Odisha 	Balasore	Sabira panchayats in Soro block	https://pragativadi.com/balasore-containment-orders-issued-for-several-villages/
+Odisha 	Balasore	2 villages of Antara panchayat in Khaira block 	https://pragativadi.com/balasore-containment-orders-issued-for-several-villages/
+Odisha 	Deogarh	Basudevpur, Kalanda gram panchayat	https://kalingatv.com/state/7-villages-in-deogarh-declared-as-covid-19-containment-zones-informs-district-admin/
+Odisha 	Deogarh	Khuntaposhi, Kalanda gram panchayat	https://kalingatv.com/state/7-villages-in-deogarh-declared-as-covid-19-containment-zones-informs-district-admin/
+Odisha 	Deogarh	Jhatkiposhi, Kalanda gram panchayat	https://kalingatv.com/state/7-villages-in-deogarh-declared-as-covid-19-containment-zones-informs-district-admin/
+Odisha 	Deogarh	Samantrapali, Kalanda gram panchayat	https://kalingatv.com/state/7-villages-in-deogarh-declared-as-covid-19-containment-zones-informs-district-admin/
+Odisha 	Deogarh	Nuagaon, Kalanda gram panchayat	https://kalingatv.com/state/7-villages-in-deogarh-declared-as-covid-19-containment-zones-informs-district-admin/
+Odisha 	Deogarh	Kamalabagicha, Kalanda gram panchayat	https://kalingatv.com/state/7-villages-in-deogarh-declared-as-covid-19-containment-zones-informs-district-admin/
+Odisha 	Deogarh	Sunamunda village under Baniakiinda GP	https://kalingatv.com/state/7-villages-in-deogarh-declared-as-covid-19-containment-zones-informs-district-admin/
+Maharashtra 	Mumbai	Ward - FS Abhishek Society, Spring Mills Compound, Naigaon, Dadar (East)	https://twitter.com/Mumbaipays/status/1254706525207031808
+Maharashtra 	Mumbai	Ward - FS Gautam Nagar Bldg, Dadasaheb Phalke Road, Naigaon, Dadar (East)	https://twitter.com/Mumbaipays/status/1254706525207031808
+Maharashtra 	Mumbai	Ward - FS Ahmed Sailor Compound, Opp BDD Chawl, Naigaon, Dadar (East)	https://twitter.com/Mumbaipays/status/1254706525207031808
+Punjab 	Jalandhar	Mohalla no. 4 Jalandhar Cantt, Next street to Mohalla no. 8	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Raja Garden Basti Danishmanda, Basti Bawa Khel, Gautam Nagar, Kacha Kot, Maharaja Garden, Birdi Colony, Raja Garden Extension, Gakhlan Pulli, Sashtri Nagar, New Shastri Nagar, Tara Singh Avenue	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Ravidas Nagar Basti Danishmanda, Raseela Nagar, Shivaji Nagar, Chandigarh Mohalla, Lasoodi Mohalla	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Neela Mahal, Karar kha Mohalla	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	New Jawala Nagar, One street in Jawala Nagar	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Sant Nagar, Street next to New Sant Nagar, One street in Chauhan Nagar	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Basti Sheikh, WQ & WP Mochian Mohalla, Dhokian Mohalla, Satra Mohalla	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Motti Nagar, Sadar Colony	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Pakka Baagh, Area nearby Company Baagh	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	New Dashmesh Nagar, Streets next to Dashmesh Nagar, Streets next to Geeta Colony, Streets next to Ishwar Colony	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	WM Basti Gujjan, One street in Gobind Nagar, Mithu Basti Harbansh Nagar, Virdi Nagar, J. P. Nagar, Sports Colony, Ashok Nagar, Nizatam Nagar, Diyal Nagar, Tagore Nagar, Mangu Basti, Uttam Nagar, Model House, New Kartaar Nagar, Guru Nanak Nagar, Tilak Nagar	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Santokhpura, One Street in Niwi Abadi	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Central Town, Vikram Pura, Chandan Nagar, Fatehpuri, Deen Dayal Upadhyay Nagar,	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Makhdumpura, Street next to Shastri Nagar, Street next to Lajwant Nagar	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Baalmiki Mohalla, Two Streets next to Abadpura	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	New Raj Nagar, Street next to Raj Nagar, Katehara Mohalla	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Tej Mohan Nagar, One street in Sant Nagar	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Saheed Bhagat Singh Colony, Baba Balak Nath Colony	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Mitha Bazaar, Gaaji Gulla, Gurdev Nagar, Lawa Mohalla, Gopal Nagar, Basti Adda, Nauhrian Bazaar, Naaj Cinema Dilkusha Market, Laal Bazaar, Baagh Karam Baksh, Killa Mohalla, Gudd Mandi, Phagwara Gate, Sekhan Bazaar, Rasta Mohalla, Shivraaj Garh, Jaura Gate	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	New Gobind Nagar, One street in Gobind Nagar	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Karol Baagh, Street Next to Rail Vihar	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Jattpura, Charanjeet Pura	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Purani Sabji Mandi, Imamnasar, Gudd Mandi, Nauhrian Bazaar, Bassan Bazaar, Bhaatda Mohalla, Kotwaali Bazaar	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Anand Nagar, Ashok Vihar, Vivekanand Park, Golden Avenue, Kalia Colony, Galli no. 2 Ravidas Nagar, Subash Nagar, Guru Amardas Nagar, National Park, Sabji Mandi Jhugian, Shanti Vihar	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Narayan Nagar, Two Streets next to Pakka Baagh	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Nizatam Nagar, Narayan Nagar	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Ward no. 12 Lohian (Tehsil Shahkot)	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Kerala 	Thiruvananthapuram	Neyyattinkara Municipality	https://twitter.com/BreakingViews4u/status/1255850649532522496
+Kerala 	Kollam	Ochira Panchayat 	https://twitter.com/BreakingViews4u/status/1255850649532522496
+Kerala 	Kollam	Thrikkovilvattom panchayat 	https://twitter.com/BreakingViews4u/status/1255850649532522496
+Kerala 	Kottayam	Udayanapuram panchayat	https://twitter.com/BreakingViews4u/status/1255850649532522496
+Tamil Nadu 	Tiruppur	Singaravellan Nagar	https://www.dailythanthi.com/News/Districts/2020/04/26015640/Corona-examination-of-37-pregnant-women-in-Tirupur.vpf
+Tamil Nadu 	Tiruppur	Kumaranandapuram	https://www.dailythanthi.com/News/Districts/2020/04/26015640/Corona-examination-of-37-pregnant-women-in-Tirupur.vpf
+Tamil Nadu 	Tiruppur	Avinashi	https://www.dailythanthi.com/News/Districts/2020/04/25005500/Impact-of-coronavirus-in-Tirupur-district-has-not.vpf
+Tamil Nadu 	Tiruppur	Mangalam	https://www.dailythanthi.com/News/Districts/2020/04/25005500/Impact-of-coronavirus-in-Tirupur-district-has-not.vpf
+Tamil Nadu 	Tiruppur	Kangeyam	https://www.dailythanthi.com/News/Districts/2020/04/25005500/Impact-of-coronavirus-in-Tirupur-district-has-not.vpf
+Tamil Nadu 	Tiruppur	Tarapuram	https://www.dailythanthi.com/News/Districts/2020/04/25005500/Impact-of-coronavirus-in-Tirupur-district-has-not.vpf
+Tamil Nadu 	Tiruppur	Udumalai	https://www.dailythanthi.com/News/Districts/2020/04/25005500/Impact-of-coronavirus-in-Tirupur-district-has-not.vpf
+Tamil Nadu	Thiruvallur	Nannur Ramamurthy, a suburb of Thiruvottiyur	https://www.dailythanthi.com/News/Districts/2020/04/21040137/Coronavirus-confirms-6-persons-including-9-year-old.vpf
+Tamil Nadu	Thiruvallur	Parambakkam panchayat	https://www.dailythanthi.com/News/Districts/2020/04/19034517/Corona-infected-person-to-ensure-perampakkam-Closure.vpf
+Tamil Nadu	Namakkal	Kuppampalayam	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
+Tamil Nadu	Namakkal	Kalappanayakanpatti	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
+Tamil Nadu	Namakkal	Lathwadi	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
+Tamil Nadu	Namakkal	Manappally	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
+Tamil Nadu	Namakkal	Paramathi	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
+Tamil Nadu	Namakkal	Kokarayanpet	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
+Tamil Nadu	Namakkal	Vennandur	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
+Tamil Nadu	Namakkal	Rasipuram	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
+Tamil Nadu	Namakkal	Vellur	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
+West Bengal	South 24 Parganas	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
+West Bengal	Medinipur West	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
+West Bengal	Darjeeling	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
+West Bengal	Jalpaiguri	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
+West Bengal	Maldah	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
+West Bengal	Paschim Bardhaman	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
+West Bengal	Purba Bardhman	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
+West Bengal	Murshidabad	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
+West Bengal	Nadia	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
