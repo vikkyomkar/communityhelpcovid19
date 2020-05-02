@@ -121,11 +121,6 @@ Maharashtra	Ahmednagar	Jamkhed	https://maharashtratimes.com/maharashtra/ahmednag
 Maharashtra	Nagpur	Satranjipura	
 Maharashtra	Nagpur	Mominpura	
 Chhattisgarh 	Korba	Purani Basti area of Katghora town	
-Maharashtra	Pimpri-Chinchawad	Gharkul Residency (buildings 1-20) in Chikhali	https://timesofindia.indiatimes.com/city/pune/four-areas-in-pcmc-ghorpadi-sealed-too/articleshow/75056090.cms
-Maharashtra	Pimpri-Chinchawad	Jama Masjid in Kharalwadi	https://timesofindia.indiatimes.com/city/pune/four-areas-in-pcmc-ghorpadi-sealed-too/articleshow/75056090.cms
-Maharashtra	Pimpri-Chinchawad	Kamlraj Residency and Rode hospital area in Dighi	https://timesofindia.indiatimes.com/city/pune/four-areas-in-pcmc-ghorpadi-sealed-too/articleshow/75056090.cms
-Maharashtra	Pimpri-Chinchawad	Shivtirthnagar in Padwalnagar of Thergaon	https://timesofindia.indiatimes.com/city/pune/four-areas-in-pcmc-ghorpadi-sealed-too/articleshow/75056090.cms
-Maharashtra	Pimpri-Chinchawad	Ghorpadi area	https://timesofindia.indiatimes.com/city/pune/four-areas-in-pcmc-ghorpadi-sealed-too/articleshow/75056090.cms
 Maharashtra	Kalyan-Dombivali	Ayregaon	https://www.firstpost.com/health/coronavirus-outbreak-maharashtras-kalyan-dombivli-municipality-seals-more-areas-as-confirmed-cases-in-covid-19-hotspot-rise-to-50-8250701.html
 Maharashtra	Kalyan-Dombivali	 Tukaram Nagar	https://www.firstpost.com/health/coronavirus-outbreak-maharashtras-kalyan-dombivli-municipality-seals-more-areas-as-confirmed-cases-in-covid-19-hotspot-rise-to-50-8250701.html
 Maharashtra	Kalyan-Dombivali	 Mhatre Nagar	https://www.firstpost.com/health/coronavirus-outbreak-maharashtras-kalyan-dombivli-municipality-seals-more-areas-as-confirmed-cases-in-covid-19-hotspot-rise-to-50-8250701.html
@@ -3283,3 +3278,20 @@ Tamil Nadu 	Thiruvarur	Aynoor Pillaiyaar Kovil Vadagu Theru	https://www.dailytha
 Delhi	New Delhi	F-313, Near Shiva Mandir Lado Sari and F-274, 2nd Floor of Lado Sari, New Delhi	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
 Delhi	New Delhi	F-258, Campa Cola Gali Lado Sarai, New Delhi	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
 Delhi	South Delhi	In and around area of A-280. J.J. Colony, Madipur, Delhi 110063.	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
+Maharashtra	Pimpri-Chinchawad	 Kharalwadi Premises, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 PMT Chowk Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Gurudatta Colony Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Ramrajya Planet Complex, Kasarwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Ganesh Nagar Premises, Dapodi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Shastri Chowk Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Sambhajinagar Complex, Akurdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Rhode Hospital Complex, Dighi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Tanishq Orchid Complex, Charholi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Krishnaraj Colony Premises, Pimple Gurav	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Nehru Nagar Bus Depot Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Kaveri Nagar Police Line Complex, Wakad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Rupinagar area, Talwade	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Fatima Mosque Gandharva Nagari Complex, Moshi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Vijay Nagar Complex, Dighi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Maharashtra	Pimpri-Chinchawad	 Adinath Nagar Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
+Karnataka	Bengaluru Urban	Bommanahalli  Ward 188 -Bilekahalli	https://www.facebook.com/bbmp.comm1/photos/a.727601267375140/1832724410196148/?type=3&theater
