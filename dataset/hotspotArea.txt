@@ -1,15 +1,9 @@
 Delhi	East Delhi	House no. 141-180, Gali No. 14, Kalyan Puri	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	East Delhi	3 Galis of Khichripur including Gali containing H.No. 5/387 Khichirpur Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	East Delhi	Vardhman Apartments, Mayur Vihar, Phase I, Extension, Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	East Delhi	Mayurdhwaj Appartments , I P Extension, Patparganj,	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	East Delhi	Gali No. 5, A Block (from House No. A-176 to A-189), West Vinod Nagar 9)	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	East Delhi	Gali No 9, Pandav Nagar , Delhi 110092.	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	East Delhi	Gali No. 4 from House No. J-3/115 to J-3/108, Krishan Kunj Extension 3)	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	East Delhi	Gali No. 4 from House No. J-3/101 to J-3/107, Krishan Kunj Extension	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	East Delhi	J, K, L & H Pockets, Dilshad Garden	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	East Delhi	G, H & J Blocks old Seemapuri	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	East Delhi	F- 70 to 90 block Dilshad Colony	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	East Delhi	Pratap Khand, Jhilmil Colony	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	South west Delhi	Shahajahanabad Society, Plot No 1, Sector 11, Dwarka	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	South Delhi	Entire effected street near Gandhi Park, Malviya Nagar	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	South Delhi	Entire effected street of Gali No 5, 6 &7, L-1 Sangam Vihar	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
@@ -30,7 +24,6 @@ Delhi	South east Delhi	Area of street/Gali No. 18 to 22 of Zakir Nagar and nearb
 Delhi	North Delhi	B Block Jhangirpuri	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Shahdara	E-Pocket, GTB Enclave, Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Shahdara	J & K, L and H pockets Dilshad Garden	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	Shahdara	G, H, J, Blocks old Seemapuri	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Shahdara	F-70 to 90 Block Dilshad Colony	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Shahdara	Pratap Khand, Jhilmil Colony	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	New Delhi	Shastri Market, including J.J. cluster of South Moti Bagh	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
@@ -392,7 +385,6 @@ Tamil Nadu	Villupuram	Kottakuppam	https://timesofindia.indiatimes.com/city/puduc
 Tamil Nadu	Tirupattur	Total lockdown declared by TN Govt	https://www.dtnext.in/News/TamilNadu/2020/04/18025454/1225666/Tirupattur-to-be-locked-down-from-today.vpf
 Tamil Nadu	Thanjavur	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
 Tamil Nadu	Thiruvannamalai	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
-Tamil Nadu	Kanchipuram	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
 Himachal Pradesh	Chamba	Nine panchayats of Teesa area	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
 Himachal Pradesh	Sirmaur	Mishrawala	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
 Himachal Pradesh	Sirmaur	Taruwala	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
@@ -485,7 +477,6 @@ Delhi	Central	Bara Hindu Rao area	https://www.indiatvnews.com/news/india/delhi-r
 Delhi	Central	Balaji Apartment, Sant Nagar, Burari, Delhi - 110084	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	Central	Nawab Ganj area	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	North east Delhi	House no 62, Gali no.4, B- block, Shastri Park	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
-Delhi	West Delhi	In and around area of 11/3, 2nd Floor Ashok Nagar	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	West Delhi	In and around area of H. No. A-30, Mansarovar Garden	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	West Delhi	In and around area of A-1B/75A, Krishna Apartment, Pashchim Vihar, Delhi - 110063	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Maharashtra	Nagpur	Gitanjali Square	https://twitter.com/ANI/status/1250258393996107777
@@ -623,15 +614,6 @@ Andhra Pradesh 	Anantapur	Note: Entire District declared Red Zone Hotspot as on 
 Bihar 	Siwan	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Chandigarh 	Chandigarh	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Chhattisgarh 	Korba	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Delhi 	South Delhi	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Delhi 	South east Delhi	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Delhi 	Shahdara	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Delhi 	West Delhi	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Delhi 	North Delhi	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Delhi 	Central	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Delhi 	New Delhi	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Delhi 	East Delhi	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Delhi 	South west Delhi	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Gujarat 	Ahmedabad	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Gujarat 	Vadodara	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Gujarat 	Surat	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -691,24 +673,21 @@ Tamil Nadu 	Chennai	Note: Entire District declared Red Zone Hotspot as on 15 Apr
 Tamil Nadu 	Tiruchirappalli	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Tamil Nadu 	Coimbatore	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Tamil Nadu 	Tirunelveli	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Erode	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Erode	Note: District has been declared corona free as on 01 May 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Tamil Nadu 	Vellore	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Tamil Nadu 	Dindigul	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Tamil Nadu 	Villupuram	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Tamil Nadu 	Tiruppur	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Tamil Nadu 	Theni	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Tamil Nadu 	Namakkal	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Chengalpattu	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Madurai	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Tamil Nadu 	Tuticorin	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Tamil Nadu 	Karur	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Virudhunagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Tamil Nadu 	Kanniyakumari	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Tamil Nadu 	Cuddalore	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Tamil Nadu 	Thiruvallur	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Thiruvarur	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Salem	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Nagapattinam	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
+Tamil Nadu 	Thiruvarur	Muthupettai	https://www.dailythanthi.com/News/Districts/2020/04/23040718/Corona-ImpactAdditional-collector-inspection-of-sealed.vpf
+Tamil Nadu 	Salem	Kondalampatti Zone	https://www.dailythanthi.com/News/Districts/2020/05/01025223/Special-Surveillance-Team-Study-in-Prohibited-Areas.vpf
+Tamil Nadu 	Nagapattinam	Mayiladudurai Thiruvalluvar Nagar	https://www.dailythanthi.com/News/Districts/2020/04/23054227/MayiladuthuraiIn-the-sealed-areaIGP-Sarangan-Study.vpf
 Telangana 	Hyderabad	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Nizamabad	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Warangal Urban	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -741,7 +720,6 @@ Bihar 	Munger	Note: Entire District declared Red Zone Hotspot as on 15 April 202
 Bihar 	Begusarai	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Bihar 	Gaya	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Chhattisgarh 	Raipur	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Delhi 	North west Delhi	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Gujarat 	Patan	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Haryana 	Ambala	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Haryana 	Karnal	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -780,7 +758,6 @@ Uttarakhand 	Nainital	Note: Entire District declared Red Zone Hotspot as on 15 A
 Uttarakhand	Udam Singh Nagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Karnataka 	Bengaluru Rural	Kodipalya village, Doddaballapur	https://www.youtube.com/watch?v=GPiXVVMipAA
 Delhi 	New Delhi	B-4/206 in Safdarjung Enclave	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
-Delhi 	South Delhi	Boundary Start from B-4/200 and cover the whole locality till backside of Humayun lane includes, Ashiana complex & B-4/206 Safdarjung Enclave, New Delhi	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
 Delhi 	West Delhi	In and around area of 36/4, East Patel Nagar, Delhi 110008	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
 Delhi 	North Delhi	G,H and I Block of Police Colony in Model Town	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
 Delhi 	Shahdara	Gali No. 3, 4 and 5 in East Ram Nagar	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
@@ -827,13 +804,12 @@ Tamil Nadu	Ambur	Total lockdown declared by TN Govt	https://www.dtnext.in/News/T
 Tamil Nadu	Vaniyambadi	Total lockdown declared by TN Govt	https://www.dtnext.in/News/TamilNadu/2020/04/18025454/1225666/Tirupattur-to-be-locked-down-from-today.vpf
 Tamil Nadu	Thanjavur	Athiramapattinam.	https://tamil.oneindia.com/news/thanjavur/coronavirus-17-cases-in-a-single-day-what-happened-in-thanjavur/articlecontent-pf450665-382958.html
 Tamil Nadu	Thanjavur	Kumbakonam	https://tamil.oneindia.com/news/thanjavur/coronavirus-17-cases-in-a-single-day-what-happened-in-thanjavur/articlecontent-pf450665-382958.html
-Tamil Nadu	Kanniyakumari	Manikattipottal	https://twitter.com/SharanyaAri/status/1250041780067643393
-Tamil Nadu	Kanniyakumari	Thengapattanam	https://twitter.com/SharanyaAri/status/1250748101708574721
+Tamil Nadu	Kanniyakumari	Manikatti pottal Ananthasamypuram	https://twitter.com/SharanyaAri/status/1250041780067643393
+Tamil Nadu	Kanniyakumari	Thengapattanam Thoppu	https://twitter.com/SharanyaAri/status/1250748101708574721
 Tamil Nadu	Kanniyakumari	ISED Nagar	https://twitter.com/SharanyaAri/status/1250748101708574721
 Tamil Nadu	Kanniyakumari	Vairavilai	https://twitter.com/SharanyaAri/status/1250748101708574721
 Tamil Nadu	Kanniyakumari	Mela Udayappan Kudieruppu	https://twitter.com/SharanyaAri/status/1250748101708574721
 Tamil Nadu	Kanniyakumari	Kesavan Putoor	https://twitter.com/SharanyaAri/status/1250748101708574721
-Tamil Nadu	Kanniyakumari	Nagarcoil	https://twitter.com/SharanyaAri/status/1250748101708574721
 Tamil Nadu	Coimbatore	Podanur Railway Station	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
 Tamil Nadu	Coimbatore	Poomarket	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
 Tamil Nadu	Coimbatore	Kavundampalyam	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
@@ -888,7 +864,6 @@ Madhya Pradesh	Bhopal	Basant Dhakad Gram	https://www.naidunia.com/madhya-pradesh
 Madhya Pradesh	Bhopal	BSNL Exchange Office	https://www.naidunia.com/madhya-pradesh/bhopal-coronavirus-madhya-pradesh-news-less-patient-than-indore-yet-more-number-of-container-areas-in-bhopal-5509985
 Delhi 	West Delhi	Tilak Vihar area of Tilak Nagar	https://twitter.com/ANI/status/1251911483958726661
 Delhi 	South west Delhi	Plot No. 1294 in Theke Wali Gali opposite DC Office Kapashera	https://twitter.com/ANI/status/1251889034399567873
-Delhi 	North east Delhi	E Block in Inderpuri	https://twitter.com/ANI/status/1251889034399567873
 Madhya Pradesh 	Indore	Chandan Nagar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
 Madhya Pradesh 	Indore	Taat Patti Bakhal	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
 Madhya Pradesh 	Indore	Ranipura	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
@@ -1139,7 +1114,7 @@ Rajasthan 	Jaipur	Shastri Nagar	https://twitter.com/dineshkumawat/status/1253348
 Rajasthan 	Jaipur	Mansarovar	https://twitter.com/dineshkumawat/status/1253348240071823367
 Delhi 	South west Delhi	Samshi Talab in Mehrauli including A-3 Lake view apartment	https://twitter.com/ANI/status/1253336501812789252
 Delhi 	South west Delhi	 gali number 1 band of Raj Nagar 2 in Dwarka	https://twitter.com/ANI/status/1253336501812789252
-Delhi 	East Delhi	 house number 15 to 101 in Dayanand Vihar	https://twitter.com/ANI/status/1253336501812789252
+Delhi 	Shahdara	 house number 15 to 101 in Dayanand Vihar	https://twitter.com/ANI/status/1253336501812789252
 Haryana	Gurugram	Jharsa Village	https://twitter.com/ANI/status/1253348874569252865
 Haryana	Gurugram	Sector-39	https://twitter.com/ANI/status/1253348874569252865
 Haryana	Gurugram	Sector-47	https://twitter.com/ANI/status/1253348874569252865
@@ -2295,7 +2270,7 @@ Haryana	Ambala	Village Thharwa	https://www.bhaskar.com/local/haryana/ambala/news
 Haryana	Ambala	Timber market in Cantt	https://www.bhaskar.com/local/haryana/ambala/news/seal-the-village-and-put-quarantine-posters-on-12-shops-making-the-district-the-third-containment-zone-127241870.html
 Haryana	Ambala	Shejadpur	https://www.bhaskar.com/local/haryana/ambala/news/seal-the-village-and-put-quarantine-posters-on-12-shops-making-the-district-the-third-containment-zone-127241870.html
 Delhi 	New Delhi	Area between Kumhar Gali and Chaupal Chawk in Kotla Mubarakpur	https://www.livemint.com/news/india/delhi-number-of-covid-19-containment-zones-rise-to-97-full-list-here-11587917642337.html
-Delhi 	North Delhi	Gali No. 3, 4, 5 in Majlis Park	https://www.livemint.com/news/india/delhi-number-of-covid-19-containment-zones-rise-to-97-full-list-here-11587917642337.html
+Delhi 	North Delhi	Gali No. 3, 4, 5 in Majlis Park, Adarsh Nagar	https://www.livemint.com/news/india/delhi-number-of-covid-19-containment-zones-rise-to-97-full-list-here-11587917642337.html
 Madhya Pradesh	Jabalpur	Sarafa Area	https://www.patrika.com/jabalpur-news/corona-patients-being-searched-in-six-containment-zones-in-jabalpur-6017754/
 Madhya Pradesh 	Ujjain	Amber Colony	https://timesofindia.indiatimes.com/city/indore/ujjain-cop-succumbs-to-coronavirus/articleshow/75265492.cms
 Uttar Pradesh	Varanasi	Arjunpur, Sevapuri Vikas Khand	https://twitter.com/livesanmarg/status/1254725293199196161
@@ -3198,3 +3173,113 @@ West Bengal	Paschim Bardhaman	Note: Entire District declared Orange Zone Hotspot
 West Bengal	Purba Bardhman	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
 West Bengal	Murshidabad	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
 West Bengal	Nadia	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
+Tamil Nadu	Thanjavur	Srinivasapuram	https://www.dailythanthi.com/News/Districts/2020/04/30044456/ThanjavurRound-out-the-curfewPolice-surveillance-by.vpf
+Tamil Nadu 	Tirunelveli	Palanyankottai	https://www.dailythanthi.com/News/Districts/2020/05/01081559/People-need-to-adhere-to-regulations-to-prevent-coronationZonal.vpf
+Tamil Nadu 	Tirunelveli	Nellai	https://www.dailythanthi.com/News/Districts/2020/05/01081559/People-need-to-adhere-to-regulations-to-prevent-coronationZonal.vpf
+Tamil Nadu 	Tirunelveli	Nellai Town	https://www.dailythanthi.com/News/Districts/2020/05/01081559/People-need-to-adhere-to-regulations-to-prevent-coronationZonal.vpf
+Tamil Nadu 	Tirunelveli	Valliyur	https://www.dailythanthi.com/News/Districts/2020/05/01081559/People-need-to-adhere-to-regulations-to-prevent-coronationZonal.vpf
+Tamil Nadu 	Tirunelveli	Pattamadai	https://www.dailythanthi.com/News/Districts/2020/05/01081559/People-need-to-adhere-to-regulations-to-prevent-coronationZonal.vpf
+Tamil Nadu	Tenkasi	Kadayanallur	https://www.dailythanthi.com/News/Districts/2020/04/27072914/Full-Curfew-in-PaddyTenkasi-MunicipalitiesAll-stores.vpf
+Tamil Nadu	Tenkasi	Senkottai	https://www.dailythanthi.com/News/Districts/2020/04/27072914/Full-Curfew-in-PaddyTenkasi-MunicipalitiesAll-stores.vpf
+Tamil Nadu	Tenkasi	Sankarankoil	https://www.dailythanthi.com/News/Districts/2020/04/27072914/Full-Curfew-in-PaddyTenkasi-MunicipalitiesAll-stores.vpf
+Tamil Nadu	Kanniyakumari	Nagarcoil Tennyson Street	https://www.dailythanthi.com/News/Districts/2020/05/01060505/There-is-no-corona-for-the-elderly-in-Kumari.vpf
+Tamil Nadu	Kanniyakumari	Velladichivilai	https://www.dailythanthi.com/News/Districts/2020/05/01060505/There-is-no-corona-for-the-elderly-in-Kumari.vpf
+Tamil Nadu	Kanniyakumari	Mangalai village	https://www.dailythanthi.com/News/Districts/2020/04/30052640/Corona-for-the-elderly-in-KumariAction-to-seal-village.vpf
+Tamil Nadu	Villupuram	Mutthoppu	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Villupuram	thidirkuppam	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Villupuram	Agarampetai	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Villupuram	Kamla Nagar	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Villupuram	Kaivalliyar Street	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Villupuram	Sittherikarai	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Villupuram	salamedu	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Villupuram	NGGO Colony	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Villupuram	Panampattu	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Villupuram	Villupuram K.K. Salai Rahim Layout	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Villupuram	Poondamalli Street	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Villupuram	Kandasamy Layout	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Villupuram	Lakshmi Nagar	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Villupuram	Kirampura	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
+Tamil Nadu	Kanchipuram	Kundathoor	https://www.dailythanthi.com/News/Districts/2020/04/26034853/In-Kundrathur-Worker-infected-with-corona-virus-kills.vpf
+Tamil Nadu	Kanchipuram	Maangadu	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Ayyapathangal	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Baraniputtur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Kerukampakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Kolapakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Kovur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Thandalam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Tharapakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Irandamkattalai	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Mavulivakkam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Periyapanicheri	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Nandampakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Sirukalathur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Kollacheri	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Kolumanivakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Chikkarayapuram	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Poothandalam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Malayampakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Kanchipuram	Thirumudivakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Thambaram	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Pallavaram	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Pammal	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Anakaputtur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Sembakkam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Perungalathur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Sidalabakkam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Thiruneermalai	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Maduranthagam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	St. Thomas Mount	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Maraimalainagar	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Chitamur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Thirukkalukundram	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Lathur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Thiruporur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Madurabakkam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Medavakkam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Vengaivasal GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Muvarampattu GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Thirisulam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Polisallur GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Kavulbajar GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Sittalabakkam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Ottiyambakkam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Thiruvancheri GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Mudichur GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Perumbakkam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Nanmangalam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu	Chengalpattu	Kovilambakkam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
+Tamil Nadu 	Madurai	Sellur	https://www.dailythanthi.com/News/Districts/2020/04/26032911/Corona-for-four-people-including-Madurai-SubInspector.vpf
+Tamil Nadu 	Madurai	Palanganatham	https://www.dailythanthi.com/News/Districts/2020/04/26032911/Corona-for-four-people-including-Madurai-SubInspector.vpf
+Tamil Nadu 	Madurai	Perungudi	https://www.dailythanthi.com/News/Districts/2020/04/26032911/Corona-for-four-people-including-Madurai-SubInspector.vpf
+Tamil Nadu 	Madurai	Melamasi Road	https://www.dailythanthi.com/News/Districts/2020/04/26032911/Corona-for-four-people-including-Madurai-SubInspector.vpf
+Tamil Nadu 	Virudhunagar	Coonoor	https://www.dailythanthi.com/News/Districts/2020/04/25022957/Corona-affected-Seven-more-people-including-nurse.vpf
+Tamil Nadu 	Ramanathapuram	Paramakudi	https://www.dailythanthi.com/News/Districts/2020/04/25022957/Corona-affected-Seven-more-people-including-nurse.vpf
+Tamil Nadu 	Madurai	G.S. Nagar	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
+Tamil Nadu 	Madurai	Aanaiyur	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
+Tamil Nadu 	Madurai	Kuppupillai Thoppu Theru	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
+Tamil Nadu 	Madurai	Mathichiyam	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
+Tamil Nadu 	Madurai	Sokkalingapuram	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
+Tamil Nadu 	Madurai	Melur Nagaratchi	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
+Tamil Nadu 	Madurai	Kallapatty	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
+Tamil Nadu 	Madurai	karaiyipatty	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
+Tamil Nadu 	Madurai	Matthur	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
+Tamil Nadu 	Madurai	Elumalai Peruratchi	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
+Tamil Nadu 	Madurai	Thirumangalam	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
+Tamil Nadu 	Madurai	Usilampatty	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
+Tamil Nadu 	Madurai	Kilamatthur	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
+Tamil Nadu 	Madurai	Puthu Vilangudi	https://www.dailythanthi.com/News/Districts/2020/05/01052248/Corona-confirmed-5-people-including-a-disaster-rescuer.vpf
+Tamil Nadu 	Madurai	Keezha Anupandi	https://www.dailythanthi.com/News/Districts/2020/05/01052248/Corona-confirmed-5-people-including-a-disaster-rescuer.vpf
+Tamil Nadu 	Madurai	Karisalkulam	https://www.dailythanthi.com/News/Districts/2020/05/01052248/Corona-confirmed-5-people-including-a-disaster-rescuer.vpf
+Tamil Nadu 	Virudhunagar	Rajapalayam	https://www.dailythanthi.com/News/Districts/2020/04/29060317/Full-cooperation-of-people-with-coronary-artery-disease.vpf
+Tamil Nadu 	Virudhunagar	Vatarayadurai	https://www.dailythanthi.com/News/Districts/2020/04/29060317/Full-cooperation-of-people-with-coronary-artery-disease.vpf
+Tamil Nadu 	Salem	Suramangalam railway station	https://www.dailythanthi.com/News/Districts/2020/05/01024204/Vulnerability-by-Corona-Seal-to-a-bank-who-was-pregnant.vpf
+Tamil Nadu 	Salem	Ammapet	https://www.dailythanthi.com/News/Districts/2020/04/30021948/Three-people-affected-by-coronavirus-discharge-in.vpf
+Tamil Nadu 	Salem	Dadakapatti	https://www.dailythanthi.com/News/Districts/2020/04/30021948/Three-people-affected-by-coronavirus-discharge-in.vpf
+Tamil Nadu 	Salem	Karunaratnam	https://www.dailythanthi.com/News/Districts/2020/04/25024645/Corona-for-someone-in-the-karumanthurai-Special-Surveillance.vpf
+Tamil Nadu 	Salem	Semmandapatti near Omalur	https://www.dailythanthi.com/News/Districts/2020/04/27023316/Another-woman-in-Salem-confirmed-corona-infection.vpf
+Tamil Nadu 	Thiruvarur	Vandikkara Street	https://www.dailythanthi.com/News/Districts/2020/04/22035734/In-Thiruvarur-municipality-in-restricted-areasCleanliness.vpf
+Tamil Nadu 	Thiruvarur	Koradacheri	https://www.dailythanthi.com/News/Districts/2020/04/24035503/Corona-to-health-workerThe-number-of-casualties-increased.vpf
+Tamil Nadu 	Thiruvarur	Aynoor Pillaiyaar Kovil Vadagu Theru	https://www.dailythanthi.com/News/Districts/2020/04/22035734/In-Thiruvarur-municipality-in-restricted-areasCleanliness.vpf
+Delhi	New Delhi	F-313, Near Shiva Mandir Lado Sari and F-274, 2nd Floor of Lado Sari, New Delhi	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
+Delhi	New Delhi	F-258, Campa Cola Gali Lado Sarai, New Delhi	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
+Delhi	South Delhi	In and around area of A-280. J.J. Colony, Madipur, Delhi 110063.	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
