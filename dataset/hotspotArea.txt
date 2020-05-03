@@ -2331,7 +2331,6 @@ Uttar Pradesh	Agra	Kolihayi Kothi Meena Bazar	https://twitter.com/PrabhuNs_/stat
 Delhi	South Delhi	House no 152 to 162 in Block D of Shaheen Bagh	https://twitter.com/news24tvchannel/status/1255158789256306688
 Tamil Nadu	Tenkasi	Puliangudi	https://www.maalaimalar.com/news/district/2020/04/17201443/1426024/puliyangudi-including-3-women-and-4-men-Corona.vpf
 Tamil Nadu	Thiruvallur	Thiruverkadu	https://www.dailythanthi.com/News/Districts/2020/04/24041115/Municipality-of-Thiruverkadu-is-divided-into-3-zones.vpf
-Tamil Nadu	Chengalpattu	Narasathapuram area of ​​the Parangimalai	https://www.dailythanthi.com/News/Districts/2020/04/27042552/parangi-malai-Set-up-a-barrier-fence-in-the-corona.vpf
 Tamil Nadu 	Chennai	Zone-1 DIV-1 Sathiyavani Muttu Nagar 10th Street	https://twitter.com/albyjohnV/status/1255109883440971776
 Tamil Nadu 	Chennai	Zone-1 DIV-1 Thiruvallur Nagar 2nd Street	https://twitter.com/albyjohnV/status/1255109883440971776
 Tamil Nadu 	Chennai	Zone-1 DIV-3 Netaji Nagar, 5 Street	https://twitter.com/albyjohnV/status/1255109883440971776
@@ -3201,35 +3200,6 @@ Tamil Nadu	Kanchipuram	Chikkarayapuram	https://www.dailythanthi.com/News/Distric
 Tamil Nadu	Kanchipuram	Poothandalam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
 Tamil Nadu	Kanchipuram	Malayampakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
 Tamil Nadu	Kanchipuram	Thirumudivakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Thambaram	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Pallavaram	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Pammal	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Anakaputtur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Sembakkam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Perungalathur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Sidalabakkam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Thiruneermalai	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Maduranthagam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	St. Thomas Mount	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Maraimalainagar	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Chitamur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Thirukkalukundram	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Lathur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Thiruporur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Madurabakkam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Medavakkam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Vengaivasal GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Muvarampattu GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Thirisulam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Polisallur GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Kavulbajar GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Sittalabakkam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Ottiyambakkam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Thiruvancheri GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Mudichur GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Perumbakkam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Nanmangalam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Chengalpattu	Kovilambakkam GP	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
 Tamil Nadu 	Madurai	Sellur	https://www.dailythanthi.com/News/Districts/2020/04/26032911/Corona-for-four-people-including-Madurai-SubInspector.vpf
 Tamil Nadu 	Madurai	Palanganatham	https://www.dailythanthi.com/News/Districts/2020/04/26032911/Corona-for-four-people-including-Madurai-SubInspector.vpf
 Tamil Nadu 	Madurai	Perungudi	https://www.dailythanthi.com/News/Districts/2020/04/26032911/Corona-for-four-people-including-Madurai-SubInspector.vpf
@@ -3316,3 +3286,64 @@ Haryana	Faridabad	Dabua Colony	https://www.facebook.com/ssffaridabad/posts/89812
 Haryana	Faridabad	Sector 88 Block F	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Haryana	Faridabad	Chawla Colony Block D	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Haryana	Faridabad	Ankheer village	https://www.facebook.com/ssffaridabad/posts/898125020658350
+Tamil Nadu	Chengalpattu	St. Thomas Mount, Kovilambakkam, Vellakal	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	St. Thomas Mount, Kovilambakkam, Nanmangalam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	St. Thomas Mount, Kovilambakkam, Moovarasmpet	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	St. Thomas Mount, Kovilambakkam, Keelkattalai	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	St. Thomas Mount, Somu Nagar, Perumbakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	St. Thomas Mount, Kamarajar Street, Madavakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	St. Thomas Mount, Kamarajar Street, Sitalapakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	St. Thomas Mount, Kamarajar Street, Ottiyambakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	St. Thomas Mount, Madambakkam, Kamarajapuram	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	St. Thomas Mount, Madambakkam, Agramthen	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	St. Thomas Mount, Madambakkam, Peduvencheri	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	St. Thomas Mount, Madambakkam, Thiruvencheri	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Thiruporur, Kovalam, Dharga Street	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Thiruporur, Kovalam, Kanniammal Koil street	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Thiruporur, Kovalam, Ansari Street	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Thiruporur, Kazhipattur, Agatur (TVH Tower, Oceanic Apartments, Akshya Adar Apartments, Akshya Adena Apartments	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Thirukkalukundram, Sadras, Vengenbakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Thirukkalukundram, Sadras, Pudhupattinam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Thirukkalukundram, Sadras, Meiyur	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Thirukkalukundram, Vallipuram, Dr. Ambedkar Street	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Lathur, Sangatur, Veerabhogam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Lathur, Thiruvathur, Pavanjur	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Chitamur, Idakazhinadu (Ward 8), Alamara Kuppam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Chitamur, Idakazhinadu (Ward 8), Vilambur	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Maduranthagam, Mamandur, Pukkathurai	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Maduranthagam, Mamandur, Padalam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Maduranthagam, Mamandur, Meiyur	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Maduranthagam, Mamandur, Venbakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Chengalpattu MPTY, Natham, Venbakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Chengalpattu MPTY, Natham, Thimmavaram	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Chengalpattu MPTY, Natham, Mahindra City	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Chengalpattu MPTY, Natham, Vellam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Chengalpattu MPTY, Natham, Pazhaveli	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Pammal MPTY, Adam Nagar, Ward number 12- Ward number 18	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Pammal MPTY, Nehru Nagar, Ward number 12- Ward number 19	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Pammal MPTY, Nagelkeni, Ward number 12- Ward number 20	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Sembakkam MPTY, Ward 6, 15 Wards 	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Sembakkam MPTY, Ward 6, Gowri Vakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Sembakkam MPTY, Ward 6, Vengai Vasal	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Sembakkam MPTY, Ward 6, Santoshipuram	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Pallavaram MPTY, Ward 19, Ward 19	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Pallavaram MPTY, Ward 19, Radha Nagar	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Pallavaram MPTY, Ward 19, Hastinapuram	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Pallavaram MPTY, Ward 30, Ward 30	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Pallavaram MPTY, Ward 21, Hastinapuram	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Pallavaram MPTY, Ward 24, Ward 8	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Pallavaram MPTY, Ward 24, Ward 9	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Pallavaram MPTY, Ward 24, Sanjay Gandhi Nagar	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Pallavaram MPTY, Ward 11, Pechaiammal Kovil Street	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Pallavaram MPTY, Ward 14, 49, Yasodha Nagar 3rd Street, Keelkatalai, Chennai- 117	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Tambaram MPTY, Lakshmipuram, Ward 32	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Tambaram MPTY, Irumbuliyur, Ward 27	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Maduranthagam MPTY, 24 Wards, 24 Wards	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Anakaputur MPTY, Quaid-E-Milleth Nagar, Ward 1	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Anakaputur MPTY, Quaid-E-Milleth Nagar, Thiruneermalai	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Anakaputur MPTY, Quaid-E-Milleth Nagar, Lakshmipuram	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Anakaputur MPTY, Quaid-E-Milleth Nagar, Shankar Nagar	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Maraimalai Nagar, Thirukkural Street, Ward 8	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Maraimalai Nagar, Thirukkural Street, NH 2	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	Maraimalai Nagar, Thirukkural Street, Rail Nagar	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Tamil Nadu	Chengalpattu	St. Thomas Mount, Nazarath Puram, Ambedkar Nagar, Seven Wells	https://twitter.com/Chengalpattu01/status/1255562805379575816
