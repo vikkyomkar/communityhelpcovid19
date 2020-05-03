@@ -617,7 +617,6 @@ Gujarat 	Rajkot	Note: Entire District declared Red Zone Hotspot as on 15 April 2
 Haryana 	Nuh	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Haryana 	Gurugram	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Haryana 	Palwal	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Haryana 	Faridabad	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Srinagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Bandipura	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Baramulla	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -3295,3 +3294,23 @@ Maharashtra	Pimpri-Chinchawad	 Fatima Mosque Gandharva Nagari Complex, Moshi	htt
 Maharashtra	Pimpri-Chinchawad	 Vijay Nagar Complex, Dighi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
 Maharashtra	Pimpri-Chinchawad	 Adinath Nagar Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
 Karnataka	Bengaluru Urban	Bommanahalli  Ward 188 -Bilekahalli	https://www.facebook.com/bbmp.comm1/photos/a.727601267375140/1832724410196148/?type=3&theater
+Haryana	Bahadurgarh	Loharhedi	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
+Haryana	Bahadurgarh	Sainipura	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
+Haryana	Bahadurgarh	Jatwada	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
+Haryana	Bahadurgarh	Adarsh Nagar	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
+Haryana	Bahadurgarh	Kila Mohalla	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/corona-positive-bahadurgarh-news-rtk5530608104
+Haryana	Bahadurgarh	Imli wala Mohalla	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
+Haryana	Bahadurgarh	Bahadurgarh Sabjimandi	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
+Haryana	Bahadurgarh	Dayanand Nagar	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/lockdown-bahadurgarh-news-rtk553060355
+Haryana	Bahadurgarh	Vivekanand Nagar 1 Line Crossing	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/lockdown-bahadurgarh-news-rtk553060355
+Haryana	Bahadurgarh	Mohannagar	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/lockdown-bahadurgarh-news-rtk553060355
+Haryana	Bahadurgarh	Ashok Nagar 1st Line Crossing	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/lockdown-bahadurgarh-news-rtk553060355
+Haryana	Bahadurgarh	Ranjit Colony 	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/lockdown-bahadurgarh-news-rtk553060355
+Haryana	Bahadurgarh	Jhummer Galli	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/lockdown-bahadurgarh-news-rtk553060355
+Haryana	Jajjhar	Sulaudha Village	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-coronavirus-positive-cases-found-in-bahadurgarh-of-haryana-20232885.html
+Haryana	Jajjhar	Gubhana Village	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-coronavirus-positive-cases-found-in-bahadurgarh-of-haryana-20232885.html
+Haryana	Jajjhar	Jajjhar Sabjimandi	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-coronavirus-positive-cases-found-in-bahadurgarh-of-haryana-20232885.html
+Haryana	Jajjhar	Laal Khaniya Mohalla	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/corona-positive-jhjhar-news-rtk5529182135
+Haryana	Faridabad	N.I.T-1	https://www.bhaskar.com/national/news/haryana-chandigarh-coronavirus-cases-outbreak-live-karnal-rohtak-yamuna-nagar-rewari-panipat-latest-today-news-127263140.html
+Haryana	Faridabad	N.I.T-2	https://www.bhaskar.com/national/news/haryana-chandigarh-coronavirus-cases-outbreak-live-karnal-rohtak-yamuna-nagar-rewari-panipat-latest-today-news-127263140.html
+Haryana	Kurukshetra	Sugar Mill Colony	https://www.bhaskar.com/national/news/haryana-chandigarh-coronavirus-cases-outbreak-live-karnal-rohtak-yamuna-nagar-rewari-panipat-latest-today-news-127263140.html
