@@ -23,7 +23,6 @@ Delhi	South west Delhi	Gali No. 5 & 5A, H-2 Block, Bengali Colony, Mahavir Encla
 Delhi	South east Delhi	Area of street/Gali No. 18 to 22 of Zakir Nagar and nearby area of Abu Bakar Masjid of Zikr Nagar (core) rest of Zakinr Nagar as Buffer Zone	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	North Delhi	B Block Jhangirpuri	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Shahdara	E-Pocket, GTB Enclave, Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	Shahdara	J & K, L and H pockets Dilshad Garden	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Shahdara	F-70 to 90 Block Dilshad Colony	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Shahdara	Pratap Khand, Jhilmil Colony	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	New Delhi	Shastri Market, including J.J. cluster of South Moti Bagh	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
@@ -34,19 +33,12 @@ Delhi	Central	Nabi Karim, Central District	https://www.indiatoday.in/india/story
 Delhi	West Delhi	In and around area of G-174, Capital Greens, DLF, Motinagar New Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	West Delhi	In and around area of B-1/2, Pashim Vihar, New Delhi 110063	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	West Delhi	In and around area of 11/3, 2nd Floor Ashok Nagar, New Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Haryana	Faridabad	Sector 11	https://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html
-Haryana	Faridabad	Sector 37	https://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html
-Haryana	Faridabad	Sector 28	https://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html
-Haryana	Faridabad	Village Badhkal	https://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html
-Haryana	Faridabad	Green Field Colony	https://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html
-Haryana	Faridabad	AC Nagar	https://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html
-Haryana	Faridabad	Fatehpur Taga	https://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html
-Haryana	Faridabad	Khori	https://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html
-Haryana	Faridabad	Sector 16	https://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html
-Haryana	Faridabad	Sector 3	https://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html
-Haryana	Faridabad	Chandpur Arua	https://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html
-Haryana	Faridabad	Mohna	https://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html
-Haryana	Faridabad	Ranhera	https://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html
+Haryana	Faridabad	Sector 28	https://www.facebook.com/ssffaridabad/posts/898125020658350
+Haryana	Faridabad	Village Badhkal	https://www.facebook.com/ssffaridabad/posts/898125020658350
+Haryana	Faridabad	Green Field Colony	https://www.facebook.com/ssffaridabad/posts/898125020658350
+Haryana	Faridabad	Fatehpur Taga	https://www.facebook.com/ssffaridabad/posts/898125020658350
+Haryana	Faridabad	Khori	https://www.facebook.com/ssffaridabad/posts/898125020658350
+Haryana	Faridabad	Sector 16	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Haryana	Palwal	Huchpuri kalaan village	https://haryana.punjabkesari.in/haryana/news/nuh-palwal-faridabad-and-gurugram-became-hotspots-of-corona-infection-1151095
 Haryana	Palwal	Mathhepur village	https://haryana.punjabkesari.in/haryana/news/nuh-palwal-faridabad-and-gurugram-became-hotspots-of-corona-infection-1151095
 Haryana	Palwal	Durainchi village	https://haryana.punjabkesari.in/haryana/news/nuh-palwal-faridabad-and-gurugram-became-hotspots-of-corona-infection-1151095
@@ -615,7 +607,6 @@ Gujarat 	Rajkot	Note: Entire District declared Red Zone Hotspot as on 15 April 2
 Haryana 	Nuh	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Haryana 	Gurugram	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Haryana 	Palwal	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Haryana 	Faridabad	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Srinagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Bandipura	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Baramulla	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -739,7 +730,6 @@ Maharashtra 	Palghar	Note: Entire District declared Red Zone Hotspot as on 15 Ap
 Odisha 	Bhadrak	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Punjab 	Mansa	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Punjab 	Amritsar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Punjab 	Ludhiana	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Punjab 	Moga	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Rajasthan 	Udaipur	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Nalgonda	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -765,7 +755,7 @@ Punjab 	SBS Nagar	Maalgill villages	https://www.hindustantimes.com/cities/procur
 Punjab 	Amritsar	Diamond Estate Colony	https://punjab.punjabkesari.in/amritsar/news/two-areas-of-amritsar-included-in-hotspot-11-people-so-far-corona-positive-1154262
 Punjab 	Amritsar	Udham singh nagar	https://punjab.punjabkesari.in/amritsar/news/two-areas-of-amritsar-included-in-hotspot-11-people-so-far-corona-positive-1154262
 Punjab 	Hoshiarpur	Moranwali,Garhshankar	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
-Punjab 	Ludhiana	Amarpura	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
+Punjab 	Ludhiana	Amarpura Colony	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
 Punjab 	Mansa	Budhlada town	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
 Punjab 	Rupnagar	Chatwali	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
 Punjab 	SAS Nagar Mohali	Phase 3 A	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
@@ -3292,3 +3282,37 @@ Maharashtra	Pimpri-Chinchawad	 Fatima Mosque Gandharva Nagari Complex, Moshi	htt
 Maharashtra	Pimpri-Chinchawad	 Vijay Nagar Complex, Dighi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
 Maharashtra	Pimpri-Chinchawad	 Adinath Nagar Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
 Karnataka	Bengaluru Urban	Bommanahalli  Ward 188 -Bilekahalli	https://www.facebook.com/bbmp.comm1/photos/a.727601267375140/1832724410196148/?type=3&theater
+Haryana	Bahadurgarh	Loharhedi	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
+Haryana	Bahadurgarh	Sainipura	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
+Haryana	Bahadurgarh	Jatwada	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
+Haryana	Bahadurgarh	Adarsh Nagar	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
+Haryana	Bahadurgarh	Kila Mohalla	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/corona-positive-bahadurgarh-news-rtk5530608104
+Haryana	Bahadurgarh	Imli wala Mohalla	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
+Haryana	Bahadurgarh	Bahadurgarh Sabjimandi	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
+Haryana	Bahadurgarh	Dayanand Nagar	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/lockdown-bahadurgarh-news-rtk553060355
+Haryana	Bahadurgarh	Vivekanand Nagar 1 Line Crossing	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/lockdown-bahadurgarh-news-rtk553060355
+Haryana	Bahadurgarh	Mohannagar	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/lockdown-bahadurgarh-news-rtk553060355
+Haryana	Bahadurgarh	Ashok Nagar 1st Line Crossing	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/lockdown-bahadurgarh-news-rtk553060355
+Haryana	Bahadurgarh	Ranjit Colony 	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/lockdown-bahadurgarh-news-rtk553060355
+Haryana	Bahadurgarh	Jhummer Galli	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/lockdown-bahadurgarh-news-rtk553060355
+Haryana	Jajjhar	Sulaudha Village	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-coronavirus-positive-cases-found-in-bahadurgarh-of-haryana-20232885.html
+Haryana	Jajjhar	Gubhana Village	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-coronavirus-positive-cases-found-in-bahadurgarh-of-haryana-20232885.html
+Haryana	Jajjhar	Jajjhar Sabjimandi	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-coronavirus-positive-cases-found-in-bahadurgarh-of-haryana-20232885.html
+Haryana	Jajjhar	Laal Khaniya Mohalla	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/corona-positive-jhjhar-news-rtk5529182135
+Haryana	Faridabad	N.I.T-1 Block A,B,C	https://www.bhaskar.com/national/news/haryana-chandigarh-coronavirus-cases-outbreak-live-karnal-rohtak-yamuna-nagar-rewari-panipat-latest-today-news-127263140.html
+Haryana	Kurukshetra	Sugar Mill Colony	https://www.bhaskar.com/national/news/haryana-chandigarh-coronavirus-cases-outbreak-live-karnal-rohtak-yamuna-nagar-rewari-panipat-latest-today-news-127263140.html
+Punjab 	Ludhiana	Janta Nagar Street Number 18	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
+Punjab 	Ludhiana	New Janta Nagar near Akalgarh Gurdwara Sahib	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
+Punjab 	Ludhiana	Moti Nagar Block 30 Arya Colony	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
+Punjab 	Ludhiana	Pakhowal Road	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
+Punjab 	Ludhiana	Lakkad Mandi area on GT Road in Doraha	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
+Punjab 	Ludhiana	Ghulal village, Samrala area	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
+Punjab 	Ludhiana	Ghungrali Sikkan village, Samrala area	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
+Punjab 	Ludhiana	Jhande village, Samrala area	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
+Punjab 	Ludhiana	Seh village village, Samrala area	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
+Haryana	Faridabad	Shiv Durga Vihar,	https://www.facebook.com/ssffaridabad/posts/898125020658350
+Haryana	Faridabad	Palwali village	https://www.facebook.com/ssffaridabad/posts/898125020658350
+Haryana	Faridabad	Dabua Colony	https://www.facebook.com/ssffaridabad/posts/898125020658350
+Haryana	Faridabad	Sector 88 Block F	https://www.facebook.com/ssffaridabad/posts/898125020658350
+Haryana	Faridabad	Chawla Colony Block D	https://www.facebook.com/ssffaridabad/posts/898125020658350
+Haryana	Faridabad	Ankheer village	https://www.facebook.com/ssffaridabad/posts/898125020658350
