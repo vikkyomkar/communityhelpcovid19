@@ -276,17 +276,6 @@ Andhra Pradesh	Prakasam	Ongole	https://www.thehindu.com/news/national/andhra-pra
 Andhra Pradesh	Prakasam	Chirala	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
 Andhra Pradesh	Prakasam	Kandukur	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
 Andhra Pradesh	Prakasam	Chimakurthy	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
-Telangana	Hyderabad	Ramgopalpet	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	Shaikpet	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	Alwal	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	Chandrayangutta	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	Red Hills	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	Malakpet-Santoshngar	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	Kukatpally	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	Kuthbullapur	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	Mayurinagar	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	Yousufguda	https://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611
-Telangana	Hyderabad	Mallepally	https://www.siasat.com/hyderabad-mallepally-area-declared-covid19-containment-zone-1872143/
 Telangana	Nizamabad	Malapally	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Nizamabad	Hymadpura	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Nizamabad	Habeebnagar	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
@@ -672,7 +661,6 @@ Tamil Nadu 	Thiruvallur	Note: Entire District declared Red Zone Hotspot as on 15
 Tamil Nadu 	Thiruvarur	Muthupettai	https://www.dailythanthi.com/News/Districts/2020/04/23040718/Corona-ImpactAdditional-collector-inspection-of-sealed.vpf
 Tamil Nadu 	Salem	Kondalampatti Zone	https://www.dailythanthi.com/News/Districts/2020/05/01025223/Special-Surveillance-Team-Study-in-Prohibited-Areas.vpf
 Tamil Nadu 	Nagapattinam	Mayiladudurai Thiruvalluvar Nagar	https://www.dailythanthi.com/News/Districts/2020/04/23054227/MayiladuthuraiIn-the-sealed-areaIGP-Sarangan-Study.vpf
-Telangana 	Hyderabad	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Nizamabad	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Warangal Urban	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Ranga Reddy	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -939,10 +927,6 @@ Delhi 	North Delhi	Block - G of Jahangirpuri	https://twitter.com/NEWS9TWEETS/sta
 Delhi 	North Delhi	Flat number 265 to 500 of Sanjay Enclave, Jahangirpuri	https://twitter.com/NEWS9TWEETS/status/1252270347073667072
 Delhi 	East Delhi	Block 34 of Trilokpuri	https://twitter.com/NEWS9TWEETS/status/1252270347073667072
 Delhi 	New Delhi	Block AF of Shalimar Bagh	https://twitter.com/NEWS9TWEETS/status/1252270347073667072
-Telangana 	Hyderabad	Quthubullapur - Gajularamaram	https://twitter.com/SUNKA05/status/1248309345214795776
-Telangana 	Hyderabad	Chandanagar	https://twitter.com/SUNKA05/status/1248309345214795776
-Telangana 	Hyderabad	Moosapet	https://twitter.com/SUNKA05/status/1248309345214795776
-Telangana 	Hyderabad	Miyapur	https://twitter.com/Pioneer_TS_AP/status/1248477759044587521
 Karnataka 	Kalaburagi	Shahabad	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-karnataka-and-bengaluru-mysuru-red-zone-list-get-complete-list-of-containment-zones-here-1587364293-1
 Karnataka 	Kalaburagi	Basavakalyana	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-karnataka-and-bengaluru-mysuru-red-zone-list-get-complete-list-of-containment-zones-here-1587364293-1
 Karnataka	Vijayapura	Mudhol	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-karnataka-and-bengaluru-mysuru-red-zone-list-get-complete-list-of-containment-zones-here-1587364293-1
@@ -3347,3 +3331,121 @@ Tamil Nadu	Chengalpattu	Maraimalai Nagar, Thirukkural Street, Ward 8	https://twi
 Tamil Nadu	Chengalpattu	Maraimalai Nagar, Thirukkural Street, NH 2	https://twitter.com/Chengalpattu01/status/1255562805379575816
 Tamil Nadu	Chengalpattu	Maraimalai Nagar, Thirukkural Street, Rail Nagar	https://twitter.com/Chengalpattu01/status/1255562805379575816
 Tamil Nadu	Chengalpattu	St. Thomas Mount, Nazarath Puram, Ambedkar Nagar, Seven Wells	https://twitter.com/Chengalpattu01/status/1255562805379575816
+Telangana	Hyderabad	Adibatla; Manneguda, Opp. RTA office, Ibraimpatnam, Abdullapurmet, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Chaitanayapuri; Vasavi colony, RK Puram, Hyderabad- 500012	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Balapur; Quba Colony, Shaheen Nagar, Balapur.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Balapur; Mohammad Shareef, R/o Opposite Upsan Mandir,Minor Colony, Errakunta, Balapur	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Balapur; Venkatapura, Balapur Mandal, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Balapur; Wadi- e- Juban Colony, Kothapet Village, Balapur Mandal, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Balapur; Wadi- e- Juban Colony, Kothapet Village, Balapur Mandal, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Maheshwaram; Nandupally Village, Maheshwaram Mandal, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Saroornagar; P & T Colony Saroornagar, Mandal, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Vanasthalipuram; Prasanth Nagar, Vanasthalipuram	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Pahadhishareef; Pahdhisharref Village, Balapur Mandal, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Pahadhishareef; Mamidipally Road, Near Charminar Masjid, Singani colony, Dead- end, Pahadi Shareef	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Pahadhishareef; Mankhal Village, Pahadishareef	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Macharam; Raghavendra Nagar, Macharan	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Malkajgiri; Jawahar Nagar, Moulali, Malkajgiri	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Malkajgiri; Shadullanagar, Maula Ali, Malkajgiri	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Malkajgiri; Shafi Nagar, Malkajgiri	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	kanchanbagh; A- Block, Hafeez Baba Nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Madammapet; Darab Jung Colony	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Rein Bazar; Chawni, Nade Ali Baig,	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Rein Bazar; Bagh-e-Jahana,	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Rein Bazar; SRT Colony,	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Rein Bazar; Dhobighat, (Madina Mosque),	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Rein Bazar; Ali Café, Bi Bi Ka Alawa Road,	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Rein Bazar; Near Sai baba temple, Rein Bazar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Mirchowk; Sultanpura, Mathaki kidki	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Dabeerpur; Chanchalguda	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Chendrayangutta; Barkas (Layola School),	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Chendrayangutta; Poolbagh (Ahmed Nagar Kaman, Kirana General Store)	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Saifabad; Khairatabad,	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Saifabad; AC Guards,	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Saifabad; Chintal Basthi Beside Golden Café	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Nampally; Laxmi  Nagar, Battery Lane A, Red Hills	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Nampally; AC Guards, Opposite PTI Building	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Ramgopalpet; Nallagutta	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Chikkadpally; Badam Galli Domalguda	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Narayanaguda; King Koti, Near Alkareem Hotel,	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Nallakunta; Happy Home Appartments,Bayamma Galli New Nallakunta	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	OU; 1-2-56/G1, Surya Kakatiya Residency, St. No. 3, Kakatiya Nagar, Habsiguda, Hyderabad	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Saidabad; H.No. 17-2-388/2, Shantinagar, Saidabad	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Saidabad; 16-2-746/38, Sapota Bagh, Saidabad, Hyderabad	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Saidabad; H.NO. 16-2-867/A/1/6/A Jeevan Yaar Jung	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Chaderghat; H.NO. 16-10-111, Shah lane, Old Malakpet, Hyderabad	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Begumpet; Prakash Nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Begumpet; Policy Line, Begumpet	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Chilkalguda; Srinivasanagar Colony, Padmaraonagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Chilkalguda; Bouda Nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Chilkalguda; Warasiguda	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Tukaramgate; Teachers Colony	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Lalaguda; Near Badi Mosque, North Lalaguda	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Panjagutta; Beside PS Panjagutta area and Somajiguda Area	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	SR Nagar; Jayanthi Nagar, Beside Lucky Function Hall, Rajiv Nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	SR Nagar; Jayashankar, Community Hall Borabanda	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	SR Nagar; Rajeev Nagar, Near Nagarjuna School Lane, Borabanda	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Habeeb Nagar; Mallepally Area	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Langer House; Moghal Ka Nala, Opp PVNR Pillar No 92, Ring Road, Langer House, Hyd	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Langer House; AhmedColony , MD Lines, Langer House	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Humayun Nagar; Beside Park Continetal House, Masab Tank	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Humayun Nagar; Maheswari Complex Lane, Masab tank	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Humayun Nagar; Near Asif nagar, Old PS indira nagar Colony	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Humayun Nagar; Housing Board Lane, Vijayanagar Colony	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Golconda; OU Colony Near Bharath Gas, Shaikpet	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Golconda; Brindavan Colony, Towlichowki	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Golconda; Aditya Nagar Colony	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Golconda; Aziz Bagh	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Golconda; Bada Bazar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Golconda; MD Lines	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Kulsumpura; Beside Kesari Hanuman temple, Jiyaguda, Hyderabad	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Asif Nagar; Murad Nagar, Asif Nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Asif Nagar; Venkatamma thota, Feel Khana, Asifnagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Asif Nagar; Opp Mohammadiya Masjid, Gudi Malkapur	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Tappachabutra; Dargah Ganja Shahi	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Tappachabutra; Asifnagar Zirrah	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Jubilee Hills; Beside Anganwadi Center, Venkatagiri Hylam Colony Area	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Banjara Hills; IAS Colony, Shaikpet	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Banjara Hills; Hakeempet Tolichowki	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Banjara Hills; Filmy Nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Banjara Hills; Syed Nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Banjara Hills; Shoukath Nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Alwal; Ward no. 133,Chandranagar, Yaseen House Souroundings, Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Alwal; Ameem House Souroundings, Rajeev gandhi nagar ward no 135 Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Alwal; Ward no. 134, Rashhed khan House Souroundings, Hasmathpet Rajeev gandhi nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Alwal; Ward no 135, Syed Ilias House Souroundings, Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Alwal; Ward no 134, Md. Khayuum House Souroundings,Temple Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Alwal; Ward No. 119, Md. Razeeyuddin House Souroundings,Hasmathpet, Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Alwal; Ward no. 119, Abdul Hafeez House, Souroundings,Hasmathpet Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Jagadgirigutta; Chandragiri nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Jagadgirigutta; Yellammabanda, Jagathgirigutta	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Jagadgirigutta; Modi apts, block-b, apuroopa colony	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Jagadgirigutta; Khaja House Souroundings, Apuroopa colony	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Jagadgirigutta; Wazeed House Souroundings, Subhash Nagar, Jeedimetla	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Jagadgirigutta; Kalavathi Nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Shamirpet; Thurkapally Village	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Kukatpally; Balajinagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Kphb; Pvr residency, phase-ii, dharma reddy colony, hyder nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Kphb; Plot no. 997, phase-ii, bhagath singh nagar, vasanth nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Gachibowli; Orrange county, near continental hospital, Gachibowli	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Madhapur; Ayyappa society	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Madhapur; Izzath nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Miyapur; Aditya nagar, new Hafeezpet	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Miyapur; Sai colony, Old hafeezpet	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Miyapur; Sitara hotel, Miyapur	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Miyapur; Ambedkar nagar, miyapur	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Miyapur; Mythri nagar, miyapur	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Narsingi; Rajapushpa apartment	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Narsingi; Hallmark tranquil	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Raidurgam; Anjaiah nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Ro Puram; Mayuri nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Chanda Nagar; Aparna lake breeze G block, Chandanagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Mailardevpally; Dhanamma jopidi	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Mailardevpally; Kings colony, Shastri puram	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Mailardevpally; Roshan colony	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Nandigama; Cheguru	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Rajendranagar; New friends clony, upper pally	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Rajendranagar; Imad nagar, mm pahadi	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Rajendranagar; Jalalbaba nagar, near ration shop	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Rajendranagar; Jalalbaba nagar, near nawaz rice shop	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Rajendranagar; P & T colony, Suncity, bandlaguda jagir	https://twitter.com/Sumiran_KVS/status/1256644111060230144
