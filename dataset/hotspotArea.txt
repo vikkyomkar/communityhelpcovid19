@@ -3451,3 +3451,5 @@ Haryana	Gurugram	Police Station Road Dundahera, Aggarwal Sweets Gali -Sector 21,
 Haryana	Gurugram	Ardee City Society (Block A,B,C)	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
 Haryana	Gurugram	Shaib Kunj, Shankar Vihar, Chaumma Village, Chanden Vihar	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
 Haryana	Gurugram	Palam Vihar Block C-2 Gate, Ekta Group, Gali No.-4, J-Block, Gali No-5, Chotu Ram Chowk	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Delhi	South Delhi	Boundary Start from B-4/200 and cover the whole locality till backside of Humayupur lane includes, Ashiana complex & B-4/206 Safdarjung Enclave, New Delhi	https://twitter.com/JatinPaul/status/1257332406874509313?s=09
+Delhi	South west Delhi	RZF-756/7, Gali no 1 Band, Raj Nagar II Dwarka New Delhi	https://twitter.com/JatinPaul/status/1257332406874509313?s=09
