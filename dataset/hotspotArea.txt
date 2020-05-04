@@ -14,8 +14,6 @@ Delhi	South east Delhi	Gali No. 16, Kachhi colony, Madanpur Khadar extension	htt
 Delhi	South east Delhi	Mehela Mohalla, Madanpur Khadar	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South east Delhi	H-Block, Near Umra Masjid, Abu Fazal Enclave	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South east Delhi	E-Block, Abu Fazal Enclave	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
-Delhi	South east Delhi	H. No 97 to 107 and H. No. 120-127 Kailash Hills, East of Kailash 	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
-Delhi	South east Delhi	E-Block (E-284 to E-294) East of Kailash	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South east Delhi	H. No. 53 to 55 & 25, Shera Mohalla, Garhi, East of Kailash	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	North Delhi	Gali No. 1 to 10 (1 to 1000) C Block Jhangirpuri	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South west Delhi	Dinpur Village	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
@@ -26,13 +24,10 @@ Delhi	Shahdara	E-Pocket, GTB Enclave, Delhi	https://www.indiatoday.in/india/stor
 Delhi	Shahdara	F-70 to 90 Block Dilshad Colony	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Shahdara	Pratap Khand, Jhilmil Colony	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	New Delhi	Shastri Market, including J.J. cluster of South Moti Bagh	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	New Delhi	Bengali Market/ Babar Road adjoining area of Todarmal Road, Babar Lane and School Lane, New Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Central	Sadar Bazar,Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Central	Chandni Mahal, Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Central	Nabi Karim, Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	West Delhi	In and around area of G-174, Capital Greens, DLF, Motinagar New Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	West Delhi	In and around area of B-1/2, Pashim Vihar, New Delhi 110063	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	West Delhi	In and around area of 11/3, 2nd Floor Ashok Nagar, New Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Haryana	Faridabad	Sector 28	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Haryana	Faridabad	Village Badhkal	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Haryana	Faridabad	Green Field Colony	https://www.facebook.com/ssffaridabad/posts/898125020658350
@@ -594,7 +589,6 @@ Gujarat 	Surat	Note: Entire District declared Red Zone Hotspot as on 15 April 20
 Gujarat 	Bhavnagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Gujarat 	Rajkot	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Haryana 	Nuh	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Haryana 	Gurugram	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Haryana 	Palwal	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Srinagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Bandipura	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -669,7 +663,6 @@ Telangana 	MedchalMalkajgiri	Note: Entire District declared Red Zone Hotspot as 
 Telangana 	Karimnagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Nirmal	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Agra	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttar Pradesh 	Gautam Buddh Nagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Meerut	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Lucknow	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Ghaziabad	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -729,7 +722,6 @@ Uttarakhand 	Nainital	Note: Entire District declared Red Zone Hotspot as on 15 A
 Uttarakhand	Udam Singh Nagar	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Karnataka 	Bengaluru Rural	Kodipalya village, Doddaballapur	https://www.youtube.com/watch?v=GPiXVVMipAA
 Delhi 	New Delhi	B-4/206 in Safdarjung Enclave	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
-Delhi 	West Delhi	In and around area of 36/4, East Patel Nagar, Delhi 110008	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
 Delhi 	North Delhi	G,H and I Block of Police Colony in Model Town	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
 Delhi 	Shahdara	Gali No. 3, 4 and 5 in East Ram Nagar	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
 Delhi 	South Delhi	House No. 50 in Hauz Rani -- from Mother Dairy to Raja Ram Mohan School	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
@@ -1097,12 +1089,10 @@ Haryana	Gurugram	Nut Colony Sogna	https://twitter.com/ANI/status/125334887456925
 Haryana	Gurugram	ITI Colony Sohna	https://twitter.com/ANI/status/1253348874569252865
 Haryana	Gurugram	Mohalla Bhood Para Sohna	https://twitter.com/ANI/status/1253348874569252865
 Haryana	Gurugram	Mohalla Thakurwara Sohna	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	Tripat Colony Sohna	https://twitter.com/ANI/status/1253348874569252865
 Haryana	Gurugram	Shiv Kund Sohna	https://twitter.com/ANI/status/1253348874569252865
 Haryana	Gurugram	Raipur Village Sohna	https://twitter.com/ANI/status/1253348874569252865
 Haryana	Gurugram	Ward 11 Pataudi	https://twitter.com/ANI/status/1253348874569252865
 Haryana	Gurugram	Ward 14 Pataudi	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	Ganpati Vatika Pataudi	https://twitter.com/ANI/status/1253348874569252865
 Karnataka	Mysuru	Kuvempunagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
 Karnataka	Mysuru	Jayalakshminagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
 Karnataka	Mysuru	JP Nagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
@@ -2245,38 +2235,26 @@ Uttar Pradesh	Varanasi	Pitarkunda	https://twitter.com/livesanmarg/status/1252940
 Uttar Pradesh	Varanasi	Nakkhighat	https://twitter.com/livesanmarg/status/1252565443019255808
 Delhi 	New Delhi	H. No. P-65 and H.No. P-184, Pillanji Village	https://www.indiatoday.in/india/story/coronavirus-delhi-govt-adds-two-more-areas-in-hotspot-list-check-full-list-of-99-containment-zones-here-1671780-2020-04-27
 Delhi 	South Delhi	Nirankari Gali, Nakshatra Gali, Nala Boring Gali, Ravan Wali Gali, Jamila Masjid Gali, Dargah Gurudwara Gali, Thane Wali Gali and Terminal Wali Gali	https://www.indiatoday.in/india/story/coronavirus-delhi-govt-adds-two-more-areas-in-hotspot-list-check-full-list-of-99-containment-zones-here-1671780-2020-04-27
-Uttar Pradesh	Gautam Buddh Nagar	Chotpur village Sector-63	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Jevar - village Jonchana block	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Village Tilapta, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Chauda village	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	PI 1st, Greater Noida 	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Supertech Metrott, Sector-74, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Kulesra, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Sector 20, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Sector 15A, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Achcher Village, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Cherry County Techzone-14, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Kendriya Vihar-2, Sector-82, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Sector-55, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Skytech Metrott Sector 76, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Sector 34, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Sector 19, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Sector-5 and Sector 8, JJ Colony, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Sector 45, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Sector 80, Noida Kakrala village	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Sector-37, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Logix Blossom County Sector-137 Noida, Paras Tierra Sector-137 and Wajidpur village	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Grand Omaxe, Sector-93B, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Sector-28	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Silver City Sector PI-2, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	14th Avenue, Gaur City	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Shatabdi Rail Vihar, Sector 62, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	ETA-1, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Supertech Cape Town, Sector-74, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Sector-50, Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	GAMMA-1, Greater Noida	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Eldeco Utopia, Sector 93A, Noida 	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
-Uttar Pradesh	Gautam Buddh Nagar	Nithari Sector-31	https://www.indiatvnews.com/news/india/noida-red-zones-nithari-chotpur-jevar-coronavirus-hotspots-gautam-buddh-nagar-covid-19-611909
+Uttar Pradesh	Gautam Buddh Nagar	Chotpur village Sector-63	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Jevar - village Jonchana block	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Village Tilapta, Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Chauda village, Sector 22 Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	PI 1st, Advocate Colony Greater Noida 	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Kulesra, Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector 20, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector 15A, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Echar Village, Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Cherry County Techzone-14, Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Kendriya Vihar-2, Sector-82, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector-55, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Skytech Metrott Sector 76, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector 34, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector 19, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector-5 and Sector 8, JJ Colony, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector 45, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector 80, Noida Kakrala village	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector-50, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Nithari Sector-31, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
 Karnataka	Bengaluru Urban	Bommanahalli  Ward 189 -Hongasandara	https://bangaloremirror.indiatimes.com/bangalore/others/better-to-be-safe-than-sorry-in-hongasandra/articleshow/75397004.cms
 Uttar Pradesh	Agra	Wazirpura Gandhi Nagar	https://twitter.com/PrabhuNs_/status/1254858505908965377
 Uttar Pradesh	Agra	Khandari Area	https://twitter.com/PrabhuNs_/status/1254858505908965377
@@ -3449,3 +3427,27 @@ Telangana	Hyderabad	Rajendranagar; P & T colony, Suncity, bandlaguda jagir	https
 Punjab 	Jalandhar	Salempur Musalmana	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
 Punjab 	Jalandhar	Kotla Heran Village (Tehsil Shahkot)	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
 Punjab 	Jalandhar	Talwandi Bhilan	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Uttar Pradesh	Gautam Buddh Nagar	Sector 9, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector 48, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Parsavnath Prestige Sector 93A	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector 122, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Village Bisrakh, Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Village Chipiyana Buzurg, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Village Khandera Dadri Block	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Nat Madhiya Near CNG Pump Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Village Salarpur	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	CISF CAMP Surajpur	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector 10, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector 30 Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Village Mamura, Sector 66 Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Begumpur near Kulesra, Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Ace Golf Shire Sector 150	https://twitter.com/DhaorAshni/status/1257295810825293826
+Uttar Pradesh	Gautam Buddh Nagar	Sector P-3 Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
+Haryana	Gurugram	Bhagat Wada Sohna	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Haryana	Gurugram	Fazilpur Jharsa Village	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Haryana	Gurugram	Lane No. 1 (Near India Leads), Lane No. 7 (Near Bangali Hotel), Lane No. 6 B, Yadav Medicos (In Sarhaul Village)	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Haryana	Gurugram	Prem Nagar, Lotus Hospital Sector-12, Acharyapuri, Rajiv Nagar (West)	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Haryana	Gurugram	Police Station Road Dundahera, Aggarwal Sweets Gali -Sector 21, Community Center Dundahera, Vishal Mega Mart	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Haryana	Gurugram	Ardee City Society (Block A,B,C)	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Haryana	Gurugram	Shaib Kunj, Shankar Vihar, Chaumma Village, Chanden Vihar	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Haryana	Gurugram	Palam Vihar Block C-2 Gate, Ekta Group, Gali No.-4, J-Block, Gali No-5, Chotu Ram Chowk	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
