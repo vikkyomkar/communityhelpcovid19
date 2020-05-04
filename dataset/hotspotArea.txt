@@ -3334,9 +3334,8 @@ Tamil Nadu	Chengalpattu	St. Thomas Mount, Nazarath Puram, Ambedkar Nagar, Seven 
 Telangana	Hyderabad	Adibatla; Manneguda, Opp. RTA office, Ibraimpatnam, Abdullapurmet, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Chaitanayapuri; Vasavi colony, RK Puram, Hyderabad- 500012	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Balapur; Quba Colony, Shaheen Nagar, Balapur.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
-Telangana	Hyderabad	Balapur; Mohammad Shareef, R/o Opposite Upsan Mandir,Minor Colony, Errakunta, Balapur	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Balapur; Opposite Upsan Mandir,Minor Colony, Errakunta, Balapur	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Balapur; Venkatapura, Balapur Mandal, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
-Telangana	Hyderabad	Balapur; Wadi- e- Juban Colony, Kothapet Village, Balapur Mandal, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Balapur; Wadi- e- Juban Colony, Kothapet Village, Balapur Mandal, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Maheshwaram; Nandupally Village, Maheshwaram Mandal, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Saroornagar; P & T Colony Saroornagar, Mandal, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
@@ -3410,18 +3409,16 @@ Telangana	Hyderabad	Banjara Hills; Hakeempet Tolichowki	https://twitter.com/Sumi
 Telangana	Hyderabad	Banjara Hills; Filmy Nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Banjara Hills; Syed Nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Banjara Hills; Shoukath Nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
-Telangana	Hyderabad	Alwal; Ward no. 133,Chandranagar, Yaseen House Souroundings, Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
-Telangana	Hyderabad	Alwal; Ameem House Souroundings, Rajeev gandhi nagar ward no 135 Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
-Telangana	Hyderabad	Alwal; Ward no. 134, Rashhed khan House Souroundings, Hasmathpet Rajeev gandhi nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
-Telangana	Hyderabad	Alwal; Ward no 135, Syed Ilias House Souroundings, Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
-Telangana	Hyderabad	Alwal; Ward no 134, Md. Khayuum House Souroundings,Temple Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
-Telangana	Hyderabad	Alwal; Ward No. 119, Md. Razeeyuddin House Souroundings,Hasmathpet, Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
-Telangana	Hyderabad	Alwal; Ward no. 119, Abdul Hafeez House, Souroundings,Hasmathpet Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Alwal; Ward no. 133,Chandranagar,  Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Alwal; Rajeev gandhi nagar ward no 135 Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Alwal; Ward no. 134, Hasmathpet Rajeev gandhi nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Alwal; Ward no 134, Temple Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Alwal; Ward no. 119, Hasmathpet Alwal	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Jagadgirigutta; Chandragiri nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Jagadgirigutta; Yellammabanda, Jagathgirigutta	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Jagadgirigutta; Modi apts, block-b, apuroopa colony	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Jagadgirigutta; Khaja House Souroundings, Apuroopa colony	https://twitter.com/Sumiran_KVS/status/1256644111060230144
-Telangana	Hyderabad	Jagadgirigutta; Wazeed House Souroundings, Subhash Nagar, Jeedimetla	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Telangana	Hyderabad	Jagadgirigutta; Subhash Nagar, Jeedimetla	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Jagadgirigutta; Kalavathi Nagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Shamirpet; Thurkapally Village	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Kukatpally; Balajinagar	https://twitter.com/Sumiran_KVS/status/1256644111060230144
@@ -3449,3 +3446,6 @@ Telangana	Hyderabad	Rajendranagar; Imad nagar, mm pahadi	https://twitter.com/Sum
 Telangana	Hyderabad	Rajendranagar; Jalalbaba nagar, near ration shop	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Rajendranagar; Jalalbaba nagar, near nawaz rice shop	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	Rajendranagar; P & T colony, Suncity, bandlaguda jagir	https://twitter.com/Sumiran_KVS/status/1256644111060230144
+Punjab 	Jalandhar	Salempur Musalmana	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Kotla Heran Village (Tehsil Shahkot)	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
+Punjab 	Jalandhar	Talwandi Bhilan	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
