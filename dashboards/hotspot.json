@@ -1,0 +1,326 @@
+{
+  "annotations": {
+    "list": [
+      {
+        "builtIn": 1,
+        "datasource": "-- Grafana --",
+        "enable": true,
+        "hide": true,
+        "iconColor": "rgba(0, 211, 255, 1)",
+        "name": "Annotations & Alerts",
+        "type": "dashboard"
+      }
+    ]
+  },
+  "editable": true,
+  "gnetId": null,
+  "graphTooltip": 0,
+  "id": 3,
+  "iteration": 1588669674797,
+  "links": [
+    {
+      "icon": "external link",
+      "tags": [],
+      "title": "Main Page",
+      "tooltip": "",
+      "type": "link",
+      "url": "https://indiafightscovid19.online/d/sr20BBjZk/covid-india?orgId=1"
+    }
+  ],
+  "panels": [
+    {
+      "columns": [],
+      "datasource": "covidstatic",
+      "fontSize": "100%",
+      "gridPos": {
+        "h": 19,
+        "w": 15,
+        "x": 0,
+        "y": 0
+      },
+      "id": 2,
+      "pageSize": 150,
+      "showHeader": true,
+      "sort": {
+        "col": 2,
+        "desc": false
+      },
+      "styles": [
+        {
+          "alias": "Time",
+          "align": "auto",
+          "dateFormat": "YYYY-MM-DD HH:mm:ss",
+          "pattern": "Time",
+          "type": "hidden"
+        },
+        {
+          "alias": "District",
+          "align": "auto",
+          "colorMode": "row",
+          "colors": [
+            "rgba(245, 54, 54, 0.9)",
+            "rgba(237, 129, 40, 0.89)",
+            "rgba(50, 172, 45, 0.97)"
+          ],
+          "dateFormat": "YYYY-MM-DD HH:mm:ss",
+          "decimals": 2,
+          "mappingType": 1,
+          "pattern": "district",
+          "thresholds": [],
+          "type": "string",
+          "unit": "short"
+        },
+        {
+          "alias": "Area",
+          "align": "auto",
+          "colorMode": null,
+          "colors": [
+            "rgba(245, 54, 54, 0.9)",
+            "rgba(237, 129, 40, 0.89)",
+            "rgba(50, 172, 45, 0.97)"
+          ],
+          "dateFormat": "YYYY-MM-DD HH:mm:ss",
+          "decimals": 2,
+          "mappingType": 1,
+          "pattern": "area",
+          "thresholds": [],
+          "type": "number",
+          "unit": "short"
+        }
+      ],
+      "targets": [
+        {
+          "groupBy": [
+            {
+              "params": [
+                "district"
+              ],
+              "type": "tag"
+            }
+          ],
+          "measurement": "hotspots",
+          "orderByTime": "ASC",
+          "policy": "default",
+          "refId": "A",
+          "resultFormat": "table",
+          "select": [
+            [
+              {
+                "params": [
+                  "area"
+                ],
+                "type": "field"
+              }
+            ]
+          ],
+          "tags": [
+            {
+              "key": "state",
+              "operator": "=~",
+              "value": "/^$state$/"
+            },
+            {
+              "condition": "AND",
+              "key": "district",
+              "operator": "=~",
+              "value": "/^$district$/"
+            }
+          ]
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "Hotspot Areas Per District",
+      "transform": "table",
+      "type": "table"
+    },
+    {
+      "content": "\nhttps://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms\n\nhttps://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms\n\nhttps://gujarati.abplive.com/videos/news/gujarat-seven-more-corona-positive-cases-in-patan-503762\n\nhttps://haryana.punjabkesari.in/haryana/news/nuh-palwal-faridabad-and-gurugram-became-hotspots-of-corona-infection-1151095\n\nhttps://in.news.yahoo.com/look-gujarat-contained-neighbourhoods-195235424.html\n\nhttps://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/\n\nhttps://indianexpress.com/article/india/vadodara-divides-city-into-four-zones-on-basis-of-covid-19-severity-6357036/\n\nhttps://maharashtratimes.com/maharashtra/ahmednagar-news/jamkhed-city-corona-hotspot/articleshow/75084819.cms\n\nhttps://maharashtratimes.com/maharashtra/ahmednagar-news/jamkhed-city-corona-hotspot/articleshow/75084819.cms\n\nhttps://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms\n\nhttps://newsable.asianetnews.com/coronavirus-india/7-kerala-districts-declared-covid-19-hotspots-by-chief-minister-q87h2a\n\nhttps://tamil.samayam.com/latest-news/state-news/tirunelveli-melapalayam-has-been-isolated-by-police-due-to-coronavirus/articleshow/74918415.cms\n\nhttps://timesofindia.indiatimes.com/city/ahmedabad/coronavirus-in-ahmedabad-6-positive-cases-in-family-led-to-containment/articleshow/75038438.cms\n\nhttps://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms\n\nhttps://timesofindia.indiatimes.com/city/chennai/covid-19-four-more-containment-zones-established-in-trichy-city/articleshow/75027586.cms\n\nhttps://timesofindia.indiatimes.com/city/hubballi/karnataka-11-people-linked-to-tablighi-meet-test-positive-for-covid-19-in-bidar/articleshow/74943189.cms\n\nhttps://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms\n\nhttps://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms\n\nhttps://timesofindia.indiatimes.com/city/madurai/530-health-workers-monitor-residents-in-containment-zones/articleshow/75102246.cms\n\nhttps://timesofindia.indiatimes.com/city/mysuru/two-wards-declared-containment-zones-in-mandya/articleshow/75087157.cms\n\nhttps://timesofindia.indiatimes.com/city/patna/covid-19-containment-zone-created-in-gaya/articleshow/74955093.cms\n\nhttps://timesofindia.indiatimes.com/city/puducherry/coronavirus-in-tamil-nadu-part-of-puducherry-town-brought-under-containment-plan/articleshow/75007091.cms\n\nhttps://timesofindia.indiatimes.com/city/pune/four-areas-in-pcmc-ghorpadi-sealed-too/articleshow/75056090.cms\n\nhttps://timesofindia.indiatimes.com/city/trichy/13-more-cases-take-covid-19-positive-to-40-in-central-tn/articleshow/74975227.cms\n\nhttps://timesofindia.indiatimes.com/city/vadodara/anand-records-its-first-covid-19-case/articleshow/75034959.cms\n\nhttps://www.amarujala.com/uttar-pradesh/agra/coronavirus-update-many-areas-of-mathura-sealed-after-getting-two-covid-19-cases\n\nhttps://www.amarujala.com/uttar-pradesh/moradabad/five-more-corona-infected-patients-found-in-amroha\n\nhttps://www.aninews.in/videos/national/covid-19-madurais-thabal-thanthi-nagar-sealed-after-identified-as-containment-zone/\n\nhttps://www.bhaskar.com/local/gujarat/news/report-of-4-people-of-tabligi-jamaat-who-came-from-tamil-nadu-in-bharuch-positive-admitted-in-civil-127144218.html\n\nhttps://www.business-standard.com/article/news-ani/puddhupettai-area-identified-as-containment-zone-in-chennai-sealed-120041201113_1.html\n\nhttps://www.covaipost.com/coimbatore/annur-in-coimbatore-rural-limits-brought-under-local-containment/?__cf_chl_jschl_tk__=291e1c3d1a07aad8f58e204baadedd1cf15f4019-1586720477-0-AVC4wg96LrnBykZX46ffDCirhFNgEKkeW5pxwqTaITy_-5XrzzePIZ1voPnCLnOZ2liJf9FXGdo7SVneuSHP-BgZu5aAPFSjvpxNoIbE_V27KyPzWhiEFY8wYXSPbCfeX6h6f3cJCnFn_ieGI9h1KLYzTYp9cNiP58mUuVqUFL8kkBBrr6JgrUkN81Qoa61_5_fpD6YF0QAUlnmgIerw7vC04Ptw4dHP6BK1smaqmISMcb8G-ivlGpYotU87HfZqcQDpHAI2zWzqAv_JnOjw6d5pO8fOwxwj-f2wyHx-nvj5nq23_WXpsAFKDN73FTilEG_12sX2YLi3GhtnN96QLtvtQd3O0LOVIi0HRMkLh_Dr4FxtWUTdyt9vN60QYqxQfg\n\nhttps://www.deccanherald.com/city/top-bengaluru-stories/coronavirus-two-wards-of-bengaluru-sealed-completely-to-contain-covid-19-spread-823604.html\n\nhttps://www.deccanherald.com/state/gadag-haveri-ballari/one-more-tests-positive-for-covid-19-in-karnatakas-ballari-district-tally-at-5-821183.html\n\nhttps://www.deccanherald.com/state/kalaburagi/karnataka-two-year-old-boy-tests-positive-for-coronavirus-in-kalaburagi-824531.html\n\nhttps://www.deccanherald.com/state/karnataka-districts/covid-19-mandyas-nagamangala-declared-containment-zone-822786.html\n\nhttps://www.deccanherald.com/state/karnataka-districts/dc-team-on-toes-inspect-containment-zone-in-mandya-823860.html\n\nhttps://www.dtnext.in/News/City/2020/04/08033840/1223903/With-149-ve-cases-Corpn-seals-67-cluster-containment-.vpf\n\nhttps://www.dtnext.in/News/National/2020/04/02135830/1222923/Covid19--Mysuru-district-declared-Red-Zone-security-.vpf\n\nhttps://www.firstpost.com/health/coronavirus-outbreak-maharashtras-kalyan-dombivli-municipality-seals-more-areas-as-confirmed-cases-in-covid-19-hotspot-rise-to-50-8250701.html\n\nhttps://www.hindustantimes.com/cities/nuh-admin-puts-36-villages-in-containment-zone-after-23-cases-in-one-day/story-WOcKuhKNzDvDeLUuXLlRtM.html\n\nhttps://www.hindustantimes.com/india-news/coronavirus-update-what-made-kasargod-a-covid-19-hotspot-and-how-life-is-in-this-kerala-town/story-Ctixt9iDqCJF4rCftLzbcO.html\n\nhttps://www.hindustantimes.com/patna/coronavirus-village-in-bihar-s-siwan-declared-hot-spot-after-19-fresh-cases/story-KGru8teYGdTIy65VCOlYJN.html\n\nhttps://www.indiaglitz.com/hyderabad-list-of-12-containment-zones-released-telugu-news-257611\n\nhttps://www.indiatoday.in/india/story/coronavirus-how-islampur-a-small-maharashtra-town-fought-against-covid-19-1665617-2020-04-10\n\nhttps://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10\n\nhttps://www.indiatvnews.com/news/india/agra-covid-19-hotspots-list-of-areas-which-will-be-sealed-605821\n\nhttps://www.indiatvnews.com/news/india/coronavirus-hotspots-in-mumbai-381-covid-19-containment-zones-list-bmc-maharashtra-lockdown-606271\n\nhttps://www.indiatvnews.com/news/india/know-the-coronavirus-hotspots-in-ghaziabad-which-will-be-sealed-from-midnight-605817\n\nhttps://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117\n\nhttps://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html\n\nhttps://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html\n\nhttps://www.jagranjosh.com/current-affairs/coronavirus-hotspot-areas-in-india-what-are-hotspots-know-all-covid-hotspots-1586411869-1\n\nhttps://www.jagranjosh.com/current-affairs/coronavirus-lockdown-get-complete-list-of-noida-hotspots-to-be-under-full-containment-until-15th-april-1586367727-1\n\nhttps://www.livehindustan.com/jharkhand/story-hindpiri-area-in-ranchi-sealed-as-seven-person-has-tested-covid19-positive-in-the-area-jharkhand-coronavirus-lockdown-3142970.html\n\nhttps://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html\n\nhttps://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html\n\nhttps://www.ndtv.com/india-news/assam-coronavirus-news-guwahatis-athgaon-kabarsthan-masjid-declared-hotspot-after-first-death-in-sta-2209846\n\nhttps://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html\n\nhttps://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html\n\nhttps://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html\n\nhttps://www.newindianexpress.com/states/telangana/2020/apr/06/15-areas-in-warangal-sealed-off-after-surge-in-covid-19-cases-2126314.html\n\nhttps://www.newindianexpress.com/states/telangana/2020/apr/06/covid-19-death-sparks-fear-in-rangareddy-villages-2126321.html\n\nhttps://www.newindianexpress.com/states/telangana/2020/apr/10/covid-19-telanganas-adilabad-and-nirmal-on-the-edge-as-social-distancing-goes-for-a-toss-2128168.html\n\nhttps://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html\n\nhttps://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120\n\nhttps://www.patrika.com/ahmedabad-news/anand-corona-virus-gujarat-5991931/\n\nhttps://www.republicworld.com/india-news/general-news/covid-19-faridabad-declares-13-areas-as-containment-zone.html\n\nhttps://www.sakaltimes.com/coronavirus-maharashtra/coronavirus-maharashtra-state-lockdown-divided-three-zones-48537\n\nhttps://www.siasat.com/hyderabad-mallepally-area-declared-covid19-containment-zone-1872143/\n\nhttps://www.thehansindia.com/andhra-pradesh/andhra-pradesh-several-areas-in-hindupur-town-declared-as-red-zone-616023\n\nhttps://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece\n\nhttps://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece\n\nhttps://www.thehindu.com/news/national/andhra-pradesh/red-zones-created-in-kurnool/article31252572.ece\n\nhttps://www.thehindu.com/news/national/karnataka/coronavirus-police-tighten-vigil-in-dharwad-district/article31327025.ece\n\nhttps://www.thehindu.com/news/national/karnataka/officers-working-on-three-tasks-in-containment-zones/article31325197.ece\n\nhttps://www.thehindu.com/news/national/other-states/coronavirus-odisha-witnesses-highest-single-day-spike-in-new-cases/article31267396.ece\n\nhttps://www.thenewsminute.com/article/133-covid-19-clusters-andhra-nellore-has-largest-number-122327\n\nhttps://www.vtvgujarati.com/news-details/coronavirus-in-gujarat-ahmedabad-8-area-cluster-containment\n\nhttps://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/\n\nhttps://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040243.pdf\n\nhttps://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040720.pdf\n\nhttps://dailynews-india.com/indore-new-coronavirus-hotspot-in-madhya-pradesh-records-72-of-state-deaths/\n",
+      "datasource": null,
+      "gridPos": {
+        "h": 19,
+        "w": 9,
+        "x": 15,
+        "y": 0
+      },
+      "id": 4,
+      "mode": "markdown",
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "Sources",
+      "type": "text"
+    }
+  ],
+  "schemaVersion": 22,
+  "style": "dark",
+  "tags": [],
+  "templating": {
+    "list": [
+      {
+        "allValue": null,
+        "current": {
+          "text": "West_Bengal",
+          "value": "West_Bengal"
+        },
+        "datasource": "covidstatic",
+        "definition": "SHOW TAG VALUES WITH KEY = \"state\"",
+        "hide": 0,
+        "includeAll": false,
+        "index": -1,
+        "label": "Select State",
+        "multi": false,
+        "name": "state",
+        "options": [],
+        "query": "SHOW TAG VALUES WITH KEY = \"state\"",
+        "refresh": 1,
+        "regex": "",
+        "skipUrlSync": false,
+        "sort": 0,
+        "tagValuesQuery": "",
+        "tags": [],
+        "tagsQuery": "",
+        "type": "query",
+        "useTags": false
+      },
+      {
+        "allValue": null,
+        "current": {
+          "selected": false,
+          "tags": [],
+          "text": "All",
+          "value": "$__all"
+        },
+        "datasource": "covidstatic",
+        "definition": "SHOW TAG VALUES FROM hotspots WITH KEY = \"district\" WHERE \"state\" =~ /$state/",
+        "hide": 0,
+        "includeAll": true,
+        "index": -1,
+        "label": "Select District",
+        "multi": false,
+        "name": "district",
+        "options": [
+          {
+            "selected": true,
+            "text": "All",
+            "value": "$__all"
+          },
+          {
+            "selected": false,
+            "text": "Darjeeling",
+            "value": "Darjeeling"
+          },
+          {
+            "selected": false,
+            "text": "Hooghly",
+            "value": "Hooghly"
+          },
+          {
+            "selected": false,
+            "text": "Howrah",
+            "value": "Howrah"
+          },
+          {
+            "selected": false,
+            "text": "Jalpaiguri",
+            "value": "Jalpaiguri"
+          },
+          {
+            "selected": false,
+            "text": "Kalimpong",
+            "value": "Kalimpong"
+          },
+          {
+            "selected": false,
+            "text": "Kolkata",
+            "value": "Kolkata"
+          },
+          {
+            "selected": false,
+            "text": "Maldah",
+            "value": "Maldah"
+          },
+          {
+            "selected": false,
+            "text": "Medinipur_East",
+            "value": "Medinipur_East"
+          },
+          {
+            "selected": false,
+            "text": "Medinipur_West",
+            "value": "Medinipur_West"
+          },
+          {
+            "selected": false,
+            "text": "Murshidabad",
+            "value": "Murshidabad"
+          },
+          {
+            "selected": false,
+            "text": "Nadia",
+            "value": "Nadia"
+          },
+          {
+            "selected": false,
+            "text": "North_24_Parganas",
+            "value": "North_24_Parganas"
+          },
+          {
+            "selected": false,
+            "text": "Paschim_Bardhaman",
+            "value": "Paschim_Bardhaman"
+          },
+          {
+            "selected": false,
+            "text": "Purba_Bardhman",
+            "value": "Purba_Bardhman"
+          },
+          {
+            "selected": false,
+            "text": "Siliguri",
+            "value": "Siliguri"
+          },
+          {
+            "selected": false,
+            "text": "South_24_Parganas",
+            "value": "South_24_Parganas"
+          }
+        ],
+        "query": "SHOW TAG VALUES FROM hotspots WITH KEY = \"district\" WHERE \"state\" =~ /$state/",
+        "refresh": 0,
+        "regex": "",
+        "skipUrlSync": false,
+        "sort": 0,
+        "tagValuesQuery": "",
+        "tags": [],
+        "tagsQuery": "",
+        "type": "query",
+        "useTags": false
+      }
+    ]
+  },
+  "time": {
+    "from": "now-90d",
+    "to": "now"
+  },
+  "timepicker": {
+    "refresh_intervals": [
+      "5s",
+      "10s",
+      "30s",
+      "1m",
+      "5m",
+      "15m",
+      "30m",
+      "1h",
+      "2h",
+      "1d"
+    ]
+  },
+  "timezone": "",
+  "title": "Hotspot Areas",
+  "uid": "-AZIK9CWk",
+  "variables": {
+    "list": []
+  },
+  "version": 25
+}
