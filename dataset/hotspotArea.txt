@@ -27,7 +27,6 @@ Delhi	New Delhi	Shastri Market, including J.J. cluster of South Moti Bagh	https:
 Delhi	Central	Sadar Bazar,Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Central	Chandni Mahal, Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Central	Nabi Karim, Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	West Delhi	In and around area of B-1/2, Pashim Vihar, New Delhi 110063	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Haryana	Faridabad	Sector 28	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Haryana	Faridabad	Village Badhkal	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Haryana	Faridabad	Green Field Colony	https://www.facebook.com/ssffaridabad/posts/898125020658350
@@ -725,7 +724,6 @@ Punjab 	SAS Nagar Mohali	Phase 3 A	https://punjabi.abplive.com/videos/news/punja
 Punjab 	SAS Nagar Mohali	Sector 69	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
 Punjab 	SAS Nagar Mohali	Sector 91	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
 Delhi 	West Delhi	in and around area of C-105, Hari Nagar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
-Delhi 	West Delhi	in and around area of B-333, Hari Nagar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Delhi 	West Delhi	in and around area of C-785, third floor, camp-2, Nangloi	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Delhi 	West Delhi	in and around area of RZ-168, K2 Block, Nihal Vihar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Delhi 	South east Delhi	Gali numbers 26, 26B, 27 and 27B, Tughlakabad Extension	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
@@ -2403,6 +2401,9 @@ Karnataka 	Kalaburagi	Kalaburagi Taluk	https://twitter.com/get2nmukul/status/125
 Karnataka	Bengaluru Urban	South Bengluru Ward  134 - Bapuji Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	South Bengluru Ward  133 - Hampi Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	South Bengluru Ward  169 - Byrasandra	http://covid.bbmpgov.in/reports/report20200429.pdf
+Karnataka	Bengaluru Urban	South Bengluru Ward 176 - BTM Layout (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1836522699816319/1836522566482999/?type=3&theater
+Karnataka	Bengaluru Urban	Bommanahalli Ward 192 - Begur (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1836522699816319/1836522566482999/?type=3&theater
+Karnataka	Bengaluru Urban	East Bengaluru Ward 92 - ShivajiNagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1836522699816319/1836522566482999/?type=3&theater
 Karnataka	Bengaluru Urban	West Bengaluru Ward  136 - Jagajeevanram Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	West Bengaluru Ward  138 - Chalavadipalya	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	Raja Rajeshwari Nargar Ward  37 - Yeshwanthpur	http://covid.bbmpgov.in/reports/report20200429.pdf
