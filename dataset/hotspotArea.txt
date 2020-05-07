@@ -413,11 +413,8 @@ Karnataka	Bengaluru Urban	Mahadevpura  Ward 84 - Hagaduru	https://twitter.com/AN
 Karnataka	Bengaluru Urban	East Bengaluru Ward  93 - Vasanth Nagar	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  18 - RadhaKrishna Temple	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  78 - Pulikeshi Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	East Bengaluru Ward  62 - Ramaswami Palya	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  59 - MaruthiSevanagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	South Bengluru Ward  124 - Hosahalli	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	South Bengluru Ward  118 - Sudhamnagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	South Bengluru Ward  166 - Karisandra	https://twitter.com/ANI/status/1250103927330111488
 Delhi	South Delhi	Pandit Mohalla & Jain Mohalla, from Epic centre 715, Chirag Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South Delhi	shop No J-4/49 (Khirki Extension)	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South west Delhi	C-2 Block-Janakpuri-Kothi number-119	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
@@ -3494,3 +3491,4 @@ Chandigarh 	Chandigarh	Bapu Dham Colony	https://www.rozanaspokesman.com/news/pun
 Chandigarh 	Chandigarh	Sector 30B	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
 Chandigarh 	Chandigarh	Dhanas	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
 Karnataka	Bengaluru Urban	South Bengluru Ward  176 - BTM Layout	https://www.facebook.com/bbmp.comm1/photos/pcb.1836522699816319/1836522566482999/?type=3&theater
+Karnataka	Bengaluru Urban	West Bengaluru Ward  45 - Malleshwaram	https://www.facebook.com/bbmp.comm1/photos/pcb.1838359389632650/1838358802966042/?type=3&theater
