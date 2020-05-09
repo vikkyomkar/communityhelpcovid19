@@ -12,7 +12,6 @@ Delhi	South east Delhi	Nizamuddin West (G&D Block) areas	https://www.indiatoday.
 Delhi	South east Delhi	Gali No. 16, Kachhi colony, Madanpur Khadar extension	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South east Delhi	Mehela Mohalla, Madanpur Khadar	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South east Delhi	H-Block, Near Umra Masjid, Abu Fazal Enclave	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
-Delhi	South east Delhi	E-Block, Abu Fazal Enclave	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South east Delhi	H. No. 53 to 55 & 25, Shera Mohalla, Garhi, East of Kailash	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	North Delhi	Gali No. 1 to 10 (1 to 1000) C Block Jhangirpuri	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South west Delhi	Dinpur Village	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
@@ -22,7 +21,6 @@ Delhi	North Delhi	B Block Jhangirpuri	https://www.indiatoday.in/india/story/coro
 Delhi	Shahdara	E-Pocket, GTB Enclave, Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Shahdara	F-70 to 90 Block Dilshad Colony	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Shahdara	Pratap Khand, Jhilmil Colony	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	New Delhi	Shastri Market, including J.J. cluster of South Moti Bagh	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Central	Sadar Bazar,Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Central	Chandni Mahal, Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Central	Nabi Karim, Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
@@ -412,7 +410,6 @@ Bihar	Begusarai	Mansoorchak Block 	https://navbharattimes.indiatimes.com/state/
 Karnataka	Bengaluru Urban	Mahadevpura  Ward 84 - Hagaduru	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  93 - Vasanth Nagar	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  18 - RadhaKrishna Temple	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	East Bengaluru Ward  78 - Pulikeshi Nagar	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	East Bengaluru Ward  59 - MaruthiSevanagar	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	South Bengluru Ward  118 - Sudhamnagar	https://twitter.com/ANI/status/1250103927330111488
 Delhi	South Delhi	Pandit Mohalla & Jain Mohalla, from Epic centre 715, Chirag Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
@@ -424,11 +421,9 @@ Delhi	South east Delhi	Entire Gali starting from House no. G-54 to F-107 & Entir
 Delhi	South east Delhi	Gali No 1,2 & 3 Block D Sangam Vihar, H.No. 112, Gali No. 2 	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	North Delhi	1100 Wali Gali (H.No. 1181-1200), 1200 wali gali (H. No. 1238-1268), 1300 wali Gali (H. No. 1306-1331), H-3 Block, Jhangirpuri	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	Central	Bara Hindu Rao area	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
-Delhi	Central	Balaji Apartment, Sant Nagar, Burari, Delhi - 110084	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	Central	Nawab Ganj area	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	North east Delhi	House no 62, Gali no.4, B- block, Shastri Park	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	West Delhi	In and around area of H. No. A-30, Mansarovar Garden	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
-Delhi	West Delhi	In and around area of A-1B/75A, Krishna Apartment, Pashchim Vihar, Delhi - 110063	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Maharashtra	Nagpur	Gitanjali Square	https://twitter.com/ANI/status/1250258393996107777
 Maharashtra	Nagpur	Hasanbagh	https://twitter.com/ANI/status/1250258393996107777
 Madhya Pradesh	Bhopal	Durga Nagar	https://www.republicworld.com/india-news/city-news/coronavirus-hotspot-areas-in-bhopal-list-of-all-the-sealed-areas.html
