@@ -2607,7 +2607,6 @@ West Bengal	Kolkata	Ward-34+35	Ward-34+35 102 RAJA RAJENDRA LAL MITRA ROAD KOL 8
 West Bengal	Kolkata	Ward-13	Ward-13 12 to 15, Ariff Road, Kol 67	
 West Bengal	Kolkata	Ward-39	Ward-39 164/A Muktaram Babu Street, Muktaram Babu 2nd Lane & Mitra Lane, Jorasanko, Kolkata 700007	
 West Bengal	Kolkata	Ward-39	Ward-39 18/1A Balak Dutta Lane, Barabazar, Jorasanko, Kolkata 7, MarcusSquare	
-West Bengal	Kolkata	Ward-	Ward- Square	
 West Bengal	Kolkata	Ward-21	Ward-21 45 ADYA SHRADDHA GHAT ROAD BORRABAZAR KOLKATA, MAHARSHI DEBENDRA ROAD, NI MTALA GHAT STREET, DHARMATALA LANE	
 West Bengal	Kolkata	Ward-22	Ward-22 231, 2ND FLOOR, MAHARSHI DEBENDRA ROAD, JORABAGAN, Stand bank rd.1,Nawab lane.	
 West Bengal	Kolkata	Ward-24	Ward-24 16D, TAGORE CASTLE STREET, KOLKATA — 700006	
@@ -2693,7 +2692,7 @@ West Bengal	Kolkata	Ward-53	Ward-53 32/C, DOCTOR'S LANE, KOL- 14, DOCTOR'S LANE,
 West Bengal	Kolkata	Ward-55	Ward-55 1B/H/1 Chatu babu Lane, Entally, Kolkata, CHATU BABU LANE,20/346 Chatu Babu Lane	
 West Bengal	Kolkata	Ward-54	Ward-54 8, ISMAIL STREET, ENTALLY, KOL-14	
 West Bengal	Kolkata	Ward-54	Ward-54 3, SARAT GHOSH STREET, Dhakuria,Haltu, Kolkata, West Bengal700031, SARAT GHOSH STREET, GC BOSE ROAD, PAN BAGANLANE, HARALAL DAS STREET	
-West Bengal	Kolkata	Ward-62	Ward-62 2, WALIULLAH LANE, KOLKATA 700016, WALLIULLAH LANE,TALTALA LANE	
+West Bengal	Kolkata	Ward-62	Ward-62 2, WALIULLAH LANE, KOLKATA 700016, WALLIULLAH LANE,TALTALA LANE, HAJI MD MOHSIN SQUARE, RAFI AHMED KIDWAI ROAD,	
 West Bengal	Kolkata	Ward-47	Ward-47 PRINCEP STREET,LENIN SARANI,NIRMAL CHANDRA STREET,BIPLABI ANUKUL STREET	
 West Bengal	Kolkata	Ward-57	Ward-57 1/2 Rani Rashmoni Garden Lane, PO- Tangra, Kolkata, 700015, Rani Rashmoni Garden Lane, 44 D C DEY ROAD, TANGRA, KOL-15	
 West Bengal	Kolkata	Ward-57	Ward-57 1/1 Canal South Road, Tangra, PS Entally, Kolkata 15, 1-24 Canal South Road	
@@ -2714,7 +2713,7 @@ West Bengal	Kolkata	Ward-56	Ward-56 25/1 Radhanath Chowdhury Road, TangraKolkata
 West Bengal	Kolkata	Ward-56	Ward-56 11, GOBINDA KHATIK ROAD, ENTALLY KOLKATA 12	
 West Bengal	Kolkata	Ward-56	Ward-56 1N/1A, MOTIJHIL LANE , ENTALLY KOLKATA, CONVENT LANE	
 West Bengal	Kolkata	Ward-63	Ward-63 12/H/11 Park Street, Taltala, Kolkata 700010, PARK STREET, MIRZA GALIB STREET, MAYRA STREET, TOTTE LANE, 10 Lord Sinha Road, P.S. Shakesphere Sarani, Kolkata - 700071, S.P SARAN I, PRETORIA STREET, ROWDAN ST,LOUDAN ST,A.J.0 BOSE RD, BELLE VUE CLINIC, 9 DR. U N BRAHMACHARI STREET KOLKATA	
-West Bengal	Kolkata	Ward-	Ward- 700017, 4, GARCY TERRACE ROAD, KOL-17, MOIRA ST,CAMAC ST,SHORT ST	
+West Bengal	Kolkata	Ward-63	Ward- 700017, 4, GARCY TERRACE ROAD, KOL-17, MOIRA ST,CAMAC ST,SHORT ST	
 West Bengal	Kolkata	Ward-64	Ward-64 24/2, Bright street,JHAOTALA ,KARAYA, KOL-17, 100 KARAYA ROAD, 105/93, Karaya Road, P.S- Karaya, Kolkata-700017, 105/93, Karaya Road, P.S- Karaya, Kolkata-700017,	
 West Bengal	Kolkata	Ward-64	Ward-64 127B, Park Street, Circus Avenue, Kolkata - 17	
 West Bengal	Kolkata	Ward-65	Ward-65 53/3 Bright Street	
@@ -2961,7 +2960,7 @@ Maharashtra	Mumbai	Charni Road	Subhadra Bldg,1St Sp Marg,Chirabazar,Charni Road
 Maharashtra	Mumbai	Null Bazar	Gani Castle Amar Street,Null Bazar,	
 Maharashtra	Mumbai	Null Bazar	Kanchwala Bldg1St Floor,Usman Brigadier Marg, Eraskin Road,Null Bazar	
 Maharashtra	Mumbai	Bhuleshwar	3Rd Floor, Jai Hind Estate,Dr.A.M.Road,Bhuleshwar	
-Maharashtra	Mumbai	Kumbharwada	,3Rd Kumbharwada	
+Maharashtra	Mumbai	Kumbharwada	3Rd Kumbharwada	
 Maharashtra	Mumbai	Khetwadi	Yusuf Mansion,2Nd Cross Lane,Khetwadi	
 Maharashtra	Mumbai	Khetwadi	Khetwadi 3Rd Cross Lane,Panchmukhi Hanuman Temple,Khetwadi	
 Maharashtra	Mumbai	Charni Road	Ashok Bldg,Ad Street Opp Chandaramji School,Charni Raod	
@@ -3270,13 +3269,13 @@ Maharashtra	Mumbai	Sion	Navratna Bldg,Mhada Colony,Kokari Agar,Sion
 Maharashtra	Mumbai	Sion	Hanuman Chawl,Near Raoli Camp,Sion Koliwada	
 Maharashtra	Mumbai	Sion	Police Officer Bldg,Pratikshanagar,Sion	
 Maharashtra	Mumbai	Sion	Seva Samiti Bldg,,Sion	
-Maharashtra	Mumbai	Sion	,Pratiksha Nagar,Sion	
+Maharashtra	Mumbai	Sion	Pratiksha Nagar,Sion	
 Maharashtra	Mumbai	Sion	Bmc Bldg.No.G,Bhandarwada,Sion	
 Maharashtra	Mumbai	Sion	Ratan Sagar,Flank Road,Near Shanmukhanand Hall,Sion	
-Maharashtra	Mumbai	Sion	,Pratiksha Nagar,Sion	
+Maharashtra	Mumbai	Sion	Pratiksha Nagar,Sion	
 Maharashtra	Mumbai	Sion	Parijat Chs,Pratiksha Nagar,Sion	
 Maharashtra	Mumbai	Sion	Nisarg Chs,Pratiksha Nagar,Sion	
-Maharashtra	Mumbai	Sion	,Sunder Kamala Nagar, Near Kings Circle,Sion	
+Maharashtra	Mumbai	Sion	Sunder Kamala Nagar, Near Kings Circle,Sion	
 Maharashtra	Mumbai	Sion	Shanta Niwas,Gujrat Society,Sion	
 Maharashtra	Mumbai	Sion	Sardar Nagar 3,Near Panchwati Bakery, Sion Koliwada,Sion	
 Maharashtra	Mumbai	Sion	Nehru Nagar, Mrd Sion Koliwada,Sion	
@@ -3284,9 +3283,9 @@ Maharashtra	Mumbai	Sion	Sham Dham Chs,,Sion
 Maharashtra	Mumbai	Sion	Annasgar,Sion Koliwada Gtb Nagar,Sion	
 Maharashtra	Mumbai	Sion	Transit Camp,Gtb Sion Koliwada,Sion	
 Maharashtra	Mumbai	Sion	Shiv Sneha Society,Pratiksha Nagar Mhada Colony,Sion	
-Maharashtra	Mumbai	Sion	,Pratiksha Nagar,Sion	
+Maharashtra	Mumbai	Sion	Pratiksha Nagar,Sion	
 Maharashtra	Mumbai	Sion	Maharastra Nagar Zopadpatti Sion Koliwada,,Sion	
-Maharashtra	Mumbai	Hindustan Nagar	,Hindustan Nagar	
+Maharashtra	Mumbai	Hindustan Nagar	Hindustan Nagar	
 Maharashtra	Mumbai	Sion	Mnv Colony,Sardar Nagar No1,Sion East	
 Maharashtra	Mumbai	Wadala	Eagali Chawl Comitee,Nehru Nagar No 1 Bhind,Wadala	
 Maharashtra	Mumbai	Scheme 6 Bina Nurses Bureau	Madhu Mansion,Scheme 6 Bina Nurses Bureau	
@@ -3309,9 +3308,9 @@ Maharashtra	Mumbai	Sion	Kamal Block, Shivaji Forte Chs,Near Sion Fish Market,Sio
 Maharashtra	Mumbai	Sion	Salanati Hill,Sardar Nagar,Sion	
 Maharashtra	Mumbai	Sion	Maharashtra Housing Board Colony,Mukundrao Ambedkar Road,Sardar Nagar 4 Raoli Camp,Sion	
 Maharashtra	Mumbai	Sion	Gajanan Chawl,Nr Shiv Mandir, Indira Nagar, Shiv Koliwada,Sion	
-Maharashtra	Mumbai	Wadala	,Opp Ganesh Mandir Road Wadala West,Wadala	
-Maharashtra	Mumbai	Wadala	,Sewri Cross,Wadala	
-Maharashtra	Mumbai	Wadala	,Wadala Village,Wadala	
+Maharashtra	Mumbai	Wadala	Opp Ganesh Mandir Road Wadala West,Wadala	
+Maharashtra	Mumbai	Wadala	Sewri Cross,Wadala	
+Maharashtra	Mumbai	Wadala	Wadala Village,Wadala	
 Maharashtra	Mumbai	Wadala	Chaitaya Building,,Wadala East	
 Maharashtra	Mumbai	Wadala	Acharya Atre Nagar,Smd Road,Near Antop Hill Post Office,Wadala E	
 Maharashtra	Mumbai	Wadala	Shubam Chs,Mmrda Colony Kokri Agari Next To Gtb Monoral Sion Koliwada,Wadala E	
@@ -3713,7 +3712,7 @@ Maharashtra	Mumbai	Dharavi	Jyoti Chs,Social Nagar,Dharavi
 Maharashtra	Mumbai	Dharavi	Budhay Chs,60 Feet Road,Dharavi	
 Maharashtra	Mumbai	Dharavi	Y Juntion,Mukund Nagar,Dharavi	
 Maharashtra	Mumbai	Dharavi	Shona,,Dharavi	
-Maharashtra	Mumbai	Dharavi	,Dharavi	
+Maharashtra	Mumbai	Dharavi	Dharavi	
 Maharashtra	Mumbai	Dharavi	Samta Rahivasi Sangh,Sant Rohidas Marg,Dharavi	
 Maharashtra	Mumbai	Dharavi	Sagar Chs Transient Camp,90 Ft Road, Near Dharav I Police Station,Dharavi	
 Maharashtra	Mumbai	Dharavi	90 Feet Road,Near Khekada Majjid,Dharavi	
@@ -3917,18 +3916,18 @@ Maharashtra	Mumbai	Bandra East	Sant Dnyaneshwar Nagar,,Bandra East
 Maharashtra	Mumbai	Bandra East	Dilshad Manzil,Naupada,Bandra Terminius,Bandra East	
 Maharashtra	Mumbai	Khar East	Manohar Compound,Near Ratna Hotel,Khar East	
 Maharashtra	Mumbai	Bandra East	Islampura,Bharat Nagar,Bandra East	
-Maharashtra	Mumbai	Bandra East	,Bharat Nagar,Bandra East	
+Maharashtra	Mumbai	Bandra East	Bharat Nagar,Bandra East	
 Maharashtra	Mumbai	Khar East	Police Chawl,Maratha Colony,Indira Nagar, Khar East	
 Maharashtra	Mumbai	Bandra East	Hajiki Chawl, Noor Jha Gate,Behram Nagar,Bandra East	
 Maharashtra	Mumbai	Bandra East	Mk Patel Nagar,Naupada,Gulzar Nagar, Bandra East	
 Maharashtra	Mumbai	Bandra East	Nalanda Building,Aliyawar Jang Margh,Bandra East	
-Maharashtra	Mumbai	Bandra East	,Bharat Nagar,Bandra East	
+Maharashtra	Mumbai	Bandra East	Bharat Nagar,Bandra East	
 Maharashtra	Mumbai	Khar East	Ram Raj Sharma Chawl,Ambedkar Road,Near Nirmal Nagar Police Station,Khar East	
 Maharashtra	Mumbai	Bandra East	Garib Nagar,Near Gate No. 18,Bandra East	
 Maharashtra	Mumbai	Bandra East	Malan Galli,,Behram Nagar, Bandra East	
 Maharashtra	Mumbai	Bandra East	Enabuy Galli,,Behram Nagar, Bandra East	
 Maharashtra	Mumbai	Bandra East	Siddharth Colony,,Vijay Nagar, Bandra East	
-Maharashtra	Mumbai	Bandra East	,Kherwadi, Bandra East	
+Maharashtra	Mumbai	Bandra East	Kherwadi, Bandra East	
 Maharashtra	Mumbai	Khar East	Pragati Chawl,,Shantilal Compound, Khar (E)	
 Maharashtra	Mumbai	Khar East	Bori Chawl, Jawahar Nagar, Khar (E)	
 Maharashtra	Mumbai	Bandra East	Gulmohar,New Mig Colony, Kherwadi, Bandra East	
@@ -3957,13 +3956,13 @@ Maharashtra	Mumbai	Bandra East	Gulzar Lane, M K Patel Nagar,Bandra (E)
 Maharashtra	Mumbai	Bandra East	Din Mohd Buldg,Above Rasan Store,Navpada, Bandra East	
 Maharashtra	Mumbai	Bandra East	Bharat Nagar,Opp Kurla Complex,Bandra East	
 Maharashtra	Mumbai	Bandra East	Ganesh Mandir,Opp Fish Market,Kherwadi, Bandra (E)	
-Maharashtra	Mumbai	Bandra East	,Kherwadi School,Kherwadi, Bandra (E)	
+Maharashtra	Mumbai	Bandra East	Kherwadi School,Kherwadi, Bandra (E)	
 Maharashtra	Mumbai	Bandra East	Godiwali Galli,Behram Nagar,Bandra (E)	
 Maharashtra	Mumbai	Khar East	Ramashankar Chawl,Rail Line,J.N Nagar,Khar East	
 Maharashtra	Mumbai	Bandra East	Ganesh Krupa Bldg,Gandhi Nagar,Bandra (E)	
 Maharashtra	Mumbai	Bandra East	Gandhi Nagar,Ganpatram Dayma Marg, Behind Ganpati Mandir,Kherwadi, Bandra (E)	
 Maharashtra	Mumbai	Bandra East	Bharat Nagar,,Bandra East	
-Maharashtra	Mumbai	Bandra East	,Near Bhomya Mandir,Kherwadi,Bandra (E)	
+Maharashtra	Mumbai	Bandra East	Near Bhomya Mandir,Kherwadi,Bandra (E)	
 Maharashtra	Mumbai	Bandra East	Govt Colony,,Bandra (East)	
 Maharashtra	Mumbai	Bandra East	Maa Ashapura Co, Near Guru Nanak Hospital,Bandra (East)	
 Maharashtra	Mumbai	Bandra East	Maharashtra Nagar, Bharat Nagar Road,Bandra (East)	
@@ -3978,7 +3977,7 @@ Maharashtra	Mumbai	Bandra East	Bhim Garjana Seva Sangh,Siddharth Colony, Alyavar
 Maharashtra	Mumbai	Bandra East	Bismilla Bldg, Hemad Jakria Nagar,Behram Nagar,,Bandra (East)	
 Maharashtra	Mumbai	Bandra East	Khernagar,,Bandra (East)	
 Maharashtra	Mumbai	Bandra East	Shanti Sadan Kherwadi, Opp Radha Krishna Mandir,Bandra (East)	
-Maharashtra	Mumbai	Bandra East	, Behind Golibar Road,Bandra (East)	
+Maharashtra	Mumbai	Bandra East	Behind Golibar Road,Bandra (East)	
 Maharashtra	Mumbai	Bandra East	Goverment Colony,,Bandra (East)	
 Maharashtra	Mumbai	Bandra East	Dr Ernest Borges Memorial Home,M.K. Marg, Kalanagar, Bandra East	
 Maharashtra	Mumbai	Bandra East	Sra Bld,,Maharashtra Nagar,Bandra (East)	
@@ -4031,7 +4030,7 @@ Maharashtra	Mumbai	Santacruz East	Shubrmaniyam Nagar Chawl, Dhobhi Ghat Road,Vak
 Maharashtra	Mumbai	Santacruz East	Datta Guru Society,Shantilal Compound,Golibar Road,Santacruz East	
 Maharashtra	Mumbai	Santacruz East	New Sahkarprerna Mandal,Patel Nagar,Santacruz East	
 Maharashtra	Mumbai	Santacruz East	Mosambi Tabela,Vakola Pipeline,Near Sai Mandir,Gaondevi, Santacruz (E)	
-Maharashtra	Mumbai	Santacruz East	,Kolekalyan Police Colony,Santacruz East	
+Maharashtra	Mumbai	Santacruz East	Kolekalyan Police Colony,Santacruz East	
 Maharashtra	Mumbai	Santacruz East	Gaiwala Chawl,Gate No 1,Near Nabzasa,Hanuman Tekdi,Santacruz East	
 Maharashtra	Mumbai	Santacruz East	Ankur Chs,Near Vakola Police,Opp Western Highway,Santacruz East	
 Maharashtra	Mumbai	Santacruz East	Murgaon Chawl,Vakola Pipeline,Gaodevi,Santacruz East	
@@ -4100,7 +4099,7 @@ Maharashtra	Mumbai	Bandra West	Belfer Building,Waterfield Road,Bandra (West)
 Maharashtra	Mumbai	Bandra West	Transit Camp,A K Vaidya Marg,Bandra (West)	
 Maharashtra	Mumbai	Bandra West	Bandra Police Quarters,R.K.Patkar Marg,Opp Bhabha Hospital,Bandra (West)	
 Maharashtra	Mumbai	Bandra West	Louise -A-Bele Chs,Waroda Road,Behind Lilvati Hospital,Bandra (West)	
-Maharashtra	Mumbai	Bandra West	,Navpada Masjid,Bandra (West)	
+Maharashtra	Mumbai	Bandra West	Navpada Masjid,Bandra (West)	
 Maharashtra	Mumbai	Khar West	Ellora Apartment,4Th Road,Opposite D Sharma Punjab Hotel,Khar (West)	
 Maharashtra	Mumbai	Khar West	Warinpada,Ram Mandir Road,Khar Danda,Khar (West)	
 Maharashtra	Mumbai	Khar West	Rajgruha Chs,20Th Road,Khar (W)	
@@ -4516,7 +4515,7 @@ Maharashtra	Mumbai	Chunabhatti	Keashwani Chawl,Vn Purav Marg,Hanuman Galli,Ambik
 Maharashtra	Mumbai	Chunabhatti	Mayur Cooperative Hsg Society,,Shivshrushti,Chunabhatti Mumbai	
 Maharashtra	Mumbai	Chunabhatti	Swadeshi Mill Mhada Sankul,Near Reliance Mart,Chunabhatti Mumbai	
 Maharashtra	Mumbai	Kurla East	Nehru Nagar,Swadeshi Mill Road,Mhada Colony,Kurla,East	
-Maharashtra	Mumbai	Kurla East	,Nehru Nagar	
+Maharashtra	Mumbai	Kurla East	Nehru Nagar	
 Maharashtra	Mumbai	Kurla East	Miranji Patel Chawl, Qureshinagar,S G Barve Marg,Near Jammat Khana,Kurla East	
 Maharashtra	Mumbai	Kurla East	Navjeevan Rahiwashi Sangh,S.G.Barve Marg,Opp. Kamgar Nagar,Kurla (E) Mumbai	
 Maharashtra	Mumbai	Kurla East	Fatimabi Shah Mohd Chawl,S.G.Barve Marg,Near Navnihal Committee, Qureshinagar,Kurla East Mumbai	
@@ -4785,7 +4784,7 @@ Maharashtra	Mumbai	Baiganwadi	Rd No 10,Hakkani Masjid,Baiganwadi
 Maharashtra	Mumbai	Shivaji Nagar	Ahilyabai Holkar Road,Rd No 1,Shivaji Nagar	
 Maharashtra	Mumbai	Shivaji Nagar	Road No 5,,Shivaji Nagar	
 Maharashtra	Mumbai	Nimonibaug	Shankara Colony Road, Gm Link Road,,Nimonibaug	
-Maharashtra	Mumbai	Mankhurd	,Mankhurd	
+Maharashtra	Mumbai	Mankhurd	Mankhurd	
 Maharashtra	Mumbai	Nimonibaug	New Gautam Nagar,Behind Hanif Dairy,Nimonibaug	
 Maharashtra	Mumbai	Mankhurd	Mohite Patil Nagar,,Mankhurd	
 Maharashtra	Mumbai	Govandi	Near Gautam Nagar,Nr Deonar Police Station,Govandi	
@@ -4809,7 +4808,7 @@ Maharashtra	Mumbai	Vashi Naka	J Plot /Mahada Building,Old Bharat Nagar,Vashi Nak
 Maharashtra	Mumbai	Baiganwadi	Gautam Nagar,City Hospital,Baiganwadi	
 Maharashtra	Mumbai	Mankhurd	Jyotirling Chawl,Maharashtra Nagar Road,Rajgad Chawl,Mankhurd	
 Maharashtra	Mumbai	Ayodhya Nagar	Rcf Colony,Ashish Cinema,Ayodhyanagar	
-Maharashtra	Mumbai	Govandi	,Velankani Mandiir,Govandi	
+Maharashtra	Mumbai	Govandi	Velankani Mandiir,Govandi	
 Maharashtra	Mumbai	Near Bismillah Masjid	90 Ft Road,Near Bismillah Masjid	
 Maharashtra	Mumbai	Chembur	Bksd Road,,Chembur	
 Maharashtra	Mumbai	Ayodhya Nagar	Pll Marg Chimpazti Co Society,Near Shani Mandir,Ayodhya Nagar	
@@ -5011,7 +5010,7 @@ Maharashtra	Mumbai	Ghatkopar West	New Chawl Society,Akabar Lala Compound,Near Ka
 Maharashtra	Mumbai	Ghatkopar West	Amarjyot Mitra Mandal Society,Next To Dr. Thorat Clinic,Azad Nagar, Ghatkopar West	
 Maharashtra	Mumbai	Vikhroli West	Swapnapurti Chsl,Road No. 17,Upper Depo Pada,Sagar Nagar Vikroli Park Site Vikroli West	
 Maharashtra	Mumbai	Vidyavihar West	Nalanda Neelkanth Kingdom,Nathani Road,Near Shaligram Shala,Vidyavihar W	
-Maharashtra	Mumbai	Ghatkopar West	,Near Saibaba Mandir,Azad Nagar, Ghatkopar West	
+Maharashtra	Mumbai	Ghatkopar West	Near Saibaba Mandir,Azad Nagar, Ghatkopar West	
 Maharashtra	Mumbai	Ghatkopar West	Indradeep Society,Lbs Marg,Near Radhakrishna Hotel,Ghatkopar West	
 Maharashtra	Mumbai	Ghatkopar West	New Ration Shop, Bhim Nagar,Bhim Nagar Road,Behind Sarvoday Hospital,Ghatkopar West	
 Maharashtra	Mumbai	Ghatkopar West	Kalpataru Aura,Lbs Marg,Opposite R City Mall,Ghatkopar West	
@@ -5129,7 +5128,7 @@ Maharashtra	Mumbai	Malad East	M Palani Acharya Chawl,Near Jain Mandir,Hanuman Na
 Maharashtra	Mumbai	Malad East	Mahabaleshwar Chawl,Kali Mata Nagar,Appa Pada,Malad East	
 Maharashtra	Mumbai	Malad East	Daya Shankar Chawl,Hanuman Nagar,Kurar,Malad East	
 Maharashtra	Mumbai	Malad East	Vishwakarma Chawl,Khot Kuwa Road,Malad East	
-Maharashtra	Mumbai	Malad East	.,Hanuman Nagar,Kurar,Malad East	
+Maharashtra	Mumbai	Malad East	Hanuman Nagar,Kurar,Malad East	
 Maharashtra	Mumbai	Malad East	John Dsouza Chalw,Hanuman Nagar,Kurar,Malad East	
 Maharashtra	Mumbai	Malad East	Mhk Chawl,Hanuman Nagar,Kurar,Malad East	
 Maharashtra	Mumbai	Malad East	Rameshpuri Chawl,Kokni Pada,Kurar,Malad East	
@@ -5157,7 +5156,7 @@ Maharashtra	Mumbai	Girgaon	Aamrapali Building,Swami Vivekananda Road,Opposite Dg
 Maharashtra	Mumbai	Girgaon	Teen Dongari,Near Shiv Shnakar Mandir,Near Kehsav Gore Trust,Goregaon West	
 Maharashtra	Mumbai	Girgaon	Anmol Tower,Swami Vivekananda Road,Goregaon West	
 Maharashtra	Mumbai	Girgaon	Avadumber Society,Building No. 19,Shastri Nagar,Goregaon West	
-Maharashtra	Mumbai	Girgaon	,Goregaon West	
+Maharashtra	Mumbai	Girgaon	Goregaon West	
 Maharashtra	Mumbai	Girgaon	Residency Chs,Umiyadham Mandir Road, Off Visheshwar Road,Churi Wadi,Goregaon East	
 Maharashtra	Mumbai	Girgaon	Saraswati Seva Society,A.K. Vaidya Marg,Near Oberoi Mall, Vitbhatti,Goregaon East	
 Maharashtra	Mumbai	Girgaon	Arpan Darpan,Kanya Pada,Gokuldham,Goregaon East	
@@ -5391,7 +5390,7 @@ Maharashtra	Mumbai	Powai	Tirandaz Village,Shivsena Office,Bsnl Coony,Powai
 Maharashtra	Mumbai	Powai	Near Iit Area,Iit Powai Hill Side,Powai	
 Maharashtra	Mumbai	Powai	Vikhroli, / Fern Meluha Hotel,Kanamanagar,Central Avenue, Hiranandani Gardens,Powai	
 Maharashtra	Mumbai	Powai	Iit Staff Qtrs,Pratapgad,Near S M Shetty School,Powai	
-Maharashtra	Mumbai	Powai	,Chaitanya Nagar,Powai	
+Maharashtra	Mumbai	Powai	Chaitanya Nagar,Powai	
 Maharashtra	Mumbai	Powai	Mahatma Jyotiba Phule Nagar,Mahatma Jyotiba Phule Nagar, Nagar, Iiit Market,Powai	
 Maharashtra	Mumbai	Powai	Holy Family House,Gokhale Nagar,Powai	
 Maharashtra	Mumbai	Khindipada	Anand Thakur Chawl,Near Shivsena Shakha,Khindipada	
@@ -5417,7 +5416,7 @@ Maharashtra	Mumbai	Kanjurmarg	Shakim Kunj,Laxmi Udyog Nagar,Kanjurmarg (W)
 Maharashtra	Mumbai	Bhandup	Hussain Chawl,Jokim Compound, P.N. Road,Near Ganesh Maidan,Bhandup (W)	
 Maharashtra	Mumbai	Bhandup	Durga Devi Niwas,,Utkarsh Nagar,Bhandup (W)	
 Maharashtra	Mumbai	Bhandup	Room No. 55,Subhash Nagar,Opp Hdil,Bhandup (W)	
-Maharashtra	Mumbai	Bhandup	,Tulshet Pada,Bhandup (W )	
+Maharashtra	Mumbai	Bhandup	Tulshet Pada,Bhandup (W )	
 Maharashtra	Mumbai	Bhandup	Malang Niwas,Sanman Singh Road,Lokmanya Nagar,Bhandup West	
 Maharashtra	Mumbai	Nahur West	S.Samuel Marg,Link Road,Nahur West	
 Maharashtra	Mumbai	Bhandup	Tp Rd,Sai Vihar,Bhandup West	
@@ -5445,7 +5444,7 @@ Maharashtra	Mumbai	Vikhroli	Siva Seth Chawl,Patane Marg,Hariyali Village,Vikroli
 Maharashtra	Mumbai	Vikhroli	Near Babasaheb Ambedkar Hospital,Dighe Road,Tagore Nagar,Vikhroli East	
 Maharashtra	Mumbai	Kanjurmarg	Shiv Ganesh Housing,Karve Nagar,Kanjurmarg	
 Maharashtra	Mumbai	Kanjurmarg	Panchavati Bld,Maharshi Karve Nagar,Karve Nagar,Kanjunmarg E	
-Maharashtra	Mumbai	Vikhroli	,Kannamwar Nagar Ii,Vikhroli East	
+Maharashtra	Mumbai	Vikhroli	Kannamwar Nagar Ii,Vikhroli East	
 Maharashtra	Mumbai	Vikhroli East	Room No 1508,S R A Bulding,Group No 5 Tagore Nagar,Walmiki Nagar Vikroli East	
 Maharashtra	Mumbai	Vikhroli	Raj Legacy,,Vikhroli West Mumbai	
 Maharashtra	Mumbai	Vikhroli	Ambewadi Colony,Lbs Road,Surya Nagar,Vikhroli(West)	
@@ -5487,3 +5486,6 @@ Maharashtra	Mumbai	Mulund East	Shivshankar Apartment,,Bhoir Nagar,Mulund East
 Maharashtra	Mumbai	Mulund East	Sumangal Chs,Veena Nagar,Mulund East	
 Maharashtra	Mumbai	Mulund East	Palm Acres Mulund East,,Mulund East	
 Maharashtra	Mumbai	Mulund West	Ekta Building,,Mulund West	
+Puducherry	Karaikal	All	Karaikal	http://newsonair.com/Main-News-Details.aspx?id=388223
+Puducherry	Kutchipalayam	All	Kutchipalayam	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
+Puducherry	Sellipet village	All	Sellipet village	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
