@@ -5489,3 +5489,4 @@ Maharashtra	Mumbai	Mulund West	Ekta Building,,Mulund West
 Puducherry	Karaikal	All	Karaikal	http://newsonair.com/Main-News-Details.aspx?id=388223
 Puducherry	Kutchipalayam	All	Kutchipalayam	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
 Puducherry	Sellipet village	All	Sellipet village	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
+Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward  72 - Herohalli 
