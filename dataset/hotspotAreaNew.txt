@@ -1,6 +1,4 @@
 Delhi	East Delhi	All	House no. 141-180, Gali No. 14, Kalyan Puri	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	East Delhi	All	3 Galis of Khichripur including Gali containing H.No. 5/387 Khichirpur Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	East Delhi	All	Gali No. 5, A Block (from House No. A-176 to A-189), West Vinod Nagar 9)	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	East Delhi	All	Gali No. 4 from House No. J-3/115 to J-3/108, Krishan Kunj Extension 3)	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	East Delhi	All	Gali No. 4 from House No. J-3/101 to J-3/107, Krishan Kunj Extension	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	South west Delhi	All	Shahajahanabad Society, Plot No 1, Sector 11, Dwarka	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
@@ -12,7 +10,6 @@ Delhi	South east Delhi	All	Nizamuddin West (G&D Block) areas	https://www.indiato
 Delhi	South east Delhi	All	Gali No. 16, Kachhi colony, Madanpur Khadar extension	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South east Delhi	All	Mehela Mohalla, Madanpur Khadar	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South east Delhi	All	H-Block, Near Umra Masjid, Abu Fazal Enclave	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
-Delhi	South east Delhi	All	E-Block, Abu Fazal Enclave	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South east Delhi	All	H. No. 53 to 55 & 25, Shera Mohalla, Garhi, East of Kailash	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	North Delhi	All	Gali No. 1 to 10 (1 to 1000) C Block Jhangirpuri	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South west Delhi	All	Dinpur Village	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
@@ -22,7 +19,6 @@ Delhi	North Delhi	All	B Block Jhangirpuri	https://www.indiatoday.in/india/story/
 Delhi	Shahdara	All	E-Pocket, GTB Enclave, Delhi	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Shahdara	All	F-70 to 90 Block Dilshad Colony	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Shahdara	All	Pratap Khand, Jhilmil Colony	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	New Delhi	All	Shastri Market, including J.J. cluster of South Moti Bagh	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Central	All	Sadar Bazar,Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Central	All	Chandni Mahal, Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Central	All	Nabi Karim, Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
@@ -410,7 +406,6 @@ Bihar	Begusarai	All	Teghra Block 	https://navbharattimes.indiatimes.com/state/b
 Bihar	Begusarai	All	Mansoorchak Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Karnataka	Bengaluru Urban	All	Mahadevpura  Ward 84 - Hagaduru	https://twitter.com/ANI/status/1250103927330111488
 Karnataka	Bengaluru Urban	All	East Bengaluru Ward  93 - Vasanth Nagar	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	All	South Bengluru Ward  118 - Sudhamnagar	https://twitter.com/ANI/status/1250103927330111488
 Delhi	South Delhi	All	Pandit Mohalla & Jain Mohalla, from Epic centre 715, Chirag Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South Delhi	All	shop No J-4/49 (Khirki Extension)	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South west Delhi	All	C-2 Block-Janakpuri-Kothi number-119	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
@@ -420,11 +415,8 @@ Delhi	South east Delhi	All	Entire Gali starting from House no. G-54 to F-107 & E
 Delhi	South east Delhi	All	Gali No 1,2 & 3 Block D Sangam Vihar, H.No. 112, Gali No. 2 	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	North Delhi	All	1100 Wali Gali (H.No. 1181-1200), 1200 wali gali (H. No. 1238-1268), 1300 wali Gali (H. No. 1306-1331), H-3 Block, Jhangirpuri	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	Central	All	Bara Hindu Rao area	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
-Delhi	Central	All	Balaji Apartment, Sant Nagar, Burari, Delhi - 110084	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	Central	All	Nawab Ganj area	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	North east Delhi	All	House no 62, Gali no.4, B- block, Shastri Park	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
-Delhi	West Delhi	All	In and around area of H. No. A-30, Mansarovar Garden	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
-Delhi	West Delhi	All	In and around area of A-1B/75A, Krishna Apartment, Pashchim Vihar, Delhi - 110063	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Maharashtra	Nagpur	All	Gitanjali Square	https://twitter.com/ANI/status/1250258393996107777
 Maharashtra	Nagpur	All	Hasanbagh	https://twitter.com/ANI/status/1250258393996107777
 Madhya Pradesh	Bhopal	All	Durga Nagar	https://www.republicworld.com/india-news/city-news/coronavirus-hotspot-areas-in-bhopal-list-of-all-the-sealed-areas.html
@@ -581,7 +573,6 @@ Kerala 	Ernakulam	All	Note: Entire District declared Red Zone Hotspot as on 15 A
 Kerala 	Malappuram	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Kerala 	Thiruvananthapuram	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Kerala 	Pathanamthitta	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Madhya Pradesh 	Indore	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Madhya Pradesh 	Bhopal	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Madhya Pradesh 	Khargone	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Madhya Pradesh 	Ujjain	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -710,7 +701,6 @@ Punjab 	Rupnagar	All	Chatwali	https://punjabi.abplive.com/videos/news/punjab-pun
 Punjab 	SAS Nagar Mohali	All	Phase 3 A	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
 Punjab 	SAS Nagar Mohali	All	Sector 69	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
 Punjab 	SAS Nagar Mohali	All	Sector 91	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
-Delhi 	West Delhi	All	in and around area of C-105, Hari Nagar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Delhi 	West Delhi	All	in and around area of C-785, third floor, camp-2, Nangloi	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Delhi 	West Delhi	All	in and around area of RZ-168, K2 Block, Nihal Vihar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Delhi 	South east Delhi	All	Gali numbers 26, 26B, 27 and 27B, Tughlakabad Extension	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
@@ -758,41 +748,6 @@ Madhya Pradesh	Bhopal	All	Basant Dhakad Gram	https://www.naidunia.com/madhya-pra
 Madhya Pradesh	Bhopal	All	BSNL Exchange Office	https://www.naidunia.com/madhya-pradesh/bhopal-coronavirus-madhya-pradesh-news-less-patient-than-indore-yet-more-number-of-container-areas-in-bhopal-5509985
 Delhi 	West Delhi	All	Tilak Vihar area of Tilak Nagar	https://twitter.com/ANI/status/1251911483958726661
 Delhi 	South west Delhi	All	Plot No. 1294 in Theke Wali Gali opposite DC Office Kapashera	https://twitter.com/ANI/status/1251889034399567873
-Madhya Pradesh 	Indore	All	Chandan Nagar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Taat Patti Bakhal	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Ranipura	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Manish Bagh Colony	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Daudi Nagar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Mapple Wood Nepaniya	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Daulat Ganj	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Noorani Nagar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Limbodi	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Silawatpura	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Koyla Bakhal	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Arihant College Campus, Gumasta Nagar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Chandrapuri Colony, Musakhedi	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Hathipala	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Ahilyapaltan	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Saidham Colony	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Azad Nagar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Manormaganj	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Khajrana	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Park Road Vallabh Nagar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Manikbagh Colony	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Tanzeem Nagar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Rajkumar Colony	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Moti Tabela	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Madhuban Colony	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Saify Nagar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Jabran Colony	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Roopram Nagar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Palace Colony	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Navlakha area	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Marimata area	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Vinobha Nagar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Om Vihar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Lodhipura	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
-Madhya Pradesh 	Indore	All	Sudama Nagar	https://english.jagran.com/india/coronavirus-in-madhya-pradesh-35-areas-sealed-in-indore-check-full-list-of-containment-zones-in-the-state-here-10010896
 Tamil Nadu 	Dindigul	All	Sanarpatti	https://twitter.com/Dindigulmemes/status/1251860024378437632
 Maharashtra	Thane	All	Navi Mumbai	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
 Maharashtra	Thane	All	Mira-Bhayander	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
@@ -1070,7 +1025,6 @@ Uttar Pradesh	Gautam Buddh Nagar	All	Sector 80, Noida Kakrala village	https://tw
 Uttar Pradesh	Gautam Buddh Nagar	All	Sector-50, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
 Uttar Pradesh	Gautam Buddh Nagar	All	Nithari Sector-31, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
 Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 189 -Hongasandara	https://bangaloremirror.indiatimes.com/bangalore/others/better-to-be-safe-than-sorry-in-hongasandra/articleshow/75397004.cms
-Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 190 - Mangammanapalya	https://bangaloremirror.indiatimes.com/bangalore/others/better-to-be-safe-than-sorry-in-hongasandra/articleshow/75397004.cms
 Uttar Pradesh	Agra	All	Wazirpura Gandhi Nagar	https://twitter.com/PrabhuNs_/status/1254858505908965377
 Uttar Pradesh	Agra	All	Khandari Area	https://twitter.com/PrabhuNs_/status/1254858505908965377
 Uttar Pradesh	Agra	All	SNMC/Fawara Hospital Road/Chitra talkies/Khatik Pada/Mansi Sayeed Khan/Bagh Mujaffar Nagar	https://twitter.com/PrabhuNs_/status/1254858505908965377
@@ -1117,7 +1071,6 @@ Karnataka 	Kalaburagi	All	Kalaburagi Taluk	https://twitter.com/get2nmukul/status
 Karnataka	Bengaluru Urban	All	South Bengluru Ward  133 - Hampi Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	All	South Bengluru Ward  169 - Byrasandra	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	All	West Bengaluru Ward  136 - Jagajeevanram Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
-Karnataka	Bengaluru Urban	All	West Bengaluru Ward  138 - Chalavadipalya	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward  37 - Yeshwanthpur	http://covid.bbmpgov.in/reports/report20200429.pdf
 Karnataka	Kalaburagi	All	Kawalga Village, Kalaburagi rural	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka	Kalaburagi	All	Saradagi Village, Kalaburagi rural	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
@@ -5497,3 +5450,44 @@ Maharashtra 	Nashik	All	Takshashila Row House, Konark Nagar 2, Nashik	https://tw
 Maharashtra 	Nashik	All	Sagar Village, Dhatrak Phata, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
 Maharashtra 	Nashik	All	Hari Darshan Apartment, Dhatrak Phata, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
 Maharashtra 	Nashik	All	Sinnar Phata, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Rajasthan	Jalore	All	Godiji Nagar	https://www.bhaskar.com/local/rajasthan/pali/jalore/news/karenna-who-was-admitted-for-two-hours-with-normal-patients-was-deteriorated-and-referred-to-jedhpur-127292902.html?art=next
+Rajasthan	Jalore	All	Raithal	https://www.bhaskar.com/local/rajasthan/pali/jalore/news/karenna-who-was-admitted-for-two-hours-with-normal-patients-was-deteriorated-and-referred-to-jedhpur-127292902.html?art=next
+Rajasthan	Jalore	All	Siyana	https://www.bhaskar.com/local/rajasthan/pali/jalore/news/karenna-who-was-admitted-for-two-hours-with-normal-patients-was-deteriorated-and-referred-to-jedhpur-127292902.html?art=next
+Rajasthan	Jalore	All	Bhadwal	https://www.bhaskar.com/local/rajasthan/pali/jalore/news/karenna-who-was-admitted-for-two-hours-with-normal-patients-was-deteriorated-and-referred-to-jedhpur-127292902.html?art=next
+Madhya Pradesh 	Indore	All	1/8 Eliyash Khajrana Indore	
+Madhya Pradesh 	Indore	All	102 North Toda Indore	
+Madhya Pradesh 	Indore	All	102 Prem Appartment Khatiwala Tank Indore	
+Madhya Pradesh 	Indore	All	103 Sudarshan Appartment Mahesh Nagar Rajmohalla Indore	
+Madhya Pradesh 	Indore	All	105 Kamla Nehru Colony Malharganj Indore	
+Madhya Pradesh 	Indore	All	109 DR Scheme No 74 C Vijay Nagar Indore	
+Madhya Pradesh 	Indore	All	112 Malhar Paltan Indore	
+Madhya Pradesh 	Indore	All	124/6 Pardeshipura Indore	
+Madhya Pradesh 	Indore	All	162 Sajan Nagar Indore	
+Madhya Pradesh 	Indore	All	173 Tilak Nagar Indore	
+Madhya Pradesh 	Indore	All	18 Badri Bag Ext. Indore	
+Madhya Pradesh 	Indore	All	2/1 Nayi Basti Azad Nagar Indore	
+Madhya Pradesh 	Indore	All	201 Tirupati Arcade Scheme No 114 Part 1 Vijay Nagar	
+Madhya Pradesh 	Indore	All	215/3 and 217/3 Janta Colony Bada Ganpati Indore	
+Madhya Pradesh 	Indore	All	24 Jayrampura Colony Indore	
+Madhya Pradesh 	Indore	All	283 Usha Nagar Ext. Indore	
+Madhya Pradesh 	Indore	All	29 Shahi Bag Khajrana Indore	
+Madhya Pradesh 	Indore	All	3/1 and 26 Gafur Khan Ki Bajariya Indore	
+Madhya Pradesh 	Indore	All	32 M Anoop Nagar Indore	
+Madhya Pradesh 	Indore	All	38 Nanda Nagar Indore	
+Madhya Pradesh 	Indore	All	401 Kind Tower Plot No 51 Khandekwal Nagar Indore	
+Madhya Pradesh 	Indore	All	41 Mishra Vihar Geeta Bhawan Indore	
+Madhya Pradesh 	Indore	All	43/1 Juna Risala Indore	
+Madhya Pradesh 	Indore	All	50 Azad Nagar Purani Jail ke Pass Indore	
+Madhya Pradesh 	Indore	All	52/2 Murai Mohalla Chhawani Indore	
+Madhya Pradesh 	Indore	All	57-2 Nandan Nagar Dhar Road Indore	
+Madhya Pradesh 	Indore	All	57/5 Gadrakhedi Indore	
+Madhya Pradesh 	Indore	All	785 Madina Nagar Indore	
+Madhya Pradesh 	Indore	All	Aerodrum Thana Indore	
+Madhya Pradesh 	Indore	All	Central Jail Standard Boys Hostel DRP Line Indore	
+Madhya Pradesh 	Indore	All	D 555 Prajapat Nagar Indore	
+Madhya Pradesh 	Indore	All	J 120 & J 122 LIG Colony Indore	
+Madhya Pradesh 	Indore	All	Magar Kheda Indore	
+Madhya Pradesh 	Indore	All	Police Line Mhow Thana	
+Madhya Pradesh 	Indore	All	Shivshakti Nagar Indore	
+Madhya Pradesh 	Indore	All	Vidhinath Appartment Silicon City	
+Madhya Pradesh 	Indore	All	Village Kadwali Bujurg Indore	
