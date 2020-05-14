@@ -31,7 +31,6 @@ Haryana	Faridabad	All	Village Badhkal	https://www.facebook.com/ssffaridabad/post
 Haryana	Faridabad	All	Green Field Colony	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Haryana	Faridabad	All	Fatehpur Taga	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Haryana	Faridabad	All	Khori	https://www.facebook.com/ssffaridabad/posts/898125020658350
-Haryana	Faridabad	All	Sector 16	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Haryana	Palwal	All	Huchpuri kalaan village	https://haryana.punjabkesari.in/haryana/news/nuh-palwal-faridabad-and-gurugram-became-hotspots-of-corona-infection-1151095
 Haryana	Palwal	All	Mathhepur village	https://haryana.punjabkesari.in/haryana/news/nuh-palwal-faridabad-and-gurugram-became-hotspots-of-corona-infection-1151095
 Haryana	Palwal	All	Durainchi village	https://haryana.punjabkesari.in/haryana/news/nuh-palwal-faridabad-and-gurugram-became-hotspots-of-corona-infection-1151095
@@ -1970,29 +1969,6 @@ Maharashtra	Pune	All	Hadapasar Handewadi, Hadapasar Mundwa	https://www.businessi
 Assam	Guwahati	All	Doctor's Hostel no. 5 of Guwahati Medical College (GMCH) campus	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
 Assam	Guwahati	All	Residential Area of Dr B Borooah Cancer Institute	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
 Assam	Guwahati	All	Amiyo Nagar	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
-Maharashtra 	Nashik	All	Ayodhya Nagari, Hirawadi	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Sagar Village, Dhatrak Phata	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Hari Darshan Apartment, Dhatrak Phata	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Tarvala Nagar	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Takshashila Row-House, Konark Nagar 2	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Indira Nagar	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Hanuman Chowk	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Hirawadi, Panchvati	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Jadhav Sankul, Satpur	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Shrikrishna Nagar, Satpur	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Patil Nagar, Cidco	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Samata Nagar, Takli Road	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Bajrangwadi	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Shantiniketan Chowk, Gangapur Road	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Maneksha Nagar, Dwarka	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Dhongde Mala, Nashik road	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Pathardi Phata	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	RTO Office, Vrindavan Nagar	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Sanjiv Nagar	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Satpur Nagar	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Savta Nagar, Cidco	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Uttam Nagar, Cidco	 https://nmc.gov.in/article/index/id/154
-Maharashtra 	Nashik	All	Vrindavan Colony, Vaidhya Nagar	 https://nmc.gov.in/article/index/id/154
 Haryana	Gurugram	All	Dev Jewelry Shop, Ashok Vihar, Nandhi Dham, Ashok Vihar	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
 Haryana	Gurugram	All	Tower K (Godrej Frontier Society)	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
 Haryana	Gurugram	All	Parmawati Gali Near School, Shani Mandir, Matawali Gali, Yadram Gali (Islampur Village)	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
@@ -5489,4 +5465,34 @@ Maharashtra	Mumbai	Mulund West	Ekta Building,,Mulund West
 Puducherry	Karaikal	All	Karaikal	http://newsonair.com/Main-News-Details.aspx?id=388223
 Puducherry	Kutchipalayam	All	Kutchipalayam	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
 Puducherry	Sellipet village	All	Sellipet village	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
-Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward  72 - Herohalli 
+Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward  72 - Herohalli	
+Haryana	Faridabad	All	Baad Mohalla, Old Faridabad	https://twitter.com/SmartCityFbad/status/1259063906896539648
+Haryana	Faridabad	All	Block-B, Jawahar Colony	https://twitter.com/SmartCityFbad/status/1259063906896539648
+Haryana	Faridabad	All	Mujessar	https://twitter.com/SmartCityFbad/status/1259063906896539648
+Maharashtra 	Nashik	All	CIDCO	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Navshya Ganpati Mandir, Gangapur, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Dhongade Mala, Nashik Road, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Samaj Kalyan Office, Nashik Pune Road. Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Sanjiv Nagar, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Chitralekha Bldg, RTO Corner, Mhasrul, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Savata Nagar, CIDCO, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	N53 S/5/8/6 Uttam Nagar, CIDCO, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Malpani Saffron, Pathardi Phata, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Satpur Colony, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Vrundavan Colony, General Vaidya Nagar	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Bajrangwadi Slum, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Shantiniketan Chowk, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Maneksha Nagar, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Samata Nagar, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Patil Nagar, CIDCO, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Hanuman Chowk, CIDCO, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Jadhav Sankul, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Hirawadi. Panchvati, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Shri Krishna Nagar, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Indira Nagar, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Tarwala Nagar, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Ayodhya Nagari, Hirawadi, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Takshashila Row House, Konark Nagar 2, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Sagar Village, Dhatrak Phata, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Hari Darshan Apartment, Dhatrak Phata, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
+Maharashtra 	Nashik	All	Sinnar Phata, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
