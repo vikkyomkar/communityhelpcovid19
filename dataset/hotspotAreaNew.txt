@@ -286,56 +286,11 @@ Telangana	Warangal	All	Chintagattu camp	https://www.newindianexpress.com/states/
 Telangana	Nirmal	All	Chatpelli panchayat in Narsapur-G mandal	https://www.newindianexpress.com/states/telangana/2020/apr/10/covid-19-telanganas-adilabad-and-nirmal-on-the-edge-as-social-distancing-goes-for-a-toss-2128168.html
 Uttar Pradesh	Mathura	All	Ol Village, Farah Block	https://www.amarujala.com/uttar-pradesh/agra/coronavirus-update-many-areas-of-mathura-sealed-after-getting-two-covid-19-cases
 Uttar Pradesh	Mathura	All	Andhi kuiyan Markaz Mosque area	https://www.amarujala.com/uttar-pradesh/agra/coronavirus-update-many-areas-of-mathura-sealed-after-getting-two-covid-19-cases
-Tamil Nadu	Coimbatore	All	Vilankurichi	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
-Tamil Nadu	Coimbatore	All	Cheran Managar	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
-Tamil Nadu	Coimbatore	All	R.S. Puram	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
-Tamil Nadu	Coimbatore	All	Sundarapuram	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
-Tamil Nadu	Coimbatore	All	Kuniamuthur	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
-Tamil Nadu	Coimbatore	All	K.K. Pudur	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
-Tamil Nadu	Coimbatore	All	Ukkadam	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
-Tamil Nadu	Coimbatore	All	Podanur.	https://www.thehindu.com/news/cities/Coimbatore/eight-areas-in-coimbatore-declared-containment-zones/article31274081.ece
-Tamil Nadu	Coimbatore	All	Annur	https://www.covaipost.com/coimbatore/annur-in-coimbatore-rural-limits-brought-under-local-containment/?__cf_chl_jschl_tk__=291e1c3d1a07aad8f58e204baadedd1cf15f4019-1586720477-0-AVC4wg96LrnBykZX46ffDCirhFNgEKkeW5pxwqTaITy_-5XrzzePIZ1voPnCLnOZ2liJf9FXGdo7SVneuSHP-BgZu5aAPFSjvpxNoIbE_V27KyPzWhiEFY8wYXSPbCfeX6h6f3cJCnFn_ieGI9h1KLYzTYp9cNiP58mUuVqUFL8kkBBrr6JgrUkN81Qoa61_5_fpD6YF0QAUlnmgIerw7vC04Ptw4dHP6BK1smaqmISMcb8G-ivlGpYotU87HfZqcQDpHAI2zWzqAv_JnOjw6d5pO8fOwxwj-f2wyHx-nvj5nq23_WXpsAFKDN73FTilEG_12sX2YLi3GhtnN96QLtvtQd3O0LOVIi0HRMkLh_Dr4FxtWUTdyt9vN60QYqxQfg
-Tamil Nadu	Dindigul	All	Begumpur	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040243.pdf
-Tamil Nadu	Dindigul	All	Ottanchattiram	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040243.pdf
-Tamil Nadu	Dindigul	All	Nilakottai	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040243.pdf
-Tamil Nadu	Dindigul	All	Kodankinayikkampatti	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040243.pdf
-Tamil Nadu	Dindigul	All	Thomaiyaarpuram village	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040243.pdf
-Tamil Nadu	Dindigul	All	Nattam	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040720.pdf
-Tamil Nadu	Dindigul	All	Meenachipuram	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040720.pdf
-Tamil Nadu	Dindigul	All	Tharbar Nagar	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040720.pdf
-Tamil Nadu	Dindigul	All	Annanagar	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040720.pdf
-Tamil Nadu	Dindigul	All	Meltheru	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040720.pdf
-Tamil Nadu	Dindigul	All	kosukurichi	https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2020/04/2020040720.pdf
-Tamil Nadu	Trichy	All	Ponmalai zone	https://timesofindia.indiatimes.com/city/chennai/covid-19-four-more-containment-zones-established-in-trichy-city/articleshow/75027586.cms
-Tamil Nadu	Trichy	All	Abishekapuram zone	https://timesofindia.indiatimes.com/city/chennai/covid-19-four-more-containment-zones-established-in-trichy-city/articleshow/75027586.cms
-Tamil Nadu	Trichy	All	Alwaarthoppu	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
-Tamil Nadu	Trichy	All	10th and 11th crosses of Thillai Nagar	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
-Tamil Nadu	Trichy	All	Purathangudi	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
-Tamil Nadu	Trichy	All	Koothur	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
-Tamil Nadu	Trichy	All	Iyankudi	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
-Tamil Nadu	Trichy	All	Puthanatham 	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/04/trichy-sees-drastic-rise-with-17-positive-coronavirus-cases-50-areas-under-containment-2125830.html
-Tamil Nadu	Vellore	All	RN Palayam	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
-Tamil Nadu	Vellore	All	Karugamputhur	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
-Tamil Nadu	Vellore	All	Ditter Line	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
-Tamil Nadu	Vellore	All	Kaspa	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
-Tamil Nadu	Vellore	All	Chinna Allapuram	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
 Tamil Nadu	Tirunelveli	All	Melappalayam	https://tamil.samayam.com/latest-news/state-news/tirunelveli-melapalayam-has-been-isolated-by-police-due-to-coronavirus/articleshow/74918415.cms
 Tamil Nadu	Katpadi	All	Barneespuram	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
-Tamil Nadu	Ranipet	All	Visharam	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
-Tamil Nadu	Ranipet	All	Arcot	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
-Tamil Nadu	Ranipet	All	Kalmelkuppam	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
-Tamil Nadu	Ranipet	All	Banavaram	https://www.newindianexpress.com/states/tamil-nadu/2020/apr/05/18-test-positive-in-ranipet-north-tn-sees-spurt-in-cases-2125912.html
-Tamil Nadu	Madurai	All	Melamadai	https://timesofindia.indiatimes.com/city/madurai/530-health-workers-monitor-residents-in-containment-zones/articleshow/75102246.cms
-Tamil Nadu	Madurai	All	Bibikulam	https://timesofindia.indiatimes.com/city/madurai/530-health-workers-monitor-residents-in-containment-zones/articleshow/75102246.cms
-Tamil Nadu	Madurai	All	Narimedu	https://timesofindia.indiatimes.com/city/madurai/530-health-workers-monitor-residents-in-containment-zones/articleshow/75102246.cms
-Tamil Nadu	Madurai	All	Mahaboobpalayam	https://timesofindia.indiatimes.com/city/madurai/530-health-workers-monitor-residents-in-containment-zones/articleshow/75102246.cms
 Tamil Nadu	Tiruvarur	All	Mannargudi	https://timesofindia.indiatimes.com/city/trichy/13-more-cases-take-covid-19-positive-to-40-in-central-tn/articleshow/74975227.cms
 Tamil Nadu	Tiruvarur	All	Muthupettai	https://timesofindia.indiatimes.com/city/trichy/13-more-cases-take-covid-19-positive-to-40-in-central-tn/articleshow/74975227.cms
 Puducherry	Muthilapet	All	Declared green now	https://timesofindia.indiatimes.com/city/puducherry/coronavirus-in-tamil-nadu-part-of-puducherry-town-brought-under-containment-plan/articleshow/75007091.cms
-Tamil Nadu	Villupuram	All	Kottakuppam	https://timesofindia.indiatimes.com/city/puducherry/coronavirus-in-tamil-nadu-part-of-puducherry-town-brought-under-containment-plan/articleshow/75007091.cms
-Tamil Nadu	Tirupattur	All	Total lockdown declared by TN Govt	https://www.dtnext.in/News/TamilNadu/2020/04/18025454/1225666/Tirupattur-to-be-locked-down-from-today.vpf
-Tamil Nadu	Thanjavur	All	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
-Tamil Nadu	Thiruvannamalai	All	More than 6 cases reported	https://www.livemint.com/news/india/58-new-coronavirus-cases-reported-in-tamil-nadu-as-of-8-00-am-apr-12-11586660329364.html
 Himachal Pradesh	Chamba	All	Nine panchayats of Teesa area	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
 Himachal Pradesh	Sirmaur	All	Mishrawala	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
 Himachal Pradesh	Sirmaur	All	Taruwala	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
@@ -363,7 +318,6 @@ Karnataka	Mandya	All	Nagamangala taluk	https://www.deccanherald.com/state/karnat
 Karnataka	Mandya	All	Hanif Mohalla	https://www.deccanherald.com/state/karnataka-districts/covid-19-mandyas-nagamangala-declared-containment-zone-822786.html
 Karnataka	Mandya	All	Ward 12, 14, 15, 16	https://www.deccanherald.com/state/karnataka-districts/covid-19-mandyas-nagamangala-declared-containment-zone-822786.html
 Karnataka	Mandya	All	Ward No 32 and 33	https://timesofindia.indiatimes.com/city/mysuru/two-wards-declared-containment-zones-in-mandya/articleshow/75087157.cms
-Tamil Nadu	Madurai	All	Thabal Thanthi Nagar	https://www.aninews.in/videos/national/covid-19-madurais-thabal-thanthi-nagar-sealed-after-identified-as-containment-zone/
 Gujarat	Ahmedabad	All	New Vasahat at Jashodanagar	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
 Gujarat	Ahmedabad	All	Two residential apartment blocks at Bodakdev 	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
 Gujarat	Ahmedabad	All	Juhapura	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
@@ -600,24 +554,6 @@ Rajasthan 	Bhilwara	All	Note: Entire District declared Red Zone Hotspot as on 15
 Rajasthan 	Bikaner	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Rajasthan 	Jhalawar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Rajasthan 	Bharatpur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Tiruchirappalli	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Coimbatore	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Tirunelveli	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Erode	All	Note: District has been declared corona free as on 01 May 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Vellore	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Dindigul	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Villupuram	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Tiruppur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Theni	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Namakkal	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Tuticorin	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Karur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Kanniyakumari	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Cuddalore	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Thiruvallur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Tamil Nadu 	Thiruvarur	All	Muthupettai	https://www.dailythanthi.com/News/Districts/2020/04/23040718/Corona-ImpactAdditional-collector-inspection-of-sealed.vpf
-Tamil Nadu 	Salem	All	Kondalampatti Zone	https://www.dailythanthi.com/News/Districts/2020/05/01025223/Special-Surveillance-Team-Study-in-Prohibited-Areas.vpf
-Tamil Nadu 	Nagapattinam	All	Mayiladudurai Thiruvalluvar Nagar	https://www.dailythanthi.com/News/Districts/2020/04/23054227/MayiladuthuraiIn-the-sealed-areaIGP-Sarangan-Study.vpf
 Telangana 	Nizamabad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Warangal Urban	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Ranga Reddy	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -721,19 +657,6 @@ Maharashtra	Raigad	All	Uran	https://www.lokmat.com/raigad/coronavirus-six-corona
 Maharashtra	Raigad	All	Kharghar	https://www.lokmat.com/raigad/coronavirus-six-corona-patient-increase-panvel-uran-28-patients-raigad/?utm_source=Lokmat.com&utm_medium=InfiniteArticle-Desktop
 Maharashtra	Raigad	All	Kalamboli	https://www.lokmat.com/raigad/coronavirus-six-corona-patient-increase-panvel-uran-28-patients-raigad/?utm_source=Lokmat.com&utm_medium=InfiniteArticle-Desktop
 Maharashtra	Raigad	All	Raigad Rural	https://www.lokmat.com/raigad/coronavirus-six-corona-patient-increase-panvel-uran-28-patients-raigad/?utm_source=Lokmat.com&utm_medium=InfiniteArticle-Desktop
-Tamil Nadu	Ambur	All	Total lockdown declared by TN Govt	https://www.dtnext.in/News/TamilNadu/2020/04/18025454/1225666/Tirupattur-to-be-locked-down-from-today.vpf
-Tamil Nadu	Vaniyambadi	All	Total lockdown declared by TN Govt	https://www.dtnext.in/News/TamilNadu/2020/04/18025454/1225666/Tirupattur-to-be-locked-down-from-today.vpf
-Tamil Nadu	Thanjavur	All	Athiramapattinam.	https://tamil.oneindia.com/news/thanjavur/coronavirus-17-cases-in-a-single-day-what-happened-in-thanjavur/articlecontent-pf450665-382958.html
-Tamil Nadu	Thanjavur	All	Kumbakonam	https://tamil.oneindia.com/news/thanjavur/coronavirus-17-cases-in-a-single-day-what-happened-in-thanjavur/articlecontent-pf450665-382958.html
-Tamil Nadu	Kanniyakumari	All	Manikatti pottal Ananthasamypuram	https://twitter.com/SharanyaAri/status/1250041780067643393
-Tamil Nadu	Kanniyakumari	All	Thengapattanam Thoppu	https://twitter.com/SharanyaAri/status/1250748101708574721
-Tamil Nadu	Kanniyakumari	All	ISED Nagar	https://twitter.com/SharanyaAri/status/1250748101708574721
-Tamil Nadu	Kanniyakumari	All	Vairavilai	https://twitter.com/SharanyaAri/status/1250748101708574721
-Tamil Nadu	Kanniyakumari	All	Mela Udayappan Kudieruppu	https://twitter.com/SharanyaAri/status/1250748101708574721
-Tamil Nadu	Kanniyakumari	All	Kesavan Putoor	https://twitter.com/SharanyaAri/status/1250748101708574721
-Tamil Nadu	Coimbatore	All	Podanur Railway Station	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
-Tamil Nadu	Coimbatore	All	Poomarket	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
-Tamil Nadu	Coimbatore	All	Kavundampalyam	https://twitter.com/NewsbioU/status/1251448135815057408/photo/1
 Karnataka	Chikkaballapura	All	Gauribidanur taluk	http://www.onefivenine.com/india/villag/Chikballapur/Gauribidanur
 Madhya Pradesh	Bhopal	All	Kolar  -  Trilanga, Signature Residency, Bairagarh Chichali, Priyanka Nagar zganpati Enclave	https://www.bhaskar.com/local/mp/bhopal/news/119-red-zones-in-the-city-more-than-4-lakh-population-in-containers-127182483.html
 Madhya Pradesh	Bhopal	All	Kamla Nagar  -  Kotra, Nehru Nagar, Naya Basera, Shabri Nagar, Ambedkar Colony Policeline	https://www.bhaskar.com/local/mp/bhopal/news/119-red-zones-in-the-city-more-than-4-lakh-population-in-containers-127182483.html
@@ -748,7 +671,6 @@ Madhya Pradesh	Bhopal	All	Basant Dhakad Gram	https://www.naidunia.com/madhya-pra
 Madhya Pradesh	Bhopal	All	BSNL Exchange Office	https://www.naidunia.com/madhya-pradesh/bhopal-coronavirus-madhya-pradesh-news-less-patient-than-indore-yet-more-number-of-container-areas-in-bhopal-5509985
 Delhi 	West Delhi	All	Tilak Vihar area of Tilak Nagar	https://twitter.com/ANI/status/1251911483958726661
 Delhi 	South west Delhi	All	Plot No. 1294 in Theke Wali Gali opposite DC Office Kapashera	https://twitter.com/ANI/status/1251889034399567873
-Tamil Nadu 	Dindigul	All	Sanarpatti	https://twitter.com/Dindigulmemes/status/1251860024378437632
 Maharashtra	Thane	All	Navi Mumbai	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
 Maharashtra	Thane	All	Mira-Bhayander	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
 Maharashtra	Thane	All	Kalyan-Dombivli	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
@@ -765,13 +687,6 @@ Odisha 	Bhadrak	All	villages in Tesinga GPs under Bhandaripokhari Block	https://
 Odisha 	Bhadrak	All	Puruna Bazar	https://sambadenglish.com/five-gps-in-bhadrak-declared-covid-19-containment-zones/
 Odisha 	Bhadrak	All	Charampa	https://sambadenglish.com/five-gps-in-bhadrak-declared-covid-19-containment-zones/
 Odisha 	Bhadrak	All	Erein	https://sambadenglish.com/five-gps-in-bhadrak-declared-covid-19-containment-zones/
-Tamil Nadu 	Thiruvallur	All	Gummidipoondi	https://twitter.com/aravindhanIPS/status/1251894773184520192
-Tamil Nadu 	Thiruvallur	All	Ponneri	https://twitter.com/aravindhanIPS/status/1251894773184520192
-Tamil Nadu 	Thiruvallur	All	Red Hills	https://twitter.com/aravindhanIPS/status/1251894773184520192
-Tamil Nadu 	Thiruvallur	All	Avadi	https://twitter.com/aravindhanIPS/status/1251894773184520192
-Tamil Nadu 	Thiruvallur	All	Poonamalli	https://twitter.com/aravindhanIPS/status/1251894773184520192
-Tamil Nadu 	Thiruvallur	All	Minjur	https://twitter.com/aravindhanIPS/status/1251894773184520192
-Tamil Nadu 	Thiruvallur	All	Banavaram	https://twitter.com/aravindhanIPS/status/1251894773184520192
 Odisha 	Khorda	All	Suryanagar	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Khorda	All	Bomikhali	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Khorda	All	Satyanagar	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
@@ -818,7 +733,6 @@ Telangana	Secunderabad	All	Seethaphalmandi	https://www.jagranjosh.com/current-af
 Telangana	Secunderabad	All	Habsiguda	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
 Telangana	Secunderabad	All	Kakateeynagar	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
 Telangana	Adilabad	All	Adilabad municipality (19 Wards)	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
-Tamil Nadu 	Vellore	All	Saidapet	https://www.owlynews.com/news/eng/areas-in-vellore-town-declared-as-containment-zones_682f1ec839bdf3e4c01422edd1eeebc013d74fc1
 Delhi 	East Delhi	All	H.No. 300, Gali No.3 Krishna Puri, Main Road Mandawali, to H.No. 739/16 Gali No. 3, Krishna Puri, Main Road Mandawali. 	https://www.jagranjosh.com/current-affairs/delhi-coronavirus-hotspots-manish-sisodia-arvind-kejriwal-coronavirus-masks-delhi-1586369305-1?ref=list_ca
 Delhi 	South Delhi	All	Gali No. 2, 3 and 4, Devli Extension	https://www.jagranjosh.com/current-affairs/delhi-coronavirus-hotspots-manish-sisodia-arvind-kejriwal-coronavirus-masks-delhi-1586369305-1?ref=list_ca
 Delhi 	New Delhi	All	H. No. F-138 and F-139, Gali No. 1 (Shiv Mandir Wali gali), Harsh Vihar, Hari Nagar Extension	https://www.jagranjosh.com/current-affairs/delhi-coronavirus-hotspots-manish-sisodia-arvind-kejriwal-coronavirus-masks-delhi-1586369305-1?ref=list_ca
@@ -1060,8 +974,6 @@ Uttar Pradesh	Agra	All	Mustafa Quarter Rly Cantt	https://twitter.com/PrabhuNs_/s
 Uttar Pradesh	Agra	All	Police line Shahganj-1	https://twitter.com/PrabhuNs_/status/1254858505908965377
 Uttar Pradesh	Agra	All	Kolihayi Kothi Meena Bazar	https://twitter.com/PrabhuNs_/status/1254858505908965377
 Delhi	South Delhi	All	House no 152 to 162 in Block D of Shaheen Bagh	https://twitter.com/news24tvchannel/status/1255158789256306688
-Tamil Nadu	Tenkasi	All	Puliangudi	https://www.maalaimalar.com/news/district/2020/04/17201443/1426024/puliyangudi-including-3-women-and-4-men-Corona.vpf
-Tamil Nadu	Thiruvallur	All	Thiruverkadu	https://www.dailythanthi.com/News/Districts/2020/04/24041115/Municipality-of-Thiruverkadu-is-divided-into-3-zones.vpf
 Odisha 	Jajpur	All	Katikata village, Bihipur village in Katikata GP	https://sambadenglish.com/odisha-two-more-gps-declared-covid-19-containment-zones-in-jajpur/
 Odisha 	Jajpur	All	Mohanty Patna village and Mallikapur (Part) in Mallikapur GP under Dasarathpur Block	https://sambadenglish.com/odisha-two-more-gps-declared-covid-19-containment-zones-in-jajpur/
 Odisha 	Jajpur	All	Birajapur under Dasarathpur Block	https://sambadenglish.com/odisha-two-more-gps-declared-covid-19-containment-zones-in-jajpur/
@@ -1200,24 +1112,6 @@ Kerala 	Thiruvananthapuram	All	Neyyattinkara Municipality	https://twitter.com/Br
 Kerala 	Kollam	All	Ochira Panchayat 	https://twitter.com/BreakingViews4u/status/1255850649532522496
 Kerala 	Kollam	All	Thrikkovilvattom panchayat 	https://twitter.com/BreakingViews4u/status/1255850649532522496
 Kerala 	Kottayam	All	Udayanapuram panchayat	https://twitter.com/BreakingViews4u/status/1255850649532522496
-Tamil Nadu 	Tiruppur	All	Singaravellan Nagar	https://www.dailythanthi.com/News/Districts/2020/04/26015640/Corona-examination-of-37-pregnant-women-in-Tirupur.vpf
-Tamil Nadu 	Tiruppur	All	Kumaranandapuram	https://www.dailythanthi.com/News/Districts/2020/04/26015640/Corona-examination-of-37-pregnant-women-in-Tirupur.vpf
-Tamil Nadu 	Tiruppur	All	Avinashi	https://www.dailythanthi.com/News/Districts/2020/04/25005500/Impact-of-coronavirus-in-Tirupur-district-has-not.vpf
-Tamil Nadu 	Tiruppur	All	Mangalam	https://www.dailythanthi.com/News/Districts/2020/04/25005500/Impact-of-coronavirus-in-Tirupur-district-has-not.vpf
-Tamil Nadu 	Tiruppur	All	Kangeyam	https://www.dailythanthi.com/News/Districts/2020/04/25005500/Impact-of-coronavirus-in-Tirupur-district-has-not.vpf
-Tamil Nadu 	Tiruppur	All	Tarapuram	https://www.dailythanthi.com/News/Districts/2020/04/25005500/Impact-of-coronavirus-in-Tirupur-district-has-not.vpf
-Tamil Nadu 	Tiruppur	All	Udumalai	https://www.dailythanthi.com/News/Districts/2020/04/25005500/Impact-of-coronavirus-in-Tirupur-district-has-not.vpf
-Tamil Nadu	Thiruvallur	All	Nannur Ramamurthy, a suburb of Thiruvottiyur	https://www.dailythanthi.com/News/Districts/2020/04/21040137/Coronavirus-confirms-6-persons-including-9-year-old.vpf
-Tamil Nadu	Thiruvallur	All	Parambakkam panchayat	https://www.dailythanthi.com/News/Districts/2020/04/19034517/Corona-infected-person-to-ensure-perampakkam-Closure.vpf
-Tamil Nadu	Namakkal	All	Kuppampalayam	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
-Tamil Nadu	Namakkal	All	Kalappanayakanpatti	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
-Tamil Nadu	Namakkal	All	Lathwadi	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
-Tamil Nadu	Namakkal	All	Manappally	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
-Tamil Nadu	Namakkal	All	Paramathi	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
-Tamil Nadu	Namakkal	All	Kokarayanpet	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
-Tamil Nadu	Namakkal	All	Vennandur	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
-Tamil Nadu	Namakkal	All	Rasipuram	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
-Tamil Nadu	Namakkal	All	Vellur	https://www.dailythanthi.com/News/Districts/2020/04/29015725/Corona-for-2-people-including-truck-driver-in-Namakkal.vpf
 West Bengal	South 24 Parganas	All	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
 West Bengal	Medinipur West	All	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
 West Bengal	Darjeeling	All	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
@@ -1227,83 +1121,13 @@ West Bengal	Paschim Bardhaman	All	Note: Entire District declared Orange Zone Hot
 West Bengal	Purba Bardhman	All	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
 West Bengal	Murshidabad	All	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
 West Bengal	Nadia	All	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
-Tamil Nadu	Thanjavur	All	Srinivasapuram	https://www.dailythanthi.com/News/Districts/2020/04/30044456/ThanjavurRound-out-the-curfewPolice-surveillance-by.vpf
 Tamil Nadu 	Tirunelveli	All	Palanyankottai	https://www.dailythanthi.com/News/Districts/2020/05/01081559/People-need-to-adhere-to-regulations-to-prevent-coronationZonal.vpf
 Tamil Nadu 	Tirunelveli	All	Nellai	https://www.dailythanthi.com/News/Districts/2020/05/01081559/People-need-to-adhere-to-regulations-to-prevent-coronationZonal.vpf
 Tamil Nadu 	Tirunelveli	All	Nellai Town	https://www.dailythanthi.com/News/Districts/2020/05/01081559/People-need-to-adhere-to-regulations-to-prevent-coronationZonal.vpf
 Tamil Nadu 	Tirunelveli	All	Valliyur	https://www.dailythanthi.com/News/Districts/2020/05/01081559/People-need-to-adhere-to-regulations-to-prevent-coronationZonal.vpf
 Tamil Nadu 	Tirunelveli	All	Pattamadai	https://www.dailythanthi.com/News/Districts/2020/05/01081559/People-need-to-adhere-to-regulations-to-prevent-coronationZonal.vpf
-Tamil Nadu	Tenkasi	All	Kadayanallur	https://www.dailythanthi.com/News/Districts/2020/04/27072914/Full-Curfew-in-PaddyTenkasi-MunicipalitiesAll-stores.vpf
-Tamil Nadu	Tenkasi	All	Senkottai	https://www.dailythanthi.com/News/Districts/2020/04/27072914/Full-Curfew-in-PaddyTenkasi-MunicipalitiesAll-stores.vpf
-Tamil Nadu	Tenkasi	All	Sankarankoil	https://www.dailythanthi.com/News/Districts/2020/04/27072914/Full-Curfew-in-PaddyTenkasi-MunicipalitiesAll-stores.vpf
-Tamil Nadu	Kanniyakumari	All	Nagarcoil Tennyson Street	https://www.dailythanthi.com/News/Districts/2020/05/01060505/There-is-no-corona-for-the-elderly-in-Kumari.vpf
-Tamil Nadu	Kanniyakumari	All	Velladichivilai	https://www.dailythanthi.com/News/Districts/2020/05/01060505/There-is-no-corona-for-the-elderly-in-Kumari.vpf
-Tamil Nadu	Kanniyakumari	All	Mangalai village	https://www.dailythanthi.com/News/Districts/2020/04/30052640/Corona-for-the-elderly-in-KumariAction-to-seal-village.vpf
-Tamil Nadu	Villupuram	All	Mutthoppu	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Villupuram	All	thidirkuppam	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Villupuram	All	Agarampetai	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Villupuram	All	Kamla Nagar	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Villupuram	All	Kaivalliyar Street	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Villupuram	All	Sittherikarai	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Villupuram	All	salamedu	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Villupuram	All	NGGO Colony	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Villupuram	All	Panampattu	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Villupuram	All	Villupuram K.K. Salai Rahim Layout	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Villupuram	All	Poondamalli Street	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Villupuram	All	Kandasamy Layout	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Villupuram	All	Lakshmi Nagar	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Villupuram	All	Kirampura	https://www.dailythanthi.com/News/Districts/2020/05/01105909/38-people-affected-by-Corona-Echo-Villupuram-which.vpf
-Tamil Nadu	Kanchipuram	All	Kundathoor	https://www.dailythanthi.com/News/Districts/2020/04/26034853/In-Kundrathur-Worker-infected-with-corona-virus-kills.vpf
-Tamil Nadu	Kanchipuram	All	Maangadu	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Ayyapathangal	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Baraniputtur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Kerukampakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Kolapakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Kovur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Thandalam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Tharapakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Irandamkattalai	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Mavulivakkam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Periyapanicheri	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Nandampakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Sirukalathur	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Kollacheri	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Kolumanivakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Chikkarayapuram	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Poothandalam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Malayampakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu	Kanchipuram	All	Thirumudivakam	https://www.dailythanthi.com/News/Districts/2020/04/25033733/In-Kancheepuram-and-Chengalpattu-districts-Areas-where.vpf
-Tamil Nadu 	Madurai	All	Sellur	https://www.dailythanthi.com/News/Districts/2020/04/26032911/Corona-for-four-people-including-Madurai-SubInspector.vpf
-Tamil Nadu 	Madurai	All	Palanganatham	https://www.dailythanthi.com/News/Districts/2020/04/26032911/Corona-for-four-people-including-Madurai-SubInspector.vpf
-Tamil Nadu 	Madurai	All	Perungudi	https://www.dailythanthi.com/News/Districts/2020/04/26032911/Corona-for-four-people-including-Madurai-SubInspector.vpf
-Tamil Nadu 	Madurai	All	Melamasi Road	https://www.dailythanthi.com/News/Districts/2020/04/26032911/Corona-for-four-people-including-Madurai-SubInspector.vpf
-Tamil Nadu 	Virudhunagar	All	Coonoor	https://www.dailythanthi.com/News/Districts/2020/04/25022957/Corona-affected-Seven-more-people-including-nurse.vpf
-Tamil Nadu 	Ramanathapuram	All	Paramakudi	https://www.dailythanthi.com/News/Districts/2020/04/25022957/Corona-affected-Seven-more-people-including-nurse.vpf
-Tamil Nadu 	Madurai	All	G.S. Nagar	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
-Tamil Nadu 	Madurai	All	Aanaiyur	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
-Tamil Nadu 	Madurai	All	Kuppupillai Thoppu Theru	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
-Tamil Nadu 	Madurai	All	Mathichiyam	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
-Tamil Nadu 	Madurai	All	Sokkalingapuram	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
-Tamil Nadu 	Madurai	All	Melur Nagaratchi	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
-Tamil Nadu 	Madurai	All	Kallapatty	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
-Tamil Nadu 	Madurai	All	karaiyipatty	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
-Tamil Nadu 	Madurai	All	Matthur	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
-Tamil Nadu 	Madurai	All	Elumalai Peruratchi	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
-Tamil Nadu 	Madurai	All	Thirumangalam	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
-Tamil Nadu 	Madurai	All	Usilampatty	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
-Tamil Nadu 	Madurai	All	Kilamatthur	https://www.dailythanthi.com/News/Districts/2020/04/23033724/Arrested-if-they-leave-home-in-isolated-areas--Collector.vpf
-Tamil Nadu 	Madurai	All	Puthu Vilangudi	https://www.dailythanthi.com/News/Districts/2020/05/01052248/Corona-confirmed-5-people-including-a-disaster-rescuer.vpf
-Tamil Nadu 	Madurai	All	Keezha Anupandi	https://www.dailythanthi.com/News/Districts/2020/05/01052248/Corona-confirmed-5-people-including-a-disaster-rescuer.vpf
-Tamil Nadu 	Madurai	All	Karisalkulam	https://www.dailythanthi.com/News/Districts/2020/05/01052248/Corona-confirmed-5-people-including-a-disaster-rescuer.vpf
-Tamil Nadu 	Virudhunagar	All	Rajapalayam	https://www.dailythanthi.com/News/Districts/2020/04/29060317/Full-cooperation-of-people-with-coronary-artery-disease.vpf
-Tamil Nadu 	Virudhunagar	All	Vatarayadurai	https://www.dailythanthi.com/News/Districts/2020/04/29060317/Full-cooperation-of-people-with-coronary-artery-disease.vpf
-Tamil Nadu 	Salem	All	Suramangalam railway station	https://www.dailythanthi.com/News/Districts/2020/05/01024204/Vulnerability-by-Corona-Seal-to-a-bank-who-was-pregnant.vpf
-Tamil Nadu 	Salem	All	Ammapet	https://www.dailythanthi.com/News/Districts/2020/04/30021948/Three-people-affected-by-coronavirus-discharge-in.vpf
-Tamil Nadu 	Salem	All	Dadakapatti	https://www.dailythanthi.com/News/Districts/2020/04/30021948/Three-people-affected-by-coronavirus-discharge-in.vpf
-Tamil Nadu 	Salem	All	Karunaratnam	https://www.dailythanthi.com/News/Districts/2020/04/25024645/Corona-for-someone-in-the-karumanthurai-Special-Surveillance.vpf
-Tamil Nadu 	Salem	All	Semmandapatti near Omalur	https://www.dailythanthi.com/News/Districts/2020/04/27023316/Another-woman-in-Salem-confirmed-corona-infection.vpf
+Tamil Nadu	Kanyakumari	All	Mangalai village	https://www.dailythanthi.com/News/Districts/2020/04/30052640/Corona-for-the-elderly-in-KumariAction-to-seal-village.vpf
 Tamil Nadu 	Thiruvarur	All	Vandikkara Street	https://www.dailythanthi.com/News/Districts/2020/04/22035734/In-Thiruvarur-municipality-in-restricted-areasCleanliness.vpf
-Tamil Nadu 	Thiruvarur	All	Koradacheri	https://www.dailythanthi.com/News/Districts/2020/04/24035503/Corona-to-health-workerThe-number-of-casualties-increased.vpf
 Tamil Nadu 	Thiruvarur	All	Aynoor Pillaiyaar Kovil Vadagu Theru	https://www.dailythanthi.com/News/Districts/2020/04/22035734/In-Thiruvarur-municipality-in-restricted-areasCleanliness.vpf
 Delhi	South Delhi	All	F-313, Near Shiva Mandir Lado Sari and F-274, 2nd Floor of Lado Sari, New Delhi	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
 Delhi	New Delhi	All	F-258, Campa Cola Gali Lado Sarai, New Delhi	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
@@ -5491,3 +5315,669 @@ Madhya Pradesh 	Indore	All	Police Line Mhow Thana
 Madhya Pradesh 	Indore	All	Shivshakti Nagar Indore	
 Madhya Pradesh 	Indore	All	Vidhinath Appartment Silicon City	
 Madhya Pradesh 	Indore	All	Village Kadwali Bujurg Indore	
+Tamil Nadu	Ariyalur	All	Ariyalur Urban - Ward 10	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ariyalur	All	Rayampuram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ariyalur	All	Kurubanchavadi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ariyalur	All	Zone-6 Sendurai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Anaimalai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Pollachi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	KK Pudhur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Thirumarai Nagar 1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Thirumarai Nagar 2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Karuparayan kovil street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Auditor street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Amman nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Sai nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Madukarai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Podhanur 1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Podhanur 2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Vasantham nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Thiyagarayar street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Annur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Syriyan church 1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Syriyan church 2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Mettupalayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Ramachandra road	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Jain mahor appartment 1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Jain mahor appartment 2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Kasthuri Garden	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Kovai garden	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	PN Palayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Kinnathukidavu	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Sirumugai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Savithri nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Rose garden	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Bharath nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Meenatchi nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Ambedkar colony	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	GM nagar 1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	GM nagar 2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	GM nagar 3	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	CmcH	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	CTM home	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Coimbatore	All	Gandhi park	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Cuddalore	All	Panruti Municipality -1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Cuddalore	All	Chidambaram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Cuddalore	All	Nellikuppam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Cuddalore	All	Lalpettai-1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Cuddalore	All	Lalpettai-2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Cuddalore	All	Vadalur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Dharmapuri	All	Elavadai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Dindigul	All	Devathur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Dindigul	All	Dindugal Corp	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Dindigul	All	Dindugal - Palani road	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Dindigul	All	Eriodu	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Dindigul	All	Kosukurichy	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Dindigul	All	Natham	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Dindigul	All	Nilakottai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Dindigul	All	Ottanchatram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Dindigul	All	Palani	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Dindigul	All	Vellodu	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Bp Agraharam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Roja nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Sultanpet	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Bismi Nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Meera mohideen 1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Meera mohideen 2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Kollampalayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Manickampalayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Sultanpet	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Marapalayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Shastri nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Gobi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Kallukadimedu	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Karunkalpalayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Kavundapadi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	KN Palayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	KS Palayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Jayaram street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Solar pudhur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Lakkampatti	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Nambiyur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Railway Colony	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Lakkapuram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Erode	All	Sathy	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kallakurichi	All	Chinnasalem	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kallakurichi	All	Kallakurichi Urban	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kallakurichi	All	Vadaponparapi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kallakurichi	All	Melapalayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kancheepuram	All	Rajaji street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kancheepuram	All	Vivekandha street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kancheepuram	All	Kalaingar Nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kancheepuram	All	Mangadu	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kancheepuram	All	Nethaji street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kancheepuram	All	Ward number 22	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kancheepuram	All	Mgr Nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kancheepuram	All	Theradi street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kancheepuram	All	Padapai salamangalam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kancheepuram	All	Velankani nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kancheepuram	All	Manikandan Nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kanyakumari	All	Nagarcoil Tennyson Street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kanyakumari	All	Manikattipottal	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kanyakumari	All	Thengapattanam Thoppu	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kanyakumari	All	Velladichivilai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Kanyakumari	All	Maravankudiruppu	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Karur	All	Karur MPTY	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Karur	All	Kadambankurichi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Karur	All	Mailampatti	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Karur	All	Pallapatty	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Karur	All	Pugalur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Karur	All	Puliyur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Karur	All	Thogaimalai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Anaiyur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	SVP nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Chokkalingapuram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Elumalai ward 5	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Elumalai ward 18 1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Elumalai ward 18 2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Gandhiji Park Road	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Kallampatti	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Kariyapatti	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Keelamathur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	kottaikinaru street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Madhichiyam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Mappalayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Ansari Nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Mathur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Mohamadiyapuram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Narimedu	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Nellai Veethi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Yagappan nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	MGR nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Ezhil nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Vaigai Colony	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Thabal Thanthi Nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Thideer nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Pandiyan Nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Anna thopu	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Madurai east kallamthiry	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Thirumangalam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Usilampatty	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Navinipatti	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Sulaiman	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Ramalakshmi nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	GR nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Ayyanar koil st	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Aghimsa puram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Keelakailasapuram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Sriram nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Meenakshipuram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Irulandithevar colony	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Thanathavam road	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	FATHIMA NAGAR	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Madurai	All	Bharathiyar nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	Nagore	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	Kadampadi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	Nagapattinam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	SIRKAZHI MUNICIPALITY	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	PERUNTHOTTAM	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	Mayiladudurai Thiruvalluvar Nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	PUTHUR	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	Poravachery	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	North Poikainallur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	Akkarapettai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	THITTACHERY	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	KATTU MAVAD I	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	THIRUPAYATHANGUDI	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	PANANGUDI	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	Thirukkalachery	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nagapattinam	All	Poraiyar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Namakkal	All	Kokkarayampettai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Namakkal	All	Pillanur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Namakkal	All	Lathuvadi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Namakkal	All	Nammakal Urban	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Namakkal	All	Rasipuram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Namakkal	All	Nallipalayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Namakkal	All	Sennakkalputhur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Namakkal	All	velur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Namakkal	All	Kalapanaickenpatty	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Namakkal	All	Vennanthur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Namakkal	All	Kalangani	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nilgiris	All	kandhal	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nilgiris	All	Main Bazaar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Nilgiris	All	Rajaji nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Perambalur	All	V.kalathur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Perambalur	All	Melamathur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Perambalur	All	Kurumbalur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Pudukottai	All	Miratunilai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Anandhur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Mandapam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Paramakudi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	RS Managalam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Sakkarakottai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Ramnad mpty	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Paramakudi Mpty 1 to 21	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Paramakudi Mpty 11	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Paramakudi Mpty 12	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Paramakudi Mpty 13	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Paramakudi Mpty 14	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Paramakudi Mpty 8	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Paramakudi Mpty 16	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Paramakudi Mpty 30	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Paramakudi Mpty 35	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ramanathapuram	All	Paramakudi Mpty 36	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ranipet	All	Amoor	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ranipet	All	Arakonam MPTY - Krishnampet	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ranipet	All	Arcot MPTY	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ranipet	All	Melvisharam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Salem	All	Edappadi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Salem	All	Mettur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Salem	All	Thammampatty	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Salem	All	Tharamangalam TP Ward 5	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Salem	All	PN patti	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Salem	All	Saniyasikundu	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Salem	All	Thalaivasal	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Salem	All	Karumandurai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Salem	All	Annathanapatti	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Salem	All	kalarampatti	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Salem	All	Gugai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Salem	All	Kitchipalayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Salem	All	Dathagapatti	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Devakottai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Ilayankudi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Karaikudi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Tirupathur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Tirupathur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Singampunari	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Singampunari	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	S pudur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Kallal	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Pudhuvayal	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Thiruvegampet	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Nagaramangalam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Poovanthi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Keelapoongodi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Sivagangai	All	Sivagangai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tenkasi	All	Nanagaram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tenkasi	All	Puliyankudi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tenkasi	All	Vallam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tenkasi	All	Arulatchi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tenkasi	All	Shengottai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tenkasi	All	Kadayanallur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tenkasi	All	Tenkasi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thanjavur	All	Ammapettai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thanjavur	All	Annalagraharam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thanjavur	All	Athirampattinam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thanjavur	All	Chakkarapalli	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thanjavur	All	Kumbakonam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thanjavur	All	Melathirupanthurthi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thanjavur	All	Neyvasal	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thanjavur	All	Neyvasal	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thanjavur	All	Thanjavur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thanjavur	All	Uranipuram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Theni	All	Bodi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Theni	All	Chinnamanur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Theni	All	Cumbam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Theni	All	Periyakulam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Theni	All	Theni	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Theni	All	Uthamapalayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thirupathur	All	Ambur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thirupathur	All	Jaffarapad	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thirupathur	All	thirupathur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thirupathur	All	Umerabad	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thirupathur	All	Vaniyambadi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thirupathur	All	Natrampalli	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Thiruvallur Municipality	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Minjur TP -1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Minjur TP -2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Minjur TP -3	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Naravarikuppam TP - 1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Naravarikuppam TP - 2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Naravarikuppam TP - 3	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Nallur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Pammathukulam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Arambakkam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Kavarapettai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Gummidipoondi TP	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Avadi Corporation -1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Avadi Corporation =2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Avadi Corporation -3	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Minjur Nandhiyambakkam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Poonamallee Municipality	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Ponneri Town Panchayat	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Athipattu Village Panchayat	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Vadamadurai Village Panchayat	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Perambakkam Village Panchayat	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Pulicat Village Panchayat	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Ayapakkam Village Panchayat	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvallur	All	Ondikuppam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvannamalai	All	Anandhal	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvannamalai	All	Santhavasal	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvannamalai	All	Keelmatai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvarur	All	Kadiyachery	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvarur	All	Koothanallur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvarur	All	Kottaiyur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvarur	All	Kovilvenni	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvarur	All	Mannargudi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvarur	All	Melapanaiyur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvarur	All	Muthupettai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvarur	All	Nedumbalam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvarur	All	pothakudi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvarur	All	Athikadai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvarur	All	thiruturaipoondi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thiruvarur	All	Thiruvarur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Thoothukudi	All	Ward 44	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Pathamadai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Kalakad 1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Kalakad 2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Palayamkottai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Radhapuram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Vallioor	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Bagavatha Street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Thiru Nilagandar Street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Rajaji Street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Ambedker Street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Selva Puram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Muthamil Rani Nagar	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Asuran Mela Street	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tirunelveli	All	Sappani Alam Mela Them	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	Avinashi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	Thirumurugan Poomdu Devarayapalayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	KK Nagar, Dharapuram	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	Mudhalipalayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	Palladam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	Ayyan Nagar Pongalur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	GN GARDEN	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	PERIYA KADAI VEETHI	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	FATHIMA NAGAR	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	SUGUMAR NAGAR	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	PERIYA THOTTAM 9TH STREET	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	PERIYA THOTTAM 2 ND STREET	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	RENUGA NAGAR,VELAN HOTEL BACK SIDE	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	PERIYA THOTTAM MAIN STREET	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	KUMARANANTHA PURAM	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Tiruppur	All	CHIKKAN COLLEGE ROAD SARADHA NAGAR	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Lalgudi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Manachanallur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Musiri	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Puthanatham	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Manaparai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Manikandam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Thuvakaudi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Marungapuri 1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Marungapuri 2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Marungapuri 3	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 19	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 25	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 46	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 47	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 48	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 49 1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 49 2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 50 1	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 50 2	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 55	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 56	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 59	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 37	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 38	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 43	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 61	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Trichy	All	Ward 14	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Vellore	All	Karukambathur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Vellore	All	Kaspa - RN Palayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Vellore	All	RN Palayam	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Vellore	All	Saidapet	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Villupuram	All	Vikravandi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Villupuram	All	Tindivanam Mpty	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Villupuram	All	Poigai Arasur	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Virudhunagar	All	Aruppukottai	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Virudhunagar	All	Sivakasi	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Virudhunagar	All	KANNISERIPUDUR	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Virudhunagar	All	Watrap	https://www.thehindu.com/news/resources/article31508678.ece/BINARY/ContainmentZoneGuidance.pdf
+Tamil Nadu	Ariyalur	All	Uliyakudi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Kolaiyanur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Zone-10 Kavanur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Zone -11 Kallakudi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Zone-12 Edaiyathankudi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Zone-13 Nathakuzhi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Zone-14 Angarayanallur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Zone-7 Ariyalur Urban	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Zone-8 Sirukalathur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Zone-9 Ayanaathur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Nanmangalam VP	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Edaiyar	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Elangaicherry	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Elanthakudam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Erakudi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	G K Puram	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Govinthaputhur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Irugaiyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Irumbulikurichi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Irumgalakurichi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Kallathur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Karaippakkam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Karaivetti	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Karuvidaicherry	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Katchiperumal	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Katchirampatti	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Kattupiringiyam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Kazhvamangalam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Keela Easanai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Kulumur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Kumizhiyam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	kuruvadi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Malathankulam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Manaleri	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Marukalakurichi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Mudhukulam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Munithiraiyanpattinam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Muniyangurichi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Naduvalur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Mallampalaiyam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Nammagunam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Nayaganaipriyal	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Paranam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Parpanacheri	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Periyamarai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Ponparappi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Pottaveli	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Poyyathanallur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Pudukottai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Payampuram	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Sannasinallur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Sendurai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Sennivanam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Shokkalingapuram	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Sirukadambur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Sundakudi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Thirumanur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Udayarpalayam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Unijini	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	VT Pattinam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Vadaveekam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Vadugapalayam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Vaippam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Vangudi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Velipringiyam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Vellur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Venmonkondam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Vettiyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Ameenabath	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Andimadam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ariyalur	All	Zone5- Ariyalur Rural	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Nagar	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	S. Naraiyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Vadapathi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Kothapathi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Kothattai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Ko. Kothanur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Sirunesalur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Kurkathanchery	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Veppur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	A. Agaram	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Nallur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Pattakurichi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	S.Pudur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Panruti Municipality -1	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	VMD MPTY -2	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Cn Palayam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Sirugramam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Vilankattur VP	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Mugundanallur VP	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	ManaKollai VP	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Ivanathakudi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Seppakkam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Poolambadi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	N. Naraiyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Koviloor	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Thiruppayir	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Varambanur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Kattumayilur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Sevoor	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Periyanesalur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	T. Pudayar	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Mangalur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Kazhudur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Rettakurichi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Kallur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Kanjirankulam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Venganur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Thatchur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	E. Keeranur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Pulivalam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Vadarampoondi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Nedunkulam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Sirumalai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Edaiyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Ezhudur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Enathirimangalam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	K. Puliyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Kattiyanallur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Keelakalpoondi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Keezhmampattu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Khuthattai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Maligampattu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Melakalpoondi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Melmampattu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Mettukuppam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Mosattai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Niramani	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Oriayur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Prangur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	P. Ponneri	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Pathirakottai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Poovalai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Pyanapadi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Puliyur VP	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Sangolikuppam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Sathiyam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Thazhanallur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Thillaividangal	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Valasai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Veerareddykuppam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Vegakollai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Cuddalore	All	Visoor VP	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dharmapuri	All	Allinagar	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Balkrishnapuram	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Gopalapatti	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Kannivadi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Neikarapatti - Palani	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Thoppampatti	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Sirumalai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Malayagoundanpatti	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Sitharevu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Mallanampatti	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Vembarpatti	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Kodaikanal	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Thmaraipadi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Ambathurai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Dindigul	All	Sithyankottai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Erode	All	Chithode	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Erode	All	Karummandichellipalayam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Kallakurichi	All	Ward 15	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Kallakurichi	All	Thirunavalur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Kallakurichi	All	Asakalathur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Kallakurichi	All	Virugavur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Kallakurichi	All	Irunthai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Kallakurichi	All	Periya Maranodai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Kallakurichi	All	Solampattu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Kallakurichi	All	Ward 2 (VOC Nagar)	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Kallakurichi	All	Ward 13	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Kanyakumari	All	Cheruthikonam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Karur	All	Krishnarayapuram (East)	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Krishnagiri	All	Shoolagiri	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Krishnagiri	All	Tranquil Homes-Achettipalli	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Madurai	All	Periyar Nagar Apartments	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Nagapattinam	All	Uludhukuppai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Namakkal	All	Reddipatti Kutta Karai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Namakkal	All	Namagiripet Town Panchayat	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Namakkal	All	Moolapallipatty Village Pachayat	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Namakkal	All	Reddipudur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Namakkal	All	Devangapuram	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Namakkal	All	Aanikadu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Namakkal	All	Elanthakuttai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Eluppaikudi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Arungirimangalam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Keelaperambalur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Nanni	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Puthuvettakudi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Nallarikkai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Thungapuram	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Thambai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Thimmur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Kovilpalayam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Kolathur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Athiyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Labbaikudikadu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Perambalur MPTY	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Perambalur	All	Sillakudi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Pudukottai	All	Ayingudi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Pudukottai	All	Kalappanur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Pudukottai	All	Pudukottai MPTY	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ramanathapuram	All	Nathakottai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ramanathapuram	All	Appanur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ramanathapuram	All	Panaikulam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ramanathapuram	All	Uchipuli	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Ranipet	All	Eadapalayam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Salem	All	Anayampatty	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Salem	All	Sanyasigundu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Salem	All	Vadakunadu Karumandurai Pethanaikanpalyam Block	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Illupur Village	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Nemam Village	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Perandur Village Panachayat	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Siruvanur VP	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Thiruverkadu MPTY	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Vanagaram VP	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Chennavaram	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Thervizhi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Keelanur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Polivakkam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Jamin Korattur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Thirumazhisai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Theerthkaraipet	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvallur	All	Grandline	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Tirunelveli	All	Nochikulam VP	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thoothukudi	All	Aadhanur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thoothukudi	All	Pasuvanthanai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thoothukudi	All	Malavarayanatham	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Tiruppur	All	Chinnavadagupalayam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Tiruppur	All	Palladam Main Road	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Tiruppur	All	Puliyampatti	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Tiruppur	All	Rajaji Street	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Tiruppur	All	S. Periyapalayam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Tiruppur	All	Kolinjiwadi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Tiruppur	All	Union Office Street	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Adaiyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Aniyalai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Ariyathur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Bathur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Salavedu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Kavaniyathur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Erumbur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Sirugattur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Moranam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Vengalathur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Seevur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Arani	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Sathyavadi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Vallivagal	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Mettypalayam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Nayambadi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Kattumalayanur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Kathikulam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Nedugampoondi	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Kollimedu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Madurampattu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Reddyyarpalayam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Thiruvannamalai	All	Nemili, Pudupalayam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Vellore	All	Gulzar Street	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Vellore	All	Pudhur/Lakshmipuram	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Vellore	All	Konavattam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Nallavur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Kiliyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	VPM MPTY Ward 30 Maruthur Medu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	TDM MPTY Ward 23	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Melamangalam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	T Kumaramangalam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Kilthanayalampattu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Olakkur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Thenpair	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	RC MelKondal	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Athiyur Thirukai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Aalagramam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	V Nallam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Panchalam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Pattinam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Anandhur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Pombur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Keezharunakunam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Sevidakuppam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Maramgiyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Pilrampattu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Sornavoor	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Nannadu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Otteripalayam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Agaramsithamur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Anniyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Ezhusempon	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Konur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Kozhipattu	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Kanniyam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Nedimozhiyanur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Velliyanur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Gandhikuppam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	T Pudhupalayam	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Villupuram	All	Eraiyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Virudhunagar	All	Kullursandai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Tamil Nadu	Virudhunagar	All	Thiruthangal MPTY	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
