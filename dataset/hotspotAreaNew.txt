@@ -1,4 +1,3 @@
-Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 190 - Mangammanapalya	https://bangaloremirror.indiatimes.com/bangalore/others/better-to-be-safe-than-sorry-in-hongasandra/articleshow/75397004.cms
 Delhi	East Delhi	All	House no. 141-180, Gali No. 14, Kalyan Puri	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	East Delhi	All	Gali No. 4 from House No. J-3/115 to J-3/108, Krishan Kunj Extension 3)	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	East Delhi	All	Gali No. 4 from House No. J-3/101 to J-3/107, Krishan Kunj Extension	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
@@ -605,7 +604,6 @@ Madhya Pradesh 	Morena	All	Note: Entire District declared Red Zone Hotspot as on
 Maharashtra 	Kolhapur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Maharashtra 	Amravati	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Maharashtra 	Palghar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Odisha 	Bhadrak	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Punjab 	Mansa	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Punjab 	Amritsar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Punjab 	Moga	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -680,14 +678,11 @@ Maharashtra	Thane	All	Bhiwandi-Nizampur,	https://www.indiatvnews.com/news/india/
 Maharashtra	Thane	All	Kulgaon Badlapur	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
 Maharashtra	Thane	All	Nagar panchayat of Shahapur	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
 Maharashtra	Thane	All	Murbad	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
-Odisha 	Bhadrak	All	Kharida Binayakpur GP	https://sambadenglish.com/five-gps-in-bhadrak-declared-covid-19-containment-zones/
-Odisha 	Bhadrak	All	Melak Sahi in Padampur GP	https://sambadenglish.com/five-gps-in-bhadrak-declared-covid-19-containment-zones/
-Odisha 	Bhadrak	All	Matpaka in Laxmidaspur GP under Basudevpur Block	https://sambadenglish.com/five-gps-in-bhadrak-declared-covid-19-containment-zones/
-Odisha 	Bhadrak	All	villages in Rahania GP under Bhandaripokhari Block	https://sambadenglish.com/five-gps-in-bhadrak-declared-covid-19-containment-zones/
-Odisha 	Bhadrak	All	villages in Tesinga GPs under Bhandaripokhari Block	https://sambadenglish.com/five-gps-in-bhadrak-declared-covid-19-containment-zones/
-Odisha 	Bhadrak	All	Puruna Bazar	https://sambadenglish.com/five-gps-in-bhadrak-declared-covid-19-containment-zones/
-Odisha 	Bhadrak	All	Charampa	https://sambadenglish.com/five-gps-in-bhadrak-declared-covid-19-containment-zones/
-Odisha 	Bhadrak	All	Erein	https://sambadenglish.com/five-gps-in-bhadrak-declared-covid-19-containment-zones/
+Odisha 	Bhadrak	All	Bachhada High School, Basudevpur Block	https://twitter.com/theargus_in/status/1261191947974131712?s=09
+Odisha 	Bhadrak	All	LN Nodal High School, Tihidi Block	https://twitter.com/theargus_in/status/1261191947974131712?s=09
+Odisha 	Bhadrak	All	Nadigaon High School, Dhamnagar High School	https://twitter.com/theargus_in/status/1261191947974131712?s=09
+Odisha 	Bhadrak	All	Jayadurga High School, Dhamnagar High School	https://twitter.com/theargus_in/status/1261191947974131712?s=09
+Odisha 	Bhadrak	All	Muralidhar High School, Dhamnagar High School	https://twitter.com/theargus_in/status/1261191947974131712?s=09
 Odisha 	Khorda	All	Suryanagar	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Khorda	All	Bomikhali	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Khorda	All	Satyanagar	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
@@ -798,20 +793,12 @@ Rajasthan 	Jaipur	All	Mansarovar	https://twitter.com/dineshkumawat/status/125334
 Delhi 	South Delhi	All	Samshi Talab in Mehrauli including A-3 Lake view apartment	https://twitter.com/ANI/status/1253336501812789252
 Delhi 	South west Delhi	All	 gali number 1 band of Raj Nagar 2 in Dwarka	https://twitter.com/ANI/status/1253336501812789252
 Delhi 	Shahdara	All	 house number 15 to 101 in Dayanand Vihar	https://twitter.com/ANI/status/1253336501812789252
-Haryana	Gurugram	All	Jharsa Village (Sector 39)	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	All	Tyagiwara Badshahpur (R.R. Colony, Loharwada, Bada Bazar, Tygiwara 2)	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	All	Meghdoot Apartments, Sector-10A, Gurugram	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	All	Om Nagar	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	All	Gehlot Vihar, Sohna	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	All	Javed Colony Sohna	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	All	Pahar Colony Sohna	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	All	Nut Colony Sogna	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	All	ITI Colony Sohna	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	All	Mohalla Thakurwara Sohna	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	All	Shiv Kund Sohna	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	All	Raipur Village Sohna	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	All	Ward 11 Pataudi	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	All	Ward 14 Pataudi	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Gurugram	Jharsa Village (Sector 39)	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Gurugram	Tyagiwara Badshahpur (R.R. Colony, Loharwada, Bada Bazar, Tygiwara 2)	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Gurugram	Meghdoot Apartments, Sector-10A, Gurugram	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Gurugram	Om Nagar	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Sohna	Mohalla Thakurwara Sohna	https://twitter.com/ANI/status/1253348874569252865
+Haryana	Gurugram	Sohna	Shiv Kund Sohna	https://twitter.com/ANI/status/1253348874569252865
 Karnataka	Mysuru	All	Kuvempunagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
 Karnataka	Mysuru	All	Jayalakshminagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
 Karnataka	Mysuru	All	JP Nagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
@@ -919,26 +906,6 @@ Uttar Pradesh	Varanasi	All	Pitarkunda	https://twitter.com/livesanmarg/status/125
 Uttar Pradesh	Varanasi	All	Nakkhighat	https://twitter.com/livesanmarg/status/1252565443019255808
 Delhi 	New Delhi	All	H. No. P-65 and H.No. P-184, Pillanji Village	https://www.indiatoday.in/india/story/coronavirus-delhi-govt-adds-two-more-areas-in-hotspot-list-check-full-list-of-99-containment-zones-here-1671780-2020-04-27
 Delhi 	South Delhi	All	Nirankari Gali, Nakshatra Gali, Nala Boring Gali, Ravan Wali Gali, Jamila Masjid Gali, Dargah Gurudwara Gali, Thane Wali Gali and Terminal Wali Gali	https://www.indiatoday.in/india/story/coronavirus-delhi-govt-adds-two-more-areas-in-hotspot-list-check-full-list-of-99-containment-zones-here-1671780-2020-04-27
-Uttar Pradesh	Gautam Buddh Nagar	All	Chotpur village Sector-63	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Jevar - village Jonchana block	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Village Tilapta, Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Chauda village, Sector 22 Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	PI 1st, Advocate Colony Greater Noida 	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Kulesra, Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector 20, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector 15A, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Echar Village, Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Cherry County Techzone-14, Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Kendriya Vihar-2, Sector-82, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector-55, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Skytech Metrott Sector 76, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector 34, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector 19, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector-5 and Sector 8, JJ Colony, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector 45, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector 80, Noida Kakrala village	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector-50, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Nithari Sector-31, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
 Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 189 -Hongasandara	https://bangaloremirror.indiatimes.com/bangalore/others/better-to-be-safe-than-sorry-in-hongasandra/articleshow/75397004.cms
 Uttar Pradesh	Agra	All	Wazirpura Gandhi Nagar	https://twitter.com/PrabhuNs_/status/1254858505908965377
 Uttar Pradesh	Agra	All	Khandari Area	https://twitter.com/PrabhuNs_/status/1254858505908965377
@@ -1184,67 +1151,6 @@ Haryana	Faridabad	All	Dabua Colony	https://www.facebook.com/ssffaridabad/posts/8
 Haryana	Faridabad	All	Sector 88 Block F	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Haryana	Faridabad	All	Chawla Colony Block D	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Haryana	Faridabad	All	Ankheer village	https://www.facebook.com/ssffaridabad/posts/898125020658350
-Tamil Nadu	Chengalpattu	All	St. Thomas Mount, Kovilambakkam, Vellakal	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	St. Thomas Mount, Kovilambakkam, Nanmangalam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	St. Thomas Mount, Kovilambakkam, Moovarasmpet	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	St. Thomas Mount, Kovilambakkam, Keelkattalai	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	St. Thomas Mount, Somu Nagar, Perumbakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	St. Thomas Mount, Kamarajar Street, Madavakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	St. Thomas Mount, Kamarajar Street, Sitalapakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	St. Thomas Mount, Kamarajar Street, Ottiyambakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	St. Thomas Mount, Madambakkam, Kamarajapuram	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	St. Thomas Mount, Madambakkam, Agramthen	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	St. Thomas Mount, Madambakkam, Peduvencheri	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	St. Thomas Mount, Madambakkam, Thiruvencheri	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Thiruporur, Kovalam, Dharga Street	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Thiruporur, Kovalam, Kanniammal Koil street	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Thiruporur, Kovalam, Ansari Street	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Thiruporur, Kazhipattur, Agatur (TVH Tower, Oceanic Apartments, Akshya Adar Apartments, Akshya Adena Apartments	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Thirukkalukundram, Sadras, Vengenbakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Thirukkalukundram, Sadras, Pudhupattinam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Thirukkalukundram, Sadras, Meiyur	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Thirukkalukundram, Vallipuram, Dr. Ambedkar Street	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Lathur, Sangatur, Veerabhogam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Lathur, Thiruvathur, Pavanjur	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Chitamur, Idakazhinadu (Ward 8), Alamara Kuppam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Chitamur, Idakazhinadu (Ward 8), Vilambur	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Maduranthagam, Mamandur, Pukkathurai	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Maduranthagam, Mamandur, Padalam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Maduranthagam, Mamandur, Meiyur	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Maduranthagam, Mamandur, Venbakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Chengalpattu MPTY, Natham, Venbakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Chengalpattu MPTY, Natham, Thimmavaram	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Chengalpattu MPTY, Natham, Mahindra City	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Chengalpattu MPTY, Natham, Vellam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Chengalpattu MPTY, Natham, Pazhaveli	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Pammal MPTY, Adam Nagar, Ward number 12- Ward number 18	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Pammal MPTY, Nehru Nagar, Ward number 12- Ward number 19	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Pammal MPTY, Nagelkeni, Ward number 12- Ward number 20	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Sembakkam MPTY, Ward 6, 15 Wards 	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Sembakkam MPTY, Ward 6, Gowri Vakkam	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Sembakkam MPTY, Ward 6, Vengai Vasal	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Sembakkam MPTY, Ward 6, Santoshipuram	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Pallavaram MPTY, Ward 19, Ward 19	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Pallavaram MPTY, Ward 19, Radha Nagar	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Pallavaram MPTY, Ward 19, Hastinapuram	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Pallavaram MPTY, Ward 30, Ward 30	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Pallavaram MPTY, Ward 21, Hastinapuram	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Pallavaram MPTY, Ward 24, Ward 8	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Pallavaram MPTY, Ward 24, Ward 9	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Pallavaram MPTY, Ward 24, Sanjay Gandhi Nagar	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Pallavaram MPTY, Ward 11, Pechaiammal Kovil Street	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Pallavaram MPTY, Ward 14, 49, Yasodha Nagar 3rd Street, Keelkatalai, Chennai- 117	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Tambaram MPTY, Lakshmipuram, Ward 32	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Tambaram MPTY, Irumbuliyur, Ward 27	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Maduranthagam MPTY, 24 Wards, 24 Wards	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Anakaputur MPTY, Quaid-E-Milleth Nagar, Ward 1	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Anakaputur MPTY, Quaid-E-Milleth Nagar, Thiruneermalai	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Anakaputur MPTY, Quaid-E-Milleth Nagar, Lakshmipuram	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Anakaputur MPTY, Quaid-E-Milleth Nagar, Shankar Nagar	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Maraimalai Nagar, Thirukkural Street, Ward 8	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Maraimalai Nagar, Thirukkural Street, NH 2	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	Maraimalai Nagar, Thirukkural Street, Rail Nagar	https://twitter.com/Chengalpattu01/status/1255562805379575816
-Tamil Nadu	Chengalpattu	All	St. Thomas Mount, Nazarath Puram, Ambedkar Nagar, Seven Wells	https://twitter.com/Chengalpattu01/status/1255562805379575816
 Telangana	Hyderabad	All	Adibatla; Manneguda, Opp. RTA office, Ibraimpatnam, Abdullapurmet, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	All	Chaitanayapuri; Vasavi colony, RK Puram, Hyderabad- 500012	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	All	Balapur; Quba Colony, Shaheen Nagar, Balapur.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
@@ -1363,30 +1269,12 @@ Telangana	Hyderabad	All	Rajendranagar; P & T colony, Suncity, bandlaguda jagir	h
 Punjab 	Jalandhar	All	Salempur Musalmana	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
 Punjab 	Jalandhar	All	Kotla Heran Village (Tehsil Shahkot)	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
 Punjab 	Jalandhar	All	Talwandi Bhilan	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector 9, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector 48, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Parsavnath Prestige Sector 93A	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector 122, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Village Bisrakh, Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Village Chipiyana Buzurg, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Village Khandera Dadri Block	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Nat Madhiya Near CNG Pump Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Village Salarpur	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	CISF CAMP Surajpur	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector 10, Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector 30 Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Village Mamura, Sector 66 Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Begumpur near Kulesra, Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Ace Golf Shire Sector 150	https://twitter.com/DhaorAshni/status/1257295810825293826
-Uttar Pradesh	Gautam Buddh Nagar	All	Sector P-3 Greater Noida	https://twitter.com/DhaorAshni/status/1257295810825293826
-Haryana	Gurugram	All	Bhagat Wada Sohna	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
-Haryana	Gurugram	All	Fazilpur Jharsa Village	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
-Haryana	Gurugram	All	Lane No. 1 (Near India Leads), Lane No. 7 (Near Bangali Hotel), Lane No. 6 B, Yadav Medicos (In Sarhaul Village)	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
-Haryana	Gurugram	All	Prem Nagar, Lotus Hospital Sector-12, Acharyapuri, Rajiv Nagar (West)	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
-Haryana	Gurugram	All	Police Station Road Dundahera, Aggarwal Sweets Gali -Sector 21, Community Center Dundahera, Vishal Mega Mart	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
-Haryana	Gurugram	All	Ardee City Society (Block A,B,C)	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
-Haryana	Gurugram	All	Shaib Kunj, Shankar Vihar, Chaumma Village, Chanden Vihar	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
-Haryana	Gurugram	All	Palam Vihar Block C-2 Gate, Ekta Group, Gali No.-4, J-Block, Gali No-5, Chotu Ram Chowk	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Haryana	Gurugram	Sohna	Bhagat Wada Sohna	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Haryana	Gurugram	Gurugram	Lane No. 1 (Near India Leads), Lane No. 7 (Near Bangali Hotel), Lane No. 6 B, Yadav Medicos (In Sarhaul Village)	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Haryana	Gurugram	Gurugram	Prem Nagar, Lotus Hospital Sector-12, Acharyapuri, Rajiv Nagar (West)	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Haryana	Gurugram	Gurugram	Police Station Road Dundahera, Aggarwal Sweets Gali -Sector 21, Community Center Dundahera, Vishal Mega Mart	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Haryana	Gurugram	Gurugram	Ardee City Society (Block A,B,C)	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
+Haryana	Gurugram	Gurugram	Shaib Kunj, Shankar Vihar, Chaumma Village, Chanden Vihar	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
 Delhi	South Delhi	All	Boundary Start from B-4/200 and cover the whole locality till backside of Humayupur lane includes, Ashiana complex & B-4/206 Safdarjung Enclave, New Delhi	https://twitter.com/JatinPaul/status/1257332406874509313?s=09
 Delhi	South west Delhi	All	RZF-756/7, Gali no 1 Band, Raj Nagar II Dwarka New Delhi	https://twitter.com/JatinPaul/status/1257332406874509313?s=09
 West Bengal 	Hooghly	All	Sarai-tinna GP Purushortampur Pandua, PANDUA,SADAR	https://twitter.com/theealadeennews/status/1257371093670727682/photo/1
@@ -1447,7 +1335,7 @@ West Bengal	Howrah	All	Atul Ghosh Lane	https://twitter.com/pooja_news/status/125
 West Bengal	Howrah	All	Alam Mistri Lane	https://twitter.com/pooja_news/status/1257313104490147850
 West Bengal	Howrah	All	Oriya Para Salkia	https://twitter.com/pooja_news/status/1257313104490147850
 West Bengal	Howrah	All	Kapoor Galli	https://twitter.com/pooja_news/status/1257313104490147850
-West Bengal	Howrah	All	Pilkhana 2nd Bye Lane	https://twitter.com/pooja_news/status/1257313104490147850
+West Bengal	Howrah	All	Pilkhana 2nd  & 3rd By Lane	https://twitter.com/pooja_news/status/1257313104490147850
 West Bengal	Howrah	All	Belilious Road	https://twitter.com/pooja_news/status/1257313104490147850
 West Bengal	Howrah	All	Laxman Das Lane	https://twitter.com/pooja_news/status/1257313104490147850
 West Bengal	Howrah	All	Satkori Chatterjee Lane	https://twitter.com/pooja_news/status/1257313104490147850
@@ -1748,17 +1636,17 @@ Maharashtra	Pune	All	Hadapasar Handewadi, Hadapasar Mundwa	https://www.businessi
 Assam	Guwahati	All	Doctor's Hostel no. 5 of Guwahati Medical College (GMCH) campus	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
 Assam	Guwahati	All	Residential Area of Dr B Borooah Cancer Institute	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
 Assam	Guwahati	All	Amiyo Nagar	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
-Haryana	Gurugram	All	Dev Jewelry Shop, Ashok Vihar, Nandhi Dham, Ashok Vihar	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	All	Tower K (Godrej Frontier Society)	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	All	Parmawati Gali Near School, Shani Mandir, Matawali Gali, Yadram Gali (Islampur Village)	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	All	Kadipur Enclave, Gali No. 4	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	All	Surat Nagar Phase-II Gali No. 23	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	All	Sabji Mandi Area (Khandsa Road)	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	All	Shakti Nagar Gali No. 2	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	All	Anand Garden Gali No. 2, Ashok Garden Gali No. 3	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	All	Flying Bird School, RK Surgical Ramlila Ground, Lal Nursing Home, Kharbanda Hostpital, Lal Nursing Home, Kharbanda Hostpital Backside	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	All	Krishna Nagar Gali. No.2	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	All	Jyothi Park Gali No. 7, Gali No. 9, Baldev Ngar Gali No. 14	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
+Haryana	Gurugram	Gurugram	Dev Jewelry Shop, Ashok Vihar, Nandhi Dham, Ashok Vihar	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
+Haryana	Gurugram	Gurugram	Tower K (Godrej Frontier Society)	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
+Haryana	Gurugram	Gurugram	Parmawati Gali Near School, Shani Mandir, Matawali Gali, Yadram Gali (Islampur Village)	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
+Haryana	Gurugram	Gurugram	Kadipur Enclave, Gali No. 4	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
+Haryana	Gurugram	Gurugram	Surat Nagar Phase-II Gali No. 23	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
+Haryana	Gurugram	Gurugram	Sabji Mandi Area (Khandsa Road)	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
+Haryana	Gurugram	Gurugram	Shakti Nagar Gali No. 2	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
+Haryana	Gurugram	Gurugram	Anand Garden Gali No. 2, Ashok Garden Gali No. 3	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
+Haryana	Gurugram	Gurugram	Flying Bird School, RK Surgical Ramlila Ground, Lal Nursing Home, Kharbanda Hostpital, Lal Nursing Home, Kharbanda Hostpital Backside	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
+Haryana	Gurugram	Gurugram	Krishna Nagar Gali. No.2	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
+Haryana	Gurugram	Gurugram	Jyothi Park Gali No. 7, Gali No. 9, Baldev Ngar Gali No. 14	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
 Maharashtra	Thane	All	Saileela,Rameshwadi , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
 Maharashtra	Thane	All	Ganeshnagar , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
 Maharashtra	Thane	All	Mohan Tulsi Vihar,Hendrapada , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
@@ -5982,3 +5870,210 @@ Tamil Nadu	Villupuram	All	T Pudhupalayam	https://twitter.com/Covid19TNUpdate/sta
 Tamil Nadu	Villupuram	All	Eraiyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
 Tamil Nadu	Virudhunagar	All	Kullursandai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
 Tamil Nadu	Virudhunagar	All	Thiruthangal MPTY	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
+Haryana	Gurugram	Gurugram	DLF Phase 2 L--Block	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Haryana	Gurugram	Gurugram	Choti Mata Mandir, Dr. Rohilla Clinic, Sunaro ka Mandir, Dr. Azad Clinic, Asthal Mandir, Devi Ki Aganwadi	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Haryana	Gurugram	Gurugram	Basai Village Bus Stand, Old Railway Fatak, Basai Enclave Part-1, Kamlesh Aganwadi in Basai Village	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Haryana	Gurugram	Gurugram	Santr Devi School wali Gali Block F, Santosh AWC wali Gali Block D, Lalu Prashad wali Gali Block D	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Haryana	Gurugram	Gurugram	Vikas Nagar, Gau Shala Basai Enclave, Housing Board Colony, Balaji Hospital (in Bhawani  Enclave)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Haryana	Gurugram	Gurugram	Ravi Nagar Gali No. 5 Devi Lala Colony Gali No. 9	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Haryana	Gurugram	Gurugram	Adjacent to Sh. Shyam Public School (in Kahndsa)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Haryana	Gurugram	Gurugram	GH Plot 2, Hermitage Housing Society (DLF Phase 3, Gurugram)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Haryana	Gurugram	Gurugram	Om Prakash Ki Gali (In Nathupur Village)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Haryana	Gurugram	Gurugram	Kherki Daula ki Dhani (Kherki Daula Village)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Haryana	Gurugram	Gurugram	Virdha Ashram Wali Gali (In Bajghera Village)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Haryana	Gurugram	Gurugram	Hanuman Mandir Vali Gali (In Baliyawas Village)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Haryana	Gurugram	Gurugram	Chappar wali Gali, Hoti Lal ki Dhani, Mandir wali gali (Jamalpur)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Haryana	Gurugram	Gurugram	Block D, Gali No. 6, Gali No. 7, Gali No. 8 (in Sheetla Colony)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Sector 48, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Parasvnath Prestige Sector – 93 A, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Sector 122, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Village Tilapta, Greater Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Village Chipyana Buzurg, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Village Salarpur, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Sector 7, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Ajnara Daffodil, Sector 137, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Village Surajpur	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Village Tugalpur	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Village Chaprauli, Sector 168 Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Village Dadupur	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Jal Vayu Vihar, Greater Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	NCR City Village Girdharpur Near Chaprola	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Chi-II Greater Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Yakubpur Noida, Sector 83	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Malakpur Surajpur	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Sector 8, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Sector 5, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Sector 9, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Sector 10, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Sector 15, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Sector 19, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Chaudra Village, Sector 22, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Sector 30, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Nithari Sector 31, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Sector 45 Noida, Village Sadarpur and Khajoor Colony	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Sector 55, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Village Mamura, Sector 66, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	SKYTECH Matrott, Sector 76, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Ace Golfshire, Sector 150, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Village Bisrakh, Greater Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Nat Madhiya Near CNG Pump, Greater Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	PI First and PI First Advocate Colony, Greater Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
+Uttar Pradesh	Gautam Buddh Nagar	All	Jonchana Jewar	
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Somu Nagar, Rani Street, Perumbakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Ezhil Nagar, Perumbakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Rathana Nagar, Perumbakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Bajanai Koil Street, Perumbakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Lakshmi Nag., Mudichur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Lotus Colony, Valluvar Naga!, Sithalapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Senthamil Nagar, Sithalapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Skylap Avenue, Sithalapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Vellaikal Periyar Nagar, Medavakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Medavakkam Koot Road, Medavakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Tamilkudimagan Nagar, Kovilambakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Gandhi Nagar, Kovilambakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Agatheeswaran Koil Street, Pozhichalur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Arasu Thoppu Vedu, Thirusulam Nanmangalam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St. Thomas Mount	Chockalingam Nagar, Thirusulam Nanmangalam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Madambakkam T.P.	Periyapalayathamman Street, Paduvancherry, Madambakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Madambakkam T.P.	Thenpuri Housing Colony, Madambakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Perungaluthur T.P.	Ward 15 'Carman Avenue, Old Perungalathur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Perungaluthur T.P.	Gundumedu, New Perungalathur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Perungaluthur T.P.	Karumariamman Koil Street, New Perungalathur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thiruneermalai T.P.	Lakshmipuram, Ward 8	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thiruneermalai T.P.	Lakshmipuram, Ward 9	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thiruneermalai T.P.	Thiruneermalai, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Anakaputhur	Quaide Mellith Nagar, Anakaputhur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Madurantakamk	Thonadu, Nallamur, Thonnadu	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Madurantakamk	Sothupakkam Street, Saravambakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Madurantakamk	Yadhava Steet, Pazhaiyanur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Acharapakkam	Pathiri, Thozupedu, Acharapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Acharapakkam	Pathiru, Kuttaikarai Battai Street, Acharapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Acharapakkam	Gudalor, Jothy Nag., Acharapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Acharapakkam	Edaiyalam Colony, Acharapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Acharapakkam	Mariamman Koil Street, Velliyambakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Acharapakkam	South Street, Morapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pammal	Moongeleri, Ward 12	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pammal	VOC Nagar (Rajangam Street), Ward 12	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pammal	VOC Nagar (Devaraj Street), Ward 12	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pammal	VOC Nagar (Rajalakshmi St.), Ward 12	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pammal	SBI Colony, Anna Nagar, Ward	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pammal	Central Bank Colony, Nagalkeni	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Rajendra Prasad Street, Hasthinapuram, Ward 21	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Malliga Nagar, Old Pallavaram, Ward	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Marriamman Koil Street, Ward	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Durga Nagar, Ward	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Ravi Street, Ward	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Padmavathy Street, Ward	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Pachaiamman Koil Street, Ward 11	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Ganapathypuram, Ward 27	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Yasodha Nagar, Ward 14	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Keelkattalai, Ward 14	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Pattammal Colony, Keelkattalai, Ward 14	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Thenmozhi Nagar, Ward 14	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	P.V. Vaidiyalingam Street, Ward 12	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Pillayar Koil Street, Jamin Royapettah, Ward 14	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Srinivasapuram, Ward	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	HFD Nagar, Ward	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Abdul Razack Street, Ward	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Rangasamy Street, Ward 16	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Pallavaram	Mettu Street, Chrompet	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	frumbuliyur, Roja Thottam, Ward 31	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Thiruvalluvar Street, Ward 31	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Devasapuram, Ram Nagar, Ward 31	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Ranganathapuram, Ward 31	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Old State Bank Colony, Ward 31	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Reddy Street, West Tambaram, Ward 31	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Krishna Nagar, W.Tambaram, Warrd 32	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Easwari Nagar, Ward 18	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Ganapathypuram, Ward 25	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Kasthuribai Nagar, Ward 8	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Ranganathamoorthy Street, Ward	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Manimegalai Street, Ward 17	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Thiruvalluvar Puram, Ward 39	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Tambaram, 	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Andal Nagar, 	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Sharma Street, 	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Tambaram	Kasthuribai Nagar VOC Street, 	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Sembakkam (M)	Ganech Nagar Main Road, W ard 11	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Sembakkam (M)	Annai Indira Gandhi Nagar, W ard 11	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Sembakkam (M)	VGP Srinivas Nagar, Rajakilpakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Sembakkam (M)	Vallar Street, Sembakkam Ward 10	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Sembakkam (M)	Velacherry Main Road, Selaiyur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Sembakkam (M)	Chellapa Street, Santhosepuram	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Maduranthagam MPTY	P.N.Chari Street, Ward 23	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Maduranthagam MPTY	Sengunthar Pettai, Ward 23	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Maduranthagam MPTY	, Ward 23	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Maduranthagam MPTY	Bajanai Koil Street, Kadaperi, Ward 23	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Maduranthagam MPTY	Chelliiamman Koil Street, Ward 23	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Maduranthagam MPTY	3rd Street, Ward 23	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St.Thomas Mount Contonment	Ambedkar Nagar, Seven, Nazarath Puram, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St.Thomas Mount Contonment	Wells., Nazarath Puram, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St.Thomas Mount Contonment	Mathiyas Nagar, Nazarath Puram, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St.Thomas Mount Contonment	Seven Wells, Nazarath Puram, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St.Thomas Mount Contonment	Mangaaliamman Koil Street, Nazarath Puram, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St.Thomas Mount Contonment	Thanduma Nagar, Nazarath Puram, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St.Thomas Mount Contonment	AR Police Lane, Nazarath Puram, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	St.Thomas Mount Contonment	Balakrishnan Street, Contonment, Pallavaram	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kanttankolathur	Mailima Nagar, Karanaipuducherry	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kanttankolathur	Kamarajar Street, Vandalur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kanttankolathur	Eraiamman Koil Street, Vandalur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kanttankolathur	MGR Nagar, Chettipunniyam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kanttankolathur	Annai Anjugam Nagar, Kolapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kanttankolathur	Vasanthapuram, Kolapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kanttankolathur	Alapakkam, Mappedu Pudur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kanttankolathur	Rajiv Gandhi Nagar, Urapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kanttankolathur	Anna Nagar, Urapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kanttankolathur	 K.K Nagar, Mannivakkarn	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kanttankolathur	Kurinji Nagar, Mannivakkarn	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kanttankolathur	Vasanthapuram, Unamancheri	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kanttankolathur	Kanchipuram High Road, Thimmavaram	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	ldakazhinadu	Kappivakkm, Ward 17	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thirukalikundram	Elumitchampatti - Dr.Ambedkar Streeet, Vallipuram	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thirukalikundram	Muthumariamman Koil Street, Vitalapuram	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thirukalikundram	Kammalar Street, P.V. Kalathur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thirukalikundram	Mandaveli Street, Malayalinatham	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thirukalikundram	Narasankuppam, Sadras	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Kalpakkam T.S.	DAE Township, Kalpakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Maraimalai Nagai.	Vallancherry, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Maraimalai Nagai.	Vallal Kumaran Street, M.M. Nagar	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Maraimalai Nagai.	Vallal Begam Street, M.M. Nagar	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Maraimalai Nagai.	TNHB, Keelakaranai	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Maraimalai Nagai.	Railway Station Road, Kattankolathur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Maraimalai Nagai.	Korukanthangal Road,  M.M. Nagar	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Maraimalai Nagai.	Samiyar Gate, Peramanur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Guduvanchery T.P.	Valluvar Colony, Guduvancherry	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Guduvanchery T.P.	Periyar Ramswamy Street, Guduvancherry	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Guduvanchery T.P.	Abdullah Street, Guduvancherry	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Guduvanchery T.P.	Bharathiyar Street , Guduvancherry	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Guduvanchery T.P.	 Owaiyar Street , Guduvancherry	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Guduvanchery T.P.	 layyachery, Nandivaram, Guduvancherry	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	 Peerkankaranai T.P.	TTK Nagar Ext., Bhavani St. , Ward 15	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	 Peerkankaranai T.P.	 Kasthuri Nagar, Ward 15	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chengalpattu Mun.	Kattunayakan Street, Ramapalayaim, Ward 21	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chengalpattu Mun.	Chinnamman Koil Street, Ward 3	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chengalpattu Mun.	Malai Poonga, Ward 13	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chengalpattu Mun.	Menu Sweet, Ward 12	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chengalpattu Mun.	Vedchala Nagar, Ward 16	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chitamur	Arjunamman Koil Street, Sothupakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chitamur	Kanniamman Koil Street, Sothupakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chitamur	Middle Street, Sothupakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chitamur	Pallikuda Street, Pondur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chitamur	Pillayar Koil Street, Cheyyur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chitamur	Indira Street, Kolathur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chitamur	Tank Street, Manapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chitamur	Kavanur, Kavanur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Lathur	ECR Road, Koovathur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thiruporur	Suresh Nagar, Navalur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thiruporur	Annai Indira Gandhi Nagar, Hanumanthapuram	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thiruporur	Ambedkair Street, Amoor	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thiruporur	Kumaran Nagar, Kannagapattu	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thiruporur	Gangaiamman Koil Street, Egattur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thiruporur	Fish Market, Thaiyur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thiruporur	Raleswari Nagar, Thaiyur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thiruporur	Kandigar Police Quarters, Melaikottaiyur	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thiruporur	Selliyamman Nagar, Ponmar	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Chitalapakkam T.P.	Erikarrai, Chitlapakkam	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Karunkuli Road, Ward 15	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Sangamettu Street, Ward 15	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Asiriyar Nagar, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
+Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 190 -Mangammanapalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1845952422206680/1845951978873391/?type=3&theater
