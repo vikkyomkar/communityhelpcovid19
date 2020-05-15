@@ -44,16 +44,25 @@ def statewise(datajson):
 	for key in datajson['statewise']:
 		try:
 			if key['state'] != 'Total':
-				statename = '_'.join(key['state'].split(' ')) 	
-				if statename in state_dict.keys():
-					state = state_dict[statename]
-				else:
-					state = statename
-				postQuery = "{0},state={1} sactive={2},sconfirmed={3},sdeaths={4},srecovered={5},sdeltaconfirmed={6},sdeltadeaths={7},sdeltarecovered={8}".format(table,state,key['active'],key['confirmed'],key['deaths'],key['recovered'],key['deltaconfirmed'],key['deltadeaths'],key['deltarecovered'])
+				state = '\ '.join(key['state'].strip().split(' '))
 
+				if int(key['deltaconfirmed']) != 0 or int(key['deltarecovered']) != 0 or int(key['deltadeaths']) != 0:
+					postQuery = "{0},state={1} homedeltaconfirmed={2},homedeltadeaths={3},homedeltarecovered={4}".format(table,state,key['deltaconfirmed'],key['deltadeaths'],key['deltarecovered'])
+					influx.Post(db,postQuery)
+					#print(postQuery)
+				postQuery = "{0},state={1} sactive={2},sconfirmed={3},sdeaths={4},srecovered={5},sdeltaconfirmed={6},sdeltadeaths={7},sdeltarecovered={8}".format(table,state,key['active'],key['confirmed'],key['deaths'],key['recovered'],key['deltaconfirmed'],key['deltadeaths'],key['deltarecovered'])
+				influx.Post(db,postQuery)
+
+				### put data for state graph
+				y = 2020
+				d = int(datetime.datetime.now().day)
+				m = int(datetime.datetime.now().month)
+				announcedate = (datetime.datetime(int(y), int(m), int(d), 0, 0).strftime('%s')) + "000000000"
+				activeindicator = int(key['deltaconfirmed']) - int(key['deltadeaths']) - int(key['deltarecovered'])
+				postQuery = "{0},state={1} sgconfirmed={2},sgrecovered={3},sgdeaths={4},sgactiveindicator={5} {6}".format(table,state,key['deltaconfirmed'],key['deltarecovered'],key['deltadeaths'],activeindicator,announcedate)
 				influx.Post(db,postQuery)
 				#print(postQuery)
-			else:  # latestDay not in key['lastupdatedtime']:
+			else:
 				y = 2020
 				d , m, rest = key['lastupdatedtime'].strip().split('/')
 				announcedate = (datetime.datetime(int(y), int(m), int(d), 0, 0).strftime('%s')) + "000000000"
