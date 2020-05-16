@@ -175,14 +175,6 @@ Uttar Pradesh	Maharajganj	All	Bishanpur Kurthia	https://www.livehindustan.com/ut
 Uttar Pradesh	Maharajganj	All	Phulwaria-Purandarpur	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Bihar	Siwan	All	Zone Panjwar Village	https://www.hindustantimes.com/patna/coronavirus-village-in-bihar-s-siwan-declared-hot-spot-after-19-fresh-cases/story-KGru8teYGdTIy65VCOlYJN.html
 Jharkhand	Ranchi	All	Hindpiri	https://www.livehindustan.com/jharkhand/story-hindpiri-area-in-ranchi-sealed-as-seven-person-has-tested-covid19-positive-in-the-area-jharkhand-coronavirus-lockdown-3142970.html
-Madhya Pradesh	Jabalpur	All	Kachiya Path, Gol Bazar	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
-Madhya Pradesh	Jabalpur	All	Professor Colony	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
-Madhya Pradesh	Jabalpur	All	Suhagi, Saraswati Colony	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
-Madhya Pradesh	Jabalpur	All	Andherdeo	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
-Madhya Pradesh	Jabalpur	All	Shankar Nagar	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
-Madhya Pradesh	Jabalpur	All	Maulana ki Gali, Kotwali	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
-Madhya Pradesh	Jabalpur	All	Rampur	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
-Madhya Pradesh	Jabalpur	All	Panch-Sheel Nagar	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Gwalior	All	Doli Bua ka Pul	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Gwalior	All	Chetakpuri	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Gwalior	All	Vijay Nagar	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
@@ -889,7 +881,6 @@ Haryana	Ambala	All	Timber market in Cantt	https://www.bhaskar.com/local/haryana/
 Haryana	Ambala	All	Shejadpur	https://www.bhaskar.com/local/haryana/ambala/news/seal-the-village-and-put-quarantine-posters-on-12-shops-making-the-district-the-third-containment-zone-127241870.html
 Delhi 	New Delhi	All	Area between Kumhar Gali and Chaupal Chawk in Kotla Mubarakpur	https://www.livemint.com/news/india/delhi-number-of-covid-19-containment-zones-rise-to-97-full-list-here-11587917642337.html
 Delhi 	North Delhi	All	Gali No. 3, 4, 5 in Majlis Park, Adarsh Nagar	https://www.livemint.com/news/india/delhi-number-of-covid-19-containment-zones-rise-to-97-full-list-here-11587917642337.html
-Madhya Pradesh	Jabalpur	All	Sarafa Area	https://www.patrika.com/jabalpur-news/corona-patients-being-searched-in-six-containment-zones-in-jabalpur-6017754/
 Madhya Pradesh 	Ujjain	All	Amber Colony	https://timesofindia.indiatimes.com/city/indore/ujjain-cop-succumbs-to-coronavirus/articleshow/75265492.cms
 Uttar Pradesh	Varanasi	All	Arjunpur, Sevapuri Vikas Khand	https://twitter.com/livesanmarg/status/1254725293199196161
 Uttar Pradesh	Varanasi	All	Madauli	https://twitter.com/livesanmarg/status/1254725982998728704/photo/1
@@ -4127,3 +4118,20 @@ Maharashtra 	Mumbai	Ward-T	Ward-T New Rhaul Nagr Mulund Colony,Mulund West,, 400
 Maharashtra 	Mumbai	Ward-T	Ward-T Ashok Nagar Opp Hanuman Mandir, Ashok Nagar, S.N. Road,Dumping Road,Mulund West, 400080	https://stopcoronavirus.mcgm.gov.in/assets/docs/Containment-Zones.pdf
 Maharashtra 	Mumbai	Ward-T	Ward-T Babu Jagjivan Ram Nagar,Dumping Road,Mulund West, 400080	https://stopcoronavirus.mcgm.gov.in/assets/docs/Containment-Zones.pdf
 Maharashtra 	Mumbai	Ward-T	Ward-T Gauni Pada,Nahur Road,Dumping Road,Mulund West, 400080	https://stopcoronavirus.mcgm.gov.in/assets/docs/Containment-Zones.pdf
+Madhya Pradesh	Jabalpur	All	नगर परिषद पाटन	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	पौडी (जनपद पंचायत मझौली)	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	बजनामठ	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	घमापुर (सरकारी कुआ)	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	नर्मदा नगर, गोहलपुर	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	सर्राफा (कोतवाली)	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	ए.पी आर कॉलोनी 2 बिलहरी	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	सर्वोदय नगर	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	नई बस्ती (बड़ी ओमती )	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	ग्राम दरौली खुर्द ज.प.सिहोरा	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	कचनार सिटी (विजय नगर)	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	ठक्करग्राम	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	चांदनी चौक	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	सैफ नगर	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	नगीना मस्जिद	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	रद्दी चौकी	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Madhya Pradesh	Jabalpur	All	सिन्धी कैंप	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
