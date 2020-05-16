@@ -22,11 +22,6 @@ Delhi	Shahdara	All	Pratap Khand, Jhilmil Colony	https://www.indiatoday.in/india/
 Delhi	Central	All	Sadar Bazar,Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Central	All	Chandni Mahal, Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	Central	All	Nabi Karim, Central District	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Haryana	Faridabad	All	Sector 28	https://www.facebook.com/ssffaridabad/posts/898125020658350
-Haryana	Faridabad	All	Village Badhkal	https://www.facebook.com/ssffaridabad/posts/898125020658350
-Haryana	Faridabad	All	Green Field Colony	https://www.facebook.com/ssffaridabad/posts/898125020658350
-Haryana	Faridabad	All	Fatehpur Taga	https://www.facebook.com/ssffaridabad/posts/898125020658350
-Haryana	Faridabad	All	Khori	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Haryana	Palwal	All	Huchpuri kalaan village	https://haryana.punjabkesari.in/haryana/news/nuh-palwal-faridabad-and-gurugram-became-hotspots-of-corona-infection-1151095
 Haryana	Palwal	All	Mathhepur village	https://haryana.punjabkesari.in/haryana/news/nuh-palwal-faridabad-and-gurugram-became-hotspots-of-corona-infection-1151095
 Haryana	Palwal	All	Durainchi village	https://haryana.punjabkesari.in/haryana/news/nuh-palwal-faridabad-and-gurugram-became-hotspots-of-corona-infection-1151095
@@ -635,8 +630,6 @@ Punjab 	Rupnagar	All	Chatwali	https://punjabi.abplive.com/videos/news/punjab-pun
 Punjab 	SAS Nagar Mohali	All	Phase 3 A	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
 Punjab 	SAS Nagar Mohali	All	Sector 69	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
 Punjab 	SAS Nagar Mohali	All	Sector 91	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
-Delhi 	West Delhi	All	in and around area of C-785, third floor, camp-2, Nangloi	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
-Delhi 	West Delhi	All	in and around area of RZ-168, K2 Block, Nihal Vihar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Delhi 	South east Delhi	All	Gali numbers 26, 26B, 27 and 27B, Tughlakabad Extension	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Delhi 	North Delhi	All	K-Block Jahangir Puri between houses 716 and 785; 786 to 860 and 861 to 950	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Delhi 	South Delhi	All	area around house number 859/20, L-II, Sangam Vihar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
@@ -1097,7 +1090,6 @@ Tamil Nadu 	Thiruvarur	All	Vandikkara Street	https://www.dailythanthi.com/News/D
 Tamil Nadu 	Thiruvarur	All	Aynoor Pillaiyaar Kovil Vadagu Theru	https://www.dailythanthi.com/News/Districts/2020/04/22035734/In-Thiruvarur-municipality-in-restricted-areasCleanliness.vpf
 Delhi	South Delhi	All	F-313, Near Shiva Mandir Lado Sari and F-274, 2nd Floor of Lado Sari, New Delhi	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
 Delhi	New Delhi	All	F-258, Campa Cola Gali Lado Sarai, New Delhi	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
-Delhi	South Delhi	All	In and around area of A-280. J.J. Colony, Madipur, Delhi 110063.	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
 Maharashtra	Pimpri-Chinchawad	All	 Kharalwadi Premises, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
 Maharashtra	Pimpri-Chinchawad	All	 PMT Chowk Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
 Maharashtra	Pimpri-Chinchawad	All	 Gurudatta Colony Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
@@ -1132,7 +1124,6 @@ Haryana	Jajjhar	All	Sulaudha Village	https://www.jagran.com/haryana/hisar-live-c
 Haryana	Jajjhar	All	Gubhana Village	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-coronavirus-positive-cases-found-in-bahadurgarh-of-haryana-20232885.html
 Haryana	Jajjhar	All	Jajjhar Sabjimandi	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-coronavirus-positive-cases-found-in-bahadurgarh-of-haryana-20232885.html
 Haryana	Jajjhar	All	Laal Khaniya Mohalla	https://www.amarujala.com/haryana/jhajjar-bahadurgarh/corona-positive-jhjhar-news-rtk5529182135
-Haryana	Faridabad	All	N.I.T-1 Block A,B,C	https://www.bhaskar.com/national/news/haryana-chandigarh-coronavirus-cases-outbreak-live-karnal-rohtak-yamuna-nagar-rewari-panipat-latest-today-news-127263140.html
 Haryana	Kurukshetra	All	Sugar Mill Colony	https://www.bhaskar.com/national/news/haryana-chandigarh-coronavirus-cases-outbreak-live-karnal-rohtak-yamuna-nagar-rewari-panipat-latest-today-news-127263140.html
 Punjab 	Ludhiana	All	Janta Nagar Street Number 18	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
 Punjab 	Ludhiana	All	New Janta Nagar near Akalgarh Gurdwara Sahib	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
@@ -1143,12 +1134,6 @@ Punjab 	Ludhiana	All	Ghulal village, Samrala area	https://timesofindia.indiatime
 Punjab 	Ludhiana	All	Ghungrali Sikkan village, Samrala area	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
 Punjab 	Ludhiana	All	Jhande village, Samrala area	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
 Punjab 	Ludhiana	All	Seh village village, Samrala area	https://timesofindia.indiatimes.com/city/ludhiana/in-red-district-gets-7-containment-zones/articleshow/75513006.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
-Haryana	Faridabad	All	Shiv Durga Vihar,	https://www.facebook.com/ssffaridabad/posts/898125020658350
-Haryana	Faridabad	All	Palwali village	https://www.facebook.com/ssffaridabad/posts/898125020658350
-Haryana	Faridabad	All	Dabua Colony	https://www.facebook.com/ssffaridabad/posts/898125020658350
-Haryana	Faridabad	All	Sector 88 Block F	https://www.facebook.com/ssffaridabad/posts/898125020658350
-Haryana	Faridabad	All	Chawla Colony Block D	https://www.facebook.com/ssffaridabad/posts/898125020658350
-Haryana	Faridabad	All	Ankheer village	https://www.facebook.com/ssffaridabad/posts/898125020658350
 Telangana	Hyderabad	All	Adibatla; Manneguda, Opp. RTA office, Ibraimpatnam, Abdullapurmet, RR Dist.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	All	Chaitanayapuri; Vasavi colony, RK Puram, Hyderabad- 500012	https://twitter.com/Sumiran_KVS/status/1256644111060230144
 Telangana	Hyderabad	All	Balapur; Quba Colony, Shaheen Nagar, Balapur.	https://twitter.com/Sumiran_KVS/status/1256644111060230144
@@ -1558,12 +1543,6 @@ Andhra Pradesh	Visakhapatnam	All	Marripalem - Railway Quarters	https://twitter.c
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Mohidden Gardens	https://twitter.com/suripkfan/status/1257156373592322051
 Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 192 -Begur	https://www.facebook.com/bbmp.comm1/photos/pcb.1836522699816319/1836522566482999/?type=3&theater
 Karnataka	Bengaluru Urban	All	East Bengaluru Ward  92 - Shivajinagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1836522699816319/1836522566482999/?type=3&theater
-Chandigarh 	Chandigarh	All	Bapu Dham Colony	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
-Chandigarh 	Chandigarh	All	ShastriNagar in Manimajra	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
-Chandigarh 	Chandigarh	All	Sector 30B	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
-Chandigarh 	Chandigarh	All	Sector 52	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
-Chandigarh 	Chandigarh	All	Sector 38	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
-Chandigarh 	Chandigarh	All	Kacchi Colony in Dhanas	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
 Karnataka	Bengaluru Urban	All	South Bengluru Ward  176 - BTM Layout	https://www.facebook.com/bbmp.comm1/photos/pcb.1836522699816319/1836522566482999/?type=3&theater
 Karnataka	Bengaluru Urban	All	West Bengaluru Ward  45 - Malleshwaram	https://www.facebook.com/bbmp.comm1/photos/pcb.1838359389632650/1838358802966042/?type=3&theater
 Maharashtra	Pune	All	Mangalwar Peith, Juna Bazar, Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
@@ -5134,9 +5113,6 @@ Puducherry	Karaikal	All	Karaikal	http://newsonair.com/Main-News-Details.aspx?id=
 Puducherry	Kutchipalayam	All	Kutchipalayam	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
 Puducherry	Sellipet village	All	Sellipet village	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
 Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward  72 - Herohalli	
-Haryana	Faridabad	All	Baad Mohalla, Old Faridabad	https://twitter.com/SmartCityFbad/status/1259063906896539648
-Haryana	Faridabad	All	Block-B, Jawahar Colony	https://twitter.com/SmartCityFbad/status/1259063906896539648
-Haryana	Faridabad	All	Mujessar	https://twitter.com/SmartCityFbad/status/1259063906896539648
 Maharashtra 	Nashik	All	CIDCO	https://twitter.com/JkInfotainment/status/1260060228932042758
 Maharashtra 	Nashik	All	Navshya Ganpati Mandir, Gangapur, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
 Maharashtra 	Nashik	All	Dhongade Mala, Nashik Road, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
@@ -6078,3 +6054,33 @@ Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Karunkuli Road, Ward 15	https://tw
 Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Sangamettu Street, Ward 15	https://twitter.com/Chengalpattu01/status/1260226591805734914
 Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Asiriyar Nagar, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
 Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 190 -Mangammanapalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1845952422206680/1845951978873391/?type=3&theater
+Haryana	Faridabad	All	Shiv Durga Vihar	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Palwali village	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Dabua Colony	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Sector-88 F-Block	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Chawla Colony D-Block	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	NIT-1, Block A, B, C	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Village Badkhal and Ankeer	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Sector-28	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Baad Mohalla, Old Faridabad	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Block-B, Jawahar Colony	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Mujessar	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Green Field Colony	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Area of Sanjay Colony, Sector-23, Faridabad covered between House no. MCF­-9470, Gali no. 294,295 near Gaunchi drain, House no. MCF-9491, Gali no. 295, Shop no. 8810, Near Gali no. 285 (Goyal) Trading) and Workshop on Plot no. F-12 (Microtech Industries along Gaunchi Drain).	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Area of Sector- 23A (Part) and Sanjay Colony, Sector-23, Faridabad covered between House no. 1235, Sector-23A (in front of park and market), House no. 1648, Sector- 23A, House no. 1353, Sector- 23A in front of Fountain Park), Shop no. 48, Gall no.8 (Royal Properties on 22ft. Main Road), Sanjay Colony and Shop no. 13, Gali no. 03 (Mohar Ladies Tailor on 22ft. Road), Sanjay Colony.	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Plot nos. 1136 to 1145, 1520 to 1563, 1886 to 1961 P, 1962 to 1965, 2028 to 2031, 2032 to 2041, 2079 to 2087 P, 2935 to 2937 P, 2980 P to 2982, Sector 62, Faridabad	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Area of Adarsh Colony, Near Mulla Hotel, Faridabad covered between the locations of shop no. J-1(Sumit Traders, FBD-Oridsa B.S Tempo Service), Shop no. R-370(Batra Kirana Store in front of Veshno Devi Mandir), Shop no. R-303 (Wine & Kunal Soda Shop in front of Ram Singh Auto Centre) & House no. J-59, Valmiki Gali along the Central Water Works Commission	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Pocket of EWS Plot bearing no. 288 to 701, Sector-18, Housing Board Colony, Faridabad	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Area covered between the locations of the houses of Sh. Sukhbir Singh Advocate, Sh. Fireh Chandila, Sh. Vijay Chandila and the Panchayat Bhawan in Village Fatehpur Chandila	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Village Mahola	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Village Sihi	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Shiv Sharda Colony, Ballabgarh, Faridabad	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Structure falling between the stretch of Mawai Road from Shiv Mandir to Mahendra Building_Material Shop, Tilpat, Sector- 9, Faridabad	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Area between row of plot nos. 666(P) to 658 (P) and row of plot nos. 853(P) to 870(P), in front of Modern School, sector 17, Faridabad	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Area between row of plot nos. 996 to 966 and road in front of row of plots 739 to 759, sector 10, Faridabad	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Indira Colony, Sector-05, Faridabad	https://twitter.com/prabhurazdan/status/1261528692355788800
+Haryana	Faridabad	All	Entire belt of Auto Pin Jhuggies situated along Nallah, between Railway Road and Sector Dividing Road of Sector- 22 and 24.	https://twitter.com/prabhurazdan/status/1261528692355788800
+Chandigarh 	Chandigarh	All	ShastriNagar in Manimajra	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
+Chandigarh 	Chandigarh	All	Sector 52	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
+Chandigarh 	Chandigarh	All	Sector 38	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
+Chandigarh 	Chandigarh	All	Kacchi Colony in Dhanas	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
