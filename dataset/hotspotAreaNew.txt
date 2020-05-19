@@ -193,7 +193,7 @@ Madhya Pradesh	Badwani	All	Khalwadi Mohalla, Sendhwa	https://www.indiatvnews.com
 Madhya Pradesh	Badwani	All	Madeena Nagar, Sendhwa	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Badwani	All	Paanwadi Mohalla, Badwani	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Badwani	All	Sutar Colony, Badwani	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
-Madhya Pradesh	Betul	All	Bhainsdehi city	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
+Madhya Pradesh	Betul	All	Ghoradongri	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Vidisha	All	Kadi Mohalla, Sironj	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Vidisha	All	Mirjapur Karimi Mohalla, Ganj-Basoda	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Sheopur	All	Hasanpur Haveli	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
@@ -327,7 +327,6 @@ Bihar	Begusarai	All	Six Tolls of Bachwara Block	https://navbharattimes.indiatime
 Bihar	Begusarai	All	Teghra Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Bihar	Begusarai	All	Mansoorchak Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Karnataka	Bengaluru Urban	All	Mahadevpura  Ward 84 - Hagaduru	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
-Karnataka	Bengaluru Urban	All	East Bengaluru Ward  93 - Vasanth Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Delhi	South Delhi	All	Pandit Mohalla & Jain Mohalla, from Epic centre 715, Chirag Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South Delhi	All	shop No J-4/49 (Khirki Extension)	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South west Delhi	All	C-2 Block-Janakpuri-Kothi number-119	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
@@ -4139,3 +4138,6 @@ Gujarat	Gandhinagar	All	Rancharda, Kalol	https://twitter.com/RACGandhinagar/stat
 Gujarat	Gandhinagar	All	Sagdalpur, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
 Gujarat	Gandhinagar	All	Dahegam urban, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
 Karnataka	Bengaluru Urban	All	Mahadevpura  Ward 54 - Hoodi	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
+Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward  129 - Jnanabharathinagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	West Bengaluru Ward  23 - Nagavara	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Madhya Pradesh	Betul	All	Chicholi	
