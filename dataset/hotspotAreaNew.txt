@@ -214,7 +214,7 @@ Madhya Pradesh	Dewas	All	Nahar Darwaja	https://www.indiatvnews.com/news/india/ma
 Madhya Pradesh	Dewas	All	Sheetlamata ward, Haatpipliya City	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Dewas	All	Panigaon village	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Rajasthan	Kota	All	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
-Karnataka	Bengaluru Urban	All	West Bengaluru Ward 135 - Padarayanapura	https://www.deccanherald.com/city/top-bengaluru-stories/coronavirus-two-wards-of-bengaluru-sealed-completely-to-contain-covid-19-spread-823604.html
+Karnataka	Bengaluru Urban	All	West Bengaluru Ward 135 - Padarayanapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Karnataka	Mysuru	All	Nanjangud town	https://www.dtnext.in/News/National/2020/04/02135830/1222923/Covid19--Mysuru-district-declared-Red-Zone-security-.vpf
 Kerala	Kozhikode	All	Entire District is declared Hotspot	https://newsable.asianetnews.com/coronavirus-india/7-kerala-districts-declared-covid-19-hotspots-by-chief-minister-q87h2a
 Andhra Pradesh	Visakhapatnam	All	Thatichetlapalem	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
@@ -305,24 +305,6 @@ Karnataka	Mandya	All	Nagamangala taluk	https://www.deccanherald.com/state/karnat
 Karnataka	Mandya	All	Hanif Mohalla	https://www.deccanherald.com/state/karnataka-districts/covid-19-mandyas-nagamangala-declared-containment-zone-822786.html
 Karnataka	Mandya	All	Ward 12, 14, 15, 16	https://www.deccanherald.com/state/karnataka-districts/covid-19-mandyas-nagamangala-declared-containment-zone-822786.html
 Karnataka	Mandya	All	Ward No 32 and 33	https://timesofindia.indiatimes.com/city/mysuru/two-wards-declared-containment-zones-in-mandya/articleshow/75087157.cms
-Gujarat	Ahmedabad	All	New Vasahat at Jashodanagar	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	All	Two residential apartment blocks at Bodakdev 	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	All	Juhapura	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	All	Sakarkha ni Pol in Dariapur	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	All	Devpreet and Devraj Towers  	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	All	Area near Usmani mosque in Sanklitnagar	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	All	Qutubbi Mohalla in Kalupur.	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	All	Kalupur area	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	All	Gomtipur	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	All	Shah-e-Alam	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	All	Sola.	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	All	Navrangpura	https://indianexpress.com/article/cities/ahmedabad/ahmedabad-six-more-covid-19-clusters-identified-6352259/
-Gujarat	Ahmedabad	All	Danilimda	https://www.vtvgujarati.com/news-details/coronavirus-in-gujarat-ahmedabad-8-area-cluster-containment
-Gujarat	Ahmedabad	All	Ambawadi	https://www.vtvgujarati.com/news-details/coronavirus-in-gujarat-ahmedabad-8-area-cluster-containment
-Gujarat	Ahmedabad	All	Dariapur	https://www.vtvgujarati.com/news-details/coronavirus-in-gujarat-ahmedabad-8-area-cluster-containment
-Gujarat	Ahmedabad	All	Jamalpur	https://www.vtvgujarati.com/news-details/coronavirus-in-gujarat-ahmedabad-8-area-cluster-containment
-Gujarat	Ahmedabad	All	Rakhilal	https://www.vtvgujarati.com/news-details/coronavirus-in-gujarat-ahmedabad-8-area-cluster-containment
-Gujarat	Ahmedabad	All	Gujarat Housing Board near Momin Masjid in Bapunagar	https://timesofindia.indiatimes.com/city/ahmedabad/coronavirus-in-ahmedabad-6-positive-cases-in-family-led-to-containment/articleshow/75038438.cms
 Gujarat	Surat	All	Adajan Patiya, Rander	https://in.news.yahoo.com/look-gujarat-contained-neighbourhoods-195235424.html
 Gujarat	Surat	All	Begumpura	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
 Gujarat	Surat	All	Sachin area	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
@@ -334,7 +316,6 @@ Gujarat	Bhavnagar	All	Ruvapari area	https://www.outlookindia.com/newsscroll/stri
 Gujarat	Vadodara	All	Nagarwada	https://indianexpress.com/article/india/vadodara-divides-city-into-four-zones-on-basis-of-covid-19-severity-6357036/
 Gujarat	Vadodara	All	Tandalja	https://indianexpress.com/article/india/vadodara-divides-city-into-four-zones-on-basis-of-covid-19-severity-6357036/
 Gujarat	Vadodara	All	Syedpura	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
-Gujarat	Gandhinagar	All	Amroha	https://www.amarujala.com/uttar-pradesh/moradabad/five-more-corona-infected-patients-found-in-amroha
 Gujarat	Patan	All	Nedrana village near Sidhpur	https://gujarati.abplive.com/videos/news/gujarat-seven-more-corona-positive-cases-in-patan-503762
 Bihar	Gaya	All	Gurudwara Road locality of Gaya town	https://timesofindia.indiatimes.com/city/patna/covid-19-containment-zone-created-in-gaya/articleshow/74955093.cms
 Bihar	Gaya	All	Paharpur area	https://timesofindia.indiatimes.com/city/patna/covid-19-containment-zone-created-in-gaya/articleshow/74955093.cms
@@ -345,8 +326,8 @@ Bihar	Nawada	All	Sitamarhi	https://www.livehindustan.com/bihar/nawada/story-3-km
 Bihar	Begusarai	All	Six Tolls of Bachwara Block	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Bihar	Begusarai	All	Teghra Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Bihar	Begusarai	All	Mansoorchak Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
-Karnataka	Bengaluru Urban	All	Mahadevpura  Ward 84 - Hagaduru	https://twitter.com/ANI/status/1250103927330111488
-Karnataka	Bengaluru Urban	All	East Bengaluru Ward  93 - Vasanth Nagar	https://twitter.com/ANI/status/1250103927330111488
+Karnataka	Bengaluru Urban	All	Mahadevpura  Ward 84 - Hagaduru	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
+Karnataka	Bengaluru Urban	All	East Bengaluru Ward  93 - Vasanth Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Delhi	South Delhi	All	Pandit Mohalla & Jain Mohalla, from Epic centre 715, Chirag Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South Delhi	All	shop No J-4/49 (Khirki Extension)	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South west Delhi	All	C-2 Block-Janakpuri-Kothi number-119	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
@@ -492,7 +473,6 @@ Andhra Pradesh 	East Godavari	All	Note: Entire District declared Red Zone Hotspo
 Andhra Pradesh 	Anantapur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Bihar 	Siwan	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Chhattisgarh 	Korba	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Gujarat 	Ahmedabad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Gujarat 	Vadodara	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Gujarat 	Surat	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Gujarat 	Bhavnagar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -546,7 +526,6 @@ Telangana 	JogulambaGadwal	All	Note: Entire District declared Red Zone Hotspot a
 Telangana 	MedchalMalkajgiri	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Karimnagar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Nirmal	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttar Pradesh 	Agra	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Meerut	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Lucknow	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Saharanpur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -727,7 +706,7 @@ Rajasthan 	Nagaur	All	Parbatsar	https://twitter.com/1stIndiaNews/status/12510983
 Rajasthan 	Bharatpur	All	Kasai pada, Bayana	https://twitter.com/oneindiaHindi/status/1250795078387302402
 Rajasthan 	Bharatpur	All	Sevar Area	https://twitter.com/zeerajasthan_/status/1250794956152729600
 Rajasthan 	Bharatpur	All	Atal Bandh Area	https://twitter.com/zeerajasthan_/status/1250794956152729600
-Karnataka	Bengaluru Urban	All	West Bengaluru Ward  139 - K R Market	https://www.facebook.com/bbmp.comm1/photos/pcb.1824231557712100/1824229974378925/?type=3&theater
+Karnataka	Bengaluru Urban	All	West Bengaluru Ward  139 - K R Market	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Rajasthan 	Jaipur	All	Bisariyon Ka Rasta Zone 1 Ramganj	https://twitter.com/avinashkalla/status/1252625105605349377
 Rajasthan 	Jaipur	All	Meharo Ka Rasta Zone 1 Ramganj	https://twitter.com/avinashkalla/status/1252625105605349377
 Rajasthan 	Jaipur	All	Koyale Wali Gali Zone 1 Ramganj	https://twitter.com/avinashkalla/status/1252625105605349377
@@ -798,9 +777,6 @@ Rajasthan 	Jodhpur	All	Shastri Nagar	https://twitter.com/manit_choudhary/status/
 Delhi 	Shahdara	All	Maujpur- Gali No18 of Vijay Park	https://twitter.com/CovidIndiaSeva/status/1253926184343097345
 Delhi 	New Delhi	All	Gali No. 3 and 9 of Shalimar Village	https://twitter.com/ANI/status/1254049293989601280?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1254049293989601280&ref_url=https%3A%2F%2Fwww.livemint.com%2Fnews%2Findia%2Ftotal-number-of-covid-19-containment-zones-in-delhi-are-now-95-full-list-11587824060062.html
 Delhi 	North east Delhi	All	Block X, Gali No. 1-3 of Yadav Villa	https://twitter.com/ANI/status/1254049293989601280?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1254049293989601280&ref_url=https%3A%2F%2Fwww.livemint.com%2Fnews%2Findia%2Ftotal-number-of-covid-19-containment-zones-in-delhi-are-now-95-full-list-11587824060062.html
-Gujarat 	Ahmedabad	All	Shahpur	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
-Gujarat 	Ahmedabad	All	Khandia	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
-Gujarat 	Ahmedabad	All	Baherampur	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Vadodara	All	Dabhoi, Vadodara Rural	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Vadodara	All	Bhayali, Vadodara Rural	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Vadodara	All	Vaghodiya, Vadodara Rural	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
@@ -888,41 +864,7 @@ Uttar Pradesh	Varanasi	All	Pitarkunda	https://twitter.com/livesanmarg/status/125
 Uttar Pradesh	Varanasi	All	Nakkhighat	https://twitter.com/livesanmarg/status/1252565443019255808
 Delhi 	New Delhi	All	H. No. P-65 and H.No. P-184, Pillanji Village	https://www.indiatoday.in/india/story/coronavirus-delhi-govt-adds-two-more-areas-in-hotspot-list-check-full-list-of-99-containment-zones-here-1671780-2020-04-27
 Delhi 	South Delhi	All	Nirankari Gali, Nakshatra Gali, Nala Boring Gali, Ravan Wali Gali, Jamila Masjid Gali, Dargah Gurudwara Gali, Thane Wali Gali and Terminal Wali Gali	https://www.indiatoday.in/india/story/coronavirus-delhi-govt-adds-two-more-areas-in-hotspot-list-check-full-list-of-99-containment-zones-here-1671780-2020-04-27
-Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 189 -Hongasandara	https://bangaloremirror.indiatimes.com/bangalore/others/better-to-be-safe-than-sorry-in-hongasandra/articleshow/75397004.cms
-Uttar Pradesh	Agra	All	Wazirpura Gandhi Nagar	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Khandari Area	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	SNMC/Fawara Hospital Road/Chitra talkies/Khatik Pada/Mansi Sayeed Khan/Bagh Mujaffar Nagar	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Awas Vikash HP West	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Mantola/ Dholi khar	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Tajganj Ghadhaiya	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Kamla Nagar	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Jagdishpura/Lohamandi	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Chhatta Area DhuliaGanj/ Free ganj/ Jeoni Mandi/Madar Gate	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	F/Sikri Urban/Rural	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	TYC/Rambagh/Sita Nagar/ Gokul Nagar Naraich/Tedi Bagiya	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Shahadara/Susheel Nagar/Yamuna Bridge	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Vibhav Nagar	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Shahganj-02 Rasoolpur	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Namner/ SR Hospital/Mohanpura/Chhaua N	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Azam Pada/ Ram Nagar/Prithvi Nath Fatak	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Bah Urban	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Bhagwant Talkies	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Top Khana / Raja Mandi	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Moti Kunj Madiya Katra	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Dadu Kara F/Sikri	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Chhipi Tola	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	N/Kali Deori Road	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Maruti Estate /Gyaspura Shahganj	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Pathwari Chhatta UPHC	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Moolchand Hostpital Achhenra/ Sikandra Sabji Mandi	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Dayal Bagh	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Village /Rajrai B/Aheer	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Mandi Sayeed Khan	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Village Kakua Block Saiyan	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Sadar Bazar/Naulakha	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Mustafa Quarter Rly Cantt	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Police line Shahganj-1	https://twitter.com/PrabhuNs_/status/1254858505908965377
-Uttar Pradesh	Agra	All	Kolihayi Kothi Meena Bazar	https://twitter.com/PrabhuNs_/status/1254858505908965377
+Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 189 -Hongasandara	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Delhi	South Delhi	All	House no 152 to 162 in Block D of Shaheen Bagh	https://twitter.com/news24tvchannel/status/1255158789256306688
 Odisha 	Jajpur	All	Katikata village, Bihipur village in Katikata GP	https://sambadenglish.com/odisha-two-more-gps-declared-covid-19-containment-zones-in-jajpur/
 Odisha 	Jajpur	All	Mohanty Patna village and Mallikapur (Part) in Mallikapur GP under Dasarathpur Block	https://sambadenglish.com/odisha-two-more-gps-declared-covid-19-containment-zones-in-jajpur/
@@ -930,9 +872,9 @@ Odisha 	Jajpur	All	Birajapur under Dasarathpur Block	https://sambadenglish.com/o
 Karnataka 	Kalaburagi	All	Chittapur taluk	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka 	Kalaburagi	All	Kalaburagi Nagar	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka 	Kalaburagi	All	Kalaburagi Taluk	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
-Karnataka	Bengaluru Urban	All	South Bengluru Ward  133 - Hampi Nagar	http://covid.bbmpgov.in/reports/report20200429.pdf
-Karnataka	Bengaluru Urban	All	South Bengluru Ward  169 - Byrasandra	http://covid.bbmpgov.in/reports/report20200429.pdf
-Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward  37 - Yeshwanthpur	http://covid.bbmpgov.in/reports/report20200429.pdf
+Karnataka	Bengaluru Urban	All	South Bengluru Ward  133 - Hampi Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
+Karnataka	Bengaluru Urban	All	South Bengluru Ward  169 - Byrasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
+Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward  37 - Yeshwanthpur	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Karnataka	Kalaburagi	All	Kawalga Village, Kalaburagi rural	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka	Kalaburagi	All	Saradagi Village, Kalaburagi rural	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka	Kalaburagi	All	Ward 50	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
@@ -966,7 +908,7 @@ Bihar	Patna	All	Daak Bangla Chauraha	https://timesofindia.indiatimes.com/city/pa
 Bihar	Patna	All	Birla Colony (Phulwarisharif)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
 Bihar	Patna	All	Naubatpur village	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
 Bihar	Patna	All	Slum area near BPSC office on Bailey Road	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
-Karnataka	Bengaluru Urban	All	South Bengluru Ward  158 - Deepanjali Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1831629006972355/1831628030305786/?type=3&theater
+Karnataka	Bengaluru Urban	All	South Bengluru Ward  158 - Deepanjali Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 West Bengal 	North 24 Parganas	All	Apollo Nursing Home	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
 West Bengal 	North 24 Parganas	All	Debalaya Apartment	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
 West Bengal 	North 24 Parganas	All	Nishikanan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
@@ -1096,7 +1038,7 @@ Maharashtra	Pimpri-Chinchawad	All	 Rupinagar area, Talwade	https://www.freepress
 Maharashtra	Pimpri-Chinchawad	All	 Fatima Mosque Gandharva Nagari Complex, Moshi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
 Maharashtra	Pimpri-Chinchawad	All	 Vijay Nagar Complex, Dighi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
 Maharashtra	Pimpri-Chinchawad	All	 Adinath Nagar Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 188 -Bilekahalli	https://www.facebook.com/bbmp.comm1/photos/a.727601267375140/1832724410196148/?type=3&theater
+Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 188 -Bilekahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Haryana	Bahadurgarh	All	Loharhedi	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
 Haryana	Bahadurgarh	All	Sainipura	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
 Haryana	Bahadurgarh	All	Jatwada	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
@@ -1531,10 +1473,10 @@ Andhra Pradesh	Visakhapatnam	All	Marripalem - Bhaskar Gardens	https://twitter.co
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Ranapratap Nagar 	https://twitter.com/suripkfan/status/1257156373592322051
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Railway Quarters	https://twitter.com/suripkfan/status/1257156373592322051
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Mohidden Gardens	https://twitter.com/suripkfan/status/1257156373592322051
-Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 192 -Begur	https://www.facebook.com/bbmp.comm1/photos/pcb.1836522699816319/1836522566482999/?type=3&theater
-Karnataka	Bengaluru Urban	All	East Bengaluru Ward  92 - Shivajinagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1836522699816319/1836522566482999/?type=3&theater
-Karnataka	Bengaluru Urban	All	South Bengluru Ward  176 - BTM Layout	https://www.facebook.com/bbmp.comm1/photos/pcb.1836522699816319/1836522566482999/?type=3&theater
-Karnataka	Bengaluru Urban	All	West Bengaluru Ward  45 - Malleshwaram	https://www.facebook.com/bbmp.comm1/photos/pcb.1838359389632650/1838358802966042/?type=3&theater
+Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 192 -Begur	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
+Karnataka	Bengaluru Urban	All	East Bengaluru Ward  92 - Shivajinagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
+Karnataka	Bengaluru Urban	All	South Bengluru Ward  176 - BTM Layout	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
+Karnataka	Bengaluru Urban	All	West Bengaluru Ward  45 - Malleshwaram	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Maharashtra	Pune	All	Mangalwar Peith, Juna Bazar, Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
 Maharashtra	Pune	All	Parvati Darshan Parisar 1,  Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
 Maharashtra	Pune	All	Parvati Darshan Parisar 2,  Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
@@ -2143,7 +2085,7 @@ Tamil Nadu	Chennai	Zone-15	Zone-15 Div-195 Block 2/14 Ezhil Nagar, Chennai	https
 Tamil Nadu	Chennai	Zone-15	Zone-15 Div-196 Chozhamandala Devi Nagar 9th St, Injambakkam	https://twitter.com/rammee2205/status/1259405696900177920
 Tamil Nadu	Chennai	Zone-15	Zone-15 Div-197 10th Block TNHB Sholinganallur	https://twitter.com/rammee2205/status/1259405696900177920
 Tamil Nadu	Chennai	Zone-15	Zone-15 Div-197 Avviyar street, Karapakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Karnataka	Bengaluru Urban	All	East Bengaluru Ward  24 - HBR Layout	https://www.facebook.com/bbmp.comm1/photos/pcb.1836522699816319/1836522566482999/?type=3&theater
+Karnataka	Bengaluru Urban	All	East Bengaluru Ward  24 - HBR Layout	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 West Bengal	Kolkata	Ward-33	91,93,94A,95, Baliaghat Main Road (Lebugola Bustee)	
 West Bengal	Kolkata	Ward-34	10 to 34, Beliaghata Main Road	
 West Bengal	Kolkata	Ward-3	Ward-3 H/22, J K Ghosh Road, Lal Maidan	
@@ -2459,7 +2401,7 @@ West Bengal	Kolkata	Ward-125	Ward-125 CRISTAN PATHWAY,D H ROAD,BISWA PARA,RANGA 
 Puducherry	Karaikal	All	Karaikal	http://newsonair.com/Main-News-Details.aspx?id=388223
 Puducherry	Kutchipalayam	All	Kutchipalayam	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
 Puducherry	Sellipet village	All	Sellipet village	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
-Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward  72 - Herohalli	
+Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward  72 - Herohalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Maharashtra 	Nashik	All	CIDCO	https://twitter.com/JkInfotainment/status/1260060228932042758
 Maharashtra 	Nashik	All	Navshya Ganpati Mandir, Gangapur, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
 Maharashtra 	Nashik	All	Dhongade Mala, Nashik Road, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
@@ -3400,7 +3342,7 @@ Tamil Nadu	Chengalpattu	Chitalapakkam T.P.	Erikarrai, Chitlapakkam	https://twitt
 Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Karunkuli Road, Ward 15	https://twitter.com/Chengalpattu01/status/1260226591805734914
 Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Sangamettu Street, Ward 15	https://twitter.com/Chengalpattu01/status/1260226591805734914
 Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Asiriyar Nagar, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
-Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 190 -Mangammanapalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1845952422206680/1845951978873391/?type=3&theater
+Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 190 -Mangammanapalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Haryana	Faridabad	All	Shiv Durga Vihar	https://twitter.com/prabhurazdan/status/1261528692355788800
 Haryana	Faridabad	All	Palwali village	https://twitter.com/prabhurazdan/status/1261528692355788800
 Haryana	Faridabad	All	Dabua Colony	https://twitter.com/prabhurazdan/status/1261528692355788800
@@ -4135,3 +4077,65 @@ Madhya Pradesh	Jabalpur	All	सैफ नगर	https://www.google.com/maps/d/u/
 Madhya Pradesh	Jabalpur	All	नगीना मस्जिद	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
 Madhya Pradesh	Jabalpur	All	रद्दी चौकी	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
 Madhya Pradesh	Jabalpur	All	सिन्धी कैंप	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
+Gujarat 	Ahmedabad	All	KHADIA	https://twitter.com/ThakarTapan/status/1262635167442763782
+Gujarat 	Ahmedabad	All	DARIAPUR	https://twitter.com/ThakarTapan/status/1262635167442763782
+Gujarat 	Ahmedabad	All	SHAHPUR	https://twitter.com/ThakarTapan/status/1262635167442763782
+Gujarat 	Ahmedabad	All	JAMALPUR	https://twitter.com/ThakarTapan/status/1262635167442763782
+Gujarat 	Ahmedabad	All	ASARWA	https://twitter.com/ThakarTapan/status/1262635167442763782
+Gujarat 	Ahmedabad	All	DANILIMDA	https://twitter.com/ThakarTapan/status/1262635167442763782
+Gujarat 	Ahmedabad	All	BEHRAMPURA	https://twitter.com/ThakarTapan/status/1262635167442763782
+Gujarat 	Ahmedabad	All	MANINAGAR	https://twitter.com/ThakarTapan/status/1262635167442763782
+Gujarat 	Ahmedabad	All	SARASPUR	https://twitter.com/ThakarTapan/status/1262635167442763782
+Gujarat 	Ahmedabad	All	GULBAI TEKRA	https://twitter.com/ThakarTapan/status/1262635167442763782
+Gujarat 	Ahmedabad	All	GOMTIPUR	https://twitter.com/ThakarTapan/status/1262635167442763782
+Uttar Pradesh	Agra	All	AGRA NAGAR NIGAM	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Uttar Pradesh	Agra	All	NAGLA KALI DEORI ROAD	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Uttar Pradesh	Agra	All	VILLAGE /RAJRAI BARAULI AHEER	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Uttar Pradesh	Agra	All	F.SIKRI URBAN/RURAL	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Uttar Pradesh	Agra	All	VILLAGE-JARUA KATRA, BLOCK AKOLA, PS MALPURA, TEHSIL-SADAR	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Uttar Pradesh	Agra	All	VILLAGE-JHARPURA, BAMRAULI KATARA, PS DAUKI, TEHSIL-SADAR	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Uttar Pradesh	Agra	All	TAPRA, BICHPURI	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Uttar Pradesh	Agra	All	ARSENA, ACHNERA	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Uttar Pradesh	Agra	All	DHAURRA, KHANDAULI	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Uttar Pradesh	Agra	All	SHYAMO, BARAULI AHEER	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Uttar Pradesh	Agra	All	NADHOT, BARAULI AHEER	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Uttar Pradesh	Agra	All	VILLAGE GADI KHANDERA SHAMSHABAD	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Uttar Pradesh	Agra	All	SHASHTRI NAGAR CHAMROLI BAROLI AHEER	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Uttar Pradesh	Agra	All	NEAR SATI KA MANDIR PATHAULI -BICHPURI	https://twitter.com/dklavaniaTOI/status/1262632468433326083
+Gujarat	Gandhinagar	All	Halisa, Dahegam	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Itadara(farm house), Mansa	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Bhat (Nana chiloda), Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Randheja, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Palaiya, Dahegam	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	sargasan, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Pethapaur, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Zundal, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Kalol Urban 1, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Adalaj, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Uvarsad, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	vavol, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Kalol urban 2, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Badpura, Mama	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Chadasana, Mansa	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Harkhjinamuvada, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Isanpurdodia, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Pundhra, Mama	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Jamla, Mansa	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Vasna Chaudhry, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Vadsar(Airforce), Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Kudasan, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Nandol, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Borisana, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Randesan, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Chhala, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Sertha, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Khoraj, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Palsana, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Jindava, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Saij, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Chhatral, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Amrapur, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Rancharda, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Sagdalpur, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Gujarat	Gandhinagar	All	Dahegam urban, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
+Karnataka	Bengaluru Urban	All	Mahadevpura  Ward 54 - Hoodi	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
