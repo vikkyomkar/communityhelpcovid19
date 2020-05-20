@@ -193,7 +193,7 @@ Madhya Pradesh	Badwani	All	Khalwadi Mohalla, Sendhwa	https://www.indiatvnews.com
 Madhya Pradesh	Badwani	All	Madeena Nagar, Sendhwa	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Badwani	All	Paanwadi Mohalla, Badwani	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Badwani	All	Sutar Colony, Badwani	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
-Madhya Pradesh	Betul	All	Ghoradongri	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
+Madhya Pradesh	Betul	All	Shobhapur	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Vidisha	All	Kadi Mohalla, Sironj	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Vidisha	All	Mirjapur Karimi Mohalla, Ganj-Basoda	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Sheopur	All	Hasanpur Haveli	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
@@ -214,7 +214,6 @@ Madhya Pradesh	Dewas	All	Nahar Darwaja	https://www.indiatvnews.com/news/india/ma
 Madhya Pradesh	Dewas	All	Sheetlamata ward, Haatpipliya City	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Dewas	All	Panigaon village	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Rajasthan	Kota	All	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
-Karnataka	Bengaluru Urban	All	West Bengaluru Ward 135 - Padarayanapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Karnataka	Mysuru	All	Nanjangud town	https://www.dtnext.in/News/National/2020/04/02135830/1222923/Covid19--Mysuru-district-declared-Red-Zone-security-.vpf
 Kerala	Kozhikode	All	Entire District is declared Hotspot	https://newsable.asianetnews.com/coronavirus-india/7-kerala-districts-declared-covid-19-hotspots-by-chief-minister-q87h2a
 Andhra Pradesh	Visakhapatnam	All	Thatichetlapalem	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
@@ -326,7 +325,6 @@ Bihar	Nawada	All	Sitamarhi	https://www.livehindustan.com/bihar/nawada/story-3-km
 Bihar	Begusarai	All	Six Tolls of Bachwara Block	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Bihar	Begusarai	All	Teghra Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Bihar	Begusarai	All	Mansoorchak Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
-Karnataka	Bengaluru Urban	All	Mahadevpura  Ward 84 - Hagaduru	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Delhi	South Delhi	All	Pandit Mohalla & Jain Mohalla, from Epic centre 715, Chirag Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South Delhi	All	shop No J-4/49 (Khirki Extension)	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South west Delhi	All	C-2 Block-Janakpuri-Kothi number-119	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
@@ -705,7 +703,6 @@ Rajasthan 	Nagaur	All	Parbatsar	https://twitter.com/1stIndiaNews/status/12510983
 Rajasthan 	Bharatpur	All	Kasai pada, Bayana	https://twitter.com/oneindiaHindi/status/1250795078387302402
 Rajasthan 	Bharatpur	All	Sevar Area	https://twitter.com/zeerajasthan_/status/1250794956152729600
 Rajasthan 	Bharatpur	All	Atal Bandh Area	https://twitter.com/zeerajasthan_/status/1250794956152729600
-Karnataka	Bengaluru Urban	All	West Bengaluru Ward  139 - K R Market	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Rajasthan 	Jaipur	All	Bisariyon Ka Rasta Zone 1 Ramganj	https://twitter.com/avinashkalla/status/1252625105605349377
 Rajasthan 	Jaipur	All	Meharo Ka Rasta Zone 1 Ramganj	https://twitter.com/avinashkalla/status/1252625105605349377
 Rajasthan 	Jaipur	All	Koyale Wali Gali Zone 1 Ramganj	https://twitter.com/avinashkalla/status/1252625105605349377
@@ -754,12 +751,6 @@ Rajasthan 	Jaipur	All	Mansarovar	https://twitter.com/dineshkumawat/status/125334
 Delhi 	South Delhi	All	Samshi Talab in Mehrauli including A-3 Lake view apartment	https://twitter.com/ANI/status/1253336501812789252
 Delhi 	South west Delhi	All	 gali number 1 band of Raj Nagar 2 in Dwarka	https://twitter.com/ANI/status/1253336501812789252
 Delhi 	Shahdara	All	 house number 15 to 101 in Dayanand Vihar	https://twitter.com/ANI/status/1253336501812789252
-Haryana	Gurugram	Gurugram	Jharsa Village (Sector 39)	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	Gurugram	Tyagiwara Badshahpur (R.R. Colony, Loharwada, Bada Bazar, Tygiwara 2)	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	Gurugram	Meghdoot Apartments, Sector-10A, Gurugram	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	Gurugram	Om Nagar	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	Sohna	Mohalla Thakurwara Sohna	https://twitter.com/ANI/status/1253348874569252865
-Haryana	Gurugram	Sohna	Shiv Kund Sohna	https://twitter.com/ANI/status/1253348874569252865
 Karnataka	Mysuru	All	Kuvempunagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
 Karnataka	Mysuru	All	Jayalakshminagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
 Karnataka	Mysuru	All	JP Nagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
@@ -863,7 +854,6 @@ Uttar Pradesh	Varanasi	All	Pitarkunda	https://twitter.com/livesanmarg/status/125
 Uttar Pradesh	Varanasi	All	Nakkhighat	https://twitter.com/livesanmarg/status/1252565443019255808
 Delhi 	New Delhi	All	H. No. P-65 and H.No. P-184, Pillanji Village	https://www.indiatoday.in/india/story/coronavirus-delhi-govt-adds-two-more-areas-in-hotspot-list-check-full-list-of-99-containment-zones-here-1671780-2020-04-27
 Delhi 	South Delhi	All	Nirankari Gali, Nakshatra Gali, Nala Boring Gali, Ravan Wali Gali, Jamila Masjid Gali, Dargah Gurudwara Gali, Thane Wali Gali and Terminal Wali Gali	https://www.indiatoday.in/india/story/coronavirus-delhi-govt-adds-two-more-areas-in-hotspot-list-check-full-list-of-99-containment-zones-here-1671780-2020-04-27
-Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 189 -Hongasandara	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Delhi	South Delhi	All	House no 152 to 162 in Block D of Shaheen Bagh	https://twitter.com/news24tvchannel/status/1255158789256306688
 Odisha 	Jajpur	All	Katikata village, Bihipur village in Katikata GP	https://sambadenglish.com/odisha-two-more-gps-declared-covid-19-containment-zones-in-jajpur/
 Odisha 	Jajpur	All	Mohanty Patna village and Mallikapur (Part) in Mallikapur GP under Dasarathpur Block	https://sambadenglish.com/odisha-two-more-gps-declared-covid-19-containment-zones-in-jajpur/
@@ -871,9 +861,6 @@ Odisha 	Jajpur	All	Birajapur under Dasarathpur Block	https://sambadenglish.com/o
 Karnataka 	Kalaburagi	All	Chittapur taluk	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka 	Kalaburagi	All	Kalaburagi Nagar	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka 	Kalaburagi	All	Kalaburagi Taluk	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
-Karnataka	Bengaluru Urban	All	South Bengluru Ward  133 - Hampi Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
-Karnataka	Bengaluru Urban	All	South Bengluru Ward  169 - Byrasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
-Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward  37 - Yeshwanthpur	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Karnataka	Kalaburagi	All	Kawalga Village, Kalaburagi rural	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka	Kalaburagi	All	Saradagi Village, Kalaburagi rural	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
 Karnataka	Kalaburagi	All	Ward 50	https://twitter.com/get2nmukul/status/1253520508903014401?s=09
@@ -907,7 +894,6 @@ Bihar	Patna	All	Daak Bangla Chauraha	https://timesofindia.indiatimes.com/city/pa
 Bihar	Patna	All	Birla Colony (Phulwarisharif)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
 Bihar	Patna	All	Naubatpur village	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
 Bihar	Patna	All	Slum area near BPSC office on Bailey Road	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
-Karnataka	Bengaluru Urban	All	South Bengluru Ward  158 - Deepanjali Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 West Bengal 	North 24 Parganas	All	Apollo Nursing Home	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
 West Bengal 	North 24 Parganas	All	Debalaya Apartment	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
 West Bengal 	North 24 Parganas	All	Nishikanan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
@@ -1037,7 +1023,6 @@ Maharashtra	Pimpri-Chinchawad	All	 Rupinagar area, Talwade	https://www.freepress
 Maharashtra	Pimpri-Chinchawad	All	 Fatima Mosque Gandharva Nagari Complex, Moshi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
 Maharashtra	Pimpri-Chinchawad	All	 Vijay Nagar Complex, Dighi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
 Maharashtra	Pimpri-Chinchawad	All	 Adinath Nagar Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 188 -Bilekahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Haryana	Bahadurgarh	All	Loharhedi	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
 Haryana	Bahadurgarh	All	Sainipura	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
 Haryana	Bahadurgarh	All	Jatwada	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
@@ -1183,12 +1168,6 @@ Telangana	Hyderabad	All	Rajendranagar; P & T colony, Suncity, bandlaguda jagir	h
 Punjab 	Jalandhar	All	Salempur Musalmana	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
 Punjab 	Jalandhar	All	Kotla Heran Village (Tehsil Shahkot)	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
 Punjab 	Jalandhar	All	Talwandi Bhilan	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
-Haryana	Gurugram	Sohna	Bhagat Wada Sohna	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
-Haryana	Gurugram	Gurugram	Lane No. 1 (Near India Leads), Lane No. 7 (Near Bangali Hotel), Lane No. 6 B, Yadav Medicos (In Sarhaul Village)	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
-Haryana	Gurugram	Gurugram	Prem Nagar, Lotus Hospital Sector-12, Acharyapuri, Rajiv Nagar (West)	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
-Haryana	Gurugram	Gurugram	Police Station Road Dundahera, Aggarwal Sweets Gali -Sector 21, Community Center Dundahera, Vishal Mega Mart	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
-Haryana	Gurugram	Gurugram	Ardee City Society (Block A,B,C)	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
-Haryana	Gurugram	Gurugram	Shaib Kunj, Shankar Vihar, Chaumma Village, Chanden Vihar	https://twitter.com/DC_Gurugram/status/1257275460573990913?s=09
 Delhi	South Delhi	All	Boundary Start from B-4/200 and cover the whole locality till backside of Humayupur lane includes, Ashiana complex & B-4/206 Safdarjung Enclave, New Delhi	https://twitter.com/JatinPaul/status/1257332406874509313?s=09
 Delhi	South west Delhi	All	RZF-756/7, Gali no 1 Band, Raj Nagar II Dwarka New Delhi	https://twitter.com/JatinPaul/status/1257332406874509313?s=09
 West Bengal 	Hooghly	All	Sarai-tinna GP Purushortampur Pandua, PANDUA,SADAR	https://twitter.com/theealadeennews/status/1257371093670727682/photo/1
@@ -1472,10 +1451,6 @@ Andhra Pradesh	Visakhapatnam	All	Marripalem - Bhaskar Gardens	https://twitter.co
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Ranapratap Nagar 	https://twitter.com/suripkfan/status/1257156373592322051
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Railway Quarters	https://twitter.com/suripkfan/status/1257156373592322051
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Mohidden Gardens	https://twitter.com/suripkfan/status/1257156373592322051
-Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 192 -Begur	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
-Karnataka	Bengaluru Urban	All	East Bengaluru Ward  92 - Shivajinagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
-Karnataka	Bengaluru Urban	All	South Bengluru Ward  176 - BTM Layout	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
-Karnataka	Bengaluru Urban	All	West Bengaluru Ward  45 - Malleshwaram	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Maharashtra	Pune	All	Mangalwar Peith, Juna Bazar, Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
 Maharashtra	Pune	All	Parvati Darshan Parisar 1,  Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
 Maharashtra	Pune	All	Parvati Darshan Parisar 2,  Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
@@ -1547,17 +1522,6 @@ Maharashtra	Pune	All	Hadapasar Handewadi, Hadapasar Mundwa	https://www.businessi
 Assam	Guwahati	All	Doctor's Hostel no. 5 of Guwahati Medical College (GMCH) campus	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
 Assam	Guwahati	All	Residential Area of Dr B Borooah Cancer Institute	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
 Assam	Guwahati	All	Amiyo Nagar	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
-Haryana	Gurugram	Gurugram	Dev Jewelry Shop, Ashok Vihar, Nandhi Dham, Ashok Vihar	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	Gurugram	Tower K (Godrej Frontier Society)	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	Gurugram	Parmawati Gali Near School, Shani Mandir, Matawali Gali, Yadram Gali (Islampur Village)	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	Gurugram	Kadipur Enclave, Gali No. 4	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	Gurugram	Surat Nagar Phase-II Gali No. 23	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	Gurugram	Sabji Mandi Area (Khandsa Road)	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	Gurugram	Shakti Nagar Gali No. 2	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	Gurugram	Anand Garden Gali No. 2, Ashok Garden Gali No. 3	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	Gurugram	Flying Bird School, RK Surgical Ramlila Ground, Lal Nursing Home, Kharbanda Hostpital, Lal Nursing Home, Kharbanda Hostpital Backside	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	Gurugram	Krishna Nagar Gali. No.2	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
-Haryana	Gurugram	Gurugram	Jyothi Park Gali No. 7, Gali No. 9, Baldev Ngar Gali No. 14	https://twitter.com/bagishjhaTOI/status/1258777882861531136?s=09
 Maharashtra	Thane	All	Saileela,Rameshwadi , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
 Maharashtra	Thane	All	Ganeshnagar , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
 Maharashtra	Thane	All	Mohan Tulsi Vihar,Hendrapada , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
@@ -1573,518 +1537,6 @@ Maharashtra	Thane	All	Shivam Heights,Shanti Nagar , Badlapur (East)	https://twit
 Maharashtra	Thane	All	Amrutram Society,Katrap , Badlapur (East)	https://twitter.com/pphantom2804/status/1258306689188667392
 Maharashtra	Thane	All	Shivam Sankul,Vijaydeep Society,Gaodevi , Badlapur (East)	https://twitter.com/pphantom2804/status/1258306689188667392
 Maharashtra	Thane	All	Shivkalidas Society, Ghorpade Chowk,Katrap, Badlapur (East)	https://twitter.com/pphantom2804/status/1258306689188667392
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-1 Sathiyavani Muthu nagar 10th st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-1 Thiruvallur Nagar 2nd st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-1 SathyaVani Muthu Nagar 6th Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-2 chinna Amman Koil 3rd Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-2 Sivan Padai Veedhi cross street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-2 Kattukuppam 2nd street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-1 Vallurvar nagar 8th st. Ennore	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 15th block Tsunami Qtrs	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 12 Block no 72, Tsunami Qtrs	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 9-Block no 40 Tsunami Qtrs	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 143- Block Tsunami cuts, chennai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 Annai Sivagami Nagar 1st St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 77th block Tsunami Quarters	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 AS nagar 4th st. minor	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-4 Kamaraj Nagar 6th cross Street,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-5 Bharathiyar Nagar 3rd St.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-5 Kalaignar Nagar 2nd Street, Wimco Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-6 Saraswathi Nagar,10th St,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-6 Shanmugapuram 4th street, Thiruvottiyur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-8 S.P.Koil 1st Street ,Thiruvottiyur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-9 TS Gopal Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-10 South mada street,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-11 Kailash Sector ,3rd Street, Kaladipet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-11 Janaki ammal estate. Kaladipet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-13 Mettu Street, Tolgate	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-1	Zone-1 Div-14 Thyagamaya puram TVT	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-2	Zone-2 Div-15 Old Napalayam Perumal koil Street, Manali	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-2	Zone-2 Div-15 Manali New Tow, chennai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 Apollo Armstrong Nagar 4th St. Mathur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 26th St, MMDA,Mathur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 3rd main road. Matthur, chennai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-2	Zone-2 Div-20 Selva Vinayagar Koil Street,Manali	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-2	Zone-2 Div-20 MGR street, manali, chennai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-2	Zone-2 Div-21 PKR Sharma St,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-2	Zone-2 Div-21 Fire Quarters, SM Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Kurinji Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Senthil Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Vanvanan Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Sudha nagar 2nd street. Lakshmipuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Annai Indra nagar kadappa Rd	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-25 Bhavia Avenue srinivasa nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-25 MGR Nagar, Madhavaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-26 Gilbun Nagar,Madhavaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-26 Ramachandra Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-27 Kamban Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-27 MCG Avenue Madhavaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-28 Madhavaram Milk Colony	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-28 Othavadi sheet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-28 Azez nagar II st, Madhavaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-29 Krishnan st, chinnasekadu	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-30 Elangovadikal St, Medha Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-32 Nethaji street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-3	Zone-3 Div-32 Bajanai Koil St, Madipakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-34 Thendral Nagar,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-34 Vedhantha Murugappa St,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-34 Everyready Colony	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-35 Rettaimali Srivasan St,Erukancheri	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-35 Muthamizh Nagar 119th St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-35 Muthamizh Nagar 55th St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-36 SA Colony.3rd St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-36 Bharathi Nagar 1st St.Sharma Nagar.Vysarpadi	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-36 Rajiv Gandhi Nagar, Vysarpadi	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-37 MKB Nagar-3Streets,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-38 Nethaji Nagar 1st Streets.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-38 Nethaji Nagar 3rd Streets.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-38 Nethaji Nagar 2nd Streets,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-38 Nethaji Nagar 5th Streets,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-38 Vinoba Nagar, Sashthiri Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-46 Ashok Nagar Main Rd,New Washermenpet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-40 1- V.O.0 Nagar. Thiruvalluvar Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-40 Vigneshwar nagar, Seniamman koil rd	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-41 Azeez Nagar.Tondaiyarpet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-41 Karumariamman Koil street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-41 JJ Nagar A2 st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-41 Drivers Colony	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-42 Mayor Basudev street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-43 Puthumanai Kuppam.7th St.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-43 P.P.Amman Koil St.Tondiyarpet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-43 V.P Koil street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-43 DG Colony, Tondiarpet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-44 Thulasingam st, perambur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-44 Manika Vinayagar Kovil St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-44 Sathya Banta Street ,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-44 Kamalambal Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-44 Rani Ammaiyar Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-44 Nethaji St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-45 Radiant Empire Appt, Vysarpadi	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-45 Stephenson Lane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-45 B.V.Colony 1st St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-47 Meenambal Nagar 1-6 streets-, cross street,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-47 Bharathi Nagar Housing Board, Korukkupet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-47 Madurai Muthu St. Korukkupet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-46 New magaginepuranaH Road.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-46 Selva vinayarkar st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-46 Malligaipoo Colony, Vysarpadi	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-48 Parthasarathy main st, 2,5and 6 street, and Jamal	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-48 Kanni kovil St.Old Washermenpet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-48 Mottai Garden,Old Washermenpet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-4	Zone-4 Div-48 Mutaiyya mudali st old Washermenpet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-49 G.A.Road.Old Washermenpet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-49 Puthumanai kuppam.Majith Rd.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-49 Sanjeevaraya Koil St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-49 J Block Police Qts Tondairpet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-49 Solaiyappan street, Old Washermenpet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 West Madha church st.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 Market Lane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 G.M. Pet 2nd Lane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 P.V.Koil St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 Thambu Lane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 Vengatachalam street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 A.J. Colony	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 M.S.Koil st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-51 East Cemetry Rd,TNSCB	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-51 Sri Rangammal St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-51 Thulukanam street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Kamaraj park Lane (sathiyam Tv)	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Adam street,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Vaikudam street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Appaiyar street.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Padavattamman Kovil st.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Old Slatter House Road,Anjaneya 6th St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Old Slatter House Road.Anjaneya 7th St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Old Slatter House Road,Anjaneya 8th St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Go. Stanly Medical CollegeRoyapuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 OSH Road (Anjaneya nagar 3th st)	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Rama st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Katpada 2nd street.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 New Labour Lane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Canal St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 TN Fire Service Route,Thanga Salai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Parasuraman Lane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Boja Raja Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Ramdoss Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Lalagunda 1st Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 Kanniah Naidu St,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 PKG Anna pillai 3rd street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 M.K garden	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 PKG 6th lane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 Walltax Road Udthvar 1st Lane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 Ranthinamudali at	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Paramananda at	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Appu Mastri Street.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Thaiappan street.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Pourchguese Church Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 MES Miltary Qts Old Jail Road	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Gate St(Mafurkhan Garden)	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Nattu pilaiyar koil st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-56 venkataiah at.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-56 saivamuthiah street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-56 shanmugarayan street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-56 Pidariyar koil street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-56 Thiruvalluvar nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-57 2nd Gate walltax road	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-57 Relief Centre. Anna pillai street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-57 Yelakandhappa st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Naval Hospital Road.8th St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Wuthu Cotton St,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Stringer street 1st lane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Bishop Lane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 thideer Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Madox St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Hotel Suriya.Thiruvengadam St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Fire service EVK sampath road, Veppery	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 B Block Subaiya naidu street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 Owlia Sahib Street.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 Mint Street,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 RGGGH	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 MMC Men's hostal	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 Kerala lodge	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 SM Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 Naniyan street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 ACT.flower bazaar chennai 03	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-60 Ibrahim Sahib Street,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-60 Bearer Street Mannady	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-60 Venkata Maistry Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-60 4th Lane.Beach Road	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-60 4th Lane,Beach Road TNSCB 'C' Block	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-60 2nd Lane. Beach Road	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-60 Angappan naicken st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-60 Mannady street.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-61 Thiruvengadam Street.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-61 Railway Police qrts gengu st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-61 Naritankadu Police Qts .Pudupet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-61 Saifz malik St,Pudupet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-61 New AR qrts Pudupet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-61 Adulsukur st Pudupet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-62 vethagiri St.Chindaripet,Chennai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-62 Mukkiayammya koil st,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-62 Iyaa Samy Naiyalcan St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-62 Old Balakrishnan street,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-62 NedunChian Colony	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-62 Rex st, chandaripet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-63 Border thottam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-63 Narayana Nacken St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-63 MRS mansion LG Colony pudupet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-63 Thayar Sahib Market Lane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-63 Suful mulk st pudupet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-63 Nagappan Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-63 Goiya Thoppu D Block Housing Board	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-5	Zone-5 Div-63 Ailui st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-64 Sivasakthi nagar Extn. 2nd cross st,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-64 Girija Nagar East sheet. samdharia colony	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-64 Thirupathi nagar 1st main road, Kolathur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-64 Mettle st. Kolathur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-65 Barath Rajivganthi nagar, kolathur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-65 Malligai avenue. kolathur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-66 Temple Road Jawahar Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-66 Varatharajan street, Vetri nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-66 Jaganathan salai, Periyar nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-67 GKM colony 23rd St.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-67 Jeevanandhan st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-67 Moorthi St, Agaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-67 Kovardanadoss st, Perambur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-67 Chinnasamy st,agaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-68 Teeds Garden 3rd Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-68 Subramanian Garden,Perambur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-68 Jai Bheem Nagar 2nd St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-69 Kollam thottam 2nd St.Sembium	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-70 Mettupalyam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-70 Eden garden jamaliya	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-70 SBI office colony, perambur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-70 BS Moorthi Nagar E Block	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-70 ESI Qts. Otteri	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-70 ESI Qtrs. cooks road	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-71 Gandhi Nagar Pulianthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-71 Krishnadoss road.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-71 Sashhi Nagar,Mangalapuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-71 Bhaiyam St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-71 Hyder garden 2nd sheet. Perambur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-71 New vazhaima nagar,Ayanavaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Sashtri Nagar 14th St, Pulianthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 VOC Nagar 9th St, Puliyanthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Nehru Nagar 6th St, Puliyanthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Vasugi Nagar 6th St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Thiru.vi.ka nagar. 6th street, puliyanthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 M.S muthu nagar, Kanniga pram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Doss Nagar 2nd street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Narasiman Nagar Main Street Puliyanthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Venkatesapuram New Colony 3rd Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Joseph street, Kannigapuram Puliyanthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Decaster road 1st st,puliyanthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 V.O.C 1st st. Aaduthoti	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Sasthri nagar 21st st, puliyanthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Alexender Lane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Gray Nagar.Pulianthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Nachar Amman Koil St.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Kuttithambiran St.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Pensioness Lane,Pattalam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Prakash Rao Colony	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Bol Nayakar St,Pulianthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Mannarsamy St.Puliyantope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 New Parathasarathy street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Gandhi nagar 2nd st.puliyanthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Ak samy st,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Secretariat Colony	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 SVM Nagar,D Block	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Selvaperumal Kovil St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Barraco Road 1st Street Medavakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Subraiyan 4th Street 2nd Lane Otteri	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Santhiyappan 10 street. Dasar mahal. Otteri	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Sankarabakthan st, Namalvarpet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-75 Chellappa st.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-75 Narayana Mastri St,Otteri	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-75 Valluvan st,Otteri	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 Angalamman Koil St.Pattalam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 Sachidhananthan St,Kosapet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 K.M.Garden	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 Edward park, Otteri	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Dr.Ansari st.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 4th St.Pulianthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Sivarajpuram.Pulianthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Kattur Nallamuthu St.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Sheik Jaaswanthammal Sowkar St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Asirvathapuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Gurusaami Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Ayyavoo St.Thttakullam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 P.K Colony	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 K.P.Park	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Play Ground St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Demollows Road,Puliyanthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Old Slaughter House St,Choolai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Raja thoottm pulianthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Kumarasamyrajapuram 2nd street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 TVK nagar 10th st, puliyanthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Arunachalam St.Puraisawakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Rangaiah Street,Chennai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Govindhan St.Choolai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Kanchipuram Munusami St,Choolai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 K.K.Lane,Choolai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 T.K.1st St(Cover St),Puliyanthope	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Vekatachalam St,Choolai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Astabajam Road,Choolai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Thana street purasiwalkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 VV koil st,Kosapet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-79 Muthu valli St.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-79 AKV Koil,AKV Nagar Oragadam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-79 MGR Nagar Oragadam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-82 Indira Nagar Main Road Menambedu	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-83 Water Canal Road . Korattur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-84 Mariamman Koil St Railwaystation Road	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-86 TNSCB ICF Colony,Athipet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-86 Malaiyathamman Koil St Manurpet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-88 Thirumurugan St kalaivanar Colony Padi	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-89 Green Field Appt, Krishna Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-89 Raji St Kalaivanar colony Anna Nagar West	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-89 Kamarajar 1st  st., padi	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-89 12th Block golden colony	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-90 5th St Padi Pudhu Nagar Mogappair	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-90 Jagathambigai St thiruvalleswarar Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-90 Collector Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-90 Periyar nagar, Thirumangalam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-90 TNHB Govt. Qts., Thirumangalam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-90 Kanadasan st, Ambedkar nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-91 Annai apt Jaswanth Mugappair	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-91 3rd Block Mugappair West	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 Bajanai Koil St mugappair east	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 Aasirvatham Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 Veeramamunivar Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 Venugopal street. Mogappair East	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 Bharathi salai mogappair east	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-93 Pillayar Kovil St,Padi Kuppam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-93 Angalamman Koil st.Padi kuppam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-93 J.J.Nagar East,Burner Salai,Muggapair	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-93 Pillaiyar Kovil street. Golden George nagar.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 5th Block, Mogapair East	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 6th Block. Mogapair East	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-7	Zone-7 Div-94 Sidco Nagar Villivakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-8	Zone-8 Div-95 Pattalam Salai,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-8	Zone-8 Div-96 Somasundaram 4th St, Ayanavaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-8	Zone-8 Div-96 New St, Ayanavaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-8	Zone-8 Div-97 cholai St, Ayanavaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-8	Zone-8 Div-97 Ramasamy St, Ayanavaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-8	Zone-8 Div-97 Vallalar St, Ayanavaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-8	Zone-8 Div-98 Neelakandan St, Ayanavaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-8	Zone-8 Div-98 Mettu St, Ayanavaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-8	Zone-8 Div-98 Ambethkar St, Ayanavaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-8	Zone-8 Div-100 NSK Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-8	Zone-8 Div-100 lst, Shanthi Colony	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-8	Zone-8 Div-102 Gujii Main Stiuma Nagar East	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-8	Zone-8 Div-105 Pillayar Kovil St, Arumbakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-109 Vaniyar 2nd St,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-109 Sankarapuram,Choolaimedu	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-109 East namachivaya puram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-109 Bajanai kovil. 2nd st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-110 Chetpet harrington road.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-110 Tank bunk road,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-110 Vallur kudiyiruppu Nungambakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-111 8th st,Gopalapuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-111 Haddow Road. Nungambakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-111 Moores rd sudandhira nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-111 Mansion site police qts Nungambakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-112 Vellalar st,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-112 Trust Puram 1st Street.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-112 Trust Puram 9th Street.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-112 sivan kovil st, choolaimedu	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-113 Habibula road,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-113 Deiva nayagan 0	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-114 Big Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-114 TH Road	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-114 Arumugappam 0	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-115 Haji sheik hussain main street, Royapettah	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-115 Nair VaradhaPillai St, Royapettah	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-115 Ferose Sahib Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-115 Gaffor sahib st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-115 Hussain st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 Ayothiya Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 TP Kovil Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 Arumugam st, cnk rd	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 Karpagakanni kovil st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 Sivarajipuram triplicane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 New fire wood st triplicane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 Vasudevapuram triplicane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-118 Poes road	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-118 P.V.Koil 1st St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-119 Balaji Nagar 4th st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-119 Balaji Nagar 2nd st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-119 Saiva mutthuiah 2nd st, Royapettah	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-119 Puram Prakasam St.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-119 Tippu st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-119 Muthaiya St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-120 V.R.Pillai St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-120 Gajapathy St.Munusamy Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-120 Hanumanthapuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-120 Lloyds Colony.Royapettah	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-121 Ishmal Grotuid	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-121 Kabali Nagar 3rd St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-121 Rotary nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-121 PM dargahAth st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-121 B.B road 2nd st triplicane	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-123 VOC Street , alwarpet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-123 Pallakumaniyam Mylapore	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-123 Kamarajar salai. teynamet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-123 Abiramipuram 4th st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-125 Meenambalpuram,Dr.Ambedkar palam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-125 Appu St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-125 Peyandiamma Koil St,Mylapoar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-125 Chithrakulam north mylaporu	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-126 Santhome high road,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-126 Trust pakkam Devanatham st, Mandaveli	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-126 CID Qts Mylapore	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-9	Zone-9 Div-126 Mndhavelli railwaystation	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Semathamman Nagar.Koyambedu 1st Sector	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Semathamman Nagar.Koyambedu 2nd Sector	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Thiruveedhi Amman Koil Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Ayyappa Nagar,Koyambedu	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Avai Tiru Nagar 1st Cross Street Koyambedu	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-128 sheik abdulla nagar ,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-128 Selli Amman Kovil St,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-129 Majith Nagar,Saligrammam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-130 Vadapalani Market	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-130 Kangaiamman Koil St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-130 Alagiri Nagar,Vadapalani	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-131 Rani Anna nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-132 Ashok Nagar llth Street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-132 Bajanai Koil St Vadapalani	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-133 Kaveri St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-134 Kamarajar Colony.Koyambedu	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-137 Ponnammal St.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-137 15th St. 4th Sector,K.K.Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-139 Veethimariamman st	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-140 Pushpavathi Ammal	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-142 Kamakodi St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-10	Zone-10 Div-142 Kothavai Chavai Housing board	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-143 Sri Ram Nagar Main Rd,Nolambar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-143 Gandhi St.Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-143 Nolambar mogapar west	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-144 5th Colony,MMDA Colony.Madhurvoyal	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-144 MMDA Colony,MMDA,Maduravoyal	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-144 Police Qut.Maduravoyal	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-144 Pillayarkovil, Maduravoyal	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-144 Kamachi amman nagar 1st maduravoyal	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 Muniyappan Nagar.Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 Anna Main Road, Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 Thirumalai Nagar 3rd Cross St, Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 Rajiv Gandhi Nagar Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 19th St, Shakthi Nagar. Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 Karthigai Street Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 Tiruvalluvar Salai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 Perumal Koil 10St Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 Malligai 4th st Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-146 Periyar St. Lakshmi Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-146 4th Dhanalakshmi Nagar Maduraoyal	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-146 Dhanalaksluni Nagar 10th St Alapakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-147 Krishna Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-147 Pallavan Nagar 2nd Cross St.Maduravoyal	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 Thirumalai St.Meenathi Amman Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 Thiruvalluvar St,Nesammal Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 CDN Nagar2nd St. Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 19th St, CDN Nagar Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 Tawa Qts, Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 Balaji Nagar 7th St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 Raj iv Nagar 3rd St. Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 Angamuthu Salai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 Bhuvaneswari Nagar Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 Balavinaya Nagar Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 Taisan Qts Nerkundram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-149 Sridevi kuppam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-150 Singara Naikar St.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-150 Indra Nagar, Sivaboodam Village. Vanagaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-150 Adhithyaman street. Ponni Nagar, Porur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-150 Sivabootham Village Vaanagaram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-152 1st st sairam avenue	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-152 New Bethasate Nagar,7th St,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-152 VOC Street , Kaithan Kuppam valasarwalkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-152 Subramaniswamy Nagar 4th Cross St valasarawalkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-152 Jamal appt valasaravakam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-153 RamaKrishna nagar pour	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-154 Nayakkar street, Ramapuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-154 Venkateshwara Nagar.Ramapuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-155 Kannadhasa Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-155 Micheal Garden Ramapuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-155 Hariharan St ramapuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-155 Nadesan nagar ramapuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-11	Zone-11 Div-155 Andavan nagar 3rd st ramapuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-12	Zone-12 Div-156 4th Avenue Sundar Nagar Nandambakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-12	Zone-12 Div-160 Azurkhan St, Alandur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-12	Zone-12 Div-161 Market sandu alandhur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-12	Zone-12 Div-158 Dr. Ambedkar street, Meenambakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-12	Zone-12 Div-159 SL Appartment, Madhananthapuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-12	Zone-12 Div-163 East Karikalan 1st street, Aadambakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-13	Zone-13 Div-170 Angalamman Koil St, Kotturpuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-13	Zone-13 Div-170 VGP Salai, Saidapet	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-13	Zone-13 Div-170 Thiruvalluvar St, Ambal Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-13	Zone-13 Div-170 Kaveri St Gandhi Nagar Main Road	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-13	Zone-13 Div-172 Sri ram Nagar 1st St,	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-13	Zone-13 Div-172 R Block Kotturpuram	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-13	Zone-13 Div-174 Periyar St Nehru Nagar Velacherry	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-13	Zone-13 Div-175 15111 Lane, Indra Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-13	Zone-13 Div-177 Ex - Serviceman Colony 2nd st, Adambakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-13	Zone-13 Div-177 Andal Nagar	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-13	Zone-13 Div-178 1st Cross St.Throwbathy Amman Koil St	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-13	Zone-13 Div-180 Kalaingar Nagar 5th Cross St.Tharamani	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-13	Zone-13 Div-182 South Madha St Thiruvanmiyur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-14	Zone-14 Div-185 Krishna Nagar Main road Palawakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-14	Zone-14 Div-169 Bharathiyar St, Madipakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-14	Zone-14 Div-169 Ramalinga main road. Puzhuthivakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-14	Zone-14 Div-183 Venkatesapuram 2nd street, Kottivakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-14	Zone-14 Div-184 KPK nagar 3rd street.	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-14	Zone-14 Div-185 Kolavizhi amman nagar, pallavakam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-14	Zone-14 Div-185 Krishna Nagar, pallavakam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-14	Zone-14 Div-185 Mahatma gandhi 2nd street, Kari Nagar. pallavakam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-14	Zone-14 Div-187 Bajanai Koil St.Madipakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-14	Zone-14 Div-188 80 main rd,Rain nagar,south Madipakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-14	Zone-14 Div-188 Mylai balaji nagar 1st block ,palikaranai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-14	Zone-14 Div-188 5th street,Krishna nagar, Madipakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-15	Zone-15 Div-193 Mahatma gandhi nagar 12th street	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-15	Zone-15 Div-193 Bethel nagar south 2nd street. Injambakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-15	Zone-15 Div-195 Block 2/14 Ezhil Nagar, Chennai	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-15	Zone-15 Div-196 Chozhamandala Devi Nagar 9th St, Injambakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-15	Zone-15 Div-197 10th Block TNHB Sholinganallur	https://twitter.com/rammee2205/status/1259405696900177920
-Tamil Nadu	Chennai	Zone-15	Zone-15 Div-197 Avviyar street, Karapakkam	https://twitter.com/rammee2205/status/1259405696900177920
-Karnataka	Bengaluru Urban	All	East Bengaluru Ward  24 - HBR Layout	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 West Bengal	Kolkata	Ward-33	91,93,94A,95, Baliaghat Main Road (Lebugola Bustee)	
 West Bengal	Kolkata	Ward-34	10 to 34, Beliaghata Main Road	
 West Bengal	Kolkata	Ward-3	Ward-3 H/22, J K Ghosh Road, Lal Maidan	
@@ -2400,34 +1852,6 @@ West Bengal	Kolkata	Ward-125	Ward-125 CRISTAN PATHWAY,D H ROAD,BISWA PARA,RANGA 
 Puducherry	Karaikal	All	Karaikal	http://newsonair.com/Main-News-Details.aspx?id=388223
 Puducherry	Kutchipalayam	All	Kutchipalayam	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
 Puducherry	Sellipet village	All	Sellipet village	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
-Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward  72 - Herohalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
-Maharashtra 	Nashik	All	CIDCO	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Navshya Ganpati Mandir, Gangapur, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Dhongade Mala, Nashik Road, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Samaj Kalyan Office, Nashik Pune Road. Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Sanjiv Nagar, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Chitralekha Bldg, RTO Corner, Mhasrul, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Savata Nagar, CIDCO, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	N53 S/5/8/6 Uttam Nagar, CIDCO, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Malpani Saffron, Pathardi Phata, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Satpur Colony, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Vrundavan Colony, General Vaidya Nagar	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Bajrangwadi Slum, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Shantiniketan Chowk, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Maneksha Nagar, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Samata Nagar, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Patil Nagar, CIDCO, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Hanuman Chowk, CIDCO, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Jadhav Sankul, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Hirawadi. Panchvati, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Shri Krishna Nagar, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Indira Nagar, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Tarwala Nagar, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Ayodhya Nagari, Hirawadi, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Takshashila Row House, Konark Nagar 2, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Sagar Village, Dhatrak Phata, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Hari Darshan Apartment, Dhatrak Phata, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
-Maharashtra 	Nashik	All	Sinnar Phata, Nashik	https://twitter.com/JkInfotainment/status/1260060228932042758
 Rajasthan	Jalore	All	Godiji Nagar	https://www.bhaskar.com/local/rajasthan/pali/jalore/news/karenna-who-was-admitted-for-two-hours-with-normal-patients-was-deteriorated-and-referred-to-jedhpur-127292902.html?art=next
 Rajasthan	Jalore	All	Raithal	https://www.bhaskar.com/local/rajasthan/pali/jalore/news/karenna-who-was-admitted-for-two-hours-with-normal-patients-was-deteriorated-and-referred-to-jedhpur-127292902.html?art=next
 Rajasthan	Jalore	All	Siyana	https://www.bhaskar.com/local/rajasthan/pali/jalore/news/karenna-who-was-admitted-for-two-hours-with-normal-patients-was-deteriorated-and-referred-to-jedhpur-127292902.html?art=next
@@ -3135,20 +2559,6 @@ Tamil Nadu	Villupuram	All	T Pudhupalayam	https://twitter.com/Covid19TNUpdate/sta
 Tamil Nadu	Villupuram	All	Eraiyur	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
 Tamil Nadu	Virudhunagar	All	Kullursandai	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
 Tamil Nadu	Virudhunagar	All	Thiruthangal MPTY	https://twitter.com/Covid19TNUpdate/status/1259366017425268736
-Haryana	Gurugram	Gurugram	DLF Phase 2 L--Block	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
-Haryana	Gurugram	Gurugram	Choti Mata Mandir, Dr. Rohilla Clinic, Sunaro ka Mandir, Dr. Azad Clinic, Asthal Mandir, Devi Ki Aganwadi	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
-Haryana	Gurugram	Gurugram	Basai Village Bus Stand, Old Railway Fatak, Basai Enclave Part-1, Kamlesh Aganwadi in Basai Village	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
-Haryana	Gurugram	Gurugram	Santr Devi School wali Gali Block F, Santosh AWC wali Gali Block D, Lalu Prashad wali Gali Block D	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
-Haryana	Gurugram	Gurugram	Vikas Nagar, Gau Shala Basai Enclave, Housing Board Colony, Balaji Hospital (in Bhawani  Enclave)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
-Haryana	Gurugram	Gurugram	Ravi Nagar Gali No. 5 Devi Lala Colony Gali No. 9	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
-Haryana	Gurugram	Gurugram	Adjacent to Sh. Shyam Public School (in Kahndsa)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
-Haryana	Gurugram	Gurugram	GH Plot 2, Hermitage Housing Society (DLF Phase 3, Gurugram)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
-Haryana	Gurugram	Gurugram	Om Prakash Ki Gali (In Nathupur Village)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
-Haryana	Gurugram	Gurugram	Kherki Daula ki Dhani (Kherki Daula Village)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
-Haryana	Gurugram	Gurugram	Virdha Ashram Wali Gali (In Bajghera Village)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
-Haryana	Gurugram	Gurugram	Hanuman Mandir Vali Gali (In Baliyawas Village)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
-Haryana	Gurugram	Gurugram	Chappar wali Gali, Hoti Lal ki Dhani, Mandir wali gali (Jamalpur)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
-Haryana	Gurugram	Gurugram	Block D, Gali No. 6, Gali No. 7, Gali No. 8 (in Sheetla Colony)	https://twitter.com/CasesGurgaon/status/1261248627370012673?s=09
 Uttar Pradesh	Gautam Buddh Nagar	All	Sector 48, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
 Uttar Pradesh	Gautam Buddh Nagar	All	Parasvnath Prestige Sector – 93 A, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
 Uttar Pradesh	Gautam Buddh Nagar	All	Sector 122, Noida	https://twitter.com/nrustagica/status/1261164703495135241?s=09
@@ -3341,7 +2751,6 @@ Tamil Nadu	Chengalpattu	Chitalapakkam T.P.	Erikarrai, Chitlapakkam	https://twitt
 Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Karunkuli Road, Ward 15	https://twitter.com/Chengalpattu01/status/1260226591805734914
 Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Sangamettu Street, Ward 15	https://twitter.com/Chengalpattu01/status/1260226591805734914
 Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Asiriyar Nagar, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
-Karnataka	Bengaluru Urban	All	Bommanahalli  Ward 190 -Mangammanapalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
 Haryana	Faridabad	All	Shiv Durga Vihar	https://twitter.com/prabhurazdan/status/1261528692355788800
 Haryana	Faridabad	All	Palwali village	https://twitter.com/prabhurazdan/status/1261528692355788800
 Haryana	Faridabad	All	Dabua Colony	https://twitter.com/prabhurazdan/status/1261528692355788800
@@ -4137,7 +3546,790 @@ Gujarat	Gandhinagar	All	Amrapur, Kalol	https://twitter.com/RACGandhinagar/status
 Gujarat	Gandhinagar	All	Rancharda, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
 Gujarat	Gandhinagar	All	Sagdalpur, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
 Gujarat	Gandhinagar	All	Dahegam urban, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Karnataka	Bengaluru Urban	All	Mahadevpura  Ward 54 - Hoodi	https://www.facebook.com/bbmp.comm1/photos/pcb.1848725551929367/1848725055262750/?type=3&theater
-Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward  129 - Jnanabharathinagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	West Bengaluru Ward  23 - Nagavara	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Madhya Pradesh	Betul	All	Chicholi	
+Madhya Pradesh	Betul	All	katiya koylari	
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-1 SathyaVani Muthu Nagar 6th Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-I Div-2 Rajivganthi nagar main st, ennore	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-2 chinna Amman (oil 3rd Street Nettukuppam,Ennore	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-2 Sivan Padai Veedhi cross sheet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-2 Kattukuppam 2nd street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-2 Vallurvar nagar 8th st. Ennore	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-2 23.RS Road,MGR Nagar,Chennai-57	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 15th block Tsunami Qtrs	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 12 Block no 72. Tsunami Qtrs	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 9-Block no 40 Tsunami Qtrs	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 143- Block Tsunami Qtrs. chennai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 Annai Sivagami Nagar 7th Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 77th block Tsunami Quarters	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-3 AS nagar 4th st. ennor	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-5 Kalaignar Nagar 2nd Street .Wimco Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-5 Thiru nagar, 2 tad street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-6 Saraswathi Nagar.10th St.	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-6 Shanmugapuram 4th street, Thiruvotriyur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-7 45, Soundarapandi St, Rajaji	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-8 S.P.Koil 1st Sheet ,Thiruvottiyur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-I Div-8 Old Well st, Thimvottiur,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-8 Egavalliamman Koil Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-9 TS Gopal Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-9 Apparsamy kovil st, thiruvottiur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-10 Rajiv nagar 2nd st, kaladipet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-11 Kailash Sector .3rd Street ,Kaladipet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-11 Janaki annual estate. Kaladipet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-11 Kannakkar lane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-I Div-11 Periyamettupalayam 1st Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-11 Sanathi street, kaladipet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-11 No:133, Poongavanapuram, 14th St,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-13 Mettu Sheet. Tolgate	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-1 Div-14 Thyagamaya puram TVT	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-1	Zone-I Div-14 Thyagamaya puram, 7th sheet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-15 Old Napalayam Penunal koil Street. Manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-15 57/14, Manali New Town, chennai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-15 271 Manali new town.	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-16 82 nd st.manali new town	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-16 Durga nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-16 llth st, sadaiyankuppm	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-16 1/498, TNHB 1.phase 1	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-17 Penunal kovil st. Vadaperumbakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-18 Lebbaimedu, 1st street . Manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-18 Kalainjar nagar 4th st. Manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-18 CPCL Nagar. 8th cross st, manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-18 Perumal kovil st. harikrishnapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-18 No.28, Kalaijar Ngr, Lebbaimedu	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-18 10.Aringnar Anna lst, manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-18 354, 13th Sheet, CPCL Nagar. Manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 26th St,MMDA Ist main road.Mathur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 3rd main road, Matthur, chennai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 4G. 68th st. main road mathur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 Thideer Nagar, Manjabakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 Perumal kovil Gandhinagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 Omakulam street. periyamathur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 16th st.1st,main raod Manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 4/180. Kamaraja salai Manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 Perumal kovil, Harikrishnapuram. Manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 12. Gokulam Street, Periyamathu	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-19 4384. MMDA 1st Main Road, Mathur, Ch-68	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-20 Selva Vinayagar Koil Street,Manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-20 MGR street, manali, chennai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-20 MGR nagar 2nd street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-20 Rajivgandlii nagar st, Manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-20 Lalbagadhur Sasthri cross st. Manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-20 Lalbagadhur Sasthri cross, 3rd street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-20 3/2, Shek Ansri St, Malani	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-20 No.4, Rajiv Gandhi St. Kalthottam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-20 Srivasan st. periyathoppu	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-20 No.35, Chinnakannu Street. Manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-21 PKR Sharna St,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-21 Fire Quarters. SM Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-21 Dr. Varadharasanar st, Manali	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-22 Sakthivel nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-22 Thiruneelakandan 3rd st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-23 Thyagi chinnasamy street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-2	Zone-2 Div-23 Gangadharan main st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Kurinji Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Senthil Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Vanvanan Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Sudha nagar 2nd street. Lakshmipuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Annai Indra nagar kadappa Rd	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Vijay Avenue, murugampedu, thalikunnam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Lakshmi amman nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Jayaraman nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Murugambedu	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Srivenkateswara nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Vanvanan 3rd street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-24 Balavinayar koil st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-25 Bhavia Avenue srinivasa nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-25 MGR Nagar. Madhavaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-25 Sivaraj st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-25 Sri Lakshmi nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-26 Ramachandran Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-26 Ganesh nagar, vinayagapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-26 13,Pachippan colony, Lakshmipuram kolathur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-26 Iyappa nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-26 Sasthiri nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-27 Kamban Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-27 MCG Avenue Madhavaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-27 Venu nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-27 Mullai nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-27 Edaima nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-27 Madhaveli	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-27 MCG 5th st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-28 Madhavaram Milk Colony 3rd unit	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-28 Madhavaram Milk Colony 4th unit	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-28 Othavadi street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-28 Kumaran st, mani road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-28 Arignar anna st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-29 Krishnan st, chinnasekadu	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-29 Apparaji Main Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-29 Chadiraman kovil street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-29 Parthasarathi croos street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-30 Elangovadikal St.Medha Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-30 2nd st, Puckraj nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-31 KKR Garden	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-31 Nagathamman koil street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-31 Udayar thottam 3rd st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-31 Kannapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-32 Nethaji street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-32 Bhavani nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-33 Bajanai Koil St,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-33 Nehru street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-33 Thanikachalam nagar B block	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-33 Sathiyamoorthy st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-3	Zone-3 Div-33 Rajaji 4th cross st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-35 Muthamizh Nagar 119th St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-35 Muthamizh Nagar 55th St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-36 Bharathi Nagar 1st St,Sharna Nagar,Vysarpadi	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-36 Rajiv Gandhi Nagar, Vysarpadi	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-36 Thiruvallur Nagar 15th cross st.	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-37 Jawahar Street. Krishnamoorthi nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-38 Nethaji Nagar 1st Streets.	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-38 Nethaji Nagar 3rd Streets.	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-38 Nethaji Nagar 2nd Streets,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-38 Nethaji Nagar 5th Streets,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-38 Vinoha Nagar. Sashthiri Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-39 Nagoorar Garden	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-39 Butchammal Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-39 T.H Road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-46 Ashok Nagar Main Rd.New Washermenpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-40 1- V.O.C Nagar, Thiruvalluvar Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-40 Vigneshwar nagar, Seniamman koil rd	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-40 Mangammal Thottam, Govt.. press	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-40 Jeeva nagar, keerai thottam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-41 Karumariamman Koil street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-41 JJ Nagar A2 st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-41 Drivers Colony	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-42 Mayor Basudev street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-42 Seniamman Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-43 P.P.Amman Koil St,Tondiyarpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-43 V.P Koil street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-43 DG Colony, Tondiyarpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-44 Thulasingam st, perambur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-44 Manika Vinayagar Kovil St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-44 Sathya Bama Street ,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-44 Kamalambal Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-44 Rani Ammaiyar Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-44 Nethaji St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-45 Stephenson Lane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-45 B.V.Colonv 1st St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Narasiman Nagar Main Street Puliyanthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Venkatesapuram New Colony 3rd Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Joseph street, Kannigapuram Puliyanthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Decaster road l st st,puliyanthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 V.O.C 1st st, Aaduthoti	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Sasthri nagar 21st st,puliyanthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Pulianthope, 7Th Street. T.V.K.Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Voc Nagar, 12Th St , Puliyanthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 4th St. Sathyavanitha Nagar. Puliyanthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Ambedkar Ngar 4th st. puliyanthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Nehru Nagar,4Th Street,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Venkatapuram new colony kanikapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Doss Nagar , 3rd St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Tvk Nagar 2nd St Pulianthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Kastturibai Colony Kannigapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Nehru Nagar 3rd street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 1st st.Gray Nagar.Pulianthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Prakash Rao Colony	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Bol Nayakar St.Pulianthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Mannarsamy St.Puliyantope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 New Parathasarathy street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Gandhi nagar 2nd st.puliyanthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Periyar nagar Housing board	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 New Ferrance road 2nd street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Padison puram lane. pulianthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Govin Singh Street. Pudiyanthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Jafer Khan St, Puliyanthop	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-73 Ramasamy Street. Pulinyanthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 SVM Nagar,D Block	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Selvaperunal Kovil St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Barraco Road 1st Street Medavakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Subraiyan 4th Street 2nd Lane Otteri	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Santhiyappan 1st street, Dasar mahal, Otteri	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Sankarabakthan st,Namalvarpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Suburayan 4th st, Namalvarpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Sandhiappan street,otteri	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 SVM nagarT block,otteri	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-74 Othavadai St. Nanunalvarpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-75 Narayana Mastri St,Otteri	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-75 Valluvan st.Otteri	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-75 Vengathari Street, Kosapet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-75 Brickklin road otteri	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-75 Chellappa St Otteri	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 Angalamman Koil St,Pattalam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 K.M.Garden	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 Edward park , Otteri	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 Ananda vinayakar kovil st, strahans road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 Venkatesanaicken Street, Kosapet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 Appasamy Street,Pattalam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 Perambur Baraccs road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 Otteri police Qtrs pattalam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 Demellows Road. Pattalam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 Kandasamy St kosapet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-76 Sachidandam Street Kosapet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 4th St.Pulianthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Sivarajpuram,Pulianthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Gurusaami Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 K.P.Park	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Play Ground St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Old Slaughter House St.Choolai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Raja thoottm pulianthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Kumarasamyrajapuram 2nd street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 TVK nagar 10th st. puliyanthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Ruthrappa St.Thattan Kulam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 Santhiyppa Street Choolai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-77 3rd Sheet Pulianthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Arunachalam St,Puraisawakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Vekatachalam St.Choolai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Astabajam Road,Choolai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Thana street purasiwalkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 VV koil st.Kosapet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Ari muthu st, choolai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Narasinga Perumal Koil street,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-78 Chinna Thambi street, Kosapet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-79 AKV Koil,AKV Nagar Oragadam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-79 MGR Nagar Oragadam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-79 6.Desapilai st. Gandhi nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-79 6.Desu pillai st, Oragadam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-80 35A/42. Anbu nayagan st, Vijayalakshini puram, Ambattur,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-80 2 Daniel Street Pudur Ambattur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-82 Indira Nagar Main Road Menambedu	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-82 NO.5. Om Shakthi nagar. Kalliluppam. Ambattur. ch-53	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-83 Kumam nagar, korattur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-83 1/29, Ellaiyamman nagar, 2nd cross st, Korattur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-84 Mariamman Koil St Railwaystation Road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-84 No.16,Kakkai nagar, Korattur, 111-80	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-84 NO.41, Vinayakar koil st. Korattur ch-80	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-86 TNSCB ICF Colony.Athipet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-86 Malaiyathamman Koil St Manurpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-86 Police Qut, Ambattur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-86 14/13, IFC Colony TNHB	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-87 Bajanai koil 1st st, padi	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-88 Thirumurugan St kalaivanar Colony Padi	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-88 Padavattaman kovil st. Paadi Thirvallur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-88 119.Vadukkau madu veedhi padi	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-89 Raji St Kalaivanar colony Anna Nagar West	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-89 Kamarajar 1st st, padi	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-89 12th Block golden colony	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-90 5111 St Padi Pudhu Nagar Mogappair	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-90 Jagathambigai St thiruvalleswarar Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-90 Kanadasan st, Ambedkar nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-90 11/21, 18th It. Padipudunagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-90 53 Hospital rd,sathyapuram,Ambattur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-91 Annai apt Jaswanth Mugappair	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-91 3rd Block Mugappair West	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-91 ERI scheme, Mogappair west	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-91 Abinav Appt. mogappair	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-91 18th St,Mogappair ERI scheme	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-91 LIG823ERIschme Moagappair west	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-91 1st cross st, Mugappai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 Bajanai Koil St mugappair east	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 Aasirvatham Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 Veeramamunivar Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 Venugopal street. Mogappair East	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 Bharathi salai mogappair east	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 12/247, Kannadasan salai, Mugapair East, ch-37	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 10/475 Mugappair east Chennai 37 3	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 Pattravakkam Police camp chennai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-92 2nd st, Kongu nagar, Mogappair west	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-93 Pillayar Kovil St,Padi Kuppam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-93 Angalamman Koil st.Padikuppam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-93 Pillaiyar Kovil street, Golden George nagar,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-93 Rail nagar. koyambedu	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-93 Agathiyar salai Mogapair east	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-93 11th Block /140 Mogapair east, ch 37	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-93 Gangai amman kovil street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-93 5 137 Burner road, mogappair	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-7	Zone-7 Div-93 Anna malai nayakkar, padikuppam, anna nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-94 Sidco nagar 23rd street, villivakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-94 South Jaganatha nagar 1st main road, villivakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-94 North Jaganatha Nagar 6th Street,villivakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-94 Rajamangalam 7th street.villivakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-94 North  High court colony, villivakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-96 Appadurai 2nd street.Ayanavaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-97 Chelliamman Koil StreetAyanavaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-97 Pachaikal Veerasamy Housing Board (1	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-97 Veerasamy 1st StreetAyanavaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-97 Chakravarthy nagar.Ayanavaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-97 Thanthai Periyar Nagar 4th StreetAyanavaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-97 Solai 4th street. ayanavaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-99 NVN nagar 14th street.Anna nagar west	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-100 NSK Nagar main road,Arumbakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-101 Bharathipuram 2nd street, Anna nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-102 Gujii Main St.Anna Nagar East	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-102 Police Quarters, TP Chatram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-102 T.P. Chatiram 21st street,Kilpauk	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-103 T.P Chatiram 5th street,Kilpauk	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-104 Sastri nagar. Kilpauk	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-104 Chellapa Gramani street, Pursawalkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-104 Ramasamy street, Purasawalkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-104 Vellalar street, Purasawalkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-105 Ashoka Street.Arunbakkam,chennai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-105 Anna streetArumbakkam.chennai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-105 Gandhi street,Arumbakkam,chennai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-105 Sanjeevi street,Arunbakkam.chennai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-106 East Arasamaram street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-106 Indira Gandhi nagar 3rd street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-8	Zone-8 Div-107 School Road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-109 East namachivaya pram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-109 West namachivayapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-109 Abith nagar. Choolaimedu	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-109 Bajanai kovil, 2nd st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-110 Vallur kudiyiruppu nungambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-110 Jayalaksmipuram, Nungambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-111 Haddow Road,Nungambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-111 Moores rd sudandhira nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-111 Mansion site police cits nungambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-111 Gulam mohammed mohideen street, Thousand lights	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-112 sivan kovil at. choolaimedu	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-113 Deiva nayagan st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-114 Arumugappam st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-114 Pillaiyar koil street, Triplicane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-114 Sannadhi street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-114 Mayar chittibabu street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-114 M.A. Shaib Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-114 Victoria Hostal Road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-114 Ice House Qutrs	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-115 Nair VaradhaPillai St,Royapettah	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-115 Ferose Sahib Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-115 Gaffor sahib st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-115 Hussain st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-115 Haji Mansion	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-115 Thannappa Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-115 ROB Main Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 TP Kovil Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 Arumugam st, cook rd	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 Karpagakanni kovil st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 Sivarajipuram triplicane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 New fire wood st triplicane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 Vasudevapuram triplicane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-116 Nalla thambi street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-118 Subbaiah Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-119 Balaji Nagar 2nd st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-119 Tippu st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-119 Muthaiya St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-119 Saiva muthiah 6th street, Royapetah	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-119 Royapettah High Road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-120 V.R.Pillai St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-120 Hantunanthapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-120 Ram nagar, 6th street. Triplicane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-120 Dr. Natesan road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-120 Sudhandhira nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-120 Ram nagar 3rd st triplicane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-120 Elephant tank	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-121 Rotary nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-121 PM dargah,4th st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-121 B.B road 2nd st triplicane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-122 S.M.Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-123 VOC Street . alwarpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-123 Pallakumaniyam Mylapore	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-123 Kamarajar salai. teynamet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-123 Abiramipuram 4th st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-123 Kabali thottam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-125 Chithrakulam north mylaporu	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-125 Nochi nagar, Mylapore	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-125 Muthu Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-125 A Blk Police Qtrs (Kutchery Road)	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-126 CID Qts Mylapore	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-126 Mndhavelli railwaystation	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-126 Vanniyapathy	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-126 Sivaraman strett	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-126 A.M.Garden	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-9	Zone-9 Div-126 13th Cross Street, Mandavelipakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Malligai Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Kumaran Nagar 4th Cross Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Kumaran Nagar 2nd Main Road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Jai Nagar 16th Sheet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Manavalan Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Samanthi Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Mullai street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 M.G.Samy Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Avvai Thiru Nagar 1 St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Srinivasan Nagar 2nd Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Avvai Thiru Nagar 1st Cross St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Sri Iyyappa Nagar 4th Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Seemathamman Nagar - Sector -3	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Sri Iyyappa Nagar 2nd Main Road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Sri Iyyappa Nagar ( Anna St)	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Anna Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Thinwalluvar St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Nerkunram Main Road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Avvai Thiru Nagar 2 nd Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Avai Thiru Nagar 1st Coss Street Koyambedu	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-127 Barathiyar nagar raja st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-128 Amaravathi St, Virugambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-128 Yadava 1St Cross St.Virugambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-129 Sarathamaal Street.SaligramamCh-93	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-129 Navaneethamaal Street,Saligramam,C11-93	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-129 Bangaru Street,Saligramam,C11-93	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-130 Bajanai Koil St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-130 Aruna Colony,Vadapalani	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-130 Alagiri Nagar.Vadapalani	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-132 Ashok Nagar 11th Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-132 Bajanai Koil St Vadapalani ch-26	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-132 85th Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-132 4th Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-132 48th Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-132 2nd Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-132 Bajanai Koil Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-132 12th Street Pudur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-133 Kaveri St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-133 Ashok Nagar 58Th St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-133 Ashok Nagar 61th St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-133 12Th Avenue Palamuthicholai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-134 Kamarajar Colony.Koyambedu	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-134 L' Block Kamaraj Colony 5th Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-134 C.R.P. Garden 2nd Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-134 A" Block kamaraj Colony 1st Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-135 Brindhavanam Housing Board	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-136 Muthu Reddy thottam. T Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-137 Ganesan Street. Rajiv Gandhi Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-138 Thiruvalluvar St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-138 Thangavel Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-138 Johnkennady St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-138 Ayyavoo 1, 2, 4th St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-139 RV Nagar 69th St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-139 Lakshmi street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-140 Pushpavathi Ammal	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-140 North Kavarai,West Mambalam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-140 Jothi Ramalingam st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-140 South K R Koil St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-10	Zone-10 Div-142 Kothawalchavadi St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-143 Gandhi StNerkundram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-143 Nolambar mogapar west	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-144 Pillayarkovil, Maduravoyal	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-144 Kamachi amman nagar 1st maduravoyal	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 19th St Shakthi Nagar,Nerkundram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 Karthigai Street Nerkundram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 Tiruvalluvar Salai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 Perumal Koil 10St Nerkundram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-145 Malligai 4th st Nerkundram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-146 Periyar St Lakshimi Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-146 4th Dhanalakshmi Nagar Maduraoyal	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-146 Dhanalakshmi Nagar 10th St Alapakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-146 Bhagyalakshmi nagar, Aalambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-147 Janagi nagar Maduravoyal	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 CDN Nagar,2nd St,Nerkundram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 19th St,CDN Nagar,Nerkundram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 Rajiv Nagar 3rd St Nerkundram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 Bhuvaneswari Nagar Nerkundram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 Balavinaya Nagar Nerkundram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-148 Taisan Qts Nerkundram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-150 Indra Nagar, Sivaboodam Village. Vanagaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-150 Adhithyaman street. Ponni Nagar . Porur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-150 Sivabootham Village Vaanagaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-151 Anna salai. Chinna pour	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-152 VOC Street , Kaithan Kuppam valasarwalkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-152 Subramaniswamy Nagar 4th Cross St valasarawalkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-152 Jamal appt valasaravakam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-153 Ramakrishna nagar pour	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-154 Nayakkar street. Ramapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-154 Venkateshwara Nagar Ramapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-155 Micheal Garden Ramapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-155 Hariharan St ramapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-155 Nadesan nagar ramapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-155 Andavan nagar 3rd st ramapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-11	Zone-11 Div-155 Eswaran koil st, Ramapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-12	Zone-12 Div-156 4th Avenue Sunday Nagar Nandambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-12	Zone-12 Div-156 No. 1/316 Padasalai Street. Mugalivakkam. Chennai-	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-12	Zone-12 Div-157 C73 Manapakkam Main Road Garden Manapakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-12	Zone-12 Div-161 MKN Road Alandur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-12	Zone-12 Div-163 Balakrishna Puram, 3rd Street Adhambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-12	Zone-12 Div-166 4 32 13Th St Bb Nagar Nanganallur Ch-114	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-12	Zone-12 Div-166 1 Alpha Block Arunalya Flat Joseph 2Nd Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-12	Zone-12 Div-158 Dr.Ambedkar street. Meenambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-12	Zone-12 Div-159 SL Appartment, Madhananthapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-12	Zone-12 Div-163 East Karikalan 1st street. Aadambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-170 Thiruvalluvar St,Ambal Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-170 Kavery St Gandhi Nagar Main Road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-170 Visalatchi Nagar 2nd st Ekattuthangal	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-170 1st Pillayar koil st Ekattuthangal	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-172 R Block Kotturpuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-174 Periyar St Nehru Nagar Velacherry	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-175 15th Lane, Indra Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-176 Alcotkuppam saravanan appts, Besant Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-177 Es - Serviceman Colony 2nd st,Adambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-178 1st Cross St.Throwbathy Amman Koil St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-178 3rd cross street, sasthri Nagar. Adyar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-181 Valmiki st. thiruvanmiyur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-182 South Madha St Thiruvanmiyur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-182 Mangalari, Thinivanmiyur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-182 Bharathidasan 2nd Thinivanmiyur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-182 36th Cross street, Thiruvalluvar Nagar,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-182 Thiruveethi amman Koil st, Chennai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-182 C73 Manapakkam Main Road Garden Manapakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-13	Zone-13 Div-182 El 872 46th cross st. Thinivalluvar nagar Thiruvanmiyur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-14	Zone-14 Div-183 Venkatesa puram, 2nd st, Kottivakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-14	Zone-14 Div-188 7th st, Guberan Nagar Madipakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-14	Zone-14 Div-169 Bharathiyar St.Madipakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-14	Zone-14 Div-169 Ramalinga main road. Puzhuthivakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-14	Zone-14 Div-169 No 5, Ramar Koil street , Ramnagar North 	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-14	Zone-14 Div-169 9. Balaji Nagar Extension, 10Th St., Nanganallur, Chennai-	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-14	Zone-14 Div-183 Venkatesapuram 2nd street, Kottivakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-14	Zone-14 Div-185 Mahatma gandhi 2nd street, Kari Nagar, Pallkavakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-14	Zone-14 Div-186 5/9, Kaveri Illam 3Rd Cross St., Elim Nagar, Perungudi,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-14	Zone-14 Div-187 5/5754 Sabari Salai Madipakkain Chennai - 600 091	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-14	Zone-14 Div-188 8th main rd.Rain nagar,south madipakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-14	Zone-14 Div-188 Mylai balaji nagar 1st block ,palikaranai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-14	Zone-14 Div-188 5th street Krishna nagar madipakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-193 Mahatma gandhi nagar 12th street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-193 Bethel nagar south 2nd street, Enjambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-195 Block 2/14 Ezhil Nagar. Chennai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-195 No: 10001, Kannagi Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-195 9405. Kannagi Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-194 Lakshmi Villa 2nd Floor, Thuraipakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-194 No: 56, Metukuppam, Krishna nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-194 No:44, Maha Lakshmi nagar, AVGR, Avenue,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-196 Chozhamandala Devi Nagar 9th St,Injambakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-197 10th Block TNHB Sholinganallur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-197 Avviyar street, Karapakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-198 No Pillayar koil street. Sholinganallur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-198 No.217, Akkarai 1st Cross St ECR Road Ch-119	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-200 No:6046/87th street, Semmencherry, TNHB	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-15	Zone-15 Div-200 No:5488. Semmencherry	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-47 Madurai Muthu St,Korukkupet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-46 Malligaipoo Colony, Vysarpadi	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-48 Mottai Garden,Old Wahermenpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-4	Zone-4 Div-48 Mutnaiyya mudali st old washermenpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-49 Puthumanai kuppam,Majith Rd.	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-49 Sanjeevaraya Koil St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-49 J Block Police Qts Tondairpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-49 Solaiyappan street. Old washermenpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-49 Thandavarayan Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-49 Kappalbolu Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 P.V.Koil St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 Thambu Lane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 Vengatachalam street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 A.J. Colony	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 M.S.Koil st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 Bentman garden, 2nd St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-50 Washermen Lane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-51 East Cemetry Rd.TNSCB	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-51 Sri Rangammal St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-51 N.N Garden 2nd lane old washermenpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-51 NN garden 7th street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-51 Thulukanam street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Adam street,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Appaiyar street.	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Old Slatter House Road,Anjaneya 6th St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Old Slatter House Road,Anjaneya 7th St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Old Slatter House Road.Anjaneya 8th St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Govt Stanly Medical College,Royapuram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 OSH Road (Anjaneya nagar 3th st)	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Rama st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Model Lane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 KabilaGananathan Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-52 Meenatchiammanpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 New Labour Lane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Canal St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 TN Fire Service Route.Thanga Salai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Parasuraman Lane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Boja Raja Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Ramdoss Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Lalagunda 1st Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Kannan st. Old washermenpet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Kondithope Police Qrt.	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Jayaraman Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-53 Osian Heights,76.Basin Bridge	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 PKG Anna pillai 3rd street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 PKG 6th lane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 Walltax Road Udthvar 1st Lane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 Ranthinamudali st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 Kuppaurar Street. Kondithope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 No 39, Thimpulli St, 2Nd Floor	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 Kanappan street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 Sundara mudali street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 Nammalvar Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-54 Krishnappa Tawer Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Paramananda st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Thaiappan street,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Pourchguese Church Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 MES Miltary Qts Old Jail Road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Gate St(Mafurkhan Garden)	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Nattu pilaiyar koil st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Kutty mastery Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Mangammal Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Palayappan street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Nagamani Garden	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Amman Koil Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-55 Veeraswamy Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-56 saivamuthiah street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-56 shanmugarayan street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-56 Pidariyar koil street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-56 Thiruvalluvar nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-56 Kachaleswaran 2nd lane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-57 2nd Gate walltax road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-57 Releif Centre, Anna pillai street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-57 Yelakandhappa st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-57 Seenumuthalai street,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-57 Varadha Muthiyappan Street,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-57 Adiyappa Nayakar Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-57 Bathirean Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-57 Irulappan St,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Stringer street 1st lane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Bishop Lane	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 thideer Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Madox St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Hotel Suriya,Thiruvengadam St	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Fire service EVK sampath road, Veppery	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 B Block Subaiya naidu street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Golden Tower , Near Ripon Buliding	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Periyan mastery Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Horse stand ponnamlle	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Church Womens Christian Hostel, vepery	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 A.P. Road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 Ritherdon Road,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-58 B-Block, Inspector Quarters.	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 RGGGH	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 MMC Men's hostel	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 Kerala lodge	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 SM Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 Naniyan street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 ACT.flower bazaar chennai 03	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 Chinna guest house, park	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 AVM Lodge chennai	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 Kulam Muthusha street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 MLA Hostel	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 Govt Dentel Hospital park	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 Chennai Centel	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-59 RPF Barix 2nd floor	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-60 Venkata Maistry Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-60 Sci M.T Desh Abhimaan, Oil TankerShip	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-61 Naritankadu Police Qts ,Pudupet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-61 Saifz malik St,Pudupet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-61 New AR qtrs Pudupet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-62 NedunChian Colony	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-62 Rex st, chandarripet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-62 Pumping Station Road, Chindadaripet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-62 Swamy Pandavan street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-63 Suful mulk st pudupet	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-63 Nagappan Street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-63 Goiya Thoppu D Block Housing Board	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-63 Ailui street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-5	Zone-5 Div-63 Amirsha Bagamest, mount road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-64 Sivasakthi naagr Extn, 2nd cross st	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-64 Girija Nagar East street, samdharia colony	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-64 Thirupathi nagar 1st main road, Kolathur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-64 Mettu st,kolathur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-64 Sivasakthi nap, 9th street, kolathur-	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-64 29th st, Poombukar Nagar. Kolathur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-64 Dhanammal Nagar 2nd street, Kolathur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-64 North Mada street, Kolathur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-64 United Colony 2nd Corss Street Kolathur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-65 Barash Rajivganthi nagar, kolathur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-65 Malligai avenue, kolathur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-65 kadapa Road,Thiruvallur Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-65 Rajaji Nagar 2Nd St, Villivakkam	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-66 Varatharajan street, Vatri nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-66 Jaganathan salai, Periyar nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-66 Ram nagar paper mills road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-66 Thangavel Street, Vetri Nagar, Perambur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-66 KC garden 5th st.perambur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-66 KC Garden. 1St. Peravallur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-66 Raja garden papermills road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-66 Jawahar Nagar 3Rd Main Road. Agaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-66 Chandrasekaran Road, Periyar Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-67 Chinnasamy st,agaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-67 Market street. Perambur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-67 Vanjinathan main st, perunbur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-67 GKM colony 15th St,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-67 GKM Colony 19th street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-67 Somasundaram 2nd street, Jawahar Nagar	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-68 Wakting street.perumbur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-68 Gopalapuram 1st Main road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-68 Bangaru street, Ayanavaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-68 Kennedy square main road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-68 TVK Nagar 15th street, Sembium	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-69 Vasantha garden main street	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-69 Raghavan street, Perambur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-70 ESI Qts. Otteri	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-70 ESI Qtrs, cooks road	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-70 Stephenson Road, Perambur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-71 Hyder garden 2nd street, Perambur	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-71 New vazhaima nagar,Ayanavaram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-71 Chandra Yogi Samadhi Rood,	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Sashtri Nagar 14th St,Pulianthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Thiruvi.ka nagar, 6th street. puliyanthope	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 M.S muthu nagar, Kanniga puram	https://twitter.com/chennaicorp/status/1261627712365457410
+Tamil Nadu	Chennai	Zone-6	Zone-6 Div-72 Doss Nagar 2nd street	https://twitter.com/chennaicorp/status/1261627712365457410
+Karnataka	Bengaluru Urban	All	West Bengaluru Ward 23 - Nagavara [ Active cases: 1, Tentative De-containment: 14-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward 129 - Jnanabharathinagar [ Active cases: 1, Tentative De-containment: 14-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	Mahadevpura Ward 54 - Hoodi [ Active cases: 1, Tentative De-containment: 13-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	Bommanahalli Ward 190 - Mangammanapalya [ Active cases: 9, Tentative De-containment: 13-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward 72 - Herohalli [ Active cases: 1, Tentative De-containment: 07-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	East Bengaluru Ward 24 - HBR Layout [ Active cases: 1, Tentative De-containment: 03-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	West Bengaluru Ward 45 - Malleshwaram [ Active cases: 1, Tentative De-containment: 14-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	South Bengluru Ward 176 - BTM Layout [ Active cases: 0, Tentative De-containment: 1-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	East Bengaluru Ward 92 - Shivajinagar [ Active cases: 46, Tentative De-containment: 13-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	Bommanahalli Ward 192 - Begur [ Active cases: 0, Tentative De-containment: 01-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	Bommanahalli Ward 188 - Bilekahalli [ Active cases: 4, Tentative De-containment: 20-May ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	South Bengluru Ward 158 - Deepanjali Nagar [ Active cases: 0, Tentative De-containment: 26-May ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	Raja Rajeshwari Nargar Ward 37 - Yeshwanthpur [ Active cases: 0, Tentative De-containment: 21-May ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	South Bengluru Ward 169 - Byrasandra [ Active cases: 0, Tentative De-containment: 21-May ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	South Bengluru Ward 133 - Hampi Nagar [ Active cases: 3, Tentative De-containment: 23-May ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	Bommanahalli Ward 189 - Hongasandara [ Active cases: 14, Tentative De-containment: 05-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	West Bengaluru Ward 139 - K. R. Market [ Active cases: 1, Tentative De-containment: 09-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	Mahadevpura Ward 84 - Hagaduru [ Active cases: 0, Tentative De-containment: 20-May ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	West Bengaluru Ward 135 - Padarayanapura [ Active cases: 36, Tentative De-containment: 09-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Maharashtra 	Nashik	All	Bajrangwadi Slum, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Samata Nagar, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Patil Nagar, CIDCO, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Jadhav Sankul, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Hirawadi, Panchvati, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Shri Krishna Nagar, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Indira Nagar, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Tarwala Nagar, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Ayodhya Nagari, Hirawadi, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Takshashila Row House, Konark Nagar 2, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Sagar Village, Dhatrak Phata, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Hari Darshan Apartment, Dhatrak Phata, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Sinnar Phata, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Kathe Galli, Nashik.	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Nayshya Ganpati Mandir Area , Gangapur, Nashik ZONE 2	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Pandit Nagar, CIDCO, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Siddheshwar Nagar, Dasak, Nashik Rd, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Gosavi Wadi, Near Bytco Hospital, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Motha Kumbharwada, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Ameya Apartment, Nashik Road, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Maharashtra 	Nashik	All	Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1263108574445633536
+Haryana	Gurugram	Gurugram	Jharsa Village (Sector 39)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Lane No I (Near India Leads), Lane No 7 (Near Bangali Hotel), Lane No 6B, Yadav Medicos (In Sarhaul Village)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Maghdoot Apartments Sector 10 A, Gurugram	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Om Nagar	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Prem Nagar, Lotus Hospital Sector-I2, Acharyapuri, Rajiv Nagar (West) Gali No 3, 4, 5 In Rajiv Nagar (East)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Police Station Road Dundahera, Aggrawal sweets Gali (comes under Sector 21), Community,Centre, Dundahera Vishal Mega Mart	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Ardee City Society (Block A,B,C)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Shaib Kunj, Shankar Vihar, Chaumma Phatak, Chandan Vihar	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Dev Jewelry Shop, Ashok Vihar, Nandhi Dham, Chotu Ram Chowk, Ashok Vihar	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Tower K (In Godrej frontier Society)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Parmawati Gali Near School, Shani Mandir, Matawali Gali Yadram Gall (Islampur Village)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Kadipur Enclave, Gali No. 4	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Surat Nagar Phase-II Gali No 23	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Sabji Mandi Area (Khandsa Road)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Shakti Nagar Gali No 2	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Shivaji Park Gali No. 1, 2, 3, 4, Hira Nagar Gali No. 3,4, Shakti Park Gali No. I,2	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Anand Garden Gali No 2 Ashok Garden Gali No 3	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Flying Bird School. RK Surgical Ramlila Ground and, Back side of Lal Nursing Home and Kharbanda Hospital	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Krishna Nagar Gali No 2	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Jyoti Park Gali No 7, Gali No. 9, Baldev Nagar Gali No 14, Krishna colony Gali No. 9	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	DLF Phase 2 L-Block	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Choti Mata Mandir, Dr. Rohilla Clinic, Sunaro ka Mandir, Dr. Azad Clinic. Asthal Mandir, Devi ki Aganwadi	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Basai Village Bus Stand, Old Railway Fatak, Basai Enclave Part-I, Kamlesh Aganwadi in Basai Village	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Santra Devi School wali Gali Block F, Santosh AWC wall Gali Block D, Lalu Prashad wall Gali Block D	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Vikas Nagar, Gau Shala Basai Enclave, Housing Board Colony, Balaji Hospital (in Bhawani Enclave)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Ravi Nagar Gali No.5, Devi Lal Colony Gali No. 9, Ambedkar Nagar, Gali No. 2	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Adjacent to Shyam Public School (in Khandsa)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	GH Plot 2, Hermitage Housing Society (DLF Phase 3, Gurugram)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Om Parkash ki Gali (In Nathupur Village	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Kherki Daula ki Dhani (Kherki Daula Village)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Virdha Ashram Wali Gali (In Bajghera Village)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Hanuman Mandir Vali Gali (In Baliyawas Village)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Chappar wali Gali, Hoti Lal Ki Dhani, Mandir Wali Gali (Jamalpur)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Block D, Gali No.6, Gali No. 7, Gali No. 8 (in Sheetla Colony)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	New Palam Vihar, Block-D, Rishi Raj Rana House wali Gali, Block-K-1, Gali No. 1, New Palam Vihar Block-D till end	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Venkateshwar School, Harmony Home Society, Aloha & Aligents society, Hongkong Bazar.	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Hari Nagar, Gali No. 4 Gemini School, HSM School, Gali No. 5 Khandsa Road	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	New Shiv Mandir, Rajiv Nagar East-Gali No. 8, 9, 10, Pooja Marbal, Gali No. 3 Near Shiv Mandir	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Techrocrest Apartment, Double Tree Hilton Hotel, Vigyan Vihar, CSC Homes	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Bata Showroom Gali No. 13, Anup Singh Marg Gali No. 14, Choti Mata Wali Gall, Dahiya Gali	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Sattu Ka Ghar, Gall Towards metro pillar no. 51, Community Centre Sikanderpur Ghosi	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Opposite Police mess, peer wall gali, back side of Govt. School, Back Side of Sec. 22A, Near Yashvir Yadav Ka makan	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Harizan basti, Gold souk mall, gate no. 19 (in block-c), community centre (in block-c)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Gali No. 6 N Block, Mohan Nagar-Naya Gaon	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
+Haryana	Gurugram	Gurugram	Bhardwaj House No. 386-9A, Guru Kripya Gayatri Bhawan BD Verma House No. 401, House No. 409 Ganga Sadan 9A, Jhuggi Pocket-3, (In Sec. 9A)	https://twitter.com/DC_Gurugram/status/1263054937056931840?s=09
