@@ -545,11 +545,6 @@ Chhattisgarh 	Raipur	All	Note: Entire District declared Red Zone Hotspot as on 1
 Gujarat 	Patan	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Haryana 	Ambala	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Haryana 	Karnal	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Himachal Pradesh 	Solan	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Himachal Pradesh 	Una	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Himachal Pradesh 	Sirmaur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Himachal Pradesh 	Chamba	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Himachal Pradesh 	Kangra	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Shopian	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Rajouri	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jharkhand 	Ranchi	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -637,11 +632,6 @@ Maharashtra	Thane	All	Bhiwandi-Nizampur,	https://www.indiatvnews.com/news/india/
 Maharashtra	Thane	All	Kulgaon Badlapur	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
 Maharashtra	Thane	All	Nagar panchayat of Shahapur	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
 Maharashtra	Thane	All	Murbad	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
-Odisha 	Bhadrak	All	Bachhada High School, Basudevpur Block	https://twitter.com/theargus_in/status/1261191947974131712?s=09
-Odisha 	Bhadrak	All	LN Nodal High School, Tihidi Block	https://twitter.com/theargus_in/status/1261191947974131712?s=09
-Odisha 	Bhadrak	All	Nadigaon High School, Dhamnagar High School	https://twitter.com/theargus_in/status/1261191947974131712?s=09
-Odisha 	Bhadrak	All	Jayadurga High School, Dhamnagar High School	https://twitter.com/theargus_in/status/1261191947974131712?s=09
-Odisha 	Bhadrak	All	Muralidhar High School, Dhamnagar High School	https://twitter.com/theargus_in/status/1261191947974131712?s=09
 Odisha 	Khorda	All	Suryanagar	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Khorda	All	Bomikhali	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Khorda	All	Satyanagar	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
@@ -1007,22 +997,6 @@ Tamil Nadu 	Thiruvarur	All	Vandikkara Street	https://www.dailythanthi.com/News/D
 Tamil Nadu 	Thiruvarur	All	Aynoor Pillaiyaar Kovil Vadagu Theru	https://www.dailythanthi.com/News/Districts/2020/04/22035734/In-Thiruvarur-municipality-in-restricted-areasCleanliness.vpf
 Delhi	South Delhi	All	F-313, Near Shiva Mandir Lado Sari and F-274, 2nd Floor of Lado Sari, New Delhi	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
 Delhi	New Delhi	All	F-258, Campa Cola Gali Lado Sarai, New Delhi	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
-Maharashtra	Pimpri-Chinchawad	All	 Kharalwadi Premises, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 PMT Chowk Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Gurudatta Colony Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Ramrajya Planet Complex, Kasarwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Ganesh Nagar Premises, Dapodi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Shastri Chowk Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Sambhajinagar Complex, Akurdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Rhode Hospital Complex, Dighi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Tanishq Orchid Complex, Charholi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Krishnaraj Colony Premises, Pimple Gurav	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Nehru Nagar Bus Depot Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Kaveri Nagar Police Line Complex, Wakad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Rupinagar area, Talwade	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Fatima Mosque Gandharva Nagari Complex, Moshi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Vijay Nagar Complex, Dighi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
-Maharashtra	Pimpri-Chinchawad	All	 Adinath Nagar Complex, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-list-of-containment-zones-pcmc
 Haryana	Bahadurgarh	All	Loharhedi	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
 Haryana	Bahadurgarh	All	Sainipura	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
 Haryana	Bahadurgarh	All	Jatwada	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
@@ -1451,74 +1425,6 @@ Andhra Pradesh	Visakhapatnam	All	Marripalem - Bhaskar Gardens	https://twitter.co
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Ranapratap Nagar 	https://twitter.com/suripkfan/status/1257156373592322051
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Railway Quarters	https://twitter.com/suripkfan/status/1257156373592322051
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Mohidden Gardens	https://twitter.com/suripkfan/status/1257156373592322051
-Maharashtra	Pune	All	Mangalwar Peith, Juna Bazar, Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Parvati Darshan Parisar 1,  Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Parvati Darshan Parisar 2,  Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Parvati Chowk Jhopadpatti,  Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Parvati Dandekar Pul, Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Parvati Dattawadi,  Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Parvati indira nagar Neelayam Tokijajvak 1, Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Parvati indira nagar Neelayam Tokijajvak 2, Vishrambaug Wada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	City Central of Bhavani peth, Nana, Vishrambaghwada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Kondhwa Budruk kakadewasti,  Kondhwa Budruk	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Kondhwa BudrukNoting Hill Society, Kondhwa Budruk	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hole Vasti Undri,  Kondhwa Budruk	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Sukh sagar nagar amba mata mandir parisar, Kondhwa Budruk	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Kothrud Shivtara imarta nadhai sweets, Kothrud	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Kothrud Chandragupta Society,  Kothrud	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Pune stattion, Dole patil road	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Shivaji nagar station, Shivajinagar- ghole road	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Ghorpadi, balajinagar, Vikasnagar, Dole patil road	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Parvati taljai vasti 1,  Dhankavdi- Shehkarnagar	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Parvati taljai vasti 2,  Dhankavdi- Shehkarnagar	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Dhankavdi Balaji nagar,  Dhankavdi- Shehkarnagar	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Parvati Shiv darshan 1,  Dhankavdi- Shehkarnagar	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Dhankavdi, Gulab nagar, Chetnyanagar,  Dhankavdi- Shehkarnagar	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Ambe gao khurd,  Dhankavdi- Shehkarnagar	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Wadgaon Sheri Tempo Chowk, Nagar Road-Wadgaon Sheri	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Wadgaon Sheri Ganesh Nagar,  Nagar Road-Wadgaon Sheri	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Lohgao, Kalwadwasti, Nagar Road-Wadgaon Sheri	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Bibwewadi, Ambedkar nagar marketyard, Bibwewadi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Gultekdi, Minatai, Thakrenagar,  Bibwewadi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Gultekdi, Diasplot,  Bibwewadi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Bibwewadi, Upper Indranagar, Bibwewadi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Bibwewadi S.No. 670, Bibwewadi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Bibwewadi, Gultekdi seven day advertise mission, Bibwewadi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Bibwewadi, Gultekdi Dholemakka jopadpati,  Bibwewadi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Bibwewadi Premnagar, Bibwewadi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Yerwada Gandhinagar, Yerawada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Yerwada Gandhinagar 2, Yerawada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Yerawada Tarigupta,  Yerawada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Yerawada Nagarpur chowk, Yerawada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Yerawada Adarsh Indra nagar, Yerawada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Yerawada Phule Nagar,  Yerawada	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Kalas Jadhwasti, Yerawada Dhanori	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Yerawada area 6, Yerawada Dhanori	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hadapsar Ramnagar, Vanwadi Ramtekdi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hadapsar Ramtekdi, Vanwadi Ramtekdi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hadapasar gosavivasti veduwadi,  Vanwadi Ramtekdi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hadapasar sayed nagar 1, Vanwadi Ramtekdi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hadapasar sayed nagar 2, Vanwadi Ramtekdi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hadapasar sayed nagar 3, Vanwadi Ramtekdi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hadapasar Gulamali nagar,  Vanwadi Ramtekdi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Kodwakhurd Shivneri Nagar, Vanwadi Ramtekdi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Kodwakhurd Bhagya uday Nagar,  Vanwadi Ramtekdi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Kodwakhurd Tamboki bazar,  Vanwadi Ramtekdi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Kodwakhurd Mitha nagar,  Vanwadi Ramtekdi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Vanwadi SRPF,  Vanwadi Ramtekdi	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Shivajinagar Kamgaar,  Shivajinagar- ghole road	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Shivajinagar Mahatma gandhi jhopadpatti, Shivajinagar- ghole road	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Shivajinagar Patil estate, Shivajinagar- ghole road	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Shivajinagar Railway line, Shivajinagar- ghole road	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Narveer Tanaji Wadi Shivajinagar,  Shivajinagar- ghole road	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Shivajinagar, Kamgaar Ayukt, Shivajinagar- ghole road	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Shivajinagar Congress Bhavan pitmangli,  Shivajinagar- ghole road	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hadapasar Chintamaninagar, Hadapasar Mundwa	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hadapasar Adarsh Colony, Hadapasar Mundwa	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hadapasar Vetanagar, Hadapasar Mundwa	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hadapasar Satavdi, Hadapasar Mundwa	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hadapasar Makwadi, Hadapasar Mundwa	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
-Maharashtra	Pune	All	Hadapasar Handewadi, Hadapasar Mundwa	https://www.businessinsider.in/india/news/checkout-the-list-of-red-zones-and-containment-areas-in-pune-maharashtra/articleshow/75532656.cms
 Assam	Guwahati	All	Doctor's Hostel no. 5 of Guwahati Medical College (GMCH) campus	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
 Assam	Guwahati	All	Residential Area of Dr B Borooah Cancer Institute	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
 Assam	Guwahati	All	Amiyo Nagar	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
@@ -4363,3 +4269,121 @@ Karnataka	Bengaluru Urban	All	Jnanabharathinagar, Ward 129 [ Active cases: 1, De
 Karnataka	Bengaluru Urban	All	Nagavara, Ward 23 [ Active cases: 1, De-containment: 14-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Delhi	South Delhi	All	Zamrudpur 90C and 64C 	https://medlarge.com/blog/2020/05/20/national-capital-delhi-adds-two-new-containment-zones-with-ever-biggest-spike-of-534-new-cases-today/
 Delhi	North east Delhi	All	Dakshin Puri H.No. 306 to 379 on the main street of F Block	https://medlarge.com/blog/2020/05/20/national-capital-delhi-adds-two-new-containment-zones-with-ever-biggest-spike-of-534-new-cases-today/
+Maharashtra	Pune	All	Mangalwar Peth, Juna Bazar – Junabazar, Mangalwar Peth, Juna Bazar Premises (Final Plot No. 897,898)	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Parvati Darshan 1 – Welankarnagar, Laxminarayan Theater, Parvati Darshan, ST Colony, Hotel Panchami area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Parvati Darshan 2 – Parvatidarshan colony on the west side of Rambhau Mhalgi road	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Parvati Dandekar pool slum – Parvati Final	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Parvati Dattawadi – Parvati Final Plot No. 558 Dattawadi area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Kasba, Nana Peth, Bhavani Peth – Kasba, Vishrambagwada, Bhavani Peth, Somvar Peth, Mangalvar Peth, Budhvar Peth, Guruvar Peth, Shukravar Peth (Pai), Raviwar Peth, Rasta Peth, Nana Peth, Bhavani Peth, Mahatma Phule Peth (Ganj Peth), Ganesh Peth, Kasba Peth, Ghorpadi Peth.	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Pune Station, Tadiwala Road – Sweeper Chawl, Bhim Sanghatana Rajaratan, Vishwadeep Tarun Mitramadal, Maruti Mandir-1, Bal Mitramandal, Maruti Mandir-2. Drought Vasahat, Sangeeta Vasahat, Kapila Dairy Premises, Lokseva Mitramandal Ulhasnagar, Khadda Vasahat, Lokseva Vasahat, Chavan Chawl, Panmala Private Road, Indiranagar Private Road, Vikasnagar, Siddharthnagar Private Road, Kinara Nalanda Private Road, Patryachi Chawl Private Road. Tadiwala Road	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Bhavani Peth, Manjulabai Chawl – Manjulabai Chawl C.S.No. 778. 786. 787 Bhavani Peth	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Parvati, Taljai Vasti 1 – Golwalkar Guruji Path West Taljai Vasahat	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Parvati, Taljai Vasti 2 – Suvarna Society, Ramabai Ambedkar Society, Rohidas Society, Veer Lahuji Society Swapnasakar Society area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Parvati Shivdarshan 1 – Settlement on the west of Rambhau Mhalgi Path	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Parvati Shivdarshan 2 – Settlement on the east of Rambhau Mhalgi Path	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Parvati, Shahu Vasahat – Parvati, Shahu Vasahat, Area opposite Gajanan Maharaj Temple	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Katraj, Sudhamatanagar area – Katraj, S.No. 66 Sundhamatanagar adjoining area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Ambegaon Plateau, Siddhivinayak Colony, Navnathnagar – Ambegaon Plateau, Siddhivinayak Colony, Navnathnagar area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Bibwewadi, Ambedkarnagar, Market Yard – Bibwewadi Sr. no. 570, Amedkarnagar Vashat	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Gultekdi Diasplot – Plot No. 429 Diasplot Vashat	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Gultekdi, Meenatai Thakrenagar – Gultekdi, Flat no 427, Meenatai Thakre Vasahat	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Bibwewadi S.No 650 – Bibwewad Sr no 640, 648, 659 Upper Indira Nagar Vashat, Shivarayanagar S.No. 658	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Bibwewadi S.No. 650 – Bibwewadi Sr no 649, 650, 651, 652, area behind Aimata Mandir.	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Bibwewadi, Gultekdi, Dholemala Slum – Bibwewadi 430, 430 A1 A2, and 430 B	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Bibwewadi, Premnagar Vashat – Bibwewadi S.No. 690 (4) Premnagar Vashat	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Gultekdi, Shakarsheth Road – Gultekdi, Panorama Society, Near Kumar Pacific Mall, Shankarsheth Road	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Bibwewadi, Anant Vasahat, Kothari Blocks – Bibwewadi, Anant Vasahat, Kothari Blocks area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Bibwewadi Gaothan – Bibwewadi Gaothan, Sant Society, Hutatama Babu Genu area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Yerawada, Nagpur Chawl – Nagpur Chawl area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Yerawada Sec 6 – Looproad, Jail Road, Hot Mix Plot Road. Full section of Pune Nagar Road, Yerawada Gaothan, New Khadki Gaothan, Ganesh Nagar, Mother Teresa Nagar, Laxmi Nagar, Subhashnagar, Ashoknagar, Balajinagar, Kamarajnagar etc.	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Yerawada, Adarsh ​​Indiranagar, Alandi Road – Yerawada, Adarsh ​​Indiranagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Dhanori Chaudharinagar – Dhanori S.No. 29 (4) and 31 (4) Chaudharinagar, Gokulnagar, Mujoba Vasti Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Yerawada Dhere Talao Premises – Yerawada Late Keshavrao Dhere Talao area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Hadapsar, Ramnagar – Shardabai Londhe School, S. No. 110 Ramtekdi, Ramnagar Mosque Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Hadapsar, Ramtekadi – Good Shepherd Committee Church, School for blind, Vitthal Mandir Premises, Valmiki Vasti, Prathama Building, SRF Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Hadapsar, Gosavivasti, Vaiduwadi – Vaiduwadi, Riddhi Siddhi Building Complex, Lakshmi Mata Mandir Complex, Diamond Bakery Complex, Omkar Hospital Complex, Silver Tower Complex areas	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Hadapsar, Sayyednagar 1 – Premises near Syednagar Street No. 1A to 6A Syednagar Railway Gate	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Hadapsar, Sayyadnagar 2 – Ashiana Hall Complex, Street No. 8A to 28A, Ashabi Rasool Masjid Complex	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Hadapsar, Sayyadnagar 3, Ghulam Ali Nagar – Canara Bank ATM Complex, First Apartment Complex, Jama Masjid Complex, Navjivan Nursing Home Complex, Kamal Hospital Complex, Sayyednagar Street No. 1B to 15B	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Hadapsar, Ghulam Alinagar – All Streets in Ghulam Alinagar, Yusufiya Masjid Premises, Ideal English Medium Primary School Premises, Garib Nawaz Masjid Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Kondhwa Khurd Shivneri Nagar – Kondhwa Khurd Gaothan Campus, Srihansnagar Campus, Srihansnagar Street No. 1 to 36, Pearl Drop School Campus	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Kondhwa Khurd Bhagyodayanagar – Bhagyodayanagar, Kondhwa Road, North: Bhagyodayanagar Road South: Shital Petrol Pump Pari West: Bandhannagar Premises, Umar Premises, Sahil Masjid Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Kondhwa Khurd Tamboli Bazaar – Mithanagar Complex, Gagan Imrald Society Complex, Al Noor Masjid Complex, Akshar Dham Society Complex, Mount Haven Society Complex, West: Maharashtra Trust Educational Trust College Education Trust Mithanagar Street No. 1 to 18	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Kondhwa Khurd Mithanagar – East: Bhairiba Nala and Kondhwa Road, West Unity Park Co. Op. Society & Road, North: Ashoka Music Society, South: Ashrafnagar area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Wanwadi, S.R.P.F. – Wanwadi SRPF No. 1 & 2, Nanavatinagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Hadapsar, Gosavi Vasti – Hadapsar, S.No. 106A (Pa), Gosavi Vasti, Pune Solapur Road area around the canal	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Shivajinagar Railway Line, Vasahat on the south – Shivajinagar Railway Line South Colony Final Plot 11,23,24,25,26,29 Shivajinagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Shivajinagar, Kamgar Putla – Shivajinagar Kamgar Putla Vashat, Old Artillery, Rajiv Gandhinagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Shivajinagar, Mahatma Gandhi Slum – Mahatma Gandhi Colony Shivajinagar, Patkar Plot, Mahatma Gandhi Nagar (Final Plot No. 67)	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Shivajinagar, Patil Estate – Patil Estate, Patil Estate Colony, Final Plot No. 65 66 Shivajinagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Northside of Shivajinagar railway line – Shivajinagar Railway Line North Vishnukrupa Nagar Final Plot No. 29 Shivajinagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Shivajinagar, Slum near Labor Commissioner’s office – Bhoslewadi, Wakdewadi, F. Plot no. 58 out of 59	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Yerawada, Shakti Apartment, Lokshahir Annabhau Sathenagar – Yerawada, Shakti Apartment, and Lokshahir Annabhau Sathenagar, Sangamwadi Area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Yerawada, Siddharthnagar, Ramwadi – Yerawada, Siddharthnagar, Area around Ramwadi toll plaza	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Yerawada, White House Society – Yerawada, White House Society Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Wadgaon Sheri – Wadgaon Sheri, Saikripa Society, Vitthalnagar, Digambarnagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Yerawada Gandhinagar 1 – S.No. 103 Yerawada Jayaprakashnagar, Gandhinagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Parvati Janata Vasahat – Parvati Paytha, Jayabhavaninagar, Janata Vasahat Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Dhayari, Raikar Mala – Shivprathamesh Society, Pandav Samrajya, S.N. 75, 161 Raikar Mala Premises, Dhayari, Pune	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Hadapsar, Chintamaninagar, Near Railway Gate – Premises near Sayyednagar Magar Petrol Pump, Sant Teresa Church Premises, HDFC Bank ATM Premises, Maruti Mandir Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Hadapsar, Adarsh ​​Colony – All six lanes in Gajanan Colony, ICICI Bank, (ATM) Premises, Hotel Sangram Premises, Anjuman Khairul Islam Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Fursungi, Bhekrainagar – Fursugi S.No. 175, 176, 177, 178, Wadi 1784, 204, 206, 207 Bhekrainagar area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Kodhwa Budruk Kakadevasti – West: Road leading from Aai Mata Mandir to Kodhwa Budruk, Isha Pal Society Road to the north. South: Risha Enclave Building Road. East: Hotel Ruchira Food Complex Sai Kunj	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Katraj, Khadoba Temple area – Khandoba Temple area, Katraj (S.N. 174 18, etc) Sainagar Kondhwa Bu. (S.N. 594., 60, etc.) Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Dhankawadi, Balaji Nagar – Balajinagar Vashat, Dhankawadi, S.N 20, 21, 22, 23, Kashinath Patilnagar, Pawar Hospital Lane	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Erandwane, Rajput Vitbhatti colony – Erandwane, Rajput Vitbhatti colony, area near Mahadev temple	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pune	All	Kothrud, Postman Colony, Shastrinnagar – Kothrud, S. 83, Postman Colony, Shastrinagar Paud Road Left Side Premises.	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
+Maharashtra	Pimpri-Chinchawad	All	Kharalwadi area, Pimpri	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Shivneri Colony, Pimple Gurav	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Rupinagar, Talwade	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Madhuban Society, Juni Sangvi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Vijayanagar area, Dighi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Indira Nagar, Chinchwad	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Shubhshri Row House Society, Pimple Saudagar	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Bankar Vasti, Moshi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Bajaj School area, Sambhaji Nagar	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	New Angel School area, Talwade	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Woodsville Society area, Moshi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Mohannagar area, Chinchwad	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Tamhane Vasti, Chikhali	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Tapkir Chowk area, Kalewadi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Nikam Vasti, Charholi Budruk	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Sathe Nagar, Charholi Budruk	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Landge Nagar, Bhosari	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Kaspate Vasti, Wakad	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Dattnagar, Thergaon	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Guruvivar Society, Bhosari	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Chhatrapati Chowk, Rahatani	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Anandnagar, Chinchwad	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Chakrapani Vasahat, Bhosari	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Pavana Nagar, Juni Sangvi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Shubshri housing society, Akurdi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Vikasnagar area, Kivale	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Tambe school area, Rahatani	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Fugewadi area	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Panchdurg society, Rupinagar	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Kavade Nagar, Pimple Gurav	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Umbrella Garden, Sambhajinagar	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Amritdhara Society, Nigdi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Morevasti, Chikhali	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Bhatnagar, Pimpri	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Gyan Angan society area, Rahatani	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Hanuman Colony area, Bhosari	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Alankapuram Road area, Bhosari	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Shrikrishan Colony, Rahatani	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Sharadnagar, Chikhali	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Walhekarwadi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Akashraj Society Ravet	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Ganesham Society Pimple Saudagar	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Balghare Vasti, Chikhali	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Himachal Pradesh	Mandi	All	Thunag (Gohar)	https://www.hindustantimes.com/cities/four-covid-19-containment-zones-created-in-mandi/story-ePS8GfmiKzMZ4EFbY0mKkO.html
+Himachal Pradesh	Mandi	All	Mandi Sadar	https://www.hindustantimes.com/cities/four-covid-19-containment-zones-created-in-mandi/story-ePS8GfmiKzMZ4EFbY0mKkO.html
+Himachal Pradesh	Mandi	All	Balh	https://www.hindustantimes.com/cities/four-covid-19-containment-zones-created-in-mandi/story-ePS8GfmiKzMZ4EFbY0mKkO.html
+Himachal Pradesh	Mandi	All	Gohar	https://www.hindustantimes.com/cities/four-covid-19-containment-zones-created-in-mandi/story-ePS8GfmiKzMZ4EFbY0mKkO.html
+Odisha 	Bhadrak	All	Neheru Nodal High School Ganijang, Bonth Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
+Odisha 	Bhadrak	All	Baiyan UP school, Bhandaripokhari Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
+Odisha 	Bhadrak	All	R.B. Bidyamandira, Kamragaon Basudev Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
+Odisha 	Bhadrak	All	Mandalpada UPS, Basudev Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
+Odisha 	Bhadrak	All	Padhuan UP School, Basudevpur Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
+Odisha 	Bhadrak	All	Jharadeswara High School, Dhamnagar Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
+Odisha 	Bhadrak	All	Ghatapur High School, Chandabali Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
