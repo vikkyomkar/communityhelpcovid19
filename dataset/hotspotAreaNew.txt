@@ -4387,3 +4387,7 @@ Odisha 	Bhadrak	All	Mandalpada UPS, Basudev Block	https://cdn.s3waas.gov.in/s385
 Odisha 	Bhadrak	All	Padhuan UP School, Basudevpur Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
 Odisha 	Bhadrak	All	Jharadeswara High School, Dhamnagar Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
 Odisha 	Bhadrak	All	Ghatapur High School, Chandabali Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
+Maharashtra	Pimpri-Chinchawad	All	Kalewadi area	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Hutatma Chowk, Bhosari	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Sai Paradise area, Pimple Saudagar	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Sadguru Colony, Wakad	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
