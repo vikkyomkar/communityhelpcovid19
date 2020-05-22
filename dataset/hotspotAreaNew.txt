@@ -4391,3 +4391,4 @@ Maharashtra	Pimpri-Chinchawad	All	Sadguru Colony, Wakad	http://www.punekarnews.i
 Karnataka	Bengaluru Urban	All	Thanisandra, Ward 06 [ Active cases: 1, De-containment: 18-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Vammarpet, Ward 115	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Lakkasandra, Ward 146 [ Active cases: 1, De-containment: 18-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+
