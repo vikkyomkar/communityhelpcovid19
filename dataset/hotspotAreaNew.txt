@@ -4252,9 +4252,6 @@ Karnataka	Bengaluru Urban	All	Jagajeevanram Nagar, Ward 136 [ Active cases: 1, D
 Karnataka	Bengaluru Urban	All	Padarayanapura, Ward 135 [ Active cases: 39, De-containment: 17-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	K. R. Market, Ward 139 [ Active cases: 1, De-containment: 09-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Hongasandara, Ward 189 [ Active cases: 03, De-containment: 02-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Hampi Nagar, Ward 133 [ Active cases: 3, De-containment: 21-May ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Byrasandra, Ward 169 [ Active cases: 0, De-containment: 21-May ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Yeshwanthpur, Ward 37 [ Active cases: 0, De-containment: 21-May ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Deepanjali Nagar, Ward 158 [ Active cases: 0, De-containment: 26-May ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Bilekahalli, Ward 188 [ Active cases: 1, De-containment: 28-May ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Begur, Ward 192 [ Active cases: 0, De-containment: 01-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
@@ -4387,3 +4384,10 @@ Odisha 	Bhadrak	All	Mandalpada UPS, Basudev Block	https://cdn.s3waas.gov.in/s385
 Odisha 	Bhadrak	All	Padhuan UP School, Basudevpur Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
 Odisha 	Bhadrak	All	Jharadeswara High School, Dhamnagar Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
 Odisha 	Bhadrak	All	Ghatapur High School, Chandabali Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
+Maharashtra	Pimpri-Chinchawad	All	Kalewadi area	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Hutatma Chowk, Bhosari	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Sai Paradise area, Pimple Saudagar	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Maharashtra	Pimpri-Chinchawad	All	Sadguru Colony, Wakad	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
+Karnataka	Bengaluru Urban	All	Thanisandra, Ward 06 [ Active cases: 1, De-containment: 18-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	Vammarpet, Ward 115	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	Lakkasandra, Ward 146 [ Active cases: 1, De-containment: 18-June ]	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
