@@ -4,7 +4,7 @@ import influx
 
 placeArray= []
 db = 'traininfo'
-table = 'stoppages'
+table = 'routes'
 
 fh = open('train_data','r')
 fh2 = open('output','w')
@@ -23,9 +23,13 @@ for line in fh:
 
 	places = ' -> '.join(placeArray)
 	route = trainName + ' [ ' + places +  ' ]'
+
+	placestag = '|'.join(placeArray)
+	routetag = '\ '.join(placestag.strip().split(' '))
+
 	fh2.write("{0} - {1}".format(trainNo,route))
 
 	for ele in placeArray:
 		place = '\ '.join(ele.strip().split(' '))
-		postQuery = "{0},trainNo={1},place={2} route=\"{3}\"".format(table,trainNo,place,route)
+		postQuery = "{0},trainNo={1},place={2},routetag={3} route=\"{4}\"".format(table,trainNo,place,routetag,route)
 		influx.Post(db,postQuery)
