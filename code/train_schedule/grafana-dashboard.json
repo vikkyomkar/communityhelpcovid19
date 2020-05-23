@@ -1,0 +1,372 @@
+{
+  "annotations": {
+    "list": [
+      {
+        "builtIn": 1,
+        "datasource": "-- Grafana --",
+        "enable": true,
+        "hide": true,
+        "iconColor": "rgba(0, 211, 255, 1)",
+        "name": "Annotations & Alerts",
+        "type": "dashboard"
+      }
+    ]
+  },
+  "editable": true,
+  "gnetId": null,
+  "graphTooltip": 0,
+  "id": 33,
+  "iteration": 1590228420473,
+  "links": [],
+  "panels": [
+    {
+      "content": "<p style=\"text-align:center;color:blue\">\n<p style=\"text-align:center\">\n<b>\n <font size=\"2\">Go to &nbsp;<font size=\"3\"><a href=\"https://indiafightscovid19.online\" style=\"color:#FF0000;\">HomePage</a>&nbsp;<font size=\"2\"> for more info\n\n  \n ",
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 2,
+        "w": 24,
+        "x": 0,
+        "y": 0
+      },
+      "id": 4,
+      "mode": "html",
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "transparent": true,
+      "type": "text"
+    },
+    {
+      "columnAliases": [
+        {
+          "alias": "TrainNo.",
+          "name": "trainNo"
+        },
+        {
+          "alias": "Route",
+          "name": "route"
+        }
+      ],
+      "columnWidthHints": [],
+      "columns": [],
+      "compactRowsEnabled": true,
+      "datasource": "train-db",
+      "datatablePagingType": "simple_numbers",
+      "datatableTheme": "basic_theme",
+      "description": "WHERE troute =~ /Gorakhpur/ AND $timeFilter GROUP BY \"trainNo\"",
+      "emptyData": false,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {
+            "align": null
+          },
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              },
+              {
+                "color": "red",
+                "value": 80
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "fontSize": "110%",
+      "gridPos": {
+        "h": 21,
+        "w": 24,
+        "x": 0,
+        "y": 2
+      },
+      "hideTimeOverride": true,
+      "hoverEnabled": true,
+      "id": 2,
+      "infoEnabled": false,
+      "lengthChangeEnabled": true,
+      "orderColumnEnabled": true,
+      "pagingTypes": [
+        {
+          "text": "Page number buttons only",
+          "value": "numbers"
+        },
+        {
+          "text": "'Previous' and 'Next' buttons only",
+          "value": "simple"
+        },
+        {
+          "text": "'Previous' and 'Next' buttons, plus page numbers",
+          "value": "simple_numbers"
+        },
+        {
+          "text": "'First', 'Previous', 'Next' and 'Last' buttons",
+          "value": "full"
+        },
+        {
+          "text": "'First', 'Previous', 'Next' and 'Last' buttons, plus page numbers",
+          "value": "full_numbers"
+        },
+        {
+          "text": "'First' and 'Last' buttons, plus page numbers",
+          "value": "first_last_numbers"
+        }
+      ],
+      "panelHeight": null,
+      "pluginVersion": "7.0.0",
+      "rowNumbersEnabled": false,
+      "rowsPerPage": 5,
+      "scroll": true,
+      "scrollHeight": "default",
+      "searchEnabled": true,
+      "showCellBorders": true,
+      "showHeader": true,
+      "showRowBorders": true,
+      "sort": {
+        "col": 0,
+        "desc": true
+      },
+      "sortByColumns": [
+        {
+          "columnData": 0,
+          "sortMethod": "desc"
+        }
+      ],
+      "sortByColumnsData": [
+        [
+          0,
+          "desc"
+        ]
+      ],
+      "stripedRowsEnabled": true,
+      "styles": [
+        {
+          "dateFormat": "YYYY-MM-DD HH:mm:ss",
+          "pattern": "Time",
+          "type": "date"
+        },
+        {
+          "colorMode": null,
+          "colors": [
+            "rgba(245, 54, 54, 0.9)",
+            "rgba(237, 129, 40, 0.89)",
+            "rgba(50, 172, 45, 0.97)"
+          ],
+          "decimals": 2,
+          "pattern": "/.*/",
+          "splitPattern": "/ /",
+          "thresholds": [],
+          "type": "number",
+          "unit": "short"
+        }
+      ],
+      "targets": [
+        {
+          "groupBy": [
+            {
+              "params": [
+                "$__interval"
+              ],
+              "type": "time"
+            },
+            {
+              "params": [
+                "null"
+              ],
+              "type": "fill"
+            }
+          ],
+          "hide": true,
+          "orderByTime": "ASC",
+          "policy": "default",
+          "query": "SELECT distinct(\"value\") FROM \"measurement\" WHERE $timeFilter GROUP BY time($__interval) fill(null)",
+          "rawQuery": true,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "select": [
+            [
+              {
+                "params": [
+                  "value"
+                ],
+                "type": "field"
+              },
+              {
+                "params": [],
+                "type": "distinct"
+              }
+            ]
+          ],
+          "tags": []
+        },
+        {
+          "groupBy": [
+            {
+              "params": [
+                "trainNo"
+              ],
+              "type": "tag"
+            }
+          ],
+          "measurement": "routes",
+          "orderByTime": "ASC",
+          "policy": "default",
+          "query": "SELECT distinct(\"route\") FROM \"routes\" WHERE routetag =~ /$place1/ and routetag =~ /$place2/ and  $timeFilter GROUP BY \"trainNo\"",
+          "rawQuery": true,
+          "refId": "B",
+          "resultFormat": "table",
+          "select": [
+            [
+              {
+                "params": [
+                  "route"
+                ],
+                "type": "field"
+              }
+            ]
+          ],
+          "tags": [
+            {
+              "key": "routetag",
+              "operator": "=",
+              "value": "select tag value"
+            }
+          ]
+        }
+      ],
+      "themeOptions": {
+        "dark": "./styles/dark.scss",
+        "light": "./styles/light.scss"
+      },
+      "themes": [
+        {
+          "disabled": false,
+          "text": "Basic",
+          "value": "basic_theme"
+        },
+        {
+          "disabled": true,
+          "text": "Bootstrap",
+          "value": "bootstrap_theme"
+        },
+        {
+          "disabled": true,
+          "text": "Foundation",
+          "value": "foundation_theme"
+        },
+        {
+          "disabled": true,
+          "text": "ThemeRoller",
+          "value": "themeroller_theme"
+        }
+      ],
+      "timeFrom": "10d",
+      "timeShift": null,
+      "title": "Trains Starting from June 1, 2020",
+      "transform": "table",
+      "transformations": [
+        {
+          "id": "organize",
+          "options": {
+            "excludeByName": {
+              "Time": true
+            },
+            "indexByName": {},
+            "renameByName": {}
+          }
+        }
+      ],
+      "type": "briangann-datatable-panel"
+    }
+  ],
+  "schemaVersion": 25,
+  "style": "dark",
+  "tags": [],
+  "templating": {
+    "list": [
+      {
+        "allValue": null,
+        "current": {
+          "selected": true,
+          "text": "Mgr Chennai Ctr",
+          "value": "Mgr Chennai Ctr"
+        },
+        "datasource": "train-db",
+        "definition": "SHOW TAG VALUES WITH KEY = \"place\"",
+        "hide": 0,
+        "includeAll": false,
+        "label": "Select City1",
+        "multi": false,
+        "name": "place1",
+        "options": [],
+        "query": "SHOW TAG VALUES WITH KEY = \"place\"",
+        "refresh": 1,
+        "regex": "",
+        "skipUrlSync": false,
+        "sort": 0,
+        "tagValuesQuery": "",
+        "tags": [],
+        "tagsQuery": "",
+        "type": "query",
+        "useTags": false
+      },
+      {
+        "allValue": null,
+        "current": {
+          "selected": true,
+          "text": "Ksr Bengaluru",
+          "value": "Ksr Bengaluru"
+        },
+        "datasource": "train-db",
+        "definition": "SHOW TAG VALUES WITH KEY = \"place\"",
+        "hide": 0,
+        "includeAll": false,
+        "label": "Select City2",
+        "multi": false,
+        "name": "place2",
+        "options": [],
+        "query": "SHOW TAG VALUES WITH KEY = \"place\"",
+        "refresh": 1,
+        "regex": "",
+        "skipUrlSync": false,
+        "sort": 0,
+        "tagValuesQuery": "",
+        "tags": [],
+        "tagsQuery": "",
+        "type": "query",
+        "useTags": false
+      }
+    ]
+  },
+  "time": {
+    "from": "now-7d",
+    "to": "now"
+  },
+  "timepicker": {
+    "refresh_intervals": [
+      "10s",
+      "30s",
+      "1m",
+      "5m",
+      "15m",
+      "30m",
+      "1h",
+      "2h",
+      "1d"
+    ]
+  },
+  "timezone": "",
+  "title": "TrainToHome",
+  "uid": "iQQz-lRGk",
+  "version": 19
+}
