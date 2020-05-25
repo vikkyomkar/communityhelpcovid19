@@ -1,7 +1,3 @@
-Delhi	East Delhi	All	House no. 141-180, Gali No. 14, Kalyan Puri	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	East Delhi	All	Gali No. 4 from House No. J-3/115 to J-3/108, Krishan Kunj Extension 3)	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	East Delhi	All	Gali No. 4 from House No. J-3/101 to J-3/107, Krishan Kunj Extension	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
-Delhi	South west Delhi	All	Shahajahanabad Society, Plot No 1, Sector 11, Dwarka	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	South Delhi	All	Entire effected street near Gandhi Park, Malviya Nagar	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	South Delhi	All	Entire effected street of Gali No 5, 6 &7, L-1 Sangam Vihar	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	South Delhi	All	Affected area around H. No. A-176, Deoli Extension	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
@@ -12,7 +8,6 @@ Delhi	South east Delhi	All	Mehela Mohalla, Madanpur Khadar	https://economictimes
 Delhi	South east Delhi	All	H-Block, Near Umra Masjid, Abu Fazal Enclave	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South east Delhi	All	H. No. 53 to 55 & 25, Shera Mohalla, Garhi, East of Kailash	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	North Delhi	All	Gali No. 1 to 10 (1 to 1000) C Block Jhangirpuri	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
-Delhi	South west Delhi	All	Dinpur Village	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	South west Delhi	All	Gali No. 5 & 5A, H-2 Block, Bengali Colony, Mahavir Enclave	https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-containment-zones-in-delhi-rises-to-43/articleshow/75110988.cms
 Delhi	South east Delhi	All	Area of street/Gali No. 18 to 22 of Zakir Nagar and nearby area of Abu Bakar Masjid of Zikr Nagar (core) rest of Zakinr Nagar as Buffer Zone	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
 Delhi	North Delhi	All	B Block Jhangirpuri	https://www.indiatoday.in/india/story/coronavirus-in-india-full-list-of-30-covid-19-hotspots-sealed-in-delhi-1665684-2020-04-10
@@ -331,10 +326,8 @@ Delhi	South west Delhi	All	C-2 Block-Janakpuri-Kothi number-119	https://www.indi
 Delhi	South east Delhi	All	H. No. 811 to 829 and 842 to 835 - Khadda Colony, Jaitpur, Extension, Part-II	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South east Delhi	All	H. No. 1144 to 1134 and 618 to 623 - Khadda Colony, Jaitpur, Extension, Part-II	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	South east Delhi	All	Entire Gali starting from House no. G-54 to F-107 & Entire Gali starting from House no. CN 854 to House no.137, Chhuriya Mohalla (Tughlakabad village)	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
-Delhi	South east Delhi	All	Gali No 1,2 & 3 Block D Sangam Vihar, H.No. 112, Gali No. 2 	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	North Delhi	All	1100 Wali Gali (H.No. 1181-1200), 1200 wali gali (H. No. 1238-1268), 1300 wali Gali (H. No. 1306-1331), H-3 Block, Jhangirpuri	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	Central	All	Bara Hindu Rao area	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
-Delhi	Central	All	Nawab Ganj area	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Delhi	North east Delhi	All	House no 62, Gali no.4, B- block, Shastri Park	https://www.indiatvnews.com/news/india/delhi-red-zones-coronavirus-hotspots-janakpuri-full-list-607630
 Maharashtra	Nagpur	All	Gitanjali Square	https://twitter.com/ANI/status/1250258393996107777
 Maharashtra	Nagpur	All	Hasanbagh	https://twitter.com/ANI/status/1250258393996107777
@@ -474,8 +467,6 @@ Gujarat 	Vadodara	All	Note: Entire District declared Red Zone Hotspot as on 15 A
 Gujarat 	Surat	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Gujarat 	Bhavnagar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Gujarat 	Rajkot	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Haryana 	Nuh	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Haryana 	Palwal	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Srinagar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Bandipura	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Baramulla	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -533,18 +524,11 @@ Uttarakhand 	Dehradun	All	Note: Entire District declared Red Zone Hotspot as on 
 West Bengal 	Medinipur East	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 West Bengal 	North 24 Parganas	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Andaman & Nicobar 	South Andamans	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Assam 	Golaghat	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Assam 	Marigaon	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Assam 	Nalbari	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Assam 	Goal para	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Assam 	Dhubri	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Bihar 	Munger	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Bihar 	Begusarai	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Bihar 	Gaya	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Chhattisgarh 	Raipur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Gujarat 	Patan	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Haryana 	Ambala	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Haryana 	Karnal	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Shopian	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jammu & Kashmir 	Rajouri	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jharkhand 	Ranchi	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -572,11 +556,10 @@ Uttar Pradesh 	Baghpat	All	Note: Entire District declared Red Zone Hotspot as on
 Uttarakhand 	Nainital	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttarakhand	Udam Singh Nagar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Karnataka 	Bengaluru Rural	All	Kodipalya village, Doddaballapur	https://www.youtube.com/watch?v=GPiXVVMipAA
-Delhi 	New Delhi	All	B-4/206 in Safdarjung Enclave	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
 Delhi 	North Delhi	All	G,H and I Block of Police Colony in Model Town	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
 Delhi 	Shahdara	All	Gali No. 3, 4 and 5 in East Ram Nagar	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
 Delhi 	South Delhi	All	House No. 50 in Hauz Rani -- from Mother Dairy to Raja Ram Mohan School	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
-Delhi 	South east Delhi	All	Gali No. 6, A Block, Abul Fazal Enclave, in Shaheen Bagh	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
+Delhi 	South east Delhi	All	E- Block, Abul Fazal Enclave, in Shaheen Bagh	https://www.indiatoday.in/india/story/full-list-of-covid-19-hotspots-in-delhi-shaheen-bagh-1667739-2020-04-16
 Punjab 	Pathankot	All	T-3 Quarters at Additional Land Colony, ShahpurKandi Township, Jugial	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041154.pdf
 Punjab 	Pathankot	All	Anandpur Rara/Kulian	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041380.pdf
 Punjab 	Pathankot	All	Village Sarti, Tikka Tarowan, Hadbast No. 404, Tehsil Dharkalan	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041295.pdf
@@ -592,18 +575,15 @@ Punjab 	Rupnagar	All	Chatwali	https://punjabi.abplive.com/videos/news/punjab-pun
 Punjab 	SAS Nagar Mohali	All	Phase 3 A	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
 Punjab 	SAS Nagar Mohali	All	Sector 69	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
 Punjab 	SAS Nagar Mohali	All	Sector 91	https://punjabi.abplive.com/videos/news/punjab-punjab-8-red-zone--537003
-Delhi 	South east Delhi	All	Gali numbers 26, 26B, 27 and 27B, Tughlakabad Extension	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
+Delhi 	South east Delhi	All	Gali numbers 26, 26B, H. No. 2056-2094 27 and 27B, H.No. 2063-2083 ,Tughlakabad Extension	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Delhi 	North Delhi	All	K-Block Jahangir Puri between houses 716 and 785; 786 to 860 and 861 to 950	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Delhi 	South Delhi	All	area around house number 859/20, L-II, Sangam Vihar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Delhi 	South Delhi	All	House number 153/B, 4th floor, Savitri Nagar in Malviya Nagar	https://www.outlookindia.com/newsscroll/delhi-gets-8-new-containment-zones-count-reaches-68/1806199
 Madhya Pradesh 	Ujjain	All	Kamri Marg	https://www.naidunia.com/madhya-pradesh/bhopal-live-madhya-pradesh-news-update-one-more-corona-positive-in-ujjain-so-far-28-lb-5510564
-Delhi 	South Delhi	All	A Block, Khizrabad, New Friends Colony	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
-Delhi 	West Delhi	All	Israel Camp, Rang Puri Pahari	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
+Delhi 	South east Delhi	All	A Block, Khizrabad, New Friends Colony	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
 Delhi 	North east Delhi	All	Budh Nagar, Inderpuri	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
-Delhi 	North Delhi	All	Oberoi Apartment	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
-Delhi 	New Delhi	All	G-1 2nd Floor Mansarovar Garden	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
 Delhi 	North east Delhi	All	E-51 and E-21 street 8, Shastri Park	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
-Delhi 	Shahdara	All	T-606 street-18 Gautam Puri	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
+Delhi 	North east Delhi	All	T-606 street-18 Gautam Puri	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
 Delhi 	North east Delhi	All	A-97,98,99 near Buland Masjid, Shastri Park.	https://www.ndtv.com/delhi-news/delhi-coronavirus-8-additions-in-delhi-coronavirus-hotspot-list-in-24-hours-total-76-2214190
 Maharashtra	Raigad	All	Panvel	https://www.lokmat.com/raigad/coronavirus-six-corona-patient-increase-panvel-uran-28-patients-raigad/?utm_source=Lokmat.com&utm_medium=InfiniteArticle-Desktop
 Maharashtra	Raigad	All	Uran	https://www.lokmat.com/raigad/coronavirus-six-corona-patient-increase-panvel-uran-28-patients-raigad/?utm_source=Lokmat.com&utm_medium=InfiniteArticle-Desktop
@@ -660,11 +640,9 @@ Odisha 	Balasore	All	 Entrance of NILLIABAG lane near 	https://www.ommcomnews.co
 Odisha 	Balasore	All	CHIDIAPOL	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Balasore	All	Ranipatana Chhaka	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Balasore	All	Apple Tower	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
-Delhi 	South east Delhi	All	Lane 24-28 of Tughlaqabad Extension	https://twitter.com/NEWS9TWEETS/status/1252270347073667072
 Delhi 	North Delhi	All	Block - G of Jahangirpuri	https://twitter.com/NEWS9TWEETS/status/1252270347073667072
 Delhi 	North Delhi	All	Flat number 265 to 500 of Sanjay Enclave, Jahangirpuri	https://twitter.com/NEWS9TWEETS/status/1252270347073667072
-Delhi 	East Delhi	All	Block 34 of Trilokpuri	https://twitter.com/NEWS9TWEETS/status/1252270347073667072
-Delhi 	New Delhi	All	Block AF of Shalimar Bagh	https://twitter.com/NEWS9TWEETS/status/1252270347073667072
+Delhi 	North west Delhi	All	Block AF of Shalimar Bagh	https://twitter.com/NEWS9TWEETS/status/1252270347073667072
 Karnataka 	Kalaburagi	All	Shahabad	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-karnataka-and-bengaluru-mysuru-red-zone-list-get-complete-list-of-containment-zones-here-1587364293-1
 Karnataka 	Kalaburagi	All	Basavakalyana	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-karnataka-and-bengaluru-mysuru-red-zone-list-get-complete-list-of-containment-zones-here-1587364293-1
 Karnataka	Vijayapura	All	Mudhol	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-karnataka-and-bengaluru-mysuru-red-zone-list-get-complete-list-of-containment-zones-here-1587364293-1
@@ -680,7 +658,7 @@ Telangana	Secunderabad	All	Kakateeynagar	https://www.jagranjosh.com/current-affa
 Telangana	Adilabad	All	Adilabad municipality (19 Wards)	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
 Delhi 	East Delhi	All	H.No. 300, Gali No.3 Krishna Puri, Main Road Mandawali, to H.No. 739/16 Gali No. 3, Krishna Puri, Main Road Mandawali. 	https://www.jagranjosh.com/current-affairs/delhi-coronavirus-hotspots-manish-sisodia-arvind-kejriwal-coronavirus-masks-delhi-1586369305-1?ref=list_ca
 Delhi 	South Delhi	All	Gali No. 2, 3 and 4, Devli Extension	https://www.jagranjosh.com/current-affairs/delhi-coronavirus-hotspots-manish-sisodia-arvind-kejriwal-coronavirus-masks-delhi-1586369305-1?ref=list_ca
-Delhi 	New Delhi	All	H. No. F-138 and F-139, Gali No. 1 (Shiv Mandir Wali gali), Harsh Vihar, Hari Nagar Extension	https://www.jagranjosh.com/current-affairs/delhi-coronavirus-hotspots-manish-sisodia-arvind-kejriwal-coronavirus-masks-delhi-1586369305-1?ref=list_ca
+Delhi 	South east Delhi	All	H. No. F-138 and F-139, Gali No. 1 (Shiv Mandir Wali gali), Harsh Vihar, Hari Nagar Extension	https://www.jagranjosh.com/current-affairs/delhi-coronavirus-hotspots-manish-sisodia-arvind-kejriwal-coronavirus-masks-delhi-1586369305-1?ref=list_ca
 Rajasthan 	Jaipur	All	MD Road	https://twitter.com/Shyam__INC/status/1252991250455805952
 Rajasthan 	Jaipur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Rajasthan 	Ajmer	All	Mochi Mohalla	https://twitter.com/DWIJMUKESH/status/1252844321214066695
@@ -739,7 +717,6 @@ Rajasthan 	Jodhpur	All	Kabootaron ka chowk	https://twitter.com/manit_choudhary/s
 Rajasthan 	Jaipur	All	Shastri Nagar	https://twitter.com/dineshkumawat/status/1253348240071823367
 Rajasthan 	Jaipur	All	Mansarovar	https://twitter.com/dineshkumawat/status/1253348240071823367
 Delhi 	South Delhi	All	Samshi Talab in Mehrauli including A-3 Lake view apartment	https://twitter.com/ANI/status/1253336501812789252
-Delhi 	South west Delhi	All	 gali number 1 band of Raj Nagar 2 in Dwarka	https://twitter.com/ANI/status/1253336501812789252
 Delhi 	Shahdara	All	 house number 15 to 101 in Dayanand Vihar	https://twitter.com/ANI/status/1253336501812789252
 Karnataka	Mysuru	All	Kuvempunagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
 Karnataka	Mysuru	All	Jayalakshminagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
@@ -755,8 +732,8 @@ Karnataka	Mysuru	All	Housing Boarding Colony	https://citytoday.news/covid-19-act
 Karnataka	Mysuru	All	Gokulam	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
 Rajasthan 	Jodhpur	All	Shastri Nagar	https://twitter.com/manit_choudhary/status/1253745085235302405?cn=ZmxleGlibGVfcmVjc18y&refsrc=email
 Delhi 	Shahdara	All	Maujpur- Gali No18 of Vijay Park	https://twitter.com/CovidIndiaSeva/status/1253926184343097345
-Delhi 	New Delhi	All	Gali No. 3 and 9 of Shalimar Village	https://twitter.com/ANI/status/1254049293989601280?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1254049293989601280&ref_url=https%3A%2F%2Fwww.livemint.com%2Fnews%2Findia%2Ftotal-number-of-covid-19-containment-zones-in-delhi-are-now-95-full-list-11587824060062.html
-Delhi 	North east Delhi	All	Block X, Gali No. 1-3 of Yadav Villa	https://twitter.com/ANI/status/1254049293989601280?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1254049293989601280&ref_url=https%3A%2F%2Fwww.livemint.com%2Fnews%2Findia%2Ftotal-number-of-covid-19-containment-zones-in-delhi-are-now-95-full-list-11587824060062.html
+Delhi 	North west Delhi	All	Gali No. 3 of Shalimar Village	https://twitter.com/ANI/status/1254049293989601280?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1254049293989601280&ref_url=https%3A%2F%2Fwww.livemint.com%2Fnews%2Findia%2Ftotal-number-of-covid-19-containment-zones-in-delhi-are-now-95-full-list-11587824060062.html
+Delhi 	North east Delhi	All	Block X, Gali No. 1-3 of Yadav Villa, Brahmapuri, Seelampur	https://twitter.com/ANI/status/1254049293989601280?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1254049293989601280&ref_url=https%3A%2F%2Fwww.livemint.com%2Fnews%2Findia%2Ftotal-number-of-covid-19-containment-zones-in-delhi-are-now-95-full-list-11587824060062.html
 Gujarat 	Vadodara	All	Dabhoi, Vadodara Rural	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Vadodara	All	Bhayali, Vadodara Rural	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Vadodara	All	Vaghodiya, Vadodara Rural	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
@@ -835,7 +812,7 @@ Haryana	Sonipat	All	Gudmandi	https://www.jagran.com/haryana/sonipat-ncr-coronavi
 Haryana	Ambala	All	Village Thharwa	https://www.bhaskar.com/local/haryana/ambala/news/seal-the-village-and-put-quarantine-posters-on-12-shops-making-the-district-the-third-containment-zone-127241870.html
 Haryana	Ambala	All	Timber market in Cantt	https://www.bhaskar.com/local/haryana/ambala/news/seal-the-village-and-put-quarantine-posters-on-12-shops-making-the-district-the-third-containment-zone-127241870.html
 Haryana	Ambala	All	Shejadpur	https://www.bhaskar.com/local/haryana/ambala/news/seal-the-village-and-put-quarantine-posters-on-12-shops-making-the-district-the-third-containment-zone-127241870.html
-Delhi 	New Delhi	All	Area between Kumhar Gali and Chaupal Chawk in Kotla Mubarakpur	https://www.livemint.com/news/india/delhi-number-of-covid-19-containment-zones-rise-to-97-full-list-here-11587917642337.html
+Delhi 	South east Delhi	All	Area between Kumhar Gali and Chaupal Chawk in Kotla Mubarakpur	https://www.livemint.com/news/india/delhi-number-of-covid-19-containment-zones-rise-to-97-full-list-here-11587917642337.html
 Delhi 	North Delhi	All	Gali No. 3, 4, 5 in Majlis Park, Adarsh Nagar	https://www.livemint.com/news/india/delhi-number-of-covid-19-containment-zones-rise-to-97-full-list-here-11587917642337.html
 Madhya Pradesh 	Ujjain	All	Amber Colony	https://timesofindia.indiatimes.com/city/indore/ujjain-cop-succumbs-to-coronavirus/articleshow/75265492.cms
 Uttar Pradesh	Varanasi	All	Arjunpur, Sevapuri Vikas Khand	https://twitter.com/livesanmarg/status/1254725293199196161
@@ -844,7 +821,7 @@ Uttar Pradesh	Varanasi	All	Pitarkunda	https://twitter.com/livesanmarg/status/125
 Uttar Pradesh	Varanasi	All	Nakkhighat	https://twitter.com/livesanmarg/status/1252565443019255808
 Delhi 	New Delhi	All	H. No. P-65 and H.No. P-184, Pillanji Village	https://www.indiatoday.in/india/story/coronavirus-delhi-govt-adds-two-more-areas-in-hotspot-list-check-full-list-of-99-containment-zones-here-1671780-2020-04-27
 Delhi 	South Delhi	All	Nirankari Gali, Nakshatra Gali, Nala Boring Gali, Ravan Wali Gali, Jamila Masjid Gali, Dargah Gurudwara Gali, Thane Wali Gali and Terminal Wali Gali	https://www.indiatoday.in/india/story/coronavirus-delhi-govt-adds-two-more-areas-in-hotspot-list-check-full-list-of-99-containment-zones-here-1671780-2020-04-27
-Delhi	South Delhi	All	House no 152 to 162 in Block D of Shaheen Bagh	https://twitter.com/news24tvchannel/status/1255158789256306688
+Delhi	South east Delhi	All	House no 152 to 162 in Block D of Shaheen Bagh	https://twitter.com/news24tvchannel/status/1255158789256306688
 Odisha 	Jajpur	All	Katikata village, Bihipur village in Katikata GP	https://sambadenglish.com/odisha-two-more-gps-declared-covid-19-containment-zones-in-jajpur/
 Odisha 	Jajpur	All	Mohanty Patna village and Mallikapur (Part) in Mallikapur GP under Dasarathpur Block	https://sambadenglish.com/odisha-two-more-gps-declared-covid-19-containment-zones-in-jajpur/
 Odisha 	Jajpur	All	Birajapur under Dasarathpur Block	https://sambadenglish.com/odisha-two-more-gps-declared-covid-19-containment-zones-in-jajpur/
@@ -996,7 +973,7 @@ Tamil Nadu	Kanyakumari	All	Mangalai village	https://www.dailythanthi.com/News/Di
 Tamil Nadu 	Thiruvarur	All	Vandikkara Street	https://www.dailythanthi.com/News/Districts/2020/04/22035734/In-Thiruvarur-municipality-in-restricted-areasCleanliness.vpf
 Tamil Nadu 	Thiruvarur	All	Aynoor Pillaiyaar Kovil Vadagu Theru	https://www.dailythanthi.com/News/Districts/2020/04/22035734/In-Thiruvarur-municipality-in-restricted-areasCleanliness.vpf
 Delhi	South Delhi	All	F-313, Near Shiva Mandir Lado Sari and F-274, 2nd Floor of Lado Sari, New Delhi	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
-Delhi	New Delhi	All	F-258, Campa Cola Gali Lado Sarai, New Delhi	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
+Delhi	South Delhi	All	F-258, Campa Cola Gali Lado Sarai, New Delhi	https://www.hindustantimes.com/india-news/coronavirus-latest-update-delhi-containment-zones-reduced-to-97-three-areas-exit-list-on-friday/story-ip7a5NLhIB2GJ1bmgsoq6K.html
 Haryana	Bahadurgarh	All	Loharhedi	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
 Haryana	Bahadurgarh	All	Sainipura	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
 Haryana	Bahadurgarh	All	Jatwada	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
@@ -1311,8 +1288,6 @@ Andhra Pradesh	Visakhapatnam	All	Marripalem - Ranapratap Nagar 	https://twitter.
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Railway Quarters	https://twitter.com/suripkfan/status/1257156373592322051
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Mohidden Gardens	https://twitter.com/suripkfan/status/1257156373592322051
 Assam	Guwahati	All	Doctor's Hostel no. 5 of Guwahati Medical College (GMCH) campus	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
-Assam	Guwahati	All	Residential Area of Dr B Borooah Cancer Institute	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
-Assam	Guwahati	All	Amiyo Nagar	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
 Maharashtra	Thane	All	Saileela,Rameshwadi , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
 Maharashtra	Thane	All	Ganeshnagar , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
 Maharashtra	Thane	All	Mohan Tulsi Vihar,Hendrapada , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
@@ -4101,8 +4076,7 @@ Uttar Pradesh	Gautam Buddh Nagar	All	Village Nangla, Phase II, Noida	https://twi
 Uttar Pradesh	Gautam Buddh Nagar	All	Sector 15, Noida	https://twitter.com/ANINewsUP/status/1263183276690161665
 Uttar Pradesh	Gautam Buddh Nagar	All	Sector 27, Noida	https://twitter.com/ANINewsUP/status/1263183276690161665
 Uttar Pradesh	Gautam Buddh Nagar	All	Sunshine Helios, Sector 78, Noida	https://twitter.com/ANINewsUP/status/1263183276690161665
-Delhi	South Delhi	All	Zamrudpur 90C and 64C 	https://medlarge.com/blog/2020/05/20/national-capital-delhi-adds-two-new-containment-zones-with-ever-biggest-spike-of-534-new-cases-today/
-Delhi	North east Delhi	All	Dakshin Puri H.No. 306 to 379 on the main street of F Block	https://medlarge.com/blog/2020/05/20/national-capital-delhi-adds-two-new-containment-zones-with-ever-biggest-spike-of-534-new-cases-today/
+Delhi	South Delhi	All	Zamrudpur 64C greater kailash	https://medlarge.com/blog/2020/05/20/national-capital-delhi-adds-two-new-containment-zones-with-ever-biggest-spike-of-534-new-cases-today/
 Maharashtra	Pune	All	Mangalwar Peth, Juna Bazar – Junabazar, Mangalwar Peth, Juna Bazar Premises (Final Plot No. 897,898)	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
 Maharashtra	Pune	All	Parvati Darshan 1 – Welankarnagar, Laxminarayan Theater, Parvati Darshan, ST Colony, Hotel Panchami area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
 Maharashtra	Pune	All	Parvati Darshan 2 – Parvatidarshan colony on the west side of Rambhau Mhalgi road	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
@@ -4246,7 +4220,6 @@ Karnataka	Bengaluru Urban	All	Padarayanapura, Ward 135, West	https://www.faceboo
 Karnataka	Bengaluru Urban	All	Jagajeevanram Nagar, Ward 136, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Madhya Pradesh	Betul	All	Hiwara Gaon 	https://www.facebook.com/betultalksmp/photos/rpp.902110273137978/3649486225067022/
 Madhya Pradesh	Betul	All	Athner Ward No 1, 10, 11, 14	https://www.facebook.com/betultalksmp/photos/rpp.902110273137978/3649486225067022/
-Madhya Pradesh	Betul	All	Tara Gaon	https://www.facebook.com/betultalksmp/photos/rpp.902110273137978/3649486225067022/
 Haryana	Faridabad	All	Shiv Durga Vihar	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Palwali village	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Dabua Colony	https://twitter.com/DC_Faridabad/status/1263758290594328577
@@ -4258,41 +4231,41 @@ Haryana	Faridabad	All	Blocks bearing Plot no. 682P-889P, 835P-905P, 817P-834P, 8
 Haryana	Faridabad	All	Baad Mohalla, Old Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Block-B, Jawahar Colony	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Mujessar	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Row of plot no. 1079-1096, 796-802, 908-925, 926-930 and block bearing plot nos. 931-976, Green Field Colony	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Block of plot no. 2719-2741, row of plot no. 2742-2753, row of plot no. 2802­2809 and plot nos. 2887 & 2888, Green Field Colony	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Row of plot no. 828-848, 849-866, 991-995, 1024-1027 and plot nos. 986 to 990, 996 to 999 and 1020 to 1023 Green Field Colony	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Row of plot no. 4039-4043, 4059-4066 and plot nos. 4035 to 4038, 4016 to 4018, 4010 to 4014 & 4054 to 4058 Green Field Colony	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Row of plot no. 746-770, 771-783 & 807-827, Green Field Colony	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Block of plots — 312-321, 322-353, 428-461, 407-424, row of plots- 428 to 1041 & plot nos. 425 to 427 & Labour quarters allotted by MCF in South of this cluster of plots, Green Field Colony	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Area of Sanjay Colony, Sector-23, Faridabad covered between House no. MCF­9470, Gali no. 294,295 near Gaunchi drain, House no. MCF-9491, Gali no. 295, Shop no. 8810, Near Gali no. 285 (Goyal Trading) and Workshop on Plot no. F-12 (Microtech Industries along Gaunchi Drain).	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Area of Sector- 23A (Part) and Sanjay Colony, Sector-23, Faridabad covered between House no. 1235, Sector-23A (in front of park and market), House no. 1648, Sector- 23A, House no. 1353, Sector- 23A (in front of Fountain Park), Shop no 48, Gali no.8 (Royal Properties on 22ft. Main Road), Sanjay Colony and Shop no. 13, Gali no. 03 (Mohar Ladies Tailor on 22ft. Road), Sanjay Colony.	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Plot nos. 1136 to 1145, 1520 to 1563, 1886 to 1961 P, 1962 to 1965, 2028 to 2031, 2032 to 2041, 2079 to 2087 P, 2935 to 2937 P, 2980 P to 2982, Sector 62, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Green Field Colony; Row of plot no. 1079-1096, 796-802, 908-925, 926-930 and block bearing plot nos. 931-976,	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Green Field Colony; Block of plot no. 2719-2741, row of plot no. 2742-2753, row of plot no. 2802­2809 and plot nos. 2887 & 2888	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Green Field Colony; Row of plot no. 828-848, 849-866, 991-995, 1024-1027 and plot nos. 986 to 990, 996 to 999 and 1020 to 1023 	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Green Field Colony; Row of plot no. 4039-4043, 4059-4066 and plot nos. 4035 to 4038, 4016 to 4018, 4010 to 4014 & 4054 to 4058	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Green Field Colony; Row of plot no. 746-770, 771-783 & 807-827	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Green Field Colony; Block of plots — 312-321, 322-353, 428-461, 407-424, row of plots- 428 to 1041 & plot nos. 425 to 427 & Labour quarters allotted by MCF in South of this cluster of plots	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Sector-23; Area of Sanjay Colony, Sector-23, Faridabad covered between House no. MCF­9470, Gali no. 294,295 near Gaunchi drain, House no. MCF-9491, Gali no. 295, Shop no. 8810, Near Gali no. 285 (Goyal Trading) and Workshop on Plot no. F-12 (Microtech Industries along Gaunchi Drain).	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Sector-23; Area of Sector- 23A (Part) and Sanjay Colony, Sector-23, Faridabad covered between House no. 1235, Sector-23A (in front of park and market), House no. 1648, Sector- 23A, House no. 1353, Sector- 23A (in front of Fountain Park), Shop no 48, Gali no.8 (Royal Properties on 22ft. Main Road), Sanjay Colony and Shop no. 13, Gali no. 03 (Mohar Ladies Tailor on 22ft. Road), Sanjay Colony.	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Sector 62; Plot nos. 1136 to 1145, 1520 to 1563, 1886 to 1961 P, 1962 to 1965, 2028 to 2031, 2032 to 2041, 2079 to 2087 P, 2935 to 2937 P, 2980 P to 2982, Sector 62, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Area of Adarsh Colony, Near Mulla Hotel, Faridabad covered between the locations of shop no. J-1(Sumit Traders, FBD-Oridsa B.S Tempo Service), Shop no. R-370(Batra Kirana Store in front of Veshno Devi Mandir), Shop no. R-303 (Wine & Kunal Soda Shop in front of Ram Singh Auto Centre) & House no J-59, Valmiki Gali along the Central Water Works Commission	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Pocket of EWS Plot bearing no. 288 to 701, Sector-18, Housing Board Colony, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Area covered between the locations of the houses of Sh. Sukhbir Singh Advocate, Sh. Fireh Chandila, Sh. Vijay Chandila and the Panchayat Bhawan in Village Fatehpur Chandila	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Sector-18; Pocket of EWS Plot bearing no. 288 to 701, Sector-18, Housing Board Colony, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Village Fatehpur Chandila; Area covered between the locations of the houses of Sh. Sukhbir Singh Advocate, Sh. Fireh Chandila, Sh. Vijay Chandila and the Panchayat Bhawan in Village Fatehpur Chandila	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Village Mahola	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Village Sihi	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Shiv Sharda Colony, Ballabgarh, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Structure falling between the stretch of Mawai Road from Shiv Mandir to Mahendra Building Material Shop, Tilpat, Sector- 91, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Area between row of plot nos. 666(P) to 658 (P) and row of plot nos. 853(P) to 870(P), in front of Modern School, sector 17, Faridabad 	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Area between row of plot nos. 996 to 966 and road in front of row of plots 739 to 759, sector 10, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Sector-91; Structure falling between the stretch of Mawai Road from Shiv Mandir to Mahendra Building Material Shop, Tilpat, Sector- 91, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	sector 17; Area between row of plot nos. 666(P) to 658 (P) and row of plot nos. 853(P) to 870(P), in front of Modern School, sector 17, Faridabad 	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	sector 10; Area between row of plot nos. 996 to 966 and road in front of row of plots 739 to 759, sector 10, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Indira Colony, Sector-05, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Entire belt of Auto Pin Jhuggies situated along Nallah, between Railway Road and Sector Dividing Road of Sector- 22 and 24.	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Blocks bearing Plot nos. 8P-21 P, 75P-90P, 91P-114P, 161P-198P and row of plots from plot no.168P-175, 183-191P, 215P-218, 235-238P & 116P-141P Sector-14, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Area between road in front of row of plot no. 687P-699P, road in front of row of plot no. 834P-853, road in front of row of plot no. 714P-727P and Stretch of Sector Dividing Road of Sector- 7 and 8 abutting row of plot no. 780P-803P, Sector- 7, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Cluster namely 'Sai Colony' bounded by Firing Range Road and Sai Mandir Road, along Chainsa Distributary, Village Mawai	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Structures existing on stretch of Kheri kalan Road between the existing shop namely Krishna Dairy and Jai Ma Durge Building Material Shop, Indra Colony, Near Kheri Pull, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Cluster namely 'Hanuman Nagar' situated between sector dividing road of Sector-87 and 88 and Vikas Nagar, along the Faridabad Nachauli Road, Sector- 87, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Part area of Himalaya School pocket covered between Air Force Nallah (stretch between Saraswati School & developed plot of Sh. Chaudhary), Aggarwal School Gali (up to House of Davesh Aggarwal Advt., Gall No. 1 & 5, 5/1 (Khushi Silai Center) up to Saraswati School, Sanjay Enclave. Parvatiya Colony (Masjid Area), Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Sector- 22 and 24.; Entire belt of Auto Pin Jhuggies situated along Nallah, between Railway Road and Sector Dividing Road of Sector- 22 and 24.	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Sector-14; Blocks bearing Plot nos. 8P-21 P, 75P-90P, 91P-114P, 161P-198P and row of plots from plot no.168P-175, 183-191P, 215P-218, 235-238P & 116P-141P Sector-14, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Sector- 7 and 8; Area between road in front of row of plot no. 687P-699P, road in front of row of plot no. 834P-853, road in front of row of plot no. 714P-727P and Stretch of Sector Dividing Road of Sector- 7 and 8 abutting row of plot no. 780P-803P, Sector- 7, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Village Mawai; Cluster namely 'Sai Colony' bounded by Firing Range Road and Sai Mandir Road, along Chainsa Distributary, Village Mawai	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Indra Colony; Structures existing on stretch of Kheri kalan Road between the existing shop namely Krishna Dairy and Jai Ma Durge Building Material Shop, Indra Colony, Near Kheri Pull, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Sector- 87; Cluster namely 'Hanuman Nagar' situated between sector dividing road of Sector-87 and 88 and Vikas Nagar, along the Faridabad Nachauli Road, Sector- 87, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Parvatiya Colony; Part area of Himalaya School pocket covered between Air Force Nallah (stretch between Saraswati School & developed plot of Sh. Chaudhary), Aggarwal School Gali (up to House of Davesh Aggarwal Advt., Gall No. 1 & 5, 5/1 (Khushi Silai Center) up to Saraswati School, Sanjay Enclave. Parvatiya Colony (Masjid Area), Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Area of Jawahar Colony in the south of press colony between the 22 feet road, existing Nallah and Jawahar colony road.	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Millhard Colony in the South of Bata Road Flyover, Faridabad.	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Area of Jain Colony between the Gali no.6 (stretch from FCA- 101 to 161) and Mohna Road (Stretch from Jain Vidya Mandir School to existing Park/Bank) and Mukesh Colony Road (Stretch from Akash Cinema to FCA-101), Ballabgarh.	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Ballabgarh; Area of Jain Colony between the Gali no.6 (stretch from FCA- 101 to 161) and Mohna Road (Stretch from Jain Vidya Mandir School to existing Park/Bank) and Mukesh Colony Road (Stretch from Akash Cinema to FCA-101), Ballabgarh.	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Village Deegh and Pehladpur Mazra Deegh.	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Part of Block- C and D, NH-5 between Sahid Bhagat Singh Marg and Sahid Sukhdev Singh Marg.	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Area of Jagram Sarpanch Colony between Meethapur Palla Road, Agwanpur Road, Sehatpur Chowk-Sehatpur Bridge Road, Village Palla.	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Block of Plot no. 513P-547P, 548P-573P, row of plots. 525P-535P and plot nos. 712 to 722, 574P to 592, Sector-16, Faridabad.	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Sector-16; Block of Plot no. 513P-547P, 548P-573P, row of plots. 525P-535P and plot nos. 712 to 722, 574P to 592, Sector-16, Faridabad.	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Haryana	Faridabad	All	Bharat Colony.	https://twitter.com/DC_Faridabad/status/1263758290594328577
-Haryana	Faridabad	All	Block of Plot nos. 4089-4100, 4067-4088, 4043-4066, 4411 C-4427, 4101-4132 and 4133-4162, IP Colony, Near Ex-Sainik Colony Sector-49, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
+Haryana	Faridabad	All	Sector-49; Block of Plot nos. 4089-4100, 4067-4088, 4043-4066, 4411 C-4427, 4101-4132 and 4133-4162, IP Colony, Near Ex-Sainik Colony Sector-49, Faridabad	https://twitter.com/DC_Faridabad/status/1263758290594328577
 Maharashtra 	Nashik	All	Suprabhat Vasahat, Ramkrishna Nagar, Satpur, Nashik	https://twitter.com/my_nmc/status/1263849149876760577
 Maharashtra 	Nashik	All	Motha Rajwada, Nashik	https://twitter.com/my_nmc/status/1263849149876760577
 Maharashtra 	Nashik	All	Shivajiwadi,Bharat Nagar, Nashik	https://twitter.com/my_nmc/status/1263849149876760577
@@ -4301,7 +4274,6 @@ Delhi	South west Delhi	All	A-28, Deep Enclave Part- II, Vikaspuri New Delhi, Dwa
 Delhi	South west Delhi	All	Flat No-102, DG3 Block, Vikas Puri, Dwarka	https://twitter.com/Gss_Views/status/1263861480178569216
 Delhi	South west Delhi	All	House No-667, Gali No.3, Village Kanganheri, New Delhi, Kapashera	https://twitter.com/Gss_Views/status/1263861480178569216
 Delhi	South west Delhi	All	J-106, Puran Nagar, Dwarka	https://twitter.com/Gss_Views/status/1263861480178569216
-Delhi	South west Delhi	All	Palam Colony, Main Road, Near Metro Pillor No.33, New Delhi, Dwarka	https://twitter.com/Gss_Views/status/1263861480178569216
 Delhi	South west Delhi	All	F-204, F-Block, Vikaspuri, New Delhi, Dwarka	https://twitter.com/Gss_Views/status/1263861480178569216
 Delhi	South west Delhi	All	RZ-535/11, Gali No.46, Sadh Naga, Palam Colony, New Delhi, Dwarka	https://twitter.com/Gss_Views/status/1263861480178569216
 Telangana	Hyderabad	All	0-1-18/44, Shyam Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
@@ -4432,3 +4404,32 @@ Telangana	Hyderabad	All	Venkatagiri Cluster I	https://www.siasat.com/hyderabad-f
 Telangana	Hyderabad	All	Ward No.130 Subhash Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
 Telangana	Hyderabad	All	Yakutpura	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
 Telangana	Hyderabad	All	Yousufguda	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
+Assam	Cachar	All	Sukanta Lane, Tarapur, Cachar Assam	https://twitter.com/SilcharToday/status/1264240740940554241
+Assam	Cachar	All	Badripur, Kashipur Pt-IV, Cachar	https://twitter.com/SilcharToday/status/1264240740940554241
+Assam	Cachar	All	Area surrounding Don Bosco School, Ramnagar, Silchar	https://twitter.com/SilcharToday/status/1264240740940554241
+Karnataka	Bengaluru Urban	All	"Puttenahalli, Ward 187, Bommanahalli	"	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	Marappana Palya, Ward 44, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Delhi 	North west Delhi	All	Gali No. 9 of Shalimar Village	
+Delhi 	South Delhi	All	Main Gali of F-Block from H.No. 306 to 379 Dakshin puri 	
+Delhi 	South east Delhi	All	H. No. 23 to 156 & 15 to 191, 191 Sunlight Colony -I  & H.No. 230-233 Sunlight Colony -I 	
+Delhi 	North Delhi	All	D-1151 to 1200, D-1251 to 1450, D-1601 to 1650 of D1 Block Jahangir puri	
+Delhi 	North Delhi	All	D-1651 to 1700, D-1751 to 1850, D-1851 to 1900 of D2 Block Jahangir puri	
+Delhi 	North Delhi	All	J-1640-1655, J-1656 to 1680, J-1681 to 1715, J Block Jahangirpuri	
+Delhi 	North Delhi	All	Dhanpat ka Katra (on one side) Mandir wali gali, Sayyad Wali Gali and Dhobi Wali Gali, Azadpur	
+Delhi 	North Delhi	All	EE Block Jahangir Puri Delhi	
+Delhi 	North Delhi	All	H.No. 690 Lal Bagh Azadpur Delhi	
+Delhi 	North Delhi	All	E-2 Block Jahangir pur Delhi	
+Delhi 	North Delhi	All	D-1 Jahangir puri Delhi	
+Delhi 	North Delhi	All	N-116 JJ Camp Badli Delhi	
+Delhi 	New Delhi	All	EA Block, Inderpuri	
+Delhi 	Central	All	Bapa Nagar II	
+Delhi 	Central	All	Bapa Nagar III (area between padam Singh Road, Military Road, Tank Road and Road no 03 Baap Nagar) are	
+Delhi 	Central	All	Bapa Nagar I (area between Pyare Lal Raod, Military Road, Arya Samaj Road and Road no. 03 Baap Nagar) area	
+Delhi 	North west Delhi	All	Chandra Shekhar Azad Colony, Wazirpur Industrial Area	
+Delhi 	North west Delhi	All	BB Block, east Shalimar Bagh	
+Delhi 	North west Delhi	All	C-2 Block, Sultan Puri 	
+Delhi 	North west Delhi	All	H.No. 92 to 212 Nahar Pur Village	
+Delhi 	North west Delhi	All	C-Block Mangolpuri 	
+Madhya Pradesh	Betul	All	Tara Gaon, Shahpur 	
+Madhya Pradesh	Betul	All	Mokha Mal, Shahpur	
+Madhya Pradesh	Betul	All	Sivanpat, Ghoradongri	
