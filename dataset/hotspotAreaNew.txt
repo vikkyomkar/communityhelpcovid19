@@ -2420,10 +2420,8 @@ Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Karunkuli Road, Ward 15	https://tw
 Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Sangamettu Street, Ward 15	https://twitter.com/Chengalpattu01/status/1260226591805734914
 Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Asiriyar Nagar, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
 Chandigarh 	Chandigarh	All	ShastriNagar in Manimajra	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
-Chandigarh 	Chandigarh	All	Sector 52	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
 Chandigarh 	Chandigarh	All	Sector 38	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
 Chandigarh 	Chandigarh	All	Kacchi Colony in Dhanas	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
-Chandigarh 	Chandigarh	All	Sector 30B	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
 Chandigarh 	Chandigarh	All	Bapu Dham Colony	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
 Maharashtra 	Mumbai	Ward-A	Ward-A M.R.A. Police Quarters,M.R.A. Road,Fort, 400001	https://stopcoronavirus.mcgm.gov.in/assets/docs/Containment-Zones.pdf
 Maharashtra 	Mumbai	Ward-A	Ward-A M.R.A. Bmc Colony,M.R.A. Road,Fort, 400001	https://stopcoronavirus.mcgm.gov.in/assets/docs/Containment-Zones.pdf
