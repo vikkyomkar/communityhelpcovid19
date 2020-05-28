@@ -2420,7 +2420,7 @@ Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Karunkuli Road, Ward 15	https://tw
 Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Sangamettu Street, Ward 15	https://twitter.com/Chengalpattu01/status/1260226591805734914
 Tamil Nadu	Chengalpattu	Thirukalikundram T.P.	Asiriyar Nagar, Ward 1	https://twitter.com/Chengalpattu01/status/1260226591805734914
 Chandigarh 	Chandigarh	All	ShastriNagar in Manimajra	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
-Chandigarh 	Chandigarh	All	Sector 38	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
+Chandigarh 	Chandigarh	All	Sector 30 B	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
 Chandigarh 	Chandigarh	All	Kacchi Colony in Dhanas	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
 Chandigarh 	Chandigarh	All	Bapu Dham Colony	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
 Maharashtra 	Mumbai	Ward-A	Ward-A M.R.A. Police Quarters,M.R.A. Road,Fort, 400001	https://stopcoronavirus.mcgm.gov.in/assets/docs/Containment-Zones.pdf
@@ -4069,7 +4069,6 @@ Karnataka	Bengaluru Urban	All	BTM Layout, Ward 176, South	https://www.facebook.c
 Karnataka	Bengaluru Urban	All	Shivajinagar, Ward 92, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Begur, Ward 192, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Bilekahalli, Ward 188, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Deepanjali Nagar, Ward 158, South 	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Hongasandara, Ward 189, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	K. R. Market, Ward 139, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Padarayanapura, Ward 135, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
@@ -4461,3 +4460,6 @@ Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 5 NOIDA	https://twitter.com/Im_DeepK
 Uttar Pradesh	Gautam Buddh Nagar	All	GUJJAR COLONY VILLAGE KASNA	https://twitter.com/Im_DeepKaran/status/1265343739725111297?s=19
 Uttar Pradesh	Gautam Buddh Nagar	All	SAI UPVAN NEAR VILLAGE HABAITPUR NOIDA	https://twitter.com/Im_DeepKaran/status/1265343739725111297?s=19
 Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE SALARPUR NOIDA	https://twitter.com/Im_DeepKaran/status/1265343739725111297?s=19
+Karnataka	Bengaluru Urban	All	Ramamurthy Nagar, Ward-26, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Karnataka	Bengaluru Urban	All	Agrahara Dasarahalli, Ward-105, West (New)	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
+Jammu & Kashmir	Srinagar	All	Eidgah	
