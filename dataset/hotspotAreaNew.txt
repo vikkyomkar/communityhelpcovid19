@@ -191,7 +191,6 @@ Madhya Pradesh	Dewas	All	Sheetlamata ward, Haatpipliya City	https://www.indiatvn
 Madhya Pradesh	Dewas	All	Panigaon village	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Rajasthan	Kota	All	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
 Karnataka	Mysuru	All	Nanjangud town	https://www.dtnext.in/News/National/2020/04/02135830/1222923/Covid19--Mysuru-district-declared-Red-Zone-security-.vpf
-Kerala	Kozhikode	All	Entire District is declared Hotspot	https://newsable.asianetnews.com/coronavirus-india/7-kerala-districts-declared-covid-19-hotspots-by-chief-minister-q87h2a
 Andhra Pradesh	Visakhapatnam	All	Thatichetlapalem	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
 Andhra Pradesh	Visakhapatnam	All	Akkayyapalem	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
 Andhra Pradesh	Visakhapatnam	All	Padmanabham	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
@@ -447,12 +446,6 @@ Jammu & Kashmir 	Udhampur	All	Note: Entire District declared Red Zone Hotspot as
 Jammu & Kashmir 	Kupwara	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Karnataka 	Mysuru	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Karnataka 	Belagavi	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Kerala 	Kasaragod	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Kerala 	Kannur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Kerala 	Ernakulam	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Kerala 	Malappuram	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Kerala 	Thiruvananthapuram	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Kerala 	Pathanamthitta	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Madhya Pradesh 	Bhopal	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Madhya Pradesh 	Khargone	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Madhya Pradesh 	Ujjain	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -510,12 +503,10 @@ Karnataka 	Bidar	All	Note: Entire District declared Red Zone Hotspot as on 15 Ap
 Karnataka 	Kalaburagi	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Karnataka 	Bagalkote	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Karnataka 	Dharwad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Kerala 	Wayanad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Ladakh 	Kargil	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Madhya Pradesh 	Morena	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Maharashtra 	Kolhapur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Maharashtra 	Amravati	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Maharashtra 	Palghar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Punjab 	Mansa	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Punjab 	Amritsar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Punjab 	Moga	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -892,10 +883,6 @@ Punjab 	Jalandhar	All	Anand Nagar, Ashok Vihar, Vivekanand Park, Golden Avenue, 
 Punjab 	Jalandhar	All	Narayan Nagar, Two Streets next to Pakka Baagh	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
 Punjab 	Jalandhar	All	Nizatam Nagar, Narayan Nagar	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
 Punjab 	Jalandhar	All	Ward no. 12 Lohian (Tehsil Shahkot)	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
-Kerala 	Thiruvananthapuram	All	Neyyattinkara Municipality	https://twitter.com/BreakingViews4u/status/1255850649532522496
-Kerala 	Kollam	All	Ochira Panchayat 	https://twitter.com/BreakingViews4u/status/1255850649532522496
-Kerala 	Kollam	All	Thrikkovilvattom panchayat 	https://twitter.com/BreakingViews4u/status/1255850649532522496
-Kerala 	Kottayam	All	Udayanapuram panchayat	https://twitter.com/BreakingViews4u/status/1255850649532522496
 West Bengal	South 24 Parganas	All	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
 West Bengal	Medinipur West	All	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
 West Bengal	Darjeeling	All	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
@@ -3150,42 +3137,6 @@ Uttar Pradesh	Agra	All	NADHOT, BARAULI AHEER	https://twitter.com/dklavaniaTOI/st
 Uttar Pradesh	Agra	All	VILLAGE GADI KHANDERA SHAMSHABAD	https://twitter.com/dklavaniaTOI/status/1262632468433326083
 Uttar Pradesh	Agra	All	SHASHTRI NAGAR CHAMROLI BAROLI AHEER	https://twitter.com/dklavaniaTOI/status/1262632468433326083
 Uttar Pradesh	Agra	All	NEAR SATI KA MANDIR PATHAULI -BICHPURI	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Gujarat	Gandhinagar	All	Halisa, Dahegam	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Itadara(farm house), Mansa	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Bhat (Nana chiloda), Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Randheja, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Palaiya, Dahegam	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	sargasan, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Pethapaur, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Zundal, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Kalol Urban 1, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Adalaj, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Uvarsad, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	vavol, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Kalol urban 2, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Badpura, Mama	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Chadasana, Mansa	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Harkhjinamuvada, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Isanpurdodia, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Pundhra, Mama	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Jamla, Mansa	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Vasna Chaudhry, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Vadsar(Airforce), Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Kudasan, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Nandol, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Borisana, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Randesan, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Chhala, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Sertha, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Khoraj, Gandhinagar	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Palsana, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Jindava, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Saij, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Chhatral, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Amrapur, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Rancharda, Kalol	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Sagdalpur, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
-Gujarat	Gandhinagar	All	Dahegam urban, Dehgam	https://twitter.com/RACGandhinagar/status/1262634924844048386
 Madhya Pradesh	Betul	All	katiya koylari	https://www.facebook.com/betultalksmp/photos/rpp.902110273137978/3649486225067022/
 Tamil Nadu	Chennai	Zone-1	Zone-1 Div-1 SathyaVani Muthu Nagar 6th Street	https://twitter.com/chennaicorp/status/1261627712365457410
 Tamil Nadu	Chennai	Zone-1	Zone-I Div-2 Rajivganthi nagar main st, ennore	https://twitter.com/chennaicorp/status/1261627712365457410
@@ -4348,31 +4299,6 @@ Delhi 	Delhi 	All	Gali No. 2, 3 & 4 Devli Extension, Delhi	https://www.indiatvne
 Delhi 	Delhi 	All	 H.No. F-138 & F-139, Gali No. 1 (Shiv Mandir Wali Gali), Harsh Vihar, Hari Nagar Extension, Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-narela-swatantra-nagar-declared-containment-zone-check-new-list-620740
 Delhi 	Delhi 	All	H. No. 300, Gali No. 3 Krishna Puri, Main Road Mandawali, Delhi to H.No. 739/16 Gali No. 3 Krishna Puri, Main Road Mandawali, Delhi	https://www.indiatvnews.com/news/india/delhi-red-zones-narela-swatantra-nagar-declared-containment-zone-check-new-list-620740
 Delhi 	Delhi 	All	Lane number 3A, 3B, 4A, 4B 5A and 5B Swatantra Nagar, Narela	https://www.indiatvnews.com/news/india/delhi-red-zones-narela-swatantra-nagar-declared-containment-zone-check-new-list-620740
-Maharashtra 	Nashik	All	Kathe Galli, Nashik.	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Nayshya Ganpati Mandir Area , Gangapur, Nashik ZONE 2	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Pandit Nagar, CIDCO, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Siddheshwar Nagar, Dasak, Nashik Rd, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Gbsavi Wadi, Near Bytco Hospital, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Motha Kumbharwada, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Ameya Apartment, Nashik Road, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Suprabhat Vasahat, Ramkrishna Nagar, Sanjiv Nagar, Satpur, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Motha Rajwada, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Shivajiwadi,Bharat Nagar, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Naikwadipura, Wadala Naka, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Mumtaz Nagar, Wadala, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Lekha Nagar, CIDCO, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Shani Mandir, Dindori Road, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Prabhat Nagar, Ranapratap Chowk, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Samata Nagar, Agartakli, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Loksahakar Nagar, Dindori Road, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Kavita Kunj Apartment, Govind Nagar, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Kranti Nagar, Makhmalabad, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Champanagari, Jail Road, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Anand Niwas, Nashik Pune Road, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Nirman Villa, Vise Mala, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Phule Nagar, Panchavati, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
-Maharashtra 	Nashik	All	Sadik Nagar, Wadala Naka, Nashik	https://twitter.com/my_nmc/status/1265278699475066887
 Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE TUGALPUR GREATER NOIDA	https://twitter.com/Im_DeepKaran/status/1265343739725111297?s=19
 Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE CHAPRAULI SECTOR 168 NOIDA	https://twitter.com/Im_DeepKaran/status/1265343739725111297?s=19
 Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE DADUPUR BLOCK DHANKAUR	https://twitter.com/Im_DeepKaran/status/1265343739725111297?s=19
@@ -4463,3 +4389,356 @@ Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE SALARPUR NOIDA	https://twitter.com/
 Karnataka	Bengaluru Urban	All	Ramamurthy Nagar, Ward-26, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Agrahara Dasarahalli, Ward-105, West (New)	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Jammu & Kashmir	Srinagar	All	Eidgah	
+Maharashtra 	Palghar	Vasai-Virar	Ward-89 Mustafa orian, kaman near, janamasijid kaman, vasai east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-51 Mansarovar apt,vijay nagar,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-6 Vighnaharta park ii, nityanand nagar, kopari gaov, chandansar road, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-41 Shree ram nagar,mahendra singh chawl,ram mandir galli nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-14 Vishnu smruti bldg., old viva virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-13 Om vastu shilpa,virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-64 Shraddha apt,sadi compound, nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-33 Dev lokprabhat ,bolinj,virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-60 Mahavir darshan,chakradhar nagar,s t depot, near narayan b techno school	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-22 Vishnulaxmi apt.,ramchandra nagar,phoolpada road, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-94 Wagholi, ravar, harkeshwari nagar,laxmi narayan sadan, nirmal	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-99 Silver spring, near manikpur police station, shastrinagar, vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-52 Tulip apt, central park, nalasopara east.	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-21 Dwaraka nagari, phoolpada rood virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-55 Shreeprastha,nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-38 Sainivas suyash apt, moregaon,nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-83 Om shivshakti complex, achole talav nallsopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-78 Trivedi mauali,navneeta hospItal nallsopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-52 Mazgaon dock,tulinj road nallsopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-75 Samtanagar behind nagarsevak house ,sativali,vasai east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-75 Mahadev nagar sativali ,vasai east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-65 Kuber building,near police station, nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-39 Shri ganesh apartment,sanna apt,rehamat nagar,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-22 Jai jivdani apt,baroda nagar,gandhi chowk,z p school,virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-99 Shantanu apt., vishal nagar,panchvati, vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-85 Krishnaraj building., om nagar, vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-22 Om sai apt baronda nagar vikas nagari fulpada virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-45 Ekta chawl,santosh bhavan,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-68 Pancharatna complex, shivbhakti building nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-4 Nana apt,naringi by pass road, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-10 Maharaja complex, naringi, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-6 Nityanand chhaya,kopari, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-49 Star tower,rehmat nagar,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-86 Nilam apartment,vijay laxmi nagar, vasai east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-3 Datta krishna height near pizza hut ,virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-83 Omkara banglow, hira smruti bungalow, girnar arcade,vasant nagri nallsopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-28 Sairaj apartment;manvelpada virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-79 Rajmata nagar, sankeshwar nagar, achole, nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-47 Sai niwas building near saint anthony school,nagindas pada,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-62 Swarup chawl, ghara wadi,jay ambe nagar, dhanivbagh,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-93 Ganesh deep chs, maitri park, vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-50 Navyoug welfare society,vijay nagar, nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-72 Gorai pada, dheerai compound, nallasopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-16 Shripal star, near dutta mandir, m.b. eastat, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-3 Rustomji evershine global city, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-3 Sumit grindale, golbal city, virar (w)	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-3 Sumit grindale, clobal city, virar (w)	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-14 Sundeep garden, y.k.nagar, virar (w)	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-25 Sakshi plaza dattaguru complex,manvelpada gaon,virar (e)	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-28 Mangalmurti apt,near g.p.school, kargil nagar, agar virar (e)	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-22 Manthan apt,phoolpada ,near marathi school,virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-82 Taniya sargam apt alkpuri,nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-6 Jayshree gajanan,cooperative society ,kolhapari dhaba ,chandansar ,virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-10 Jai bhavani apt,ganpati mandir ,nairngi road,virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-96 Hastgiri, suncity,vasai (e)	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-32 Mhada colony,virar w	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-80 Evershine city,nallsopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-80 Meri gold,evershin city,nallsopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-70 Maxvilla nagala talav,sankhewar nagar, nallsopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-58 Vastu yog soc,sai nagar, shree prastha, nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-42 Sadanand chawl,renuka nagar,wakanpada	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-50 Vaishnavi apt,laxmi nagar,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-70 Sai darchan 2 snkeshwar nagar achole road nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-80 Shree ramvan complex,evershine city,nallasopara east.	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-105 Ridhi sidhi chowl girija nagar,juchandra gaon	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-52 Dattakrupa,dattanagar nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-38 Shivshrusthi complex, raj nagar, nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-49 Shifa apartment,rahimat nagar,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-27 Tulsi heights apt near done bosco church,manvelpada , virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-41 Majjid gali bilalpada dongapada nalasopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-81 Sai darshan apt,sanyukt nagar,alkapuri road ,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-22 Om sai apt,vikas nagari,fulpada,virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-83 Sai ashwin building,alkapuri road,rajnagar,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-30 Aniruddh apartment,wavetewadi,virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-110 Indira smruti, opp. Bus depo, vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-41 Mishra chawl, krishna nagar, dhaniv bagh, nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-49 Konark complex rehmat nagar, nsp east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-39 Shashprabha building pragati nagar, nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-32 Yashwant vihar phase ii, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-14 Venu madhav building ab and c chs ltd., yadishri complex, tirupati nagar phase 1 virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-78 Ankur park opp achole talao nallsopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-27 Sai empire complex near mamta medical, manvelpada virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-65 Akansha tower,boricolony nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-2 Tejaswi apt., narayan nagar, gass kopari, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-76 Waliv gao, aai matoshri banglow, vasai east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-82 Tania regency, near mother mary school, link road, nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-73 Sky star building shivaji nagar, waliv, vasai east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-23 Ashokvan apt,r.j nagar, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-85 Sagar,dhuri complex vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-85 Diwanson apt om nagar,vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-60 Samart bhavesh palace,chakradhar nagar, nallasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-16 Avdhut chs, m.b.estate near datta mandir, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-13 Yashwant deep Near Aatmaram park dongarpada virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-39 Sai shrushti apt,om nagar,jijai nagar, nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-37 Shameer apt., manvelpada, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-3 HDIL residency park phase-1, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-3 bachraj landmark global city, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-60 Mukta apt,chedda nagar,nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-61 Maitre arced,chakradhar nagar,nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-24 shree sai shraddha apt sahakar nagar virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-60 sukhangan apt,s.t.depo road nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-53 Shiv om,nilegaon,nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-30 New poonam apt,mourya nagar virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-10 Jivdani chhaya apt,near ganapati mandir virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-22 Aashadeep apt,gandhi chouk phoolpada virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-49 Kashami manjil,ansarinagar nsp east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-54 Tula apt, saraswati darshan,central park, nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-13 Om anushri apt.,dongarpada, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-107 Shubhmagulum appartment near western hotel vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-83 Sai manthan samor chimghar ali achole, nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-87 Tulip bluilding,evershine city,vasai east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-27 Tulsi height apt., near don bosco charuch, manvelpada road, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-8 Sushila apt.,narayan nagar, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-36 Vatvruksha apt., patil ali, bolinj, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-94 Suleshwar road, nirmal police chawki,suleshwar pada,nirmal,nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-103 Bhandar ali,girij, behind arogya medical vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-87 Manisha regency,near bharat gas office,evershine city,vasai east,palghar	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-109 Vinodini apts., papdi vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-40 Valaipada, achal bluilding,nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-52 Anjani sut apt,takiraod, Nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-50 Sai nageshwar apt,ganesh nagar, nsp east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-90 Baharang nagar, kolhi, chinchoti post kaman, national highway.	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-89 Post kaman village, shivaji marg, bajar gali.	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-46 Maruti apt,ambawadi kajupada nallsopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-68 Hem nagar ambawadi nallsopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-86 Kalash building,vasantnagri nallsopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-80 Sai krupa chawl,achole dongari nallsopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-22 Jivan apt,gandhi chowk, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-9 Bapu apt,ramU compound, veer savarkar marg,virar (e)	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-14 Maitri pooja,near dmart,y.k.nagar,virar (w)	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-91 Madhuban township,gokhiware vasai east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-83 Rashmi classic new link road, nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-62 Saraswati niwas nallsopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-39 Shree complex,pragati nagar, nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-30 Vishal heaven, manvelpada road, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-85 Ram rahim manzil,dhuri(om nagar) complex,vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-96 Kanti regency,suncity,vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-102 Borpada,dongripada,vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-106 Railway colony naigoan station west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-73 Vitthal mandir,dreams valley, waliv east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-15 Bariwadi aagashi	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-26 Sai height nananani park nira bai patil road virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-73 Fanaspada waliv Chandan Sadan bluilding Vasai East	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-81 Sai jyoti chawl alkapuri road,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-22 Manisha apartment,gandhi chowk, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-80 Veena dynastyanchor park,vasai east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-104 Opel solitier building,dosti ,vasai west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-12 Premnagar jivdani road virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-22 Nerendra bramha,ghandhi chouk virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-9 Omkar apt, naringi road, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-52 New dinkar niwas,dattanagar,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-2 Nityananad chhaya nagar,chandansar road, koparigain,virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-55 Cherry tower,yashwant gaurav,tapsya,vinay complex nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-52 Navdurga apt, datta nagar nsp east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-52 Shree sadguru apt(shiv partvati), virar road,nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-39 Heena apt,oswal nagar, nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-11 Sai unik, sai complex,ganesh temple, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-33 Glomohar heritag, near matrik school virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-21 Saishradha apt,phoolpada road,gandhi chowk,govind nagar,virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-30 Bldg no.10,santmirabai bldg., near dmart virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-33 Laxmi paradice, gokul township, bolinj, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-4 Avenue near agarwal life style, global ctiy, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-29 Marigold yashwant nagar, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-55 Sky height,shriprastha,Nallasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-17 Laxmi paradise,Gokul Township,Virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-48 Damodar park,Tulinj road,Nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-2 Nityananda maya apt.,Nityanand nagar,Chandansar road,kopari,Virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-25 Sai Swapna Apt.,Manvelpada,Virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-43 Bakra Compound,Manicha pada,Near richard compound,Vasai east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-52 Near Lokmanya High School,Vijay Nagar	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-39 Pooja apt.,pragati nagar,Nallasopara east.	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-37 Bulding no.03,Maitry Pooja manvelpada Virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-36 Building no.5,Grace colony,Nanbhat Road Bolinj,Virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-48 Sai Sara Apt.Tulinj raod,near ekta mitra mandal,Nsp East	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-49 Sai krupa chs,marleshwar nagar,moregaon,Virar road,Nallasopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-106 Aashiana chs ltd,station road, opp sai baba mandir,amol nagar,naigaon west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-46 Kajupada,new baba,nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-64 Satya apt,sadi compound nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-58 Veeni heights,chhedanagar,patankar park,virar	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-50 Mahalakshmi apt,tulinj road, nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-57 Harmoni apt.samel pada, nallasopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-60 Rajmudra co.chs, park avenew chakradhar nagar, near st mary high school, nallasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-42 Sai krupa chawl,gangedapada, nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-63 Raghukul socity, achole road, near sai baba mandir, nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-13 Sai shikhar building, HDIL global city, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-22 Om jivdani darshan, gandhi, chawk, phoolpada, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-58 Saraswati Apt, opp rahul garden,nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-39 Pragati nagar, basera garden, nallasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-52 Shanti Apt & kaustub Apt, central park, nallasopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-68 Shyam shree apt,achole road,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Palghar	Vasai-Virar	Ward-66 Gass gav,sopara gaon,nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Maharashtra 	Nashik	All	Pandit Nagar, CIDCO, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Siddheshwar Nagar, Dasak, Nashik Rd, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Gosavi Wadi, Near Bytco Hospital, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Motha Kumbharwada, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Arneya Apartment, Nashik Road, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Alishan, Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Suprabhat Vasahat, Ramkrishna Nagar, Sanjiv Nagar, Satpur, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Motha Rajwada, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Shivajiwadi,Bharat Nagar, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Naikwadipura, Wadala Naka, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Mumtaz Nagar, Wadala, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Lekha Nagar, CIDCO, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Shani Mandir, Dindori Road, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Prabhat Nagar, Ranapratap Chowk, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Samata Nagar, Agartakli, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Loksahakar Nagar, Dindori Road, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Kavita Kunj Apartment, Govind Nagar, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Kranti Nagar, Makhmalabad, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Champanagari, Jail Road, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Anand Niwas, Nashik Pune Road, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Nirman Villa, Vise Mala, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Phule Nagar, Panchavati, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Sadik Nagar, Wadala Naka, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Shyam Pride Apt, Saraswati Nagar, Balram Nagar, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Shri Ram Nagar, Jatra Hotel, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Sahil Heights, Pakhal Road, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Niyati Deepali Nagar, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Raghupati Society, Datta Mandir, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Vinus Apartment, IT Park, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Saraswati Nagar, Opp. Rasbihari School, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Maharashtra 	Nashik	All	Tirupati Nagar, Near Water Filtration Plant, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
+Kerala 	Kannur	All	Chirakkal	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Maloor	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Kannur (C)	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Chokli	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Panoor (M)	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Payyannur (M)	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Kottayam Malabar	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Chembilode	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Ayyankunnu	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Kadirur	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Pattiam	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Kelakom	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Mattanur (M)	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Mayyil	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Dharmadam	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Koodali	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Kanichar	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Peralassery	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Panniyannur	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Pinarayi	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Cherupuzha	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kannur	All	Cherukunnu	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kasargode	All	Paivalike	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kasargode	All	Kollar	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kasargode	All	Kasargod (M)	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kasargode	All	KodomBelur	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kasargode	All	Vorkady	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kasargode	All	Meenja	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kasargode	All	Mangalpady	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kasargode	All	Madhur	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kasargode	All	Uduma	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kasargode	All	Manjeshwar	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Wayanad	All	Thirunelli	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Wayanad	All	Nenmeni	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	ldukki	All	Vandanmed	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	ldukki	All	Karunapuram	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	ldukki	All	Udumbanchola	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Kadampazhipuram	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Muthuthala	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Karakurishi	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Kottayi	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Muthalamada	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Threkkaderi	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Nagalassery	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Sreekrishnapuram	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Ambalappara	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Vellinezhi	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Ottappalam (M)	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Vallappuzha	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Perumatty	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Mundoor	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Kadampazhipuram	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Puthusherry	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Malampuzha	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Chalissery	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Cherupulassery	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Mannarkad	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Chittoor-Thathamangalam	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Polppulli	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Nellay	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Pattithara	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Shornoor (M)	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Paruthoor	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Kuzhalmandam	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Vilayur	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	PerigottuKurishi	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Tharoor	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Kadambazhippuram	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Palakkad	All	Puthusheeri	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	KoIlam	All	Kalluvathukkal	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kottayam	All	Koruthode	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kottayam	All	Vellavoor	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kottayam	All	Meenadom'	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kottayam	All	Paippad	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kottayam	All	Changanasherry (M)	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kozhikode	All	Azhiyur	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Kozhikode	All	Onchiyum	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Alappuzha	All	Pandanad	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Alappuzha	All	Chengannur (M)	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Thiruvananthapuram	All	Kulathur	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Thiruvananthapuram	All	Navaikulam	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Kerala 	Thiruvananthapuram	All	Nellanad	https://twitter.com/BreakingViews4u/status/1266006548515442693
+Gujarat	Gandhinagar	Dehgam	Dehgam Urban (Near CHC Area)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Randheja (Shiv Shaktinagar)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Zundal (Dev Paradise, Shyam Sarthi, Parmeswar	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Adalaj (Swagat City, Dev Nandan Parisar Area)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Uvarsad (Dantani Vas)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Vavol (Royal 2 Bunglow, Narayannagar)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Kudasan Sunrise Bun:low, Hari Gold Socie	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Randesan (Shubharambh Society)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Chhala (Nava ghara)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Sertha (Khada valo vas)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Khoraj (Golden Park 3)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Kolavada (Parmar Vas & near area)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Kolavada (Shreenathaji Societh & near area)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Rupal (Mahadev Vas)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Jamla (Indiranagai)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Borisana (Vaijnath Society)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Palsana (Patel Vas)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Saij (Indraprasth) 	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	 Chhatral (Iscon Bunglow)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Rancharda (Indus College)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Jasper (Ramapir Vas)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Dehgam	Lavar Chakla Dehgam	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Dehgam	Chekhlapagi	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Himmatlal Park, Vimal Flat, Navkar Flat, Krunal Appartment, Rameshwar, Ram Balram Falt 	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Aakasdeep Society, Jay Bhavani Row House, Pipal Vali Chali, Ankit Society 	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Gauri Vas, Dhobi Vas, Maharaj ni chali, Undo Vas, Moti Vas	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Mahendra Mill, Metro na Chapra	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Ganeshkunj Society, Sarswatikunj, Vardaini, Tejanand, Jay vijay	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Plot Area, Amulya Residency	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Manav Mandir 1 & 2, Amrutkunj	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Haridarsan Society, Gujarat House Police Line, Yogeshwar A & B, Subh Complex	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Indraprasth, Alap, Arihant 2, Vardhman, Vardhman Tenament, Kesav Avanue	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Shrifal Society, Shrifal Flat, Shubhanghan, Parmeshwar Park, Manav Mandir, Uma Shikhar	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Prabhunagar Society, Shivnagar, Gosai Kunj, Divda Talavdi	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Navjivan Mill ni chali	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Kalol	Jivanprakash Society, Shiv Ganga, Jai Hind ni chali, Khodiya Colony	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Mansa	Bhimpura	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Mansa	Valmiki, Vankar Vas, Dave Vas	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Delhi 	Delhi 	All	Gali No. 3 from A-55 to S-82 (Sai Chowk Dairy)	https://timesofindia.indiatimes.com/city/delhi/five-new-containment-zones-spring-up-in-delhi/articleshow/76058107.cms
+Delhi 	Delhi 	All	Gali No. 4 and Gali No. 5 from B-98/1 to A-82 (Seedi Waa Mandir) under Anarkali Garden in Jagatpuri	https://timesofindia.indiatimes.com/city/delhi/five-new-containment-zones-spring-up-in-delhi/articleshow/76058107.cms
+Delhi 	Delhi 	All	Eight houses in Kondli's Pandit Mohalla, Sangam Vihar	https://timesofindia.indiatimes.com/city/delhi/five-new-containment-zones-spring-up-in-delhi/articleshow/76058107.cms
+Delhi 	Delhi 	All	parts of Gali No. 9 Church Colony, Sangam Vihar	https://timesofindia.indiatimes.com/city/delhi/five-new-containment-zones-spring-up-in-delhi/articleshow/76058107.cms
+Delhi 	Delhi 	All	Shani Bazar Road in Sangam Vihar	https://timesofindia.indiatimes.com/city/delhi/five-new-containment-zones-spring-up-in-delhi/articleshow/76058107.cms
+Delhi 	Delhi 	All	JJ camp in Tigri	https://timesofindia.indiatimes.com/city/delhi/five-new-containment-zones-spring-up-in-delhi/articleshow/76058107.cms
+Delhi 	Delhi 	All	House No. B-258, B-822, C-98, H1-54, and H-16 Saket	https://timesofindia.indiatimes.com/city/delhi/five-new-containment-zones-spring-up-in-delhi/articleshow/76058107.cms
+Karnataka	Udupi	All	Thenkanidiyoor village, Udupi taluk	https://www.daijiworld.com/news/newsDisplay.aspx?newsID=712066
+Karnataka	Udupi	All	Vaddarse village, Kundapur taluk	https://www.daijiworld.com/news/newsDisplay.aspx?newsID=712066
+Karnataka	Udupi	All	Karkala town, Karkala taluk	https://www.daijiworld.com/news/newsDisplay.aspx?newsID=712066
+Karnataka	Udupi	All	Karkala town, Karkala taluk	https://www.daijiworld.com/news/newsDisplay.aspx?newsID=712066
