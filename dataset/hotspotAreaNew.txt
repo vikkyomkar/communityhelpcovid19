@@ -777,22 +777,9 @@ Bihar	Rohtas	All	Gola Mandi	https://www.newindianexpress.com/nation/2020/apr/28/
 Bihar	Rohtas	All	Nokha	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
 Bihar	Rohtas	All	Tapeshwariganj	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
 Bihar	Rohtas	All	Dehri-on-Sone	https://www.newindianexpress.com/nation/2020/apr/28/patna-emerging-second-covid-19-hotspot-in-bihar-after-munger-2136375.html
-Bihar	Patna	All	Khajpura	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
-Bihar	Patna	All	Sultanganj	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
-Bihar	Patna	All	Mansapuri (Machhli Gali)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
-Bihar	Patna	All	Adarsh Colony Road number 5 (Patel Nagar)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
 Bihar	Kaimur	All	Chainpur village	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
 Bihar	Munger	All	Sadar Bazar area of Jamalpur	https://www.financialexpress.com/lifestyle/health/coronavirus-in-bihar-28-test-positive-for-covid-19-state-tally-reaches-251/1939852/
 Bihar	West Champaran	All	Shanichari in Yogapatti, West Champaran	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
-Bihar	Patna	All	Road 1E (New Patliputra Colony)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
-Bihar	Patna	All	Ashok Tower (Rajabajar Machhli Gali)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
-Bihar	Patna	All	Panditji Gali (Khagaul Road, Phulwarisharif)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
-Bihar	Patna	All	Meethakuan Road (Bhathapar, Dhanaut)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
-Bihar	Patna	All	Paliganj	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
-Bihar	Patna	All	Daak Bangla Chauraha	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
-Bihar	Patna	All	Birla Colony (Phulwarisharif)	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
-Bihar	Patna	All	Naubatpur village	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
-Bihar	Patna	All	Slum area near BPSC office on Bailey Road	https://timesofindia.indiatimes.com/city/patna/with-42-ve-cases-patna-has-13-containment-zones/articleshow/75457385.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIPatna
 West Bengal 	North 24 Parganas	All	Apollo Nursing Home	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
 West Bengal 	North 24 Parganas	All	Debalaya Apartment	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
 West Bengal 	North 24 Parganas	All	Nishikanan	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
@@ -841,8 +828,6 @@ West Bengal 	North 24 Parganas	All	Shrinikatan	https://www.google.com/maps/d/u/0
 West Bengal 	North 24 Parganas	All	Building no 5	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
 West Bengal 	North 24 Parganas	All	Sithir Para Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
 West Bengal 	North 24 Parganas	All	Chandrasekhar Roy Road	https://www.google.com/maps/d/u/0/viewer?mid=1kNuAj1VYTdXGCBzAH-TnfRFOVjXf6WiH&ll=22.568707325038503%2C88.34947361433456&z=13
-Bihar	Patna	All	Beur	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
-Bihar	Patna	All	parsa	https://www.prabhatkhabar.com/state/bihar/patna/coronavirus-news-bihar-live-update-29-april-366-people-in-corona-positive-in-bihar-now-28-districts-vulnerable-to-infection
 West Bengal	Siliguri	All	Ward 41 (Bankim Colony)	https://www.google.com/maps/d/u/0/embed?mid=1x7LsCnI9Hx0VUBEbhI2JVxA5Qy66S0BX&ll=26.729932135049125%2C88.4088164798219&z=13
 West Bengal	Siliguri	All	Ward 47 (Pati Colony & Dhanchanan Colony	https://www.google.com/maps/d/u/0/embed?mid=1x7LsCnI9Hx0VUBEbhI2JVxA5Qy66S0BX&ll=26.729932135049125%2C88.4088164798219&z=13
 West Bengal	Siliguri	All	Kawakhli	https://www.google.com/maps/d/u/0/embed?mid=1x7LsCnI9Hx0VUBEbhI2JVxA5Qy66S0BX&ll=26.729932135049125%2C88.4088164798219&z=13
@@ -4444,7 +4429,7 @@ Gujarat	Gandhinagar	Gandhinagar	Chhala (Nava ghara)	https://gandhinagar.gujarat.
 Gujarat	Gandhinagar	Gandhinagar	Sertha (Khada valo vas)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
 Gujarat	Gandhinagar	Gandhinagar	Khoraj (Golden Park 3)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
 Gujarat	Gandhinagar	Gandhinagar	Kolavada (Parmar Vas & near area)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Kolavada (Shreenathaji Societh & near area)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Kolavada (Shreenathaji Society & near area)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
 Gujarat	Gandhinagar	Gandhinagar	Rupal (Mahadev Vas)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
 Gujarat	Gandhinagar	Kalol	Jamla (Indiranagai)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
 Gujarat	Gandhinagar	Kalol	Borisana (Vaijnath Society)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
@@ -4812,3 +4797,24 @@ Haryana	Faridabad	All	Village Mahavatpur	https://twitter.com/DC_Faridabad/status
 Haryana	Faridabad	All	Sector-82 - Row of plots from N2-12A to N2-19 and N2-02 to N2-11, N Block, BPIF' Parkland, Sector-82, Faridabad	https://twitter.com/DC_Faridabad/status/1265959362746437638
 Haryana	Faridabad	All	Sector-20 - Pocket of Friends Colony abutting Railway Line in between Garg General Store, HDFC ATM, Raju Kirana Store, Sector-20.	https://twitter.com/DC_Faridabad/status/1265959362746437638
 Haryana	Faridabad	All	Village Nariala	https://twitter.com/DC_Faridabad/status/1265959362746437638
+Gujarat	Gandhinagar	Gandhinagar	Sadra (Moti Vas near Area)	https://twitter.com/RACGandhinagar/status/1266367341643743232
+Gujarat	Gandhinagar	Gandhinagar	Randheja (Krushnanagar)	https://twitter.com/RACGandhinagar/status/1266367341643743232
+Gujarat	Gandhinagar	Gandhinagar	Satark Society - Borisana, Kamdhenu Society, Kalol Urban 2	https://twitter.com/RACGandhinagar/status/1266367341643743232
+Bihar	Patna	All	इंद्रलोक नगर, बाईपास, पटना सिटी	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	महाराजगंज, राजपूताना गली पटना सिटी	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	रिकाबगंज, मालसलामी, पटना सिटी	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	फौजदारी कुआं, मालसलामी पटना सिटी	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	चाणक्यनगर, पटना सिटी	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	पाटलिपुत्र अंचल	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	चाणक्यपुरी, मछली गली, राजा बाजार	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	अशोका टावर के सामने मछली गली राजा बाजार	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	रोड नंबर 3, शिवनगर बाईपास रोड, खेमनीचक, बाईपास।	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	बीएमपी 14, बैरक (बैरक संख्या 7, 11, 15 ,23, 25)	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	चंद्र विहार कॉलोनी रोड संख्या 25 आशियाना दीघा रोड राजीव नगर थाना के पास।	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	जय हिद कॉलोनी ,रानीपुर फुलवारी शरीफ।	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	अंतराघाट, जमाखारिज, दीघा पटना	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	एजी कॉलोनी पार्क के पास	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	समनपुरा पुरानी मस्जिद के बगल में राजा बाजार	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	रंजन भगत चांदमारी रोड, गली संख्या दो, पीएनबी एटीएम के पास थाना कंकड़बाग	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	सरकारी बोरिग के पास, गांव के उत्तर-पश्चिम, ग्राम बहुआरा, पंचायत चिपुरा, थाना गौरीचक	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
+Bihar	Patna	All	पश्चिमी जजेज कॉलोनी, आरपीएस मोड़, थाना रूपसपुर, दानापुर।	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
