@@ -4352,37 +4352,6 @@ Maharashtra 	Palghar	Vasai-Virar	Ward-39 Pragati nagar, basera garden, nallasopa
 Maharashtra 	Palghar	Vasai-Virar	Ward-52 Shanti Apt & kaustub Apt, central park, nallasopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Ward-68 Shyam shree apt,achole road,nalasopara east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Ward-66 Gass gav,sopara gaon,nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
-Maharashtra 	Nashik	All	Pandit Nagar, CIDCO, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Siddheshwar Nagar, Dasak, Nashik Rd, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Gosavi Wadi, Near Bytco Hospital, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Motha Kumbharwada, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Arneya Apartment, Nashik Road, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Alishan, Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Suprabhat Vasahat, Ramkrishna Nagar, Sanjiv Nagar, Satpur, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Motha Rajwada, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Shivajiwadi,Bharat Nagar, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Naikwadipura, Wadala Naka, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Mumtaz Nagar, Wadala, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Lekha Nagar, CIDCO, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Shani Mandir, Dindori Road, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Prabhat Nagar, Ranapratap Chowk, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Samata Nagar, Agartakli, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Loksahakar Nagar, Dindori Road, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Kavita Kunj Apartment, Govind Nagar, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Kranti Nagar, Makhmalabad, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Champanagari, Jail Road, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Anand Niwas, Nashik Pune Road, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Nirman Villa, Vise Mala, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Phule Nagar, Panchavati, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Sadik Nagar, Wadala Naka, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Shyam Pride Apt, Saraswati Nagar, Balram Nagar, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Shri Ram Nagar, Jatra Hotel, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Sahil Heights, Pakhal Road, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Niyati Deepali Nagar, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Raghupati Society, Datta Mandir, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Vinus Apartment, IT Park, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Saraswati Nagar, Opp. Rasbihari School, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
-Maharashtra 	Nashik	All	Tirupati Nagar, Near Water Filtration Plant, Nashik	https://twitter.com/my_nmc/status/1265991091368517632
 Gujarat	Gandhinagar	Dehgam	Dehgam Urban (Near CHC Area)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
 Gujarat	Gandhinagar	Gandhinagar	Randheja (Shiv Shaktinagar)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
 Gujarat	Gandhinagar	Gandhinagar	Zundal (Dev Paradise, Shyam Sarthi, Parmeswar	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
@@ -4883,3 +4852,55 @@ Karnataka	Bengaluru Urban	All	Agaram, Ward-114, East (NEW)	https://www.facebook.
 Karnataka	Bengaluru Urban	All	Siddapura, Ward-144, South (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
 Karnataka	Bengaluru Urban	All	Hosahalli, Ward-123, South (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
 Karnataka	Bengaluru Urban	All	Chokkasandra, Ward-39, Darasahalli (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
+Maharashtra 	Nashik	All	Sidheshwar Nagar, Nashik Road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Gosavi Wadi, Nashik Road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Motha Kumbharwada, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Ameya Apartment, Nashik Road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Aalishan, Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Suprabhat Vasahat, Sanjivnagar	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Motha Rajwada, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Shivajiwadi, Bharat nagar	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Naikwadipura, Wadalanaka	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Mumtaz Nagar, Wadala	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Pandit Nagar, Cidco, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Lekha Nagar, CIDCO	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Nirman villa, Vise Mala	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Shanimandir, Dindori Road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Prabhat Colony, Ranapratap Chowk	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Samata Nagar, Agartakli	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Loksahakar Nagar, Dindoriroad, Panchvati	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Kavitakunj Appt, Govind Nagar	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Krantinagar, Makhmalabad	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Champanagari, Jailroad	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Anand Niwas, Nashik poona road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Fule Nagar, Panchvati, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Sadiknagar, Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Sham Pride, Sarsvati Nagar	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Shriramnagar, Jatra Hotel	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Sahil Heights, Pakhal Road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Niyati Deepali Nagar, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Raghupati Society, Dattamandir, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Vinus Appt., IT Park	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Sarswati Nagar, Opp.Rasbihari School	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Tirupati nagar, Near Water Filteration Plant	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Krishna Residency, Khutwadnagar	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Vaishnavi, Karnalnagar, Kamatwada	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Vimalnath Pride, Om Gurudev Ngr	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Rathchakra Indiranagar, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	lekha Nagar-2, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Naikwadipura-2 Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Godapark Ramwadi Brige, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Damodar Nagar, Pathardi Phata,	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Mahebub Nagar, Wadala, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Patil Park, Jadhav Sankul, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	D-9, Renuka Nag, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	A, Karma Heights, Tapowan RD, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Shital, Bappa Sitaram Colony, Hirawadi Road, Pachvati, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Prayag Greens, Kala Nagar, Vaidhwadi, Pachvati, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Vrundavan Garden, Gangapur, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Kamod Road, Jharekari Kot, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Sayali, Radha Nagar, Makhmalabad Road, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Suprabhat Society, Peth Road, Pachvati, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Prime point Appartment, dream valley, Shingada talao, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Panchshil Nagar, Ganjamal, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Maharashtra 	Nashik	All	Kazipura Kot, Muitanpur, Old Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
