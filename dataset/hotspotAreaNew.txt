@@ -37,18 +37,6 @@ Punjab	SAS Nagar Mohali	All	Jawaharpur village in Derabassi	https://timesofindia
 Punjab	SAS Nagar Mohali	All	Mukandpur village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
 Punjab	SAS Nagar Mohali	All	Devi Nagar village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
 Punjab	SAS Nagar Mohali	All	Haripur Kurha village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
-Uttarakhand	Dehradun	All	Bhagat Singh Colony	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Dehradun	All	Kargi Grant, Patel Nagar	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Dehradun	All	Keshavpuri Basti, Doiwala	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Dehradun	All	Jhhabrawala, Doiwala	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Dehradun	All	Muslim Colony, Kacchi Colony Sadar Tehsil	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Dehradun	All	Azad Nagar Colony ISBT Dehradun	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Dehradun	All	Bees Bigha Colony, Nagar Nigam Rishikesh	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Haridwar	All	Jwalapur, Tehsil - Haridwar	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Haridwar	All	GandiKhata, Tehsil - Haridwar	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Haridwar	All	Paniyala Kaliyar, Roorkee	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Nainital	All	Banbhulpura, Haldwani	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Udam Singh Nagar	All	Gujjar Khatta	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
 West Bengal	Medinipur East	All	Egra	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
 West Bengal	Kalimpong	All	Note: Entire District declared Red Zone Hotspot	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
 West Bengal	Nadia	All	Tehatta	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
@@ -481,7 +469,6 @@ Uttar Pradesh 	Saharanpur	All	Note: Entire District declared Red Zone Hotspot as
 Uttar Pradesh 	ShamIi	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Firozabad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Moradabad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttarakhand 	Dehradun	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 West Bengal 	Medinipur East	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 West Bengal 	North 24 Parganas	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Andaman & Nicobar 	South Andamans	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -512,8 +499,6 @@ Uttar Pradesh 	Bulandshahr	All	Note: Entire District declared Red Zone Hotspot a
 Uttar Pradesh 	Sitapur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Basti	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Baghpat	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttarakhand 	Nainital	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttarakhand	Udam Singh Nagar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Karnataka 	Bengaluru Rural	All	Kodipalya village, Doddaballapur	https://www.youtube.com/watch?v=GPiXVVMipAA
 Punjab 	Pathankot	All	T-3 Quarters at Additional Land Colony, ShahpurKandi Township, Jugial	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041154.pdf
 Punjab 	Pathankot	All	Anandpur Rara/Kulian	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041380.pdf
@@ -2716,107 +2701,6 @@ Haryana	Gurugram	Gurugram	Yadav Bhawan Area, Radhey Sham, Gali No. 2 Rajiv Colon
 Haryana	Gurugram	Gurugram	Hari Mandir, Janua Bank wali Gali, RK Market Tiraha , SAHIL, INSURANCE POINT wali Gali. Chota Bazar (Ward No. 8, Pataudi)	http://newsmobile.in/articles/2020/05/28/covid-19-gurugram-gets-new-containment-zones-heres-the-full-list/
 Haryana	Gurugram	Gurugram	Harijan Basti, Village Firni, Sunder House 10 , Aatama Ram house, RajKumar House to Kailash House (Dadawas Village. Pataudi)	http://newsmobile.in/articles/2020/05/28/covid-19-gurugram-gets-new-containment-zones-heres-the-full-list/
 Haryana	Gurugram	Gurugram	Gali No. 6 N Block, Mohan Nagar- Naya Gaon, Sohna	http://newsmobile.in/articles/2020/05/28/covid-19-gurugram-gets-new-containment-zones-heres-the-full-list/
-Kerala 	Kannur	All	Chirakkal	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Maloor	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Kannur (C)	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Chokli	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Panoor (M)	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Payyannur (M)	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Kottayam Malabar	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Chembilode	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Ayyankunnu	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Kadirur	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Pattiam	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Kelakom	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Mattanur (M)	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Mayyil	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Dharmadam	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Koodali	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Kanichar	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Peralassery	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Panniyannur	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Pinarayi	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Cherupuzha	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Cherukunnu	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kasargode	All	Paivalike	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kasargode	All	Kollar	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kasargode	All	Kasargod (M)	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kasargode	All	KodomBelur	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kasargode	All	Vorkady	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kasargode	All	Meenja	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kasargode	All	Mangalpady	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kasargode	All	Madhur	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kasargode	All	Uduma	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kasargode	All	Manjeshwar	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Wayanad	All	Thirunelli	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Wayanad	All	Nenmeni	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	ldukki	All	Vandanmed	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	ldukki	All	Karunapuram	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	ldukki	All	Udumbanchola	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Kadampazhipuram	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Muthuthala	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Karakurishi	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Kottayi	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Muthalamada	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Thrikkadeeri	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Nagalassery	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Sreekrishnapuram	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Ambalappara	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Vellinezhi	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Ottappalam (M)	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Vallappuzha	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Perumatty	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Mundoor	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Puthusherry	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Malampuzha	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Chalissery	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Cherupulassery	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Mannarkad	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Chittoor-Thathamangalam	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Polppulli	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Nellay	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Pattithara	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Shornoor (M)	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Paruthoor	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Kuzhalmandam	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Vilayur	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	PerigottuKurishi	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Tharoor	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	KoIlam	All	Kalluvathukkal	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kottayam	All	Koruthode	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kottayam	All	Vellavoor	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kottayam	All	Meenadom	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kottayam	All	Paippad	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kottayam	All	Changanasherry (M)	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kozhikode	All	Azhiyur	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kozhikode	All	Onchiyum	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Alappuzha	All	Pandanad	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Alappuzha	All	Chengannur (M)	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Thiruvananthapuram	All	Kulathur	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Thiruvananthapuram	All	Navaikulam	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Thiruvananthapuram	All	Nellanad	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Thiruvananthapuram	All	Pullampara	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Thiruvananthapuram	All	Pulimath	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Thiruvananthapuram	All	Karode	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Thiruvananthapuram	All	Mudakkal	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Thiruvananthapuram	All	Vamanapuram	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kozhikode	All	Thuneri	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kozhikode	All	Purameri	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kozhikode	All	Nadapuram	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kozhikode	All	Kunnummel	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kozhikode	All	Kuttiyadi	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kozhikode	All	Valayam	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kozhikode	All	Vadakara (M)	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Kannapuram	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Munderi	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kannur	All	Muzhappilangad	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Kasargode	All	Kumbala	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Koppam	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Ottappalam	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Vaniyamkulam	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Anakkara	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Alanallur	https://twitter.com/BreakingViews4u/status/1266385244011106310
-Kerala 	Palakkad	All	Kottoppadam	https://twitter.com/BreakingViews4u/status/1266385244011106310
 Haryana	Faridabad	All	Palwali village	https://twitter.com/DC_Faridabad/status/1265959362746437638
 Haryana	Faridabad	All	Dabua Colony	https://twitter.com/DC_Faridabad/status/1265959362746437638
 Haryana	Faridabad	All	Sector-88 F-Block	https://twitter.com/DC_Faridabad/status/1265959362746437638
@@ -3991,3 +3875,156 @@ Maharashtra 	Palghar	Vasai-Virar	Prabhag- D, Ward- 66 Gass gav,sopara gaon,nalas
 Karnataka	Bengaluru Urban	All	Jayamahal, Ward-63, East (New)	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
 Karnataka	Bengaluru Urban	All	Kempegowda, Ward-01, Yelahanka (New)	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
 Karnataka	Bengaluru Urban	All	Chalavadipalya, Ward-138, West (New)	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
+Kerala 	Kannur	All	Chirakkal, Ward- 2	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Maloor, Ward- 9	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Kannur (C), Ward- 53	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Chokli, Ward- 2, 7, 8, 9	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Panoor (M), Ward- 1, 31, 32	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Payyannur (M), Ward- 13	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Kottayam Malabar, Ward- 2, 9, 12, 14	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Chembilode, Ward- 1	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Ayyankunnu, Ward- 7, 8, 9, 10, 11	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Kadirur, Ward- 5	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Pattiam, Ward- 9, 10, 12, 13	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Kelakom, Ward- 9	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Mattannur (M), Ward- 17, 19, 28	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Mayyil, Ward- 1	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Dharmadam,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Koodali, Ward- 15	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Kanichar, Ward- 12	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Peralassery, Ward- 5	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Panniyannur, Ward- 6, 10	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Pinarayi, Ward- 8	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Cherupuzha, Ward- 3, 14, 19	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Cherukunnu, Ward- 1	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Kannapuram, Ward- 1, 14	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Munderi, Ward- 15	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Muzhappilangad,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Thalasherry (M), Ward- 37, 47	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Alakode, Ward- 5	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kannur	All	Muzhakkunnu, Ward- 13	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kasargode	All	Paivalige, Ward- 3, 4, 9	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kasargode	All	Kollar, Ward- 4	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kasargode	All	Kasargod (M), Ward- 4, 22, 23	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kasargode	All	KodomBelur, Ward- 14	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kasargode	All	Vorkady, Ward- 1, 2	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kasargode	All	Meenja, Ward- 2	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kasargode	All	Mangalpady, Ward- 2, 6, 11, 20	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kasargode	All	Madhur, Ward- 1, 7, 25	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kasargode	All	Uduma, Ward- 9	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kasargode	All	Manjeshwar, Ward- 11	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kasargode	All	Kumbala, Ward- 6	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kasargode	All	Badiadkka, Ward- 13	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kasargode	All	Pilicode, Ward- 8	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Idukki	All	Vandanmed, Ward- 8, 9, 11, 12, 14, 15	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Idukki	All	Karunapuram, Ward- 12, 13	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Idukki	All	Udumbanchola, Ward- 8, 11, 12	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Kadampazhipuram,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Muthuthala, Ward- 10	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Karakurishi, Ward- 6, 7	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Kottayi, Ward- 2, 4, 9, 10, 13	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Thrikkadeeri, Ward- 4, 5, 10	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Nagalassery, Ward- 15	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Sreekrishnapuram,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Ambalappara,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Vellinezhi, Ward- 4	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Ottappalam (M), Ward- 1, 4, 6, 36	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Vallappuzha, Ward- 11	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Perumatty, Ward- 14	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Mundoor, Ward- 16, 18	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Puthusherry, Ward- 5, 14, 18, 21	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Malampuzha, Ward- 4	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Chalissery, Ward- 15	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Cherupulassery, Ward- 5, 26	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Mannarkad (M), Ward- 10	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Chittoor-Thathamangalam, Ward- 20	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Polppulli, Ward- 7	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Nellay, Ward- 14, 10	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Pattithara, Ward- 9	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Shornoor (M), Ward- 3, 10	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Paruthoor, Ward- 9	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Kuzhalmandam, Ward- 13	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Vilayur, Ward- 13	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	PerigottuKurishi, Ward- 12	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Tharoor, Ward- 9	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Koppam, Ward- 8	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Ottappalam, Ward- 7, 29	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Vaniyamkulam, Ward- 14	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Anakkara, Ward- 2, 13	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Alanallur, Ward- 15, 20	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Kottoppadam, Ward- 4	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Palakkad (M), Ward- 13, 20, 35	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Thachampara, Ward- 5, 6	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Pattambi, Ward- 6	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Pallassana, Ward- 15	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Puthunagaram, Ward- 10	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Akathethara, Ward- 3	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Thirumittacodu, Ward- 8	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Palakkad	All	Marutharoad, Ward- 10	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kollam	All	Kalluvathukkal, Ward- 20, 21, 22, 23	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kollam	All	Panmana, Ward- 10, 11	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kollam	All	Punalur (M), Ward- 12	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kottayam	All	Koruthode, Ward- 2	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kottayam	All	Vellavoor, Ward- 1	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kottayam	All	Meenadom', Ward- 13	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kottayam	All	Paippad, Ward- 12	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kottayam	All	Changanasherry (M), Ward- 1, 21	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kottayam	All	Madappally, Ward- 5	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kozhikode	All	Azhiyur, Ward- 13	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kozhikode	All	Onchiyum, Ward- 14	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kozhikode	All	Thuneri,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kozhikode	All	Purameri,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kozhikode	All	Nadapuram,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kozhikode	All	Kunnummel,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kozhikode	All	Kuttiyadi,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kozhikode	All	Valayam,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Kozhikode	All	Vadakara (M), Ward- 40, 45, 46	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Alappuzha	All	Pandanad, Ward- 1,5	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Alappuzha	All	Chengannur (M), Ward- 3	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Thiruvananthapuram	All	Navaikulam, Ward- 3, 4, 13	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Thiruvananthapuram	All	Nellanad,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Thiruvananthapuram	All	Kulathur, Ward- 9, 10, 11, 12, 13, 14	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Thiruvananthapuram	All	Pullampara,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Thiruvananthapuram	All	Pulimath,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Thiruvananthapuram	All	Karode, Ward- 14, 15	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Thiruvananthapuram	All	Mudakkal,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Thiruvananthapuram	All	Vamanapuram,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Kerala 	Thiruvananthapuram	All	Manickkal,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Uttarakhand	Dehradun	All	Guru Road, Patel Nagar, Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Bairaj Colony, Sinchai Vibhag, Rishikesh	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Sevla Kala, Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	EWS Block, MDDA Colony, ISBT Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	PremBatta Gali, Santowali Ghati Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	D-Block, Sichai Vibhag Pariyojna Khand, Nagar Nigam Rishikesh	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Dandipura Colony, Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Racecourse Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Adarsh Nagar, Lane No. 9, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gali No. 34, Shivaji Nagar, Rishikesh	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Bees Bigha, Rishikesh, Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No. 13, Gram line JeevanGarh, Vikasnagar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No. 19, Herbertpur, Vikasnagar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gram Fatehpur Tanda, Doiwala	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Haripurkala, Basti Ward No 2, Motichur Line	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Circular Road, Dalanwala	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Khata Kheri, Bhagwanpur	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Sati Mohalla, ward no.34, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Matawala Mohalla, Ward no.8, Nagar Panchayat Londaura	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward no.12, Mohd pur, Mohan pura, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Munda Khera Kalan, Laksar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Dargapur, Laksar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Adarsh Nagar, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Dabki, Laksar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village- Dadupur, Govindpur, Haridwar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Hazrat Bilal Mohalla, Ward No. 6, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ambedkar Colony, Ward No. 9, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Green Park Colony, Roorkee	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vaishnavi Apartment, Kankhal	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Jaswinder Enclave, Bhagirathi, Ward No.1, Haridwar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vill. Alawalpur, Laksar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	U.S. Nagar	All	Vill. Raipur, Tehsil – Jaspur	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	U.S. Nagar	All	Vill. Gudalia, Tehsil – Kashipur	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	U.S. Nagar	All	Vill. Sisai, Nagar Palika- Kichha	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Pauri	All	Vill. Pipili, Block Pabau, Pauri	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Pauri	All	Gram Satpali patti, Chaubattakhal, Pauri	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Vill. Bhati, Magadhar, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Vill. Lamnidhar, Tehsil Jakhanidhar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
