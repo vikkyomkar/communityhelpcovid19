@@ -3104,13 +3104,13 @@ Uttar Pradesh	Ghaziabad	All	Sec 9 Vinayak Apartment Vashundhra	https://twitter.c
 Uttar Pradesh	Ghaziabad	All	Lal Mandir Wali Gali Param Hans Vihar Loni	https://twitter.com/DigestNoida/status/1257370134186012672
 Uttar Pradesh	Ghaziabad	All	B 3/1104 Krishna Apra garden Indirapuram	https://twitter.com/DigestNoida/status/1257370134186012672
 Uttar Pradesh	Ghaziabad	All	11E 150 Nehru Nagar Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Karnataka	Bengaluru Urban	All	Bommanahalli, Ward-175 (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
-Karnataka	Bengaluru Urban	All	HSR Layout, Ward-174, Bommanahalli (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
-Karnataka	Bengaluru Urban	All	Kadugodi, Ward-83, Mahadevapura (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
-Karnataka	Bengaluru Urban	All	Agaram, Ward-114, East (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
-Karnataka	Bengaluru Urban	All	Siddapura, Ward-144, South (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
-Karnataka	Bengaluru Urban	All	Hosahalli, Ward-123, South (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
-Karnataka	Bengaluru Urban	All	Chokkasandra, Ward-39, Darasahalli (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
+Karnataka	Bengaluru Urban	All	Bommanahalli, Ward-175 	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
+Karnataka	Bengaluru Urban	All	HSR Layout, Ward-174, Bommanahalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
+Karnataka	Bengaluru Urban	All	Kadugodi, Ward-83, Mahadevapura 	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
+Karnataka	Bengaluru Urban	All	Agaram, Ward-114, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
+Karnataka	Bengaluru Urban	All	Siddapura, Ward-144, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
+Karnataka	Bengaluru Urban	All	Hosahalli, Ward-123, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
+Karnataka	Bengaluru Urban	All	Chokkasandra, Ward-39, Darasahalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
 Maharashtra 	Nashik	All	Sidheshwar Nagar, Nashik Road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
 Maharashtra 	Nashik	All	Gosavi Wadi, Nashik Road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
 Maharashtra 	Nashik	All	Motha Kumbharwada, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
@@ -3988,3 +3988,6 @@ Maharashtra 	Palghar	Vasai-Virar	Prabhag- B, Ward- 39 Pragati nagar, basera gard
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- B, Ward- 52 Shanti Apt & kaustub Apt, central park, nallasopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- C, Ward- 19 Vartak heights , phool pada road, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- D, Ward- 66 Gass gav,sopara gaon,nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
+Karnataka	Bengaluru Urban	All	Jayamahal, Ward-63, East (New)	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
+Karnataka	Bengaluru Urban	All	Kempegowda, Ward-01, Yelahanka (New)	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
+Karnataka	Bengaluru Urban	All	Chalavadipalya, Ward-138, West (New)	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
