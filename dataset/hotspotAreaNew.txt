@@ -3075,20 +3075,6 @@ Gujarat 	Ahmedabad	All	MANINAGAR	https://twitter.com/ThakarTapan/status/12626351
 Gujarat 	Ahmedabad	All	SARASPUR	https://twitter.com/ThakarTapan/status/1262635167442763782
 Gujarat 	Ahmedabad	All	GULBAI TEKRA	https://twitter.com/ThakarTapan/status/1262635167442763782
 Gujarat 	Ahmedabad	All	GOMTIPUR	https://twitter.com/ThakarTapan/status/1262635167442763782
-Uttar Pradesh	Agra	All	AGRA NAGAR NIGAM	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Uttar Pradesh	Agra	All	NAGLA KALI DEORI ROAD	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Uttar Pradesh	Agra	All	VILLAGE /RAJRAI BARAULI AHEER	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Uttar Pradesh	Agra	All	F.SIKRI URBAN/RURAL	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Uttar Pradesh	Agra	All	VILLAGE-JARUA KATRA, BLOCK AKOLA, PS MALPURA, TEHSIL-SADAR	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Uttar Pradesh	Agra	All	VILLAGE-JHARPURA, BAMRAULI KATARA, PS DAUKI, TEHSIL-SADAR	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Uttar Pradesh	Agra	All	TAPRA, BICHPURI	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Uttar Pradesh	Agra	All	ARSENA, ACHNERA	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Uttar Pradesh	Agra	All	DHAURRA, KHANDAULI	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Uttar Pradesh	Agra	All	SHYAMO, BARAULI AHEER	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Uttar Pradesh	Agra	All	NADHOT, BARAULI AHEER	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Uttar Pradesh	Agra	All	VILLAGE GADI KHANDERA SHAMSHABAD	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Uttar Pradesh	Agra	All	SHASHTRI NAGAR CHAMROLI BAROLI AHEER	https://twitter.com/dklavaniaTOI/status/1262632468433326083
-Uttar Pradesh	Agra	All	NEAR SATI KA MANDIR PATHAULI -BICHPURI	https://twitter.com/dklavaniaTOI/status/1262632468433326083
 Madhya Pradesh	Betul	All	katiya koylari	https://www.facebook.com/betultalksmp/photos/rpp.902110273137978/3649486225067022/
 Tamil Nadu	Chennai	Zone-1	Zone-1 Div-1 SathyaVani Muthu Nagar 6th Street	https://twitter.com/chennaicorp/status/1261627712365457410
 Tamil Nadu	Chennai	Zone-1	Zone-I Div-2 Rajivganthi nagar main st, ennore	https://twitter.com/chennaicorp/status/1261627712365457410
@@ -4904,3 +4890,46 @@ Maharashtra 	Nashik	All	Suprabhat Society, Peth Road, Pachvati, Nashik	https://t
 Maharashtra 	Nashik	All	Prime point Appartment, dream valley, Shingada talao, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
 Maharashtra 	Nashik	All	Panchshil Nagar, Ganjamal, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
 Maharashtra 	Nashik	All	Kazipura Kot, Muitanpur, Old Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
+Uttar Pradesh	Agra	All	गॉघी नगर	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	कमला नगर 	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	नगला पदी 	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	एस0एन0एम0सी0	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	तोपखाना, नाई की मंडी	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	गोकुलपुरा, किदवई पार्क	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	रामनगर, केदार नगर, पृथ्वीनाथ फाटक, जोगीपाड़ा	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	शाहगंज	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	आवास विकास हरीपर्वत पश्चिम	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	जगदीशपुरा	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	मोतीकुज मदिया कटरा, लोहामंडी 	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	सिकन्दरा ककरैठा, अमर उजाला	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	अयोध्याकुंज, अर्जुन नगर खेरिया मोड़	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	नगला फकीरचन्द ईदगाह बस स्टैण्ड के पास 	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	बालूगंज	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	ट्रांस यमुना कॉलोनी, रामबाग, सीतानगर, गोकुल नगर नरायच	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	Nunihai जमुनापार	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	सेवला जाट, एच0०पी0 पेट्रोलियम ग्वालियर रोड	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	नगला परसोती देवरी रोड	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	मधु नगर ग्वालियर रोड 	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	शिव नगर, मास्टर प्लान रोड खन्‍्दारी	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	बल्केश्वर	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	मोतिया की बगीची जीवनी मंडी	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	राधाकृष्ण बिहार उमाकुंज कावेरी कूटुम्ब के पीछे सिकन्दरा	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	गोबर चौकी ताजगंज	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	पालीवाल पार्क हरीपर्वत 	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	बोदला सिकन्दरा	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	बाग मुजफ्फर खाँ एमएम गेट 	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	बिल्लोचपुरा, मुरलीनगर, ताजनगरी-ताजगंज	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	सदर भट्टी	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	कस्बा ऊपर पहाड़ फतेहपुर सीकरी (आगरा ग्रामीण)	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	शास्त्री नगर चमरौली बरौली अहीर (आगरा ग्रामीण)	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	सीता के मन्दिर के पास पथौली बिचपुरी (आगरा ग्रामीण)	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	ग्राम चितौरा ब्लॉक शमशाबाद (आगरा ग्रामीण)	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	गंगा नर्सिंग होम शमशाबाद (आगरा ग्रामीण)	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	ग्राम बरारा पुलिस स्टेशन मलपुरा आगरा (आगरा ग्रामीण)	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	कागारौल ब्लॉक खेरागढ़ (आगरा ग्रामीण)	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	मलपुरा (आगरा ग्रामीण)	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	गढ़ी हरदयाल ब्लॉक अकोला (आगरा ग्रामीण)	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	सौरा ब्लॉक सैंया (आगरा ग्रामीण)	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Uttar Pradesh	Agra	All	चमरौली नगरिया शमशाबाद (आगरा ग्रामीण)	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
+Assam	Guwahati	All	Ajanpir Path, Japorigog area	https://twitter.com/time8news/status/1267029897769172995
+Assam	Guwahati	All	Borbari area	https://twitter.com/time8news/status/1267029897769172995
