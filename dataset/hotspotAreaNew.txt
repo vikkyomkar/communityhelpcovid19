@@ -37,18 +37,6 @@ Punjab	SAS Nagar Mohali	All	Jawaharpur village in Derabassi	https://timesofindia
 Punjab	SAS Nagar Mohali	All	Mukandpur village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
 Punjab	SAS Nagar Mohali	All	Devi Nagar village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
 Punjab	SAS Nagar Mohali	All	Haripur Kurha village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
-Uttarakhand	Dehradun	All	Bhagat Singh Colony	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Dehradun	All	Kargi Grant, Patel Nagar	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Dehradun	All	Keshavpuri Basti, Doiwala	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Dehradun	All	Jhhabrawala, Doiwala	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Dehradun	All	Muslim Colony, Kacchi Colony Sadar Tehsil	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Dehradun	All	Azad Nagar Colony ISBT Dehradun	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Dehradun	All	Bees Bigha Colony, Nagar Nigam Rishikesh	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Haridwar	All	Jwalapur, Tehsil - Haridwar	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Haridwar	All	GandiKhata, Tehsil - Haridwar	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Haridwar	All	Paniyala Kaliyar, Roorkee	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Nainital	All	Banbhulpura, Haldwani	https://twitter.com/Anoopnautiyal1/status/1255768627959062528
-Uttarakhand	Udam Singh Nagar	All	Gujjar Khatta	https://www.jagran.com/uttarakhand/dehradun-city-14-corona-hotspots-in-uttarakhand-20179163.html
 West Bengal	Medinipur East	All	Egra	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
 West Bengal	Kalimpong	All	Note: Entire District declared Red Zone Hotspot	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
 West Bengal	Nadia	All	Tehatta	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
@@ -481,7 +469,6 @@ Uttar Pradesh 	Saharanpur	All	Note: Entire District declared Red Zone Hotspot as
 Uttar Pradesh 	ShamIi	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Firozabad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Moradabad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttarakhand 	Dehradun	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 West Bengal 	Medinipur East	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 West Bengal 	North 24 Parganas	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Andaman & Nicobar 	South Andamans	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -512,8 +499,6 @@ Uttar Pradesh 	Bulandshahr	All	Note: Entire District declared Red Zone Hotspot a
 Uttar Pradesh 	Sitapur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Basti	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Baghpat	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttarakhand 	Nainital	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttarakhand	Udam Singh Nagar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Karnataka 	Bengaluru Rural	All	Kodipalya village, Doddaballapur	https://www.youtube.com/watch?v=GPiXVVMipAA
 Punjab 	Pathankot	All	T-3 Quarters at Additional Land Colony, ShahpurKandi Township, Jugial	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041154.pdf
 Punjab 	Pathankot	All	Anandpur Rara/Kulian	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041380.pdf
@@ -4005,3 +3990,41 @@ Kerala 	Thiruvananthapuram	All	Karode, Ward- 14, 15	https://twitter.com/Breaking
 Kerala 	Thiruvananthapuram	All	Mudakkal,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
 Kerala 	Thiruvananthapuram	All	Vamanapuram,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
 Kerala 	Thiruvananthapuram	All	Manickkal,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
+Uttarakhand	Dehradun	All	Guru Road, Patel Nagar, Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Bairaj Colony, Sinchai Vibhag, Rishikesh	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Sevla Kala, Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	EWS Block, MDDA Colony, ISBT Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	PremBatta Gali, Santowali Ghati Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	D-Block, Sichai Vibhag Pariyojna Khand, Nagar Nigam Rishikesh	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Dandipura Colony, Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Racecourse Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Adarsh Nagar, Lane No. 9, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gali No. 34, Shivaji Nagar, Rishikesh	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Bees Bigha, Rishikesh, Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No. 13, Gram line JeevanGarh, Vikasnagar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No. 19, Herbertpur, Vikasnagar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gram Fatehpur Tanda, Doiwala	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Haripurkala, Basti Ward No 2, Motichur Line	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Circular Road, Dalanwala	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Khata Kheri, Bhagwanpur	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Sati Mohalla, ward no.34, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Matawala Mohalla, Ward no.8, Nagar Panchayat Londaura	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward no.12, Mohd pur, Mohan pura, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Munda Khera Kalan, Laksar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Dargapur, Laksar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Adarsh Nagar, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Dabki, Laksar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village- Dadupur, Govindpur, Haridwar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Hazrat Bilal Mohalla, Ward No. 6, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ambedkar Colony, Ward No. 9, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Green Park Colony, Roorkee	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vaishnavi Apartment, Kankhal	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Jaswinder Enclave, Bhagirathi, Ward No.1, Haridwar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vill. Alawalpur, Laksar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	U.S. Nagar	All	Vill. Raipur, Tehsil – Jaspur	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	U.S. Nagar	All	Vill. Gudalia, Tehsil – Kashipur	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	U.S. Nagar	All	Vill. Sisai, Nagar Palika- Kichha	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Pauri	All	Vill. Pipili, Block Pabau, Pauri	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Pauri	All	Gram Satpali patti, Chaubattakhal, Pauri	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Vill. Bhati, Magadhar, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Vill. Lamnidhar, Tehsil Jakhanidhar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
