@@ -2214,17 +2214,6 @@ Madhya Pradesh	Jabalpur	All	सैफ नगर	https://www.google.com/maps/d/u/
 Madhya Pradesh	Jabalpur	All	नगीना मस्जिद	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
 Madhya Pradesh	Jabalpur	All	रद्दी चौकी	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
 Madhya Pradesh	Jabalpur	All	सिन्धी कैंप	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
-Gujarat 	Ahmedabad	All	KHADIA	https://twitter.com/ThakarTapan/status/1262635167442763782
-Gujarat 	Ahmedabad	All	DARIAPUR	https://twitter.com/ThakarTapan/status/1262635167442763782
-Gujarat 	Ahmedabad	All	SHAHPUR	https://twitter.com/ThakarTapan/status/1262635167442763782
-Gujarat 	Ahmedabad	All	JAMALPUR	https://twitter.com/ThakarTapan/status/1262635167442763782
-Gujarat 	Ahmedabad	All	ASARWA	https://twitter.com/ThakarTapan/status/1262635167442763782
-Gujarat 	Ahmedabad	All	DANILIMDA	https://twitter.com/ThakarTapan/status/1262635167442763782
-Gujarat 	Ahmedabad	All	BEHRAMPURA	https://twitter.com/ThakarTapan/status/1262635167442763782
-Gujarat 	Ahmedabad	All	MANINAGAR	https://twitter.com/ThakarTapan/status/1262635167442763782
-Gujarat 	Ahmedabad	All	SARASPUR	https://twitter.com/ThakarTapan/status/1262635167442763782
-Gujarat 	Ahmedabad	All	GULBAI TEKRA	https://twitter.com/ThakarTapan/status/1262635167442763782
-Gujarat 	Ahmedabad	All	GOMTIPUR	https://twitter.com/ThakarTapan/status/1262635167442763782
 Madhya Pradesh	Betul	All	katiya koylari	https://www.facebook.com/betultalksmp/photos/rpp.902110273137978/3649486225067022/
 Maharashtra	Pune	All	Mangalwar Peth, Juna Bazar – Junabazar, Mangalwar Peth, Juna Bazar Premises (Final Plot No. 897,898)	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
 Maharashtra	Pune	All	Parvati Darshan 1 – Welankarnagar, Laxminarayan Theater, Parvati Darshan, ST Colony, Hotel Panchami area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
@@ -3872,9 +3861,9 @@ Maharashtra 	Palghar	Vasai-Virar	Prabhag- B, Ward- 39 Pragati nagar, basera gard
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- B, Ward- 52 Shanti Apt & kaustub Apt, central park, nallasopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- C, Ward- 19 Vartak heights , phool pada road, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- D, Ward- 66 Gass gav,sopara gaon,nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
-Karnataka	Bengaluru Urban	All	Jayamahal, Ward-63, East (New)	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
-Karnataka	Bengaluru Urban	All	Kempegowda, Ward-01, Yelahanka (New)	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
-Karnataka	Bengaluru Urban	All	Chalavadipalya, Ward-138, West (New)	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
+Karnataka	Bengaluru Urban	All	Jayamahal, Ward-63, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
+Karnataka	Bengaluru Urban	All	Kempegowda, Ward-01, Yelahanka 	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
+Karnataka	Bengaluru Urban	All	Chalavadipalya, Ward-138, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
 Kerala 	Kannur	All	Chirakkal, Ward- 2	https://twitter.com/BreakingViews4u/status/1267484172282544128
 Kerala 	Kannur	All	Maloor, Ward- 9	https://twitter.com/BreakingViews4u/status/1267484172282544128
 Kerala 	Kannur	All	Kannur (C), Ward- 53	https://twitter.com/BreakingViews4u/status/1267484172282544128
@@ -4028,3 +4017,54 @@ Uttarakhand	Pauri	All	Vill. Pipili, Block Pabau, Pauri	https://health.uk.gov.in/
 Uttarakhand	Pauri	All	Gram Satpali patti, Chaubattakhal, Pauri	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
 Uttarakhand	Tehri	All	Vill. Bhati, Magadhar, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
 Uttarakhand	Tehri	All	Vill. Lamnidhar, Tehsil Jakhanidhar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
+Gujarat 	Ahmedabad	All	BEHRAMPURA; Babunagar	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	Vatva; Nilgiri Society	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	Indrapuri; Christ Folk Society	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	Indrapuri; Manguben Ni Chali	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	Isanpur; Setudham	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	Danilimda; Vinay Vihar	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	SAIJPUR; ANIL VAKIL NI CHALI	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	SAIJPUR; FADELI	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	BAPUNAGAR; SANJAY NAGAR NA CHHAPRA	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	SARASPUR; SONERIYA BLOCK	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	SARASPUR; BOMBAY HOUSING	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	INDIACOLONY; MUNICIPAL LABOUR QUARTER	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	INDIACOLONY; PANDIT NAGAR	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	VIRATNAGAR; PATAN NAGAR, KAMLESH NAGAR	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	GOMTIPUR; SUNDRAMNAGAR	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	GOMTIPUR; GHB (SUNDRAMNAGAR)	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	AMRAIWADI; SHIVANAND NAGAR BLOCKS	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	AMRAIWADI; SHIVANAND NAGAR	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	AMRAIWADI; JAGDISH PANDIT NI CHALI	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	DARIYAPUR; NAGORIVAD	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	JAMALPUR; MIL COMPUND	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	JAMALPUR; KAJI NA DHABA	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	JAMALPUR; SALVI NI POLE	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	JAMALPUR; TAD NI SHERI	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	KHADIA; BISCUIT GALI, PANKOR NAKA	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	KHADIA; MAHAJAN NO VANDHO	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	KHADIA; NAGJIBHUDAR NI POLE	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	KHADIA; ASHAPURI MATA NO KHANDHO	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	KHADIA; RAJA MAHETA NI POLE	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	KHADIA; DANDI GARA NI POLE, KUTBI MAHOLLO	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	KHADIA; DHAL NI POLE	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	KHADIA; ZAKARIYA POLE	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	SHAHPUR; SHANKAR BHUVAN NA CHHAPRA	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	ASARWA; KADIYA NI CHALI	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	ASARWA; BAPA LAL GHANCHI NI CHALI	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	GHATLODIYA; RIDDHI SOCIETY	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	BODAKDEV; CHAITANYA SOCIETY (BUNGALOW)	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	SABARMATI; DHARMANAGAR, JAGABHAI NI CHALI	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	NAVRANGPURA; GULBAI TEKRA	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	NAVA VADAJ; SORABJI COMPUND, JUNA VADAJ	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	NAVA VADAJ; AMBIKANAGAR	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	NARANPURA; MANGAL MURTI APPARTMEENT	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	NARANPURA; NIRMAL APPARTMENT, NEAR JAY MANGAL BRTS	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	PALDI; AMBEDKAR COLONY	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	MAKTAMPURA; TAVAKAL VILLA,	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Gujarat 	Ahmedabad	All	SARKHEJ; SHREE NANDNAGAR PART 3	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
+Karnataka	Bengaluru Urban	All	Subhash Nagar, Ward-95, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	Subramanya Nagar, Ward-66, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	Azadnagar, Ward-141, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	Nayandahalli, Ward-131, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	Rayapuram, Ward-137, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
