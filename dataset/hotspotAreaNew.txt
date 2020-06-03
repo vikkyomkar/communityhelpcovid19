@@ -41,18 +41,6 @@ West Bengal	Medinipur East	All	Egra	https://timesofindia.indiatimes.com/city/kol
 West Bengal	Kalimpong	All	Note: Entire District declared Red Zone Hotspot	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
 West Bengal	Nadia	All	Tehatta	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
 Assam	Guwahati	All	Athgaon Kabarsthan Masjid	https://www.ndtv.com/india-news/assam-coronavirus-news-guwahatis-athgaon-kabarsthan-masjid-declared-hotspot-after-first-death-in-sta-2209846
-Maharashtra	Thane	All	Kajuwadi	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
-Maharashtra	Thane	All	 Dosti Vihar	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
-Maharashtra	Thane	All	 Happy Valley	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
-Maharashtra	Thane	All	 Saibaba Nagar	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
-Maharashtra	Thane	All	 Loda Paradise	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
-Maharashtra	Thane	All	 Runwal Garden	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
-Maharashtra	Thane	All	 Dhobi Ali	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
-Maharashtra	Thane	All	 Vigna Harta building	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
-Maharashtra	Thane	All	 Manisha Nagar	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
-Maharashtra	Thane	All	 MG Road	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
-Maharashtra	Thane	All	 Vrindavan Society 	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
-Maharashtra	Thane	All	Suryanagar	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
 Maharashtra	Ahmednagar	All	Mumkundnagar (Nagar City)	https://maharashtratimes.com/maharashtra/ahmednagar-news/jamkhed-city-corona-hotspot/articleshow/75084819.cms
 Maharashtra	Ahmednagar	All	 Alamgir (Nagar taluka)	https://maharashtratimes.com/maharashtra/ahmednagar-news/jamkhed-city-corona-hotspot/articleshow/75084819.cms 
 Maharashtra	Ahmednagar	All	 Naikwadapura (Sangamner city)	https://maharashtratimes.com/maharashtra/ahmednagar-news/jamkhed-city-corona-hotspot/articleshow/75084819.cms
@@ -157,7 +145,6 @@ Madhya Pradesh	Badwani	All	Khalwadi Mohalla, Sendhwa	https://www.indiatvnews.com
 Madhya Pradesh	Badwani	All	Madeena Nagar, Sendhwa	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Badwani	All	Paanwadi Mohalla, Badwani	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Badwani	All	Sutar Colony, Badwani	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
-Madhya Pradesh	Betul	All	Shobhapur	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Vidisha	All	Kadi Mohalla, Sironj	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Vidisha	All	Mirjapur Karimi Mohalla, Ganj-Basoda	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Sheopur	All	Hasanpur Haveli	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
@@ -533,14 +520,6 @@ Madhya Pradesh	Bhopal	All	Haj House 	https://www.naidunia.com/madhya-pradesh/bho
 Madhya Pradesh	Bhopal	All	Parsol Mohalla	https://www.naidunia.com/madhya-pradesh/bhopal-coronavirus-madhya-pradesh-news-less-patient-than-indore-yet-more-number-of-container-areas-in-bhopal-5509985
 Madhya Pradesh	Bhopal	All	Basant Dhakad Gram	https://www.naidunia.com/madhya-pradesh/bhopal-coronavirus-madhya-pradesh-news-less-patient-than-indore-yet-more-number-of-container-areas-in-bhopal-5509985
 Madhya Pradesh	Bhopal	All	BSNL Exchange Office	https://www.naidunia.com/madhya-pradesh/bhopal-coronavirus-madhya-pradesh-news-less-patient-than-indore-yet-more-number-of-container-areas-in-bhopal-5509985
-Maharashtra	Thane	All	Navi Mumbai	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
-Maharashtra	Thane	All	Mira-Bhayander	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
-Maharashtra	Thane	All	Kalyan-Dombivli	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
-Maharashtra	Thane	All	Ulhasnagar	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
-Maharashtra	Thane	All	Bhiwandi-Nizampur,	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
-Maharashtra	Thane	All	Kulgaon Badlapur	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
-Maharashtra	Thane	All	Nagar panchayat of Shahapur	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
-Maharashtra	Thane	All	Murbad	https://www.indiatvnews.com/news/india/coronavirus-hotspots-mumbai-thane-district-containment-zones-covid-19-cases-609310
 Odisha 	Khorda	All	Suryanagar	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Khorda	All	Bomikhali	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
 Odisha 	Khorda	All	Satyanagar	https://www.ommcomnews.com/odisha-news/15-covid-19-containment-zones-across-odisha
@@ -1138,21 +1117,6 @@ Andhra Pradesh	Visakhapatnam	All	Marripalem - Ranapratap Nagar 	https://twitter.
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Railway Quarters	https://twitter.com/suripkfan/status/1257156373592322051
 Andhra Pradesh	Visakhapatnam	All	Marripalem - Mohidden Gardens	https://twitter.com/suripkfan/status/1257156373592322051
 Assam	Guwahati	All	Doctor's Hostel no. 5 of Guwahati Medical College (GMCH) campus	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
-Maharashtra	Thane	All	Saileela,Rameshwadi , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
-Maharashtra	Thane	All	Ganeshnagar , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
-Maharashtra	Thane	All	Mohan Tulsi Vihar,Hendrapada , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
-Maharashtra	Thane	All	Motiram Green,Boratpada Road,Badlapurgaon , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
-Maharashtra	Thane	All	Manav Park,Church Road , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
-Maharashtra	Thane	All	Jadhav Colony,Belavli , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
-Maharashtra	Thane	All	Duttprabha Hsg Society,Rameshwadi , Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
-Maharashtra	Thane	All	Shatrujay Society,Reni Resort,Hendrapada, Badlapur (West)	https://twitter.com/pphantom2804/status/1258307607879725056
-Maharashtra	Thane	All	Pranji Garden , Badlapur (East)	https://twitter.com/pphantom2804/status/1258306689188667392
-Maharashtra	Thane	All	Vishwajeet Manohar,Katrap Gao , Badlapur (East)	https://twitter.com/pphantom2804/status/1258306689188667392
-Maharashtra	Thane	All	Panvelkar Park,Near Water Tank,Shirgaon , Badlapur (East)	https://twitter.com/pphantom2804/status/1258306689188667392
-Maharashtra	Thane	All	Shivam Heights,Shanti Nagar , Badlapur (East)	https://twitter.com/pphantom2804/status/1258306689188667392
-Maharashtra	Thane	All	Amrutram Society,Katrap , Badlapur (East)	https://twitter.com/pphantom2804/status/1258306689188667392
-Maharashtra	Thane	All	Shivam Sankul,Vijaydeep Society,Gaodevi , Badlapur (East)	https://twitter.com/pphantom2804/status/1258306689188667392
-Maharashtra	Thane	All	Shivkalidas Society, Ghorpade Chowk,Katrap, Badlapur (East)	https://twitter.com/pphantom2804/status/1258306689188667392
 West Bengal	Kolkata	Ward-33	91,93,94A,95, Baliaghat Main Road (Lebugola Bustee)	
 West Bengal	Kolkata	Ward-34	10 to 34, Beliaghata Main Road	
 West Bengal	Kolkata	Ward-3	Ward-3 H/22, J K Ghosh Road, Lal Maidan	
@@ -2214,71 +2178,6 @@ Madhya Pradesh	Jabalpur	All	सैफ नगर	https://www.google.com/maps/d/u/
 Madhya Pradesh	Jabalpur	All	नगीना मस्जिद	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
 Madhya Pradesh	Jabalpur	All	रद्दी चौकी	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
 Madhya Pradesh	Jabalpur	All	सिन्धी कैंप	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
-Madhya Pradesh	Betul	All	katiya koylari	https://www.facebook.com/betultalksmp/photos/rpp.902110273137978/3649486225067022/
-Maharashtra	Pune	All	Mangalwar Peth, Juna Bazar – Junabazar, Mangalwar Peth, Juna Bazar Premises (Final Plot No. 897,898)	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Parvati Darshan 1 – Welankarnagar, Laxminarayan Theater, Parvati Darshan, ST Colony, Hotel Panchami area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Parvati Darshan 2 – Parvatidarshan colony on the west side of Rambhau Mhalgi road	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Parvati Dandekar pool slum – Parvati Final	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Parvati Dattawadi – Parvati Final Plot No. 558 Dattawadi area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Kasba, Nana Peth, Bhavani Peth – Kasba, Vishrambagwada, Bhavani Peth, Somvar Peth, Mangalvar Peth, Budhvar Peth, Guruvar Peth, Shukravar Peth (Pai), Raviwar Peth, Rasta Peth, Nana Peth, Bhavani Peth, Mahatma Phule Peth (Ganj Peth), Ganesh Peth, Kasba Peth, Ghorpadi Peth.	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Pune Station, Tadiwala Road – Sweeper Chawl, Bhim Sanghatana Rajaratan, Vishwadeep Tarun Mitramadal, Maruti Mandir-1, Bal Mitramandal, Maruti Mandir-2. Drought Vasahat, Sangeeta Vasahat, Kapila Dairy Premises, Lokseva Mitramandal Ulhasnagar, Khadda Vasahat, Lokseva Vasahat, Chavan Chawl, Panmala Private Road, Indiranagar Private Road, Vikasnagar, Siddharthnagar Private Road, Kinara Nalanda Private Road, Patryachi Chawl Private Road. Tadiwala Road	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Bhavani Peth, Manjulabai Chawl – Manjulabai Chawl C.S.No. 778. 786. 787 Bhavani Peth	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Parvati, Taljai Vasti 1 – Golwalkar Guruji Path West Taljai Vasahat	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Parvati, Taljai Vasti 2 – Suvarna Society, Ramabai Ambedkar Society, Rohidas Society, Veer Lahuji Society Swapnasakar Society area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Parvati Shivdarshan 1 – Settlement on the west of Rambhau Mhalgi Path	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Parvati Shivdarshan 2 – Settlement on the east of Rambhau Mhalgi Path	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Parvati, Shahu Vasahat – Parvati, Shahu Vasahat, Area opposite Gajanan Maharaj Temple	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Katraj, Sudhamatanagar area – Katraj, S.No. 66 Sundhamatanagar adjoining area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Ambegaon Plateau, Siddhivinayak Colony, Navnathnagar – Ambegaon Plateau, Siddhivinayak Colony, Navnathnagar area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Bibwewadi, Ambedkarnagar, Market Yard – Bibwewadi Sr. no. 570, Amedkarnagar Vashat	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Gultekdi Diasplot – Plot No. 429 Diasplot Vashat	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Gultekdi, Meenatai Thakrenagar – Gultekdi, Flat no 427, Meenatai Thakre Vasahat	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Bibwewadi S.No 650 – Bibwewad Sr no 640, 648, 659 Upper Indira Nagar Vashat, Shivarayanagar S.No. 658	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Bibwewadi S.No. 650 – Bibwewadi Sr no 649, 650, 651, 652, area behind Aimata Mandir.	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Bibwewadi, Gultekdi, Dholemala Slum – Bibwewadi 430, 430 A1 A2, and 430 B	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Bibwewadi, Premnagar Vashat – Bibwewadi S.No. 690 (4) Premnagar Vashat	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Gultekdi, Shakarsheth Road – Gultekdi, Panorama Society, Near Kumar Pacific Mall, Shankarsheth Road	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Bibwewadi, Anant Vasahat, Kothari Blocks – Bibwewadi, Anant Vasahat, Kothari Blocks area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Bibwewadi Gaothan – Bibwewadi Gaothan, Sant Society, Hutatama Babu Genu area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Yerawada, Nagpur Chawl – Nagpur Chawl area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Yerawada Sec 6 – Looproad, Jail Road, Hot Mix Plot Road. Full section of Pune Nagar Road, Yerawada Gaothan, New Khadki Gaothan, Ganesh Nagar, Mother Teresa Nagar, Laxmi Nagar, Subhashnagar, Ashoknagar, Balajinagar, Kamarajnagar etc.	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Yerawada, Adarsh ​​Indiranagar, Alandi Road – Yerawada, Adarsh ​​Indiranagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Dhanori Chaudharinagar – Dhanori S.No. 29 (4) and 31 (4) Chaudharinagar, Gokulnagar, Mujoba Vasti Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Yerawada Dhere Talao Premises – Yerawada Late Keshavrao Dhere Talao area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Hadapsar, Ramnagar – Shardabai Londhe School, S. No. 110 Ramtekdi, Ramnagar Mosque Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Hadapsar, Ramtekadi – Good Shepherd Committee Church, School for blind, Vitthal Mandir Premises, Valmiki Vasti, Prathama Building, SRF Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Hadapsar, Gosavivasti, Vaiduwadi – Vaiduwadi, Riddhi Siddhi Building Complex, Lakshmi Mata Mandir Complex, Diamond Bakery Complex, Omkar Hospital Complex, Silver Tower Complex areas	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Hadapsar, Sayyednagar 1 – Premises near Syednagar Street No. 1A to 6A Syednagar Railway Gate	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Hadapsar, Sayyadnagar 2 – Ashiana Hall Complex, Street No. 8A to 28A, Ashabi Rasool Masjid Complex	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Hadapsar, Sayyadnagar 3, Ghulam Ali Nagar – Canara Bank ATM Complex, First Apartment Complex, Jama Masjid Complex, Navjivan Nursing Home Complex, Kamal Hospital Complex, Sayyednagar Street No. 1B to 15B	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Hadapsar, Ghulam Alinagar – All Streets in Ghulam Alinagar, Yusufiya Masjid Premises, Ideal English Medium Primary School Premises, Garib Nawaz Masjid Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Kondhwa Khurd Shivneri Nagar – Kondhwa Khurd Gaothan Campus, Srihansnagar Campus, Srihansnagar Street No. 1 to 36, Pearl Drop School Campus	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Kondhwa Khurd Bhagyodayanagar – Bhagyodayanagar, Kondhwa Road, North: Bhagyodayanagar Road South: Shital Petrol Pump Pari West: Bandhannagar Premises, Umar Premises, Sahil Masjid Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Kondhwa Khurd Tamboli Bazaar – Mithanagar Complex, Gagan Imrald Society Complex, Al Noor Masjid Complex, Akshar Dham Society Complex, Mount Haven Society Complex, West: Maharashtra Trust Educational Trust College Education Trust Mithanagar Street No. 1 to 18	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Kondhwa Khurd Mithanagar – East: Bhairiba Nala and Kondhwa Road, West Unity Park Co. Op. Society & Road, North: Ashoka Music Society, South: Ashrafnagar area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Wanwadi, S.R.P.F. – Wanwadi SRPF No. 1 & 2, Nanavatinagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Hadapsar, Gosavi Vasti – Hadapsar, S.No. 106A (Pa), Gosavi Vasti, Pune Solapur Road area around the canal	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Shivajinagar Railway Line, Vasahat on the south – Shivajinagar Railway Line South Colony Final Plot 11,23,24,25,26,29 Shivajinagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Shivajinagar, Kamgar Putla – Shivajinagar Kamgar Putla Vashat, Old Artillery, Rajiv Gandhinagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Shivajinagar, Mahatma Gandhi Slum – Mahatma Gandhi Colony Shivajinagar, Patkar Plot, Mahatma Gandhi Nagar (Final Plot No. 67)	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Shivajinagar, Patil Estate – Patil Estate, Patil Estate Colony, Final Plot No. 65 66 Shivajinagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Northside of Shivajinagar railway line – Shivajinagar Railway Line North Vishnukrupa Nagar Final Plot No. 29 Shivajinagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Shivajinagar, Slum near Labor Commissioner’s office – Bhoslewadi, Wakdewadi, F. Plot no. 58 out of 59	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Yerawada, Shakti Apartment, Lokshahir Annabhau Sathenagar – Yerawada, Shakti Apartment, and Lokshahir Annabhau Sathenagar, Sangamwadi Area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Yerawada, Siddharthnagar, Ramwadi – Yerawada, Siddharthnagar, Area around Ramwadi toll plaza	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Yerawada, White House Society – Yerawada, White House Society Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Wadgaon Sheri – Wadgaon Sheri, Saikripa Society, Vitthalnagar, Digambarnagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Yerawada Gandhinagar 1 – S.No. 103 Yerawada Jayaprakashnagar, Gandhinagar	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Parvati Janata Vasahat – Parvati Paytha, Jayabhavaninagar, Janata Vasahat Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Dhayari, Raikar Mala – Shivprathamesh Society, Pandav Samrajya, S.N. 75, 161 Raikar Mala Premises, Dhayari, Pune	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Hadapsar, Chintamaninagar, Near Railway Gate – Premises near Sayyednagar Magar Petrol Pump, Sant Teresa Church Premises, HDFC Bank ATM Premises, Maruti Mandir Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Hadapsar, Adarsh ​​Colony – All six lanes in Gajanan Colony, ICICI Bank, (ATM) Premises, Hotel Sangram Premises, Anjuman Khairul Islam Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Fursungi, Bhekrainagar – Fursugi S.No. 175, 176, 177, 178, Wadi 1784, 204, 206, 207 Bhekrainagar area	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Kodhwa Budruk Kakadevasti – West: Road leading from Aai Mata Mandir to Kodhwa Budruk, Isha Pal Society Road to the north. South: Risha Enclave Building Road. East: Hotel Ruchira Food Complex Sai Kunj	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Katraj, Khadoba Temple area – Khandoba Temple area, Katraj (S.N. 174 18, etc) Sainagar Kondhwa Bu. (S.N. 594., 60, etc.) Premises	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Dhankawadi, Balaji Nagar – Balajinagar Vashat, Dhankawadi, S.N 20, 21, 22, 23, Kashinath Patilnagar, Pawar Hospital Lane	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Erandwane, Rajput Vitbhatti colony – Erandwane, Rajput Vitbhatti colony, area near Mahadev temple	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
-Maharashtra	Pune	All	Kothrud, Postman Colony, Shastrinnagar – Kothrud, S. 83, Postman Colony, Shastrinagar Paud Road Left Side Premises.	https://www.dainikmitra.com/pune-municipal-corporation-released-a-new-containment-zones-list/
 Maharashtra	Pimpri-Chinchawad	All	Kharalwadi area, Pimpri	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
 Maharashtra	Pimpri-Chinchawad	All	Shivneri Colony, Pimple Gurav	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
 Maharashtra	Pimpri-Chinchawad	All	Rupinagar, Talwade	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
@@ -2354,8 +2253,6 @@ Karnataka	Bengaluru Urban	All	Marathahalli, Ward 86, Mahadevapura	https://www.fa
 Karnataka	Bengaluru Urban	All	Hongasandara, Ward 189, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Padarayanapura, Ward 135, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Jagajeevanram Nagar, Ward 136, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Madhya Pradesh	Betul	All	Hiwara Gaon 	https://www.facebook.com/betultalksmp/photos/rpp.902110273137978/3649486225067022/
-Madhya Pradesh	Betul	All	Athner Ward No 1, 10, 11, 14	https://www.facebook.com/betultalksmp/photos/rpp.902110273137978/3649486225067022/
 Telangana	Hyderabad	All	0-1-18/44, Shyam Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
 Telangana	Hyderabad	All	A Battery Lane	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
 Telangana	Hyderabad	All	Aditya Nagar Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
@@ -2488,9 +2385,6 @@ Assam	Cachar	All	Sukanta Lane, Tarapur, Cachar Assam	https://twitter.com/Silchar
 Assam	Cachar	All	Badripur, Kashipur Pt-IV, Cachar	https://twitter.com/SilcharToday/status/1264240740940554241
 Assam	Cachar	All	Area surrounding Don Bosco School, Ramnagar, Silchar	https://twitter.com/SilcharToday/status/1264240740940554241
 Karnataka	Bengaluru Urban	All	Marappana Palya, Ward 44, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Madhya Pradesh	Betul	All	Tara Gaon, Shahpur 	
-Madhya Pradesh	Betul	All	Mokha Mal, Shahpur	
-Madhya Pradesh	Betul	All	Sivanpat, Ghoradongri	
 Karnataka	Bengaluru Urban	All	S.K. Garden, Ward 61, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Puttenahalli, Ward 187, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Hagadur, Ward-84, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
@@ -2783,128 +2677,6 @@ Bihar	Patna	All	समनपुरा पुरानी मस्जिद क�
 Bihar	Patna	All	रंजन भगत चांदमारी रोड, गली संख्या दो, पीएनबी एटीएम के पास थाना कंकड़बाग	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
 Bihar	Patna	All	सरकारी बोरिग के पास, गांव के उत्तर-पश्चिम, ग्राम बहुआरा, पंचायत चिपुरा, थाना गौरीचक	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
 Bihar	Patna	All	पश्चिमी जजेज कॉलोनी, आरपीएस मोड़, थाना रूपसपुर, दानापुर।	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
-Delhi 	Central	All	Sadar Bazaar, Central District.	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Central	All	Chandni Mahal, Central District.	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Central	All	NabiKarim, Central District.	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Central	All	Bara Hindu Rao Area, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Central	All	Entire Bapa Nagar II, (area between Padam singh Road, Military Road Arya Samaj Road and Road no. 3) Delhi-110006	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Central	All	Bapa Nagar III ( area between Padam Singh Road, Military Road, Tank Road, and Road no 03 Baap Nagar) area, Delhi-110006	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Central	All	Bapa Nagar I ( area between Pyare Lal Road, Military Road, Arya Samaj Road and Road no 03 Baap Nagar) area, Delhi-110006	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	East	All	H. No. 300, Gali No. 3 Krishna Puri, Main Road Mandawali, Delhi to H.No. 739/16 Gali No. 3 Krishna Puri, Main Road Mandawali, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	East	All	H.No. 3/24B to 4/31, Gali No. 3 & 4 Saket Block, Mandawali, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	East	All	Part of Pandit Mohalla, enclosed by H.No. 228, 238, 302, 366, 365, 294, 295, 332, Kondli, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	East	All	(a) Gali No. 3, From A/55 to S82 (Sai Chowk Dairy), Anarkali Garden, Jagatpuri, Delhi (b) Gali No. 4, Anarkali Garden, Jagatpuri, Delhi (c) Gali No. 5, From B-98/1 to A/82 (Seedi Waa Mandir), Anarkali Garden, Jagatpuri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	East	All	H.No. D-58 to H.No. D-64, Gazipur Village, Delhi, 110096	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	East	All	Entire area falling between Sabji Mandi Madarsa to Mahatma Gandhi Camp, Shashi Garden, Delhi-110091	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	New Delhi	All	Budh Nagar, Inderpuri, New Delhi & its adjoining area of Buffer Zone	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	New Delhi	All	EA BLOCK, INDERPURI	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	New Delhi	All	H. No. P-65 and H. No. P-184, Pillanji Village, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	B Block Jhangirpuri.	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	Gali No. 1 to 10 (1 to 1000) C Block Jhangirpuri.	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	1100 WaliGali (H. No. 1181-1200), 1200 WaliGali (H. No. 1238- 1268),1300 WaliGali (H. No. 1306-1331), H-3 Block, Jhangirpuri, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	H.No.716 to 785, H. No. 786 to 860, H. No. 861 to 950 K-Block, Jhangir Puri, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	G-Block, Jahangirpuri , Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	Gali No. 3, 4 & 5 Majlis Park, Adarsh Nagar, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	D-1151 to 1200, D-1251 to 1450, D-1601 to 1650 of D-1 Block Jahangir puri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	D-1651 to 1700, D-1751 to 1850, D-1851 to 1900 of D-2 Block Jahangir puri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	J-1640-1655, J-1656 to 1680, J-1681 to 1715, J Block Jahangirpuri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	Dhanpat ka Katra (on one side) Mandir wali gali, Sayyad Wali Gali and Dhobi Wali Gali, Azadpur Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	H. No. 1950 to 2000, HNo.2001 to 2050, H.No. 2051 to 2100 of EE Block Jahangir Puri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	H.no. 412-593, kfrom Dr.Sagar Clinic to H.No. 386,H.No. 387 to 595, N-9 to N-25,H.No. 594 to H. no. 690 Lal Bagh Area Azadpur Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	E-1051 to E-1100, E-1151 to E-1200, E-1251 to E-1300 of E-2 Block Jahangir pur Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	D-1 to D-50, D-100 to D-150, D-200 to D-250 of D-1 Block Jahagir puri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	H.No. 548/2, N-116, H.No. 319, N-116, H.No.319, N-116, H.No. 301, N-116, H.No. 203, N-116 JJ Camp Badli Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	Gali No. 1 Swaroop Nagar Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	Pocket-6 Sector A-5 Narela Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	Gali No. 3A, 3B, 4A, 4B & 5B, Swatantra Nagar, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	H.No. Q-31 to H. No. 27 Tagore Park, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	H.No. B-148 to B-140, B-131 to B-139, Derawal Nagar, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	H.No. 502, HNo. 495, H.No. 532 Bajitpur Thakran, Narela Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	Block-1 Sector-17, Rohini, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	H.No.642 to 657 H.No. 595 to 605 , H.No. 613 to 623, Mukherjee Nagar, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North	All	K-1 to K-50, K-51 to K-100, K-181 to K-215 ,K1 Block, Jahangir Puri, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North-East	All	E-51, Main Road, Shastri Park, Delhi & E-21, Gali No.-8, Shastri Park, Delhi on 18.04.2020	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North-East	All	T-606, Gali No. 18, Gautampuri, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North-East	All	A-97, 98 & 99 Near Buland Masjid, Shastri Park, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North-East	All	Block No. X, Gali N. 1 to Gali No. 3, Yadav Villa, Brahmpuri, Seelampur, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North- West	All	Entire Street No. 9, Shalimar Village, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North- West	All	Entire Gali No. 3, Shalimar Village, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North- West	All	Chandra Shekhar Azad Colony, Wazirpur Industrial Area, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North- West	All	BB Block, east Shalimar Bagh, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North- West	All	C-2, Block, Sultan Puri, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North- West	All	H.No.92 to 212 (Neem wali gali) Naharpur village Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North- West	All	H.No. 482 to 803 C-block Mangolpuri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North- West	All	H.No. 250 to H.No. 375 Rampura Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North- West	All	H.No. 600 to H.No. 800 Rishi Nagar, Rani Bagh Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North- West	All	Police Colony, Ashok Vihar Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North- West	All	Wazirpur Village From Bitto Diary to Matke wali Gali	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North- West	All	K-Block, Wazirpur, J.J. Colony From H.No. 140 to 400	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	North- West	All	B-Block, Shakurpur From H.No. B-24 to B-46 and B-201 to B-360	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Shahdara	All	E-Pocket, GTB Enclave, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Shahdara	All	Pratapkhand , Jhilmil Colony.	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Shahdara	All	Gali no 3,4 and 5 East Ram Nagar, Shahdara	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Shahdara	All	H. No. 15 to 101 Dayanand Vihar, Delhi-92	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Shahdara	All	Gali No. 18, H.No. 701/23 to 500/36B, Vijay Park, Maujpur, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Shahdara	All	Gali No. 5, D-block, Ashok Nagar, Delhi (Comprising of 80 households approx.) on 25.05.2020	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Shahdara	All	Shiv Mandir Gali No. 5, Maujpur, Delhi (Comprising of 150 households approx.) on 25.05.2020	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	Shahdara	All	Gali No. 7-8, Krishna Gali No., Maujpur, Delhi (Comprising of 150 households approx.) on 25.05.2020	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South	All	Entire effected street near Gandhi Park, Malviya Nagar, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South	All	Boundary Start from B-4/200 and cover the whole locality till backside of humayupur lane includes, Ashiana complex & B-4/206 Safdarjung Enclave, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South	All	H. No. 50, Hauz Rani, New Delhi, from Mother Dairy to back corner of Raja Ram Mohan School, Hauz Rani, New Delhi.	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South	All	H. No. 153/B, 4th Floor, Savitri Nagar, Malviya Nagar, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South	All	Gali No. 2, 3 & 4 Devli Extension, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South	All	F-313, Near Shiva Mandir Lado Sari and F-274, 2nd Floor of Lado Sari, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South	All	Entire affected area of Samshi Talab, Mehrauli including A-3, lake of view apartment, Mehrauli, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South	All	Main Gali of F-Block from HNo. 306 to 379 Dakshin puri new Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South	All	Main Road to 64C, Zamrudpur Greater Kailash, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South	All	H.No. 268/D, 28, Ward No. 2 Mehrauli, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South	All	H.No. 790 Gali No. 14, L-Block Sangam Vihar Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South	All	H.No. B-258, H.No. B-822, H.No. C-98, H.No. H1-54 and H.No. H- 16, JJ Colony Tigri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	Markaz Masjid and Nizamuddin Basti	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	Area of Street/Gali No. 18 to 22 of Zakir Nagar and nearby area of Abu Bakar Masjid of Zakir Nagar ( Core) rest of Zakir Nagar as Buffer Zone	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	H. No. 811 to 829 and 842 to 835 - Khadda Colony, Jaitpur, Extension , Part-II, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	H. No. 1144 to 1134 and 618 to 623 - Khadda Colony, Jaitpur, Extension , Part-II, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	Gali No. 16, Kachhi Colony, Madanpur Khadar, Extension, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	MehelaMohalla, MadanpurKhadar, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	Entire Gali starting from H.No. G-54 to F-107 & Entire Gali starting from H.No. CN-854 to H.No. 137, Chhuriya Mohalla, Tughlakabad Village, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	Gali No. 26 & 26B, H.No. 2056 to 2092 & Gali No. 27 & 27B, H.No. 2063 to 2083 , Tughlakabad Extension, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	Whole Kumhar Gali (H.No. 1751 to 1815) to Chaupal Chowk Kotla Mubarakpur Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	D-Block, (H.No. 152 to 162) Shaheen Bagh , Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	H. No. 23 to 156 & 15 to 191, (Polygon”A”) & H No 230 -233 (Polygon”B”) Sunlight Colony –I , Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	H.No. 196 to 199 (Polygon”A”) and H.No. 185 To 190 (Polygon”B”) Aliganj, Kotla Mubarakpur Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	H.No. 1942 to 195 (Polygon”A”) and H.No. 2027 to 2042 Choupal wali gali (Polygon”B”) Pillanji Village Kotla Mubarakpur Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	H.No. K-36 to K-37, (Polygon”A”) and H.No. K-421 to K-431 Nand Gali (Polygon “B”) Punjabi Bazar Road, Kotla Mubarkpur, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	Whole Gali Covering H.No. 2010 to 2045 & 1996, Pillanji Village , Kotla Mubarkpur, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	Whole Gali Covering H.No.306 to 269 Sunlight Colony-I, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-East	All	Gali No. 13, House No. 1372 to 1438 Govindpuri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-West	All	Gali No. 5 & 5A, H-2 Block, Benagli Colony, Mahavir Enclave, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-West	All	C-2, Block, Janakpuri, Kothi No. -119	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-West	All	Plot No.-1294, Sonu Yadav Ka Makkan, Theke Wali Gali, Opposite DC Office Kapashera, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-West	All	RZF-756/7, Gali no 1 Band, Raj Nagar II Dwarka New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-West	All	A-28, Deep encalve Part II, Vikaspuri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-West	All	RZ-535/11, Gali no. 46, Sadh Nagar, Palam Colony, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-West	All	H no. 667, Gali no. 3, village Kanganheri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-West	All	Flat no. 102, DG3 block, Vikaspuri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-West	All	J-106, Puran Nagar, Palam colony, Main Road, Near Metro Pillar no. 33, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-West	All	F-204, F-Block, Vikaspuri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-West	All	RZ-95, Veer Nagar, West Sagarpur, Gali No. 2 New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	South-West	All	B-396/29 Mahavir Enclave Part-2 New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	Tilak Vihar area in Tilak Nagar, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	WZ-64/4, Ashok Nagar, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	2/395, Subhash Nagar New Delhi (Jasbeer Kaur+6 Family)	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	H.No. 107, old Bhagat Gym wali gali near Flyover Bijwasan, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	T-609/H, Gali No. 6, Baljeet Nagar, Delhi-110006	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	YS-14, Shiva Enclave, Paschim Vihar New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	C-283 and C-284 Madipur JJ Colony	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	A-2/41, Paschim Vihar, New Delhi & A-2/42 Paschim Vihar	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	D-70, Gali No. 10, Shiv Ram Park, Nangloi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	JC-37C, Hari Nagar, New Delhi in around area of this house as per map attached	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	(a) WZ-76 Tattar Pur, Tagore Garden, New Delhi in around area of this house as per map attached (b) WZ-79 Tattar Pur, Near Tagore Garden Metro Station	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	B-126,Tagore Garden Ext. New Delhi in around area of this house as per map attached	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	House no. 2/386 Subhash Nagar, New Delhi in around area of this house as per map attached	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	33C, Madhban Enclave, LIG Flats, Madipur, 9999757546 In and adjacent area of 33C, Madhban Enclave, LIG Flats, Madipur	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	C-244, jwalapuri, Nangloi Delhi, In and adjacent area of C-244, Jwalapuri, Nangloi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi 	West	All	SH/18/282 New Moti Nagar, Near Jhulle Lal Mandir, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
 Uttar Pradesh	Ghaziabad	All	A75 Green Vally Kaushambi opp Rajpat Regidency Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
 Uttar Pradesh	Ghaziabad	All	A2 51 Ambedkar road Maharajpur sahibabad	https://twitter.com/DigestNoida/status/1257370134186012672
 Uttar Pradesh	Ghaziabad	All	Maharajpur Shahiabad Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
@@ -2984,58 +2756,6 @@ Karnataka	Bengaluru Urban	All	Agaram, Ward-114, East	https://www.facebook.com/bb
 Karnataka	Bengaluru Urban	All	Siddapura, Ward-144, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
 Karnataka	Bengaluru Urban	All	Hosahalli, Ward-123, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
 Karnataka	Bengaluru Urban	All	Chokkasandra, Ward-39, Darasahalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
-Maharashtra 	Nashik	All	Sidheshwar Nagar, Nashik Road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Gosavi Wadi, Nashik Road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Motha Kumbharwada, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Ameya Apartment, Nashik Road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Aalishan, Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Suprabhat Vasahat, Sanjivnagar	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Motha Rajwada, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Shivajiwadi, Bharat nagar	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Naikwadipura, Wadalanaka	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Mumtaz Nagar, Wadala	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Pandit Nagar, Cidco, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Lekha Nagar, CIDCO	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Nirman villa, Vise Mala	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Shanimandir, Dindori Road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Prabhat Colony, Ranapratap Chowk	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Samata Nagar, Agartakli	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Loksahakar Nagar, Dindoriroad, Panchvati	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Kavitakunj Appt, Govind Nagar	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Krantinagar, Makhmalabad	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Champanagari, Jailroad	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Anand Niwas, Nashik poona road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Fule Nagar, Panchvati, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Sadiknagar, Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Sham Pride, Sarsvati Nagar	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Shriramnagar, Jatra Hotel	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Sahil Heights, Pakhal Road	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Niyati Deepali Nagar, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Raghupati Society, Dattamandir, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Vinus Appt., IT Park	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Sarswati Nagar, Opp.Rasbihari School	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Tirupati nagar, Near Water Filteration Plant	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Krishna Residency, Khutwadnagar	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Vaishnavi, Karnalnagar, Kamatwada	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Vimalnath Pride, Om Gurudev Ngr	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Rathchakra Indiranagar, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	lekha Nagar-2, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Naikwadipura-2 Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Godapark Ramwadi Brige, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Damodar Nagar, Pathardi Phata,	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Mahebub Nagar, Wadala, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Patil Park, Jadhav Sankul, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	D-9, Renuka Nag, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	A, Karma Heights, Tapowan RD, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Shital, Bappa Sitaram Colony, Hirawadi Road, Pachvati, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Prayag Greens, Kala Nagar, Vaidhwadi, Pachvati, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Vrundavan Garden, Gangapur, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Kamod Road, Jharekari Kot, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Sayali, Radha Nagar, Makhmalabad Road, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Suprabhat Society, Peth Road, Pachvati, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Prime point Appartment, dream valley, Shingada talao, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Panchshil Nagar, Ganjamal, Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
-Maharashtra 	Nashik	All	Kazipura Kot, Muitanpur, Old Nashik	https://twitter.com/my_nmc/status/1267109533517639681/photo/3
 Uttar Pradesh	Agra	All	गॉघी नगर	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
 Uttar Pradesh	Agra	All	कमला नगर 	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
 Uttar Pradesh	Agra	All	नगला पदी 	https://twitter.com/OfficeOfDMAgra/status/1267297263698579457
@@ -4068,3 +3788,546 @@ Karnataka	Bengaluru Urban	All	Subramanya Nagar, Ward-66, West (NEW)	https://www.
 Karnataka	Bengaluru Urban	All	Azadnagar, Ward-141, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
 Karnataka	Bengaluru Urban	All	Nayandahalli, Ward-131, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
 Karnataka	Bengaluru Urban	All	Rayapuram, Ward-137, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Delhi 	Central	All	Sadar Bazaar, Central District.	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Central	All	Chandni Mahal, Central District.	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Central	All	NabiKarim, Central District.	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Central	All	Bara Hindu Rao Area, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Central	All	Entire Bapa Nagar II, (area between Padam singh Road, Military Road Arya Samaj Road and Road no. 3) Delhi-110006	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Central	All	Bapa Nagar III ( area between Padam Singh Road, Military Road, Tank Road, and Road no 03 Baap Nagar) area, Delhi-110006	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Central	All	Bapa Nagar I ( area between Pyare Lal Road, Military Road, Arya Samaj Road and Road no 03 Baap Nagar) area, Delhi-110006	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	East	All	H.No. 3/24B to 4/31, Gali No. 3 & 4 Saket Block, Mandawali, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	East	All	Part of Pandit Mohalla, enclosed by H.No. 228, 238, 302, 366, 365, 294, 295, 332, Kondli, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	East	All	(a) Gali No. 3, From A/55 to S82 (Sai Chowk Dairy), Anarkali Garden, Jagatpuri, Delhi (b) Gali No. 4, Anarkali Garden, Jagatpuri, Delhi (c) Gali No. 5, From B-98/1 to A/82 (Seedi Waa Mandir), Anarkali Garden, Jagatpuri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	East	All	H.No. D-58 to H.No. D-64, Gazipur Village, Delhi, 110096	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	East	All	Entire area falling between Sabji Mandi Madarsa to Mahatma Gandhi Camp, Shashi Garden, Delhi-110091	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	East	All	Entire Gali No. 8, Shashi Garden, Mayur Vihar, Delhi-110091 Entire Gali No. 9, Shashi Garden, Mayur Vihar, Delhi-110091	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	New Delhi	All	EA BLOCK, INDERPURI	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	New Delhi	All	H. No. P-65 and H. No. P-184, Pillanji Village, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	New Delhi	All	H. No-60 Basant Gaon New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	New Delhi	All	H. No-202, Bank of Baroda wali Gali, Basant Gaon, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	New Delhi	All	E-Block Budh Nagar, Inderpuri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	New Delhi	All	Block-A Budh Nagar, Sheetla Mata Mandir, Inderpuri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	New Delhi	All	Block-B Budh Nagar, Near Pahadiya chicken Shop to T-point Inderpuri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	New Delhi	All	Block-D ,Budh Nagar, Inderpuri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	New Delhi	All	Block-C ,Budh Nagar, Inderpuri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	New Delhi	All	CB-Naraina, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	B Block Jhangirpuri.	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	Gali No. 1 to 10 (1 to 1000) C Block Jhangirpuri.	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	1100 WaliGali (H. No. 1181-1200), 1200 WaliGali (H. No. 1238- 1268),1300 WaliGali (H. No. 1306-1331), H-3 Block, Jhangirpuri, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	H.No.716 to 785, H. No. 786 to 860, H. No. 861 to 950 K-Block, Jhangir Puri, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	G-Block, Jahangirpuri , Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	Gali No. 3, 4 & 5 Majlis Park, Adarsh Nagar, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	D-1151 to 1200, D-1251 to 1450, D-1601 to 1650 of D-1 Block Jahangir puri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	D-1651 to 1700, D-1751 to 1850, D-1851 to 1900 of D-2 Block Jahangir puri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	J-1640-1655, J-1656 to 1680, J-1681 to 1715, J Block Jahangirpuri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	Dhanpat ka Katra (on one side) Mandir wali gali, Sayyad Wali Gali and Dhobi Wali Gali, Azadpur Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	H. No. 1950 to 2000, HNo.2001 to 2050, H.No. 2051 to 2100 of EE Block Jahangir Puri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	H.no. 412-593, kfrom Dr.Sagar Clinic to H.No. 386,H.No. 387 to 595, N-9 to N-25,H.No. 594 to H. no. 690 Lal Bagh Area Azadpur Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	E-1051 to E-1100, E-1151 to E-1200, E-1251 to E-1300 of E-2 Block Jahangir pur Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	D-1 to D-50, D-100 to D-150, D-200 to D-250 of D-1 Block Jahagir puri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	H.No. 548/2, N-116, H.No. 319, N-116, H.No.319, N-116, H.No. 301, N-116, H.No. 203, N-116 JJ Camp Badli Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	Gali No. 1 Swaroop Nagar Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	Pocket-6 Sector A-5 Narela Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	Gali No. 3A, 3B, 4A, 4B & 5B, Swatantra Nagar, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	H.No. Q-31 to H. No. 27 Tagore Park, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	H.No. B-148 to B-140, B-131 to B-139, Derawal Nagar, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	H.No. 502, HNo. 495, H.No. 532 Bajitpur Thakran, Narela Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	Block-1 Sector-17, Rohini, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	H.No.642 to 657 H.No. 595 to 605 , H.No. 613 to 623, Mukherjee Nagar, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	K-1 to K-50, K-51 to K-100, K-181 to K-215 ,K1 Block, Jahangir Puri, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	Balmiki Wali Gali, Khera Khurd & Prahlad Pur Road, Khera Khurd (H.No. 599 Near PNB Bank to H.No. 513), Narela Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	H.No. E109 – E116, H.No. E88 – E91, Yadav Nagar, Samaipur Badli, Delhi-42	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	Data Ram Apartment, Sector 18, Rohini, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	Area of Lalten Wali Gali from seed Farm to T-Point and old Firni Road of Apni Colony from H.No. 108 to Kh. No. 815 Alipur Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North	All	H.No. B-170 to B-185, Gujrawalan Town Part-1, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-East	All	E-51, Main Road, Shastri Park, Delhi & E-21, Gali No.-8, Shastri Park, Delhi on 18.04.2020	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-East	All	T-606, Gali No. 18, Gautampuri, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-East	All	A-97, 98 & 99 Near Buland Masjid, Shastri Park, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-East	All	Block No. X, Gali N. 1 to Gali No. 3, Yadav Villa, Brahmpuri, Seelampur, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	Entire Street No. 9, Shalimar Village, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	Entire Gali No. 3, Shalimar Village, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	Chandra Shekhar Azad Colony, Wazirpur Industrial Area, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	BB Block, east Shalimar Bagh, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	C-2, Block, Sultan Puri, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	H.No.92 to 212 (Neem wali gali) Naharpur village Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	H.No. 482 to 803 C-block Mangolpuri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	H.No. 250 to H.No. 375 Rampura Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	H.No. 600 to H.No. 800 Rishi Nagar, Rani Bagh Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	Police Colony, Ashok Vihar Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	Wazirpur Village From Bitto Diary to Matke wali Gali	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	K-Block, Wazirpur, J.J. Colony From H.No. 140 to 400	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	B-Block, Shakurpur From H.No. B-24 to B-46 and B-201 to B-360	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	North-West	All	Gali No. 8 Ambedkar Nagar, Haiderpur & Gali No. 7 Gali No. 9 Ambedkar Nagar, Haiderpur	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Shahdara	All	E-Pocket, GTB Enclave, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Shahdara	All	Pratapkhand , Jhilmil Colony.	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Shahdara	All	Gali no 3,4 and 5 East Ram Nagar, Shahdara	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Shahdara	All	H. No. 15 to 101 Dayanand Vihar, Delhi-92	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Shahdara	All	Gali No. 18, H.No. 701/23 to 500/36B, Vijay Park, Maujpur, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Shahdara	All	Gali No. 5, D-block, Ashok Nagar, Delhi (Comprising of 80 households approx.) on 25.05.2020	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Shahdara	All	Shiv Mandir Gali No. 5, Maujpur, Delhi (Comprising of 150 households approx.) on 25.05.2020	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	Shahdara	All	Gali No. 7-8, Krishna Gali No., Maujpur, Delhi (Comprising of 150 households approx.) on 25.05.2020	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	Boundary Start from B-4/200 and cover the whole locality till backside of humayupur lane includes, Ashiana complex & B-4/206 Safdarjung Enclave, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	H. No. 50, Hauz Rani, New Delhi, from Mother Dairy to back corner of Raja Ram Mohan School, Hauz Rani, New Delhi.	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	H. No. 153/B, 4th Floor, Savitri Nagar, Malviya Nagar, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	F-313, Near Shiva Mandir Lado Sari and F-274, 2nd Floor of Lado Sari, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	Main Gali of F-Block from HNo. 306 to 379 Dakshin puri new Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	Main Road to 64C, Zamrudpur Greater Kailash, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	H.No. 268/D, 28, Ward No. 2 Mehrauli, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	H.No. 790 Gali No. 14, L-Block Sangam Vihar Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	H.No. B-258, H.No. B-822, H.No. C-98, H.No. H1-54 and H.No. H- 16, JJ Colony Tigri Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	H.No. A-30/1 to H.No. A-50 Shivalik, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	H.No. M46B to M56B (Main Gate to M46B), Malviya Nagar New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	H.No. F-713, Lado Sarai, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	H.No. 1019A, K-ll, Sangam Vihar, New Delhi and H.No. 912A, K-ll Sangam Vihar, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	Maa Durga Apartments, Ward No. 3, Mehrauli, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	Entire Lane From H.No. J-3/40 Including J-3/43 and J-4/77C Upto J- 4/80C of Khirki Extension, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South	All	H.No. 15/80 to H.No. 15/100 Dakshinpuri	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	Markaz Masjid and Nizamuddin Basti	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	Area of Street/Gali No. 18 to 22 of Zakir Nagar and nearby area of Abu Bakar Masjid of Zakir Nagar ( Core) rest of Zakir Nagar as Buffer Zone	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	H. No. 811 to 829 and 842 to 835 - Khadda Colony, Jaitpur, Extension , Part-II, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	H. No. 1144 to 1134 and 618 to 623 - Khadda Colony, Jaitpur, Extension , Part-II, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	Gali No. 16, Kachhi Colony, Madanpur Khadar, Extension, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	MehelaMohalla, MadanpurKhadar, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	Entire Gali starting from H.No. G-54 to F-107 & Entire Gali starting from H.No. CN-854 to H.No. 137, Chhuriya Mohalla, Tughlakabad Village, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	Gali No. 26 & 26B, H.No. 2056 to 2092 & Gali No. 27 & 27B, H.No. 2063 to 2083 , Tughlakabad Extension, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	Whole Kumhar Gali (H.No. 1751 to 1815) to Chaupal Chowk Kotla Mubarakpur Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	D-Block, (H.No. 152 to 162) Shaheen Bagh , Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	H. No. 23 to 156 & 15 to 191, (Polygon”A”) & H No 230 -233 (Polygon”B”) Sunlight Colony –I , Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	H.No. 196 to 199 (Polygon”A”) and H.No. 185 To 190 (Polygon”B”) Aliganj, Kotla Mubarakpur Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	H.No. 1942 to 195 (Polygon”A”) and H.No. 2027 to 2042 Choupal wali gali (Polygon”B”) Pillanji Village Kotla Mubarakpur Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	H.No. K-36 to K-37, (Polygon”A”) and H.No. K-421 to K-431 Nand Gali (Polygon “B”) Punjabi Bazar Road, Kotla Mubarkpur, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	Whole Gali Covering H.No. 2010 to 2045 & 1996, Pillanji Village , Kotla Mubarkpur, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	Whole Gali Covering H.No.306 to 269 Sunlight Colony-I, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-East	All	Gali No. 13, House No. 1372 to 1438 Govindpuri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	Gali No. 5 & 5A, H-2 Block, Benagli Colony, Mahavir Enclave, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	C-2, Block, Janakpuri, Kothi No. -119	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	Plot No.-1294, Sonu Yadav Ka Makkan, Theke Wali Gali, Opposite DC Office Kapashera, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	RZF-756/7, Gali no 1 Band, Raj Nagar II Dwarka New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	A-28, Deep encalve Part II, Vikaspuri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	RZ-535/11, Gali no. 46, Sadh Nagar, Palam Colony, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	H no. 667, Gali no. 3, village Kanganheri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	Flat no. 102, DG3 block, Vikaspuri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	J-106, Puran Nagar, Palam colony, Main Road, Near Metro Pillar no. 33, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	F-204, F-Block, Vikaspuri, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	RZ-95, Veer Nagar, West Sagarpur, Gali No. 2 New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	B-396/29 Mahavir Enclave Part-2 New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	H.No. 107, old Bhagat Gym wali gali near Flyover Bijwasan, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	RZ 24 284 Gali No. 2 Sagarpur West New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	RZF 579, Gali No. 41, Sadh Nagar, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	D-153, Sahyog Vihar, Near Govt. School, D K Mohan Garden, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	D-98 New Janakpuri Gali No. 14 Uttam Nagar, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	RZ 52A Gali No. 32 Indira Park Palam Colony Delhi 110045	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	1/55B, Behind Durga Mandir, Madhu Vihar, Opp Dwarka Sec 5, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	A-50, Gali No. 2, Mahavir Enclave, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	E 334 Gali No. 75 Mahavir Enclave, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	A 65, Mangla Puri, Phase 2, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	B45 8TH Floor Sector 4 Plot No 21 Ratnakar Apartment Dwarka, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	RZ 13 Gali Nu 1 Kailashpuri Palam Colony Palam Village New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	H No. 63, Madrasi Colony, Nr. Indra Service station, Rly factory Road, Gopal Nagar Extension, Najafgarh, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	A 267, Gopal Nagar, Najafgarh, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	H No. A-9, New Heera Park, Najafgarh, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	H no. 131 Gali no. 2, Kapashera, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	South-West	All	Khasra no. 801, gali no. 3, Mama Bhanja Chowk, Kapashera, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	Tilak Vihar area in Tilak Nagar, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	WZ-64/4, Ashok Nagar, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	2/395, Subhash Nagar New Delhi (Jasbeer Kaur+6 Family)	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	T-609/H, Gali No. 6, Baljeet Nagar, Delhi-110006	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	YS-14, Shiva Enclave, Paschim Vihar New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	C-283 and C-284 Madipur JJ Colony	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	A-2/41, Paschim Vihar, New Delhi & A-2/42 Paschim Vihar	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	D-70, Gali No. 10, Shiv Ram Park, Nangloi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	JC-37C, Hari Nagar, New Delhi in around area of this house as per map attached	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	(a) WZ-76 Tattar Pur, Tagore Garden, New Delhi in around area of this house as per map attached (b) WZ-79 Tattar Pur, Near Tagore Garden Metro Station	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	B-126,Tagore Garden Ext. New Delhi in around area of this house as per map attached	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	House no. 2/386 Subhash Nagar, New Delhi in around area of this house as per map attached	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	33C, Madhban Enclave, LIG Flats, Madipur, 9999757546 In and adjacent area of 33C, Madhban Enclave, LIG Flats, Madipur	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	C-244, jwalapuri, Nangloi Delhi, In and adjacent area of C-244, Jwalapuri, Nangloi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	SH/18/282 New Moti Nagar, Near Jhulle Lal Mandir, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	19A. Ashok Mohalla. Nangloi, Delhi In and adjacent area of 19A.	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	2094, 5A, Gali No. 17 Prem Nagar, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
+Delhi 	West	All	A-59A, Hari Nagar, New Delhi In and around area of this house as per map attached	https://delhifightscorona.in/containment-zones-operation-shield/
+Maharashtra	Pune	All	 Mangalwar Peth, Juna Bazaar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Parvatidarshan area 1	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Parvati, Dandekar Pool Slum	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Parvati, S. No. 93, Mahatma Phule Colony, Laxminagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 TP Scheme 3, Sane Guruji vashat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Kasba Peth, Nana Peth Bhavani Peth, etc	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Pune Station, Tadiwala Road	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Bhavani Peth, Manjulabai Chawl	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Sangamwadi, TP Scheme, Kavadewadi 	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Koregaon Park, Sant Gadgebaba vasahat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Somvar Peth, Church Road in front of Police Vashat, Garpir Vasti	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Parvati, Taljaimata Vasti 1	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Parvati, Taljaimata Vasti 2	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Parvati Shivdarshan 1	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Parvati Shivdarshan 2	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Parvati, Shahu vashat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Ambegaonnagar Khurd, Shaninagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Bibwewadi, Ambedkarnagar Marketyard	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Gultekdi, Dias Plot	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Gultekdi, Meenatai Thackeray vashat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Bibwewadi, Upper Indiranagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Bibwewadi, S. N. 650	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Bibwewadi, Gultekdi, Dholemala Slum	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Bibwewadi, Premnagar vashat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Bibwewadi Gaothan	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Bibwewadi, Sandeshnagar Bhimale Complex	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Bibwewadi, Shilpa Park Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Yerawada Ward No. 6	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Hadapsar, Ramnagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Hadapsar, Ramtekdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Hadapsar, Gosavivasti, Vaiduwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Hadapsar, Sayyadnagar 2	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Kondhwa Khurd Shivneri Nagar, Bhagyodayanagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Kondhwa Khurd Tamboli Bazar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Kondhwa Khurd Mithanagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Wanwadi, SRPF	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Hadapsar, Gosavi Vasti	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Hadapsar, Indiranagar and Sarthak Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Shivajinagar, Janwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Shivajinagar, Plot no.  833, Vadarwadi Vadar Hou Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Shivajinagar, Pandavanagar Health Camp, Vadarwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Shivajinagar, Wellworth Regency	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Shivajinagar, Arun Housing Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Yerawada, Siddharthnagar Ramwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Yerawada, White House Society & Nita Park Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Yerawada, Gandhinagar-1 	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Yerawada, Gandhinagar 2	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Vadgaon Sheri, Samata Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Parvati Janata Vasahat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Dhayari, Raikar Mala area	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Parvati, Panmala Vasahat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Fursungi, Bhekrainagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Hadapsar, Kalika Dairy area	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Hadapsar, Bunker Colony, Shantinagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Hadapsar, S. No. 10, Unnatinagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Hadapsar, Sadesatranali Ganeshnagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Mundhwa, Sarvodaya Colony	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Bibwewadi S. No.  659, Tayyaba Masjid area	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Erandwane, Rajput Vitbhatti vashat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Kothrud, Postman Colony, Shastrinnagar, PMC Colony	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Kothrud Rahul Complex, Paud Road	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Kothrud, Jayabhavaninagar, Paud Road	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Erandwane S. No.  44 Kelewadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Erandwane, Kelewadi, Vitthal Temple area	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Bopodi, Aundh Road - Chikhalwadi, Kailas Kripa Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Maharashtra	Pune	All	 Bopodi, S. No. 25, Mhasoba temple area 	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
+Madhya Pradesh	Betul	All	शोभापुर, रतनपुर, घोडाडोंगरी	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	कतिया कोयलारी,जुवाड़ी, घोड़ाड़ोंगरी 	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	हनुमान मोहल्ला, आठनेर 	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	ग्राम हिवरा, आठनेर	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	सिवनपाट, घोड़ाडोंगरी	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	मोखमाल, शाहपुर	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	खेडीरामोसी, मासोद, प्रभातपट्टन	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	झाकस गांव,दामजीपुरा, भीमपुर  	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	ग्राम हीरावाड़ी, घोड़ाडोंगरी  	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	ग्राम जुनावानी, बैतूल 	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	ग्राम कास्याभूरु डोक्या, भीमपुर	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	झाकस गांव,दामजीपुरा, भीमपुर	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	परतापुर, भीमपुर	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	सोमगढ़, प्रभातपट्टन	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	खेड़ला ग्राम, बैतूल	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	खेडलीबाज़ार, आमला	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	गोराखार, बैतूल	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	बस स्टैंड के पीछे, भैंसदेही 	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Madhya Pradesh	Betul	All	ग्राम दातोरा, मुलताई	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
+Maharashtra	Thane	All	Karanti nagar Galli No.14 near saraswati School Rabodi -2 Thane (W)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Panchpakahadi, Near Dnyanraj Sabhagraha, Rahul Society, Thane (w)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Room No.18 B3 Bhakti Society Anand Park Thane West	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	504 Hanuman Soc. Chandanwadi Panchpakhadi thane West	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Rm No. 24 Chintamamni Gharkul Service Rd. Sawalewadi Panchpakhadi Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	182 Lotu Sheth Chawl Haridas Nagar near Shankar Temple Behind Golden Park	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Parera Tower, Parera Nagar, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Natraj Chs Bldg No 9 H25 Opp Murphy Express Highway Thane West -400602	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	NEW NASHENAN CHS NEAR K VILLA OPPOSITE SANJIVANI HOSPITAL	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Saurabh Tower,Near Pratap Cinema,Kolbad	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Rajiv Gandhi Medical College, Girls Hostel, Khopat	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Hansnagar Khopat Thane (W)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Kolbad Jagmata Mandir, Khopat, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Shreerang society Near vrundavan bus stop	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Rustomjee Azziano, Rustomjee Urbaia	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Siddhivinayak , Anand Kavach Shahunagar,Gokul nagar	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Flower Valley Complex Opp Viviana Mall Thane W	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Siddheshwar Talav, Anna Madrasi Chawl , Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	HDFC bank, Panchpakhadi, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	SAINATH NAGAR NAMDEV VADI OPP NITIN COMPANY THANE WEST	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Ganga Apt., behind Mukund Societ, Rutu Park, Uthalsar	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Om Sai Chawl King Kong Nagar Dongripada Ghodbander Rd.	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Room no 734,Near to lala kirana store, Sai mandir, Patlipada, Ghodbandar road, Thane.	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	C/301, Olympia Building, Lodha Pura, ATHONY BLD LODHA Majiwada	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Bramhand Society , Azadnagar, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	518, Parvati Niwas, Dhokali, Kolshet Road, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Saphire 2 Cosmos Jewel, near DMart Anand Nagar Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Rajesh Shetty Chawl, Manorama Nagar	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Aspen, Everest World, Kolsheth Road, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Owla, Takadiv Road, Ghodbundar Road, Shiv Sayadri Chawl, Thane West	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	102, Standfrd Bldg. Hiranandani Estate, Manpada, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Lodha Amara Labour Camp	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	2102 Wing 19 H Lodha Amamra Kolshet Thane W	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	1/77, Adarsh Chawl, Vitthal Mandir Road, Near Ghag Kirana Store, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Amrapali Saan Shivaji Negin Manpada	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Santosh Kirana Store, Azadnagar, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	102, Ist Floor, Tirumala Chs, Majiwada, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	L-1, Phase-2, Swastik Residency, Ghodbandar Road, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Durga Ghat Balkum Road, Tmc School Balkum, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	A5/301, Swastik Palms Brahmand Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Puranik Rumabali, Bhayendar pada, G.B.Rd. Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	A3 /401 Rosa Gardenia, Gb Road Kasarwadawali, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Highland Residency, Kolshet Rd, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Petunia Bldg, Kasarvadavli, Havre City, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Ashok Jadhav Chawl Ghodbandar Road Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	KASARWADAWALI ,PARIJAT GARDEN THANE	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	PAWANIK HOWNTOWN KASARVADAVALI , THANE	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Ver Chawl ,Jaibhavani Nagar, MAJIWADAGAO,Thane W	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Chirag Nagar, Vartaknagar, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Pokhran Road - 2 Gandhi Nagar Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Bhim Nagar Vartak Nagar	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	VASANT VIHAR THANE-1	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	OSWAL SPARSH CHS,BLDG NO.9,POKHRAN ROAD NO.2,MAJIWAD THANE	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	ATHARVA HEIGHTS POKHRAN ROAD NO.1,SHIVAI NAGAR THANE	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	J/2, Lokvruksh, 702, Tulsidham, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Rameshwar Soc., B Wing, Nikkanth Heights, Devdaya Ngar, Pokharan No 2	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	44/311, Nav Adarsh Chs, Shivai Nagar,Thane W	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	704,Kadavaba,Near Vasant Vihar Circle ,Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	103 Sharmishtha, Tarangan, Behind Korum Mall Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	ASHOK NGR KOSLHET RD THANE	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	RAHUL BHOIR CHAWL PARSAR COMPUND SAIBABA MANDIR ,Shatrinagar	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Sawarkar nagar, PANCH PAGMASHWALA APPT, 1ST FLOOR	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Kulswamini Chawl, lokmanya nagar, Pada no.4, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	VEDANT COMPLEX PHASE -2, Vijay Nagar, Vartak nagar, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Vaibhavlaxmi chwl, Near TMC school No.103,131 kajuwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	KOKANNIVAS CHAWL CHAITTI NAGAR, Lokamanya Nagar PADA NO 3	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	HANUMAN NAGAR LAXMI KRUPA CHAWL WAGLE ESTATE THANE (W)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Sambhaji Nagar Sagar Baug near Rahil Hotel Bakery	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Shiv Galli,Indiranagar Rd. No. 33 Rupadevipada 1 near Shiv Mandir, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	DHARMVEER CHAWL ,CHAWL NO.03,ROOM NO. 1, JAI BHAVANI NAGAR ,WAGLE ESTATE	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	204, 2nd Flr. Sai Apt. Sawarkar Nagar Near Municipal Office	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Lokmanya Nagar, Pada No 3, Parera Nagar, Near Mauli Kirana Store, Pawar Nagar, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	ROOM NO 2 SAI CHARAN CHAWL INDIRA NAGAR TEKDI WAGLE ESTATE THANE (W)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	B/37 4th Fl. Shanti Apt R No 22 Near Thakur School Savarkar Nagar	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Kashinath Parab Chawl, Pokharn Road No. 1, Dhawle Nagar, Lokmanya Nagar, Pada No. 3, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Ambewadi, Room No. 1202, Near Madin Masjid, Wagle Estate, Thane West	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Sai Sitra Chawl, Indra Nagar, Road On 22, Opp Laxmi Medical , Near Bush Bldg Rupadevi Pada, No 2, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Annabhou Sathenagar, wagle estate	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Dharamveer Chawl, Sainathnagar, Kajuwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Guruprashad Apt. Mahatma Phule Nagar	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Plot No-15, Room No-B-15, Shree Gajanan Co.Op Hsg Soc Mhada Vasahat Savarkar Nagar Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Dyaneshwar Nagar , Gajanan Chawl , R.No.24, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	52 8 Sant Rohidas Chawl Dnyaneshwar Nagar Wagle Estate Thane W	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Dosti Rental Bld.No.4 B Wing, Opp Runwal Plaza Vartak Nagar Thane West	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	New Shramsafalya Chs C.B Kadm Chawl, Lokmanaya Nagar 3 Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Mishra House, Opp. Arjun Sadan Bldg, Lokmanya Nagar Pada No-2, Thane West	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	104, Meeth Apartment, Sant Dnyneshwar Nagar, Wagle Estate, Thane West-400604	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Room No. 1, Sadguru Krupa Niwas, Shastri Nagar, Bhoir Compound, Thane West	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Lokmanya Nagar Solapur Chawl, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Vigavaharta Socity Yashodhan Nagar, Thane (W)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Jai Santoshi Maa Tower Luiswadi Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	SAYADRI CHAWL SAVARKAR NGAR THANE	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Nagadarshan Apartment Room No 104 Near Jain Mandir Lokmanyanagar Pada No 1 Thane - 400606	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Danurdhar Bhavan first floor flat No.104 Padwalnagar Wagle Estate Thane (W)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	C.P.TALAO SHIV SHAKTI MITRA MANDAL NEAR SHANKAR MANDIR WAGLE ESTATE THANE (W)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Kailasnagar ITA Circle wagle estate Thane (w)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Ashtavinayak Apt, R/N 28, Kisangar no.3, bhatwadi; Sadhbhavna Apt, Kisanagar no.3, Bhatwadi; Renuka Sadan Kisannagar 3; Ashtavinayak Apt, R/N 28, Kisangar no.3, bhatwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Devyani Sadan , Kisan Nagar, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	VISHVDIP BUILDING 4 TH FLOOR SHIVAJINAGAR THANE; VIJAY APPARTMENT D WING 103 KISAN NAGAR 1 THANE; 1/5, Pitkar Niwas, Rantanbhai Compd. Shivaji	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Nagar, Wagle Estate, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	2/205 kinara Apt. kisan Nagar no 2	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	SURESH SMRITI BUILDING, ROOM NO 5, KISAN NAGAR 3, WAGLE ESTATE, THANE	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Waralipada near bavadi Shreenagar	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Silky Apt room no 3 in front of Oil depo Kisan Nagar no 2	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Shanti bhavan room no 6 kisan nagar no3 opp bus stop near vinod jewllers thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Shiv Shakti Nagar Behind Sunrise Bussiness park Kisan Nagar 2	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	41 Shukla Building 2nd Floor Padwal Nagar	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Shiv Shakti Nagar Kisan Nagar 2	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Usha Kiran bldg, Bhatwadi Kisannagar no.3, Near Bhatwadi Ganesh Chouk, Bhatwadi Kisannagar no.3	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Nutan Mirabld B Wing Kisan Nagar Wagle Estate Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Wagale Estate, Nehru Nagar - 1, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Ashar IT Park Wagle Estate	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Gurav Chwal Near Malti Devi School , Ambika Nagar 2, Rd No 16, Wagale Estate Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Harshan Bushan ,Kisan Nagar 2 Thane (W)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Wagle Estate, Kisan Nagar, D Souza Wadi, Room 16, 1st Floor, Devikrupa Bulding, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	107/Shishaul Building Road No. 16 Kisan Nagar	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Ram Nagar, Wagle Estate Road No. 28 Near Ram Chakki thane west	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	103/Hawjabai Niwas Kisan Nagar, 3 Wagle Estate Thane (W)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	INDIRANAGAR CHAWL KISANNAGAR NO.2	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	B/14 D,Silver Police Line Court Naka Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Aditya building, new Police Tower Mahagiri Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	B9 Laxmiwadi Chendani Koliwad Meethbandar Road Thane ( East )	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Room no-4,Ground floo,Nilkanth Darshan Society ,Naupada Thane .	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Rm.no18 , sathe wadi near dnyansadhana college	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Maya Villa, Raheja Garden Thane W	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	NAGSEN NAGAR NEAR HANUMAN MANDIR OPP.DADOJI STEDIUM	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Jalaram Ashish-1 G. M Marg Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Amar Tower Bhaskar Colony Naupada	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Rm. No. 3 Sitala Singh Chawl Near Shiv Mandir Noori Baba Road	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	409, Ashif Manzil Apt, Adalgi Road, Kabad Ali, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	15/A-2, Kamlesh Chs, Kopari Colony , Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	501, mangalya society near SBI bank , Naupada	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	601, 6th floor , Vatika Bldg, Ghantali road.	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Thane Medical Shop Govindji Apartment 3 Petrol Pump Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	1 Sapna CHS opp Anand Ashram Soc. B Cabin Naupada Thane W	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Rm. No. 8 Saikrupa Bldg. Kashish Park	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	503, Dharmanand Tower,Bhandar Ali, Station Road, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	New Aanand Park, B/2 1001, Raugh Natu Nagar, Thane West-400604	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	409,Asif Manjil Opp.Avaj Radio Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Hrudreshwar Bldg, Pimpal Pada Near Civil Hospt. Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	ROOM NO 17 3RD FR NATRAJ SOC PACHPAKHADI THANE	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	C-11 Vishwajeet Society Veer Savarkar Marg Thane West	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Blue belk Hotek pay road prem nagar parshi wadi kopari	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Khartan Rd, Near Thana College, TMC CHAWL OPP.SHEETAL DEVI MANDIR NR.DK STADIUM THANE	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Chendani Koliwada, Cement Rd, R/N-118, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Dadaji Kondedev R-7 R.No.802 Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	102 Om Sai Prasad B Cabin Naupada Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Bim Paradise, Swami Samarth ,Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Room No-96, 3/12 L.B.S Marg Behin Kamani Sunder Baug Indra Nagar, NAUPADA	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	C-1, Flat No-26, Siddharth Nagar Soc, Kopri Thane East	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Bandhu Smruti Nakhava Compound Thane West	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	R no 1 Laxmi apt Old bombay road Charai	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Gupta Chawl Rm No 12 Raghunath Nagar Thane Wagle Estate Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	kisan nivas near rutuja appr kopri village kopri thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Laxmi Apt. Gholai nagar Atkoneshwarnagar Thane (W)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Bhaskar nagar Kalwa Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Jagnath Appt. Vitawa, Kalwa	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Rm. No. 27, Santoshi Chawl, near Agreseen School, Thane Belapur Rd. Kalwa East	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	103 A/2 Vaishanavi dham complex Near vitthal mandir kharigaon kalwa	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Sai ashirvad A-2,SURYA NAGAR,VITAWA	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Bldg. No. 5 B-wing 2nd Floor Sudama CHS Old Mumbai-Puna Rd. Kalwa	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Resident Doctor at CSMH Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Suryanagar Gate No.1 Vitawa Kalwa Thane (W)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	2 SANKALP CHS,. MANISHA NAGAR - 2, KALWA, THANE	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Anand Vihar Complex,Near Railway Phatak Kharegaon ,Kalwa East,Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Rajashree Shahu Chawl, R/N 3, New Shivaji Nagar, Thakurpada, Kalwa, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Shiv Shrusti Kharegaon, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	R.No.202, Chawandai Residency, Parsik Nagar Kalwa	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Saipranam Chs, A-307, Kharigaon, Kalwa	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Janki Nagar, Pipeline, Manisha Nagar, Kalwa West	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Digvijay Bld, Room No 301, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Rm. No. 1, Narayan Krupa Chawl Vitava Kalwa	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Om Saraswati Apt Opp New Kalwa High School Kalwa	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Trupti Apt Room No C 2 Bhola Nagar Kalwa Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	gauridarshan chs, A-4 , 1st floor, opposite gaondevi mandir, kalwa thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	402 5th Floor Pundlik Housing Society Thane Belapur Road Behind Jakat Naka Kalva West - 400605	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Nirmala Devi Nagar Near Goikar Maidan Waghoba Nagar Kalwa Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	VARADVINAYAK,KHAREGAON Near Gulmohar Society Kalwa Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	SHRI GANESH CH, Shiv Premal Chs R N 203 B Wing Vikram Nagar Kalwa	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	CREACK VIEW 2ND FLOOR ROOM 102 KALWA NAKA	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	PARSIK RATI BANDER HANUMAN NAGR DATTA CHAWL ,	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Ganesh apartment 5 th floor Bhudhajinagar kalwa	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	KHALIL MENSION ROOM NO 303/A WING GHASWAL COMPOUND KAUSA	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	B3/903, MM Valley, Mumbra, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Room No.3 Sarkar Tower Dauladnagar Chand nagar Kausa Thane; C/102, NEW NASHMAN COLONY, OPP TANWAR NAGAR, KAUSA	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	MUMBRA, MUSAKHASAM, ROOM 204, OPP MUMBRA RAILWAY STATION, THANE	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	NEAR CHARNI PADA KAUSA GAON	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	105 /B-1 SHAMSHAD NAGAR KAUSA	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Abida Manzil A-wing Kausa Mumbra	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Nasim baug Amrut Nagar, Mumbra, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Janta Colomy , Jeevan Baug, Mumbra	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	REHAN BAUG,G-BLDG,B-206,DEURI PADA,KAUSA,THANE-400612	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	PRIME NEST BUILDING NEAR HIGH INTENSITY GYM, MUMBRA. - 400612	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Hirabai Niwas, Kausa, Charnipada, Mumbra	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Rashid compound , Mumbra , Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Irfan Palace, B-Wing , 1st Fool, 101, Rashid Compound, Kausa, Mumbra	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Madina Manzil B-Wing Room No-2 Red Rose Society, Mumbra, Thane - 400612	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Pondular Nagar 2nd Floor R.N 6, Mumbra, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Room No-1 Ground Floor B Wing Mehfooz Apt Near Rehmania Hospital, Mumbra, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Mustafa , Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Kgn Apt, Near Bosco School, Rashid Camp, Kausa	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	A 102, Raut Apt, Near Police Chowki, Kausa	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Hashmat Park, Rashid Compound, Kausa Mumbra	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Gurukrupa Chawl, Sanjay Nagar, Mumbra	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Ashiyana Tower,B - 701, Above Millennium Hospital, Kausa, Mumbra	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	4 1st Floor Rashida Palace Tahkur Pada Hanuman Nagar Mumbra Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Room No 103, 1st Floor, Kiran Height Sonaji Nagar Mumbra - 400612	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	304, B2, Minar Regency, Shimla Park	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	A-2/74, RAHIM APARTMENT, INDIVA GANDHI ROAD, ROSHID COMPUND, OPP TO PINTYA CABLE OFFICE, MUMBRA,	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Noorani Apt 1st, Floor 5, Qureshi Hotel Mumbra, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	B Wing 202, Sudhirsha Complex 2nd Floor, Mumbra, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Nooriapt 2nd 202 Near Gazi Mahal Amrut Nagar Mumbra, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Roshni Apt ,G/2 A Wing Near Parsik Tunnel , Mumbra	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Shadab Manzil,5th/501 Santosh Nagar ,Bombay Colony ,Mumbra	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Bawaziv Paviz Flat No. 402 Kausa Mumbra	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Flat No-315,New Memon Colony,Khadi Machine Rd,Kausa,Mumbra - 400612	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	A-402 Ammar Garden , Near Sherreen Villa , Kausa ,Mumbra , Thane - 400612	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	A/B 407 Al Rehnuma Complex Noori Baug,Old Mumbai ,Thane , Maharashtra - 400612	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	R. No.1 Eknath Chawl Amrut Nagar, Mumbra, Shivaji Nagar	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Zahoor Chwal Room No 1/Bb Rashid Compund Kausa Mumbra	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	405/Achanak Nagar, Shankar Mandir Road, Afreen Apartment, Mumbra, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	SHRILANKA DEVRIPADA ALIMIYA COMPOUND RM NO 8 AMRUTNAGAR MUMBRA THANE	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Devi Roa,Ruse Apt, Kailashgiri nagar, Mumbra devi road, Mumbra	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Isha Apt, Kausa Market Garden Palace, Mumbra, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Mukta Residency Padle Gav near Khidkali mandir Diva	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Bharat Mhatre Chawl No 2 Room No 10 Datiwali Manpada Road Near Kct School Diva	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	JAY BHAVANI CHAWL,ROOM NO.3 GANESH NAGAR DIVA EAST	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	6 SAMARTH CHAWAL R NO 5 MAHATRE OFFICE NEAR AKANKASHA HOLL BR NAGAR DIVA E	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Ayappa chawl, ganesshnagar, ganeshwadi, Diva East	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Bramha Apt. Suresh Nagar Diva	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Ramchandra society A wing, Diva E	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Adatiya Apt H.S.C Diva Agasen Road Maruti Nagar Diva Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Shubhrabai Apt, Mumbra Colony Road, Diva	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	Ganesh Apt, Sabe Road, Eguare Drashan , BWing, Diva E, Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	402, A Wing, Baburao Residency, Diva W	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	And Forever City Sunflower A/1103 Diva (E)	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	B/305, Prashant Villa, Diva (East), Thane	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	r no403 bil-2 vikas mhatre gale diva east	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	PARIJAT CHS BLD NO 2 DIVAR AGARSAN ROAD MATHOSHRI NGR DIVA	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	RAM NGAR OMKAR BHAIRAV CHAWL R NO 6 CHALW - 2 DIVA E	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra	Thane	All	R NO 1 1ST FLR NADAR APT OMKAR NGR DIVA	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
+Maharashtra 	Nashik	All	Suprabhat Vasahat, Sanjivnagar	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Motha Rajwada, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Shivajiwadi, Bharatnagar	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Naikwadipura, Wadalanaka	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Pandit Nagar, Cidco, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Lekha Nagar, CIDCO	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Nirman villa, Vise Mala	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Shanimandir, Dindori Road	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Prabhat Colony, Ranapratap Chowk	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Samata Nagar, Agartakli	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Loksahakar Nagar, Dindoriroad, Panchvati	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Kavitakunj Appt., Govind Nagar	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Krantinagar, Makhmalabad	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Champanagari, Jailroad	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Anand Niwas, Nashik poona road	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Fule Nagar, Panchvati, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Sham Pride, Sarsvati Nagar	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Shriramnagar, Jatra Hotel	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Sahil Heights, Pakhal Road	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Niyati Deepali Nagar, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Raghupati Society, Dattamandir, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Vinus Appt., IT Park	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Sarswati Nagar, Opp.Rasbihari School	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Tirupati nagar, Near Water Filteration Plant	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Krishna Residency, Khutwadnagar	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Vaishnavi, Kamalnagar, Kamatwada	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Vimalnath Pride, Om Gurudev Ngr	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Rathchakra Indiranagar, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Lekha Nagar-2, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Naikwadipura-2 Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Godapark Ramwadi Brige, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Damodar Nagar, Pathardi Phata,	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Patil Park, Jadhav Sankul, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	D-9, Renuka Nagr, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	A, Karma Heights, Tapowan RD, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Shital, Bappa Sitaram Colony, Hirawadi Road, Pachvati, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Prayag Greens, Kala Nagar, Vaidhwadi, Pachvati, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Vrundavan Garden, Gangapur, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Kamod Road, Jharekari Kot, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Sayali, Radha Nagar, Makhmalabad Road, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Suprabhat Society, Peth Road, Pachvati, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Prime point Appartment, dream valley, Shingada talao, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Panchshil Nagar, Ganjamal, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Donde Mala, Pathardi Phata, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Sneha Nagar, Mhasrul	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Bidikamgar Nagar, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Gosaviwadi-2, Nashik Road	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Ashokamarg, Nahsik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Balaji Appt., Near Saptshrungi Mandir, Vinay Nagar, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Balaji Laxmi Apartment, Salunke Nagar, Khutwad Nagar, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Sharmila Building B, B-wing, Old Gangapurnaka, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Pandit Park, Krushi Nagar, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Ravi Appt., Omkar Nagar, Peth rd Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Ganga Apt. Gajanan Chowk, Gurudwara Road, Panchvati, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Rishiraj Presidency, D'suza Colony	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Madhuban colony, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Kalekar Chawl, Jui Nagar, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
+Maharashtra 	Nashik	All	Shivshakti Nagar, Trimurti Chowk, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
