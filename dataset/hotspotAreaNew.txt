@@ -222,7 +222,6 @@ Telangana	Warangal	All	Chintagattu camp	https://www.newindianexpress.com/states/
 Telangana	Nirmal	All	Chatpelli panchayat in Narsapur-G mandal	https://www.newindianexpress.com/states/telangana/2020/apr/10/covid-19-telanganas-adilabad-and-nirmal-on-the-edge-as-social-distancing-goes-for-a-toss-2128168.html
 Uttar Pradesh	Mathura	All	Ol Village, Farah Block	https://www.amarujala.com/uttar-pradesh/agra/coronavirus-update-many-areas-of-mathura-sealed-after-getting-two-covid-19-cases
 Uttar Pradesh	Mathura	All	Andhi kuiyan Markaz Mosque area	https://www.amarujala.com/uttar-pradesh/agra/coronavirus-update-many-areas-of-mathura-sealed-after-getting-two-covid-19-cases
-Puducherry	Muthilapet	All	Declared green now	https://timesofindia.indiatimes.com/city/puducherry/coronavirus-in-tamil-nadu-part-of-puducherry-town-brought-under-containment-plan/articleshow/75007091.cms
 Himachal Pradesh	Chamba	All	Nine panchayats of Teesa area	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
 Himachal Pradesh	Sirmaur	All	Mishrawala	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
 Himachal Pradesh	Sirmaur	All	Taruwala	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
@@ -1429,9 +1428,6 @@ West Bengal	Kolkata	Ward-139	Ward-139 KARBALA ROAD, AKRA ROAD.
 West Bengal	Kolkata	Ward-126	Ward-126 19/4 BROJOMONI DEBYA ROAD, KOLKATA 700061, BROJAMANI DEBYA ROAD, SUBANA PARA, NARAYANA ROAD, KK ROAD, D.H. ROAD	
 West Bengal	Kolkata	Ward-123	Ward-123 CHANDI CHARAN GHOSH ROAD,POSE PARA	
 West Bengal	Kolkata	Ward-125	Ward-125 CRISTAN PATHWAY,D H ROAD,BISWA PARA,RANGA NATH PUR,SITALA Lane	
-Puducherry	Karaikal	All	Karaikal	http://newsonair.com/Main-News-Details.aspx?id=388223
-Puducherry	Kutchipalayam	All	Kutchipalayam	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
-Puducherry	Sellipet village	All	Sellipet village	https://www.businessinsider.in/india/news/centre-lauded-performance-of-pondy-in-checking-spread-of-covid-19-min/articleshow/75642547.cms
 Rajasthan	Jalore	All	Godiji Nagar	https://www.bhaskar.com/local/rajasthan/pali/jalore/news/karenna-who-was-admitted-for-two-hours-with-normal-patients-was-deteriorated-and-referred-to-jedhpur-127292902.html?art=next
 Rajasthan	Jalore	All	Raithal	https://www.bhaskar.com/local/rajasthan/pali/jalore/news/karenna-who-was-admitted-for-two-hours-with-normal-patients-was-deteriorated-and-referred-to-jedhpur-127292902.html?art=next
 Rajasthan	Jalore	All	Siyana	https://www.bhaskar.com/local/rajasthan/pali/jalore/news/karenna-who-was-admitted-for-two-hours-with-normal-patients-was-deteriorated-and-referred-to-jedhpur-127292902.html?art=next
@@ -2178,49 +2174,6 @@ Madhya Pradesh	Jabalpur	All	सैफ नगर	https://www.google.com/maps/d/u/
 Madhya Pradesh	Jabalpur	All	नगीना मस्जिद	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
 Madhya Pradesh	Jabalpur	All	रद्दी चौकी	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
 Madhya Pradesh	Jabalpur	All	सिन्धी कैंप	https://www.google.com/maps/d/u/0/viewer?mid=1mr8BA6bPpFW7KofuKmaKN0VUmUt3OvNh&shorturl=1&ll=23.184806953794883%2C79.92219276480682&z=12
-Maharashtra	Pimpri-Chinchawad	All	Kharalwadi area, Pimpri	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Shivneri Colony, Pimple Gurav	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Rupinagar, Talwade	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Madhuban Society, Juni Sangvi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Vijayanagar area, Dighi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Indira Nagar, Chinchwad	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Shubhshri Row House Society, Pimple Saudagar	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Bankar Vasti, Moshi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Bajaj School area, Sambhaji Nagar	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	New Angel School area, Talwade	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Woodsville Society area, Moshi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Mohannagar area, Chinchwad	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Tamhane Vasti, Chikhali	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Tapkir Chowk area, Kalewadi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Nikam Vasti, Charholi Budruk	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Sathe Nagar, Charholi Budruk	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Landge Nagar, Bhosari	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Kaspate Vasti, Wakad	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Dattnagar, Thergaon	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Guruvivar Society, Bhosari	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Chhatrapati Chowk, Rahatani	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Anandnagar, Chinchwad	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Chakrapani Vasahat, Bhosari	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Pavana Nagar, Juni Sangvi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Shubshri housing society, Akurdi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Vikasnagar area, Kivale	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Tambe school area, Rahatani	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Fugewadi area	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Panchdurg society, Rupinagar	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Kavade Nagar, Pimple Gurav	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Umbrella Garden, Sambhajinagar	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Amritdhara Society, Nigdi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Morevasti, Chikhali	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Bhatnagar, Pimpri	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Gyan Angan society area, Rahatani	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Hanuman Colony area, Bhosari	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Alankapuram Road area, Bhosari	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Shrikrishan Colony, Rahatani	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Sharadnagar, Chikhali	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Walhekarwadi	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Akashraj Society Ravet	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Ganesham Society Pimple Saudagar	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Balghare Vasti, Chikhali	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
 Himachal Pradesh	Mandi	All	Thunag (Gohar)	https://www.hindustantimes.com/cities/four-covid-19-containment-zones-created-in-mandi/story-ePS8GfmiKzMZ4EFbY0mKkO.html
 Himachal Pradesh	Mandi	All	Mandi Sadar	https://www.hindustantimes.com/cities/four-covid-19-containment-zones-created-in-mandi/story-ePS8GfmiKzMZ4EFbY0mKkO.html
 Himachal Pradesh	Mandi	All	Balh	https://www.hindustantimes.com/cities/four-covid-19-containment-zones-created-in-mandi/story-ePS8GfmiKzMZ4EFbY0mKkO.html
@@ -2232,10 +2185,6 @@ Odisha 	Bhadrak	All	Mandalpada UPS, Basudev Block	https://cdn.s3waas.gov.in/s385
 Odisha 	Bhadrak	All	Padhuan UP School, Basudevpur Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
 Odisha 	Bhadrak	All	Jharadeswara High School, Dhamnagar Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
 Odisha 	Bhadrak	All	Ghatapur High School, Chandabali Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
-Maharashtra	Pimpri-Chinchawad	All	Kalewadi area	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Hutatma Chowk, Bhosari	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Sai Paradise area, Pimple Saudagar	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
-Maharashtra	Pimpri-Chinchawad	All	Sadguru Colony, Wakad	http://www.punekarnews.in/pcmc-list-of-containment-zones-in-pimpri-chinchwad-areas-during-lockdown-4/
 Karnataka	Bengaluru Urban	All	Lakkasandra, Ward 146, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Vammarpet, Ward 115, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Thanisandra, Ward 06, Yelahanka	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
@@ -2253,134 +2202,6 @@ Karnataka	Bengaluru Urban	All	Marathahalli, Ward 86, Mahadevapura	https://www.fa
 Karnataka	Bengaluru Urban	All	Hongasandara, Ward 189, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Padarayanapura, Ward 135, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Jagajeevanram Nagar, Ward 136, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Telangana	Hyderabad	All	0-1-18/44, Shyam Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	A Battery Lane	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Aditya Nagar Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Ahmed Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Ali Hotel	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Aliya Garden Function Hall	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Alwal	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Amba Theater Road	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Ambedkar Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Anjaiah Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Aparna Hillpark Road	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Apurupa Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Aruna Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Asif Nagar Police Station	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Asmangadh	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Ayyappa Society	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Azeem Towers	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Aziz Bagh Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Back side of Park Hotel	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Balaji Nagar Phase-33	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Beside Axis Bank	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Bhagat Singh Nagar Phase-23	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Bharat Ground	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Borabanda Cluster IV	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Boudha Nagar GHMC Park	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Brindavan Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Chandra Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Chandragiri Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Chandrayangutta	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	CIB Quarters	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Dabeerpura	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Dharma Reddy Colony Phase 15	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Dilshad Nagar P543	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Divyanjali High School	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	DTDC – Shoukath Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	ENC Office	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Eswar Teja residency	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Falaknuma	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Ganj-e-Shaheedan Mosque	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Gulshan-e-Iqbal Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Habeeb Nagar Police Station	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Hakimpet	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Happy Homes	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Hasmathpet Cluster	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Hotel Shezan	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	IAS Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Idly Hotel	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Indraprastha Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Jahanuma	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Jala Baba Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Jamal Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Jamia Masjid Street	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Jayabheri Orange County	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Jayanthi Nagar Cluster III	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Jeera	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Jeevan Yaar Jung Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Jhirra	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Kaladera Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Kalavathi Nagar, Ward No.129	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Kesari Hanuman Temple	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Khaja Nagar, Yellamma Banda	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Kings colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Kukatpally	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Kunta – P407	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Madannapet Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Madina Masjid	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Madinaguda	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Mahboob Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Mahmood Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Maisram Lane	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Masjid-e-Rahana Guddi Bowli	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	MASJID-E-SAAD	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Mata Ki Khidki	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Mayuri Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	MD Lines	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Modi Builders, SR Naik Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Moghal Ground	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Moghal Nagar, Karwan-65	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Moosapet	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Moula Ali 138 Division TRS Corporater Office	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Mughal Mansion Apartments	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Nallagutta	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Naseeb Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Near Shaheen High School	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Netaji Public School	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	New Friends Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	New Mallepally-P210	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Noor Khan Bazar Road	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	North Lalaguda	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	OU Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	P&T Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Panjagutta Police Station	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Parda Gate	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Patigadda	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Pochamma Temple	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Prakash Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Professors Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Qazipura Shahalibanda	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Quthbullapur	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Raghavendra Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Rajeev Nagar Cluster II	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Rajiv Gandhi Nagar Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Ramakrishna Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Ramaswamy Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Ramgopalpet	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Red Hills	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	RK Pet Junction	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Sai Lames Apts	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Sai Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Santosh Nagar, Malakpet	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Sapota Bagh	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Seethaphalmandi Road	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Seven Galli, Langar Houz	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Shaikpet	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Shanthi Shikhara Apartment Road	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Siesta Hitech	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Sitara Grand – Miyapur	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	SRT Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Street Number 4, Kakatiya Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Suleman Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Tahseen Function Hall	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Teachers Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Temple Alwal	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Vasavi Colony	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Venkatagiri Cluster I	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Ward No.130 Subhash Nagar	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Yakutpura	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
-Telangana	Hyderabad	All	Yousufguda	https://www.siasat.com/hyderabad-full-list-containment-city-1891831/amp/
 Assam	Cachar	All	Sukanta Lane, Tarapur, Cachar Assam	https://twitter.com/SilcharToday/status/1264240740940554241
 Assam	Cachar	All	Badripur, Kashipur Pt-IV, Cachar	https://twitter.com/SilcharToday/status/1264240740940554241
 Assam	Cachar	All	Area surrounding Don Bosco School, Ramnagar, Silchar	https://twitter.com/SilcharToday/status/1264240740940554241
@@ -2479,44 +2300,6 @@ Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE SALARPUR NOIDA	https://twitter.com/
 Karnataka	Bengaluru Urban	All	Ramamurthy Nagar, Ward-26, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Agrahara Dasarahalli, Ward-105, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Jammu & Kashmir	Srinagar	All	Eidgah	
-Gujarat	Gandhinagar	Dehgam	Dehgam Urban (Near CHC Area)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Randheja (Shiv Shaktinagar)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Zundal (Dev Paradise, Shyam Sarthi, Parmeswar	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Adalaj (Swagat City, Dev Nandan Parisar Area)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Uvarsad (Dantani Vas)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Vavol (Royal 2 Bunglow, Narayannagar)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Kudasan Sunrise Bun:low, Hari Gold Socie	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Randesan (Shubharambh Society)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Chhala (Nava ghara)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Sertha (Khada valo vas)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Khoraj (Golden Park 3)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Kolavada (Parmar Vas & near area)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Kolavada (Shreenathaji Society & near area)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Gandhinagar	Rupal (Mahadev Vas)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Jamla (Indiranagai)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Borisana (Vaijnath Society)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Palsana (Patel Vas)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Saij (Indraprasth) 	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	 Chhatral (Iscon Bunglow)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Rancharda (Indus College)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Jasper (Ramapir Vas)	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Dehgam	Lavar Chakla Dehgam	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Dehgam	Chekhlapagi	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Himmatlal Park, Vimal Flat, Navkar Flat, Krunal Appartment, Rameshwar, Ram Balram Falt 	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Aakasdeep Society, Jay Bhavani Row House, Pipal Vali Chali, Ankit Society 	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Gauri Vas, Dhobi Vas, Maharaj ni chali, Undo Vas, Moti Vas	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Mahendra Mill, Metro na Chapra	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Ganeshkunj Society, Sarswatikunj, Vardaini, Tejanand, Jay vijay	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Plot Area, Amulya Residency	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Manav Mandir 1 & 2, Amrutkunj	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Haridarsan Society, Gujarat House Police Line, Yogeshwar A & B, Subh Complex	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Indraprasth, Alap, Arihant 2, Vardhman, Vardhman Tenament, Kesav Avanue	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Shrifal Society, Shrifal Flat, Shubhanghan, Parmeshwar Park, Manav Mandir, Uma Shikhar	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Prabhunagar Society, Shivnagar, Gosai Kunj, Divda Talavdi	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Navjivan Mill ni chali	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Kalol	Jivanprakash Society, Shiv Ganga, Jai Hind ni chali, Khodiya Colony	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Mansa	Bhimpura	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
-Gujarat	Gandhinagar	Mansa	Valmiki, Vankar Vas, Dave Vas	https://gandhinagar.gujarat.gov.in/assets/downloads/notification_26052020.pdf
 Karnataka	Udupi	All	Thenkanidiyoor village, Udupi taluk	https://www.daijiworld.com/news/newsDisplay.aspx?newsID=712066
 Karnataka	Udupi	All	Vaddarse village, Kundapur taluk	https://www.daijiworld.com/news/newsDisplay.aspx?newsID=712066
 Karnataka	Udupi	All	Karkala town, Karkala taluk	https://www.daijiworld.com/news/newsDisplay.aspx?newsID=712066
@@ -2656,9 +2439,6 @@ Haryana	Faridabad	All	Village Mahavatpur	https://twitter.com/DC_Faridabad/status
 Haryana	Faridabad	All	Sector-82 - Row of plots from N2-12A to N2-19 and N2-02 to N2-11, N Block, BPIF' Parkland, Sector-82, Faridabad	https://twitter.com/DC_Faridabad/status/1265959362746437638
 Haryana	Faridabad	All	Sector-20 - Pocket of Friends Colony abutting Railway Line in between Garg General Store, HDFC ATM, Raju Kirana Store, Sector-20.	https://twitter.com/DC_Faridabad/status/1265959362746437638
 Haryana	Faridabad	All	Village Nariala	https://twitter.com/DC_Faridabad/status/1265959362746437638
-Gujarat	Gandhinagar	Gandhinagar	Sadra (Moti Vas near Area)	https://twitter.com/RACGandhinagar/status/1266367341643743232
-Gujarat	Gandhinagar	Gandhinagar	Randheja (Krushnanagar)	https://twitter.com/RACGandhinagar/status/1266367341643743232
-Gujarat	Gandhinagar	Gandhinagar	Satark Society - Borisana, Kamdhenu Society, Kalol Urban 2	https://twitter.com/RACGandhinagar/status/1266367341643743232
 Bihar	Patna	All	इंद्रलोक नगर, बाईपास, पटना सिटी	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
 Bihar	Patna	All	महाराजगंज, राजपूताना गली पटना सिटी	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
 Bihar	Patna	All	रिकाबगंज, मालसलामी, पटना सिटी	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
@@ -3699,44 +3479,6 @@ Kerala 	Thiruvananthapuram	All	Karode, Ward- 14, 15	https://twitter.com/Breaking
 Kerala 	Thiruvananthapuram	All	Mudakkal,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
 Kerala 	Thiruvananthapuram	All	Vamanapuram,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
 Kerala 	Thiruvananthapuram	All	Manickkal,  All Wards	https://twitter.com/BreakingViews4u/status/1267484172282544128
-Uttarakhand	Dehradun	All	Guru Road, Patel Nagar, Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Bairaj Colony, Sinchai Vibhag, Rishikesh	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Sevla Kala, Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	EWS Block, MDDA Colony, ISBT Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	PremBatta Gali, Santowali Ghati Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	D-Block, Sichai Vibhag Pariyojna Khand, Nagar Nigam Rishikesh	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Dandipura Colony, Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Racecourse Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Adarsh Nagar, Lane No. 9, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Gali No. 34, Shivaji Nagar, Rishikesh	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Bees Bigha, Rishikesh, Dehradun	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ward No. 13, Gram line JeevanGarh, Vikasnagar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ward No. 19, Herbertpur, Vikasnagar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Gram Fatehpur Tanda, Doiwala	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Haripurkala, Basti Ward No 2, Motichur Line	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Circular Road, Dalanwala	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Khata Kheri, Bhagwanpur	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Sati Mohalla, ward no.34, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Matawala Mohalla, Ward no.8, Nagar Panchayat Londaura	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward no.12, Mohd pur, Mohan pura, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Munda Khera Kalan, Laksar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Dargapur, Laksar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Adarsh Nagar, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Dabki, Laksar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Village- Dadupur, Govindpur, Haridwar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Hazrat Bilal Mohalla, Ward No. 6, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ambedkar Colony, Ward No. 9, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Green Park Colony, Roorkee	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vaishnavi Apartment, Kankhal	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Jaswinder Enclave, Bhagirathi, Ward No.1, Haridwar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vill. Alawalpur, Laksar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	U.S. Nagar	All	Vill. Raipur, Tehsil – Jaspur	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	U.S. Nagar	All	Vill. Gudalia, Tehsil – Kashipur	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	U.S. Nagar	All	Vill. Sisai, Nagar Palika- Kichha	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Pauri	All	Vill. Pipili, Block Pabau, Pauri	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Pauri	All	Gram Satpali patti, Chaubattakhal, Pauri	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Vill. Bhati, Magadhar, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Vill. Lamnidhar, Tehsil Jakhanidhar	https://health.uk.gov.in/files/2020.06.01_Health_Bulletin.pdf
 Gujarat 	Ahmedabad	All	BEHRAMPURA; Babunagar	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
 Gujarat 	Ahmedabad	All	Vatva; Nilgiri Society	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
 Gujarat 	Ahmedabad	All	Indrapuri; Christ Folk Society	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
@@ -4332,3 +4074,271 @@ Maharashtra 	Nashik	All	Madhuban colony, Nashik	https://twitter.com/my_nmc/statu
 Maharashtra 	Nashik	All	Kalekar Chawl, Jui Nagar, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
 Maharashtra 	Nashik	All	Shivshakti Nagar, Trimurti Chowk, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
 Karnataka	Bengaluru Urban	All	Visveswarapuram, Ward-143, South (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Gujarat	Gandhinagar	Dehgam	Lavad Farm	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Khoraj (Hudko Area)	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Shukan Silver Society-Kudasan	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Pagivas-Uvarsad	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Sidhraj Society-Sargasan	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Vachalo Vas-Vasan	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Kalol	Dhamasana	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Kalol	Majoor Housing Society	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Kalol	kumbhar Vas, Julia Choraha, Kalol	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Kalol	Kalyanpura Suthar Vas	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Kalol	Chapra, Kalol	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Kalol	Ambikanagar, Kalol	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Kalol	Sardarbaug, Kalol	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Kalol	32 Quarters, Gaay no Tekro, Kalol	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Kalol	Juno Patel Vas, Moto Patel Vas, Mokhasan	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Kalol	Staff Quarters, Sarvajanik Hospital, Paliyad-Mokhasan	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Mansa	Itadara	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Mansa	Vijay Tower-Mansa, Mansa Urban	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Mansa	Shoham Society, Behind Mansa College	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Gandhinagar	Kolavada (Parmar Vas & near area)	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Kalol	Mahendra Mill, Metro na Chapra	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Gujarat	Gandhinagar	Mansa	Badpura	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
+Uttarakhand	Dehradun	All	Guru Road, Patel Nagar, Dehradun	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Bairaj Colony, Sinchai Vibhag, Rishikesh	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	EWS Block, MDDA Colony, ISBT Dehradun	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	PremBatta Gali, Santowali Ghati Dehradun	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	D-Block, Sichai Vibhag Pariyojna Khand, Nagar Nigam Rishikesh	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Dandipura Colony, Dehradun	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Racecourse Dehradun	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Adarsh Nagar, Lane No. 9, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gali No. 34, Shivaji Nagar, Rishikesh	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Bees Bigha, Rishikesh, Dehradun	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No. 13, Gram line JeevanGarh, Vikasnagar	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No. 19, Herbertpur, Vikasnagar	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gram Fatehpur Tanda, Doiwala	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Haripurkala, Basti Ward No 2, Motichur Line	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Circular Road, Dalanwala	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Om Sarthak Apartment, Sewlakala, Dehradun	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Brahmapuri, Patelnagar	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Kalinga Colony, Araghar	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Khata Kheri, Bhagwanpur	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Sati Mohalla, ward no.34, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Matawala Mohalla, Ward no.8, Nagar Panchayat Londaura	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward no.12, Mohd pur, Mohan pura, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Munda Khera Kalan, Laksar	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Dargapur, Laksar	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Adarsh Nagar, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Dabki, Laksar	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village- Dadupur, Govindpur, Haridwar	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Hazrat Bilal Mohalla, Ward No. 6, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ambedkar Colony, Ward No. 9, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Green Park Colony, Roorkee	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vaishnavi Apartment, Kankhal	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Jaswinder Enclave, Bhagirathi, Ward No.1, Haridwar	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vill. Alawalpur, Laksar	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Danori, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Pauri	All	Vill. Pipili, Block Pabau, Pauri	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Pauri	All	Gram Satpali patti, Chaubattakhal, Pauri	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Vill. Bhati, Magadhar, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Vill. Lamnidhar, Tehsil Jakhanidhar	https://health.uk.gov.in/files/2020.06.03_Health_Bulletin.pdf
+Goa	South Goa	All	Ward No. 17, Mangor Hill, Near Maruti Temple and Opposite Gurudwara	https://cdn.s3waas.gov.in/s3d840cc5d906c3e9c84374c8919d2074e/uploads/2020/06/2020060345.pdf
+Goa	South Goa	All	Ward No. 11, Mangor Hill, Near Maruti Temple	https://cdn.s3waas.gov.in/s3d840cc5d906c3e9c84374c8919d2074e/uploads/2020/06/2020060345.pdf
+Puducherry	Puducherry	All	Muthialpet	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
+Puducherry	Puducherry	All	Dharmapuri, 	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
+Puducherry	Puducherry	All	Nettapakkam, 	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
+Puducherry	Puducherry	All	Kadirgamam, 	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
+Puducherry	Puducherry	All	Thavalakuppam, 	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
+Puducherry	Puducherry	All	Poornamkuppam 	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
+Puducherry	Puducherry	All	Mugrugambakkam	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
+Puducherry	Puducherry	All	Madakadipattu	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
+Puducherry	Puducherry	All	Kombakkam	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
+Puducherry	Puducherry	All	Dilaspettai	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
+Puducherry	Puducherry	All	Annai Theresa nagar	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
+Puducherry	Puducherry	All	Solai nagar	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
+Puducherry	Puducherry	All	Thilakar nagar	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
+Puducherry	Puducherry	All	Periya Kottakuppam	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
+Puducherry	Puducherry	All	Vadamangalam	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
+Telangana	Hyderabad	All	Manneguda, Opp. RTA Office, lbraimpatnam, Abdullapurmet, RR Dist., RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Vasavi Colony, RK Puram, Hyd-500012, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Quba. Colony, Shaheen Nagar, Balapur, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Mohammad Shareef, R/o Opposite Upsan Mandir, Minor Colony, Errakunta, Balapur, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Venkatapura Village, Balapur Mandel, RR Dist., RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Wadi-e-Juban Colony. Kothapet Village, Balapur Mandal, RR Dist., RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Nandupally Village, Mahcshwaram Mandal, RR Dist., RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	P&T Colony, Saroornagar Mandal, RR dist., RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Prasanth Nagar, Vanasthalipuram, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Pahadishareef Village, balapur Mandal, R.R. Dist., RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Mamidipally road, Near Charminar, Masjid, Singani Colony dead-end, Pahadi Shareef, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Mankhal Village, Pahadishareef, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Raghavendera Nagar , Nacharam, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Jawahar Nagar, Moulali,Malkajgiri, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Shadullanagar Moula Ali, Malkajgiri, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Shafi Nagar, Malkajgiri, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	A-Block, Hafeez Baba Nagar, Kanchanbagh	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Darab Jung Colony, Madannapet	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Chawni, Nade Ali Baig, Rein Bazar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Bagh-e-Jahana, Rein Bazar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	SRT Colony, Rein Bazar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Dhobighat, (Madina Mosque), Rein Bazar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Ali Cafe, Bi Bi ka Alawa Road, Rein Bazar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Near Sai baba temple, Reinbazar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Sultanpura, Mathaki Kidki, Mirchowk	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Chanchalguda, Dabeerpura	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Barkas ( Layola school), Chendrayangutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Poolbagh ( Ahmed Nagar Kaman, Kirana general store), Chendrayangutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Khairatabad, Saifabad	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	AC Guards, Saifabad	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Chintal Basthi Beside Golden Cafe, Saifabad	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Laxmi Nagar. Battery lane A, Red Hills, Nampally	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	A.C. Guards, Opp. PTI Buildings, Nampally	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Nallagutta, Ramgopalpet	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Badam Galli Domalguda, Chikkadpally	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	King Koti, Near Alkareem Hotel, Narayanaguda	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Happy Home apartments, Bayamma Galli New Nallakunta	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	1-2-56/G1, Surya Kakatiya Residency. St No. 3, Kakatiya Nagar, Habsiguda, Hyderabad	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	H.NO 17-2-388/2, Shantinagar, Saidabad	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	16-2-746/38, Sapota Bath, Saidabad 	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	H.No. 16-2-867/A/1/6/A Jeevan Yaar Jung, Saidabad	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Chaderghat H.No:16-10-111, Shah Lane, Old Malakpet, Chaderghat	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Prakash Nagar, Begumpet	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Police Line, Begumpet	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Srinivasanagar colony, Padmaraonagar, Chilkalguda	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Bouda Nagar, Chilkalguda	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Warasiguda, Chilkalguda	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Teachers colony, Tukaramgate	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Near Badi Mosque, North Lalaguda	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Beside PS Panjagutta area and Somajiguda Area	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Jayanthi nagar, Beside Lucky Function Hall, Rajiv Nagar, SR Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Jayashankar, Community Hall Borabanda, SR Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Rajeev Nagar, Near Nagarjuna School Lane, Borabanda, SR Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Mallepally Area, Habeebnagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Moghal Ka Nala, Opp PVNR Pillar No 92, Ring Raod, Langer house	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Ahmed Colony, MD Lines, Langer House, Humayun Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Beside Park Continetal Hotel, Masab Tank, Humayun Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Maheswari Complex Lane, masab tank, Humayun Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Near Asif nagar Old PS indira nagar Colony, Humayun Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Housing Board Lane, Vijayanagar Colony, Humayun Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	OU Colony Near Bharath gas, Shaikpet, Golconda	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Brindavan Colony, Towlichowki, Golconda	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Aditya Nagar Colony, Golconda	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Aziz liagh, Golconda	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Bada bazar, Golconda	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	MD Lines, Golconda	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Beside Kesari hanuman temple, Jiyaguda, Kulsumpura	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Murad Nagar, Asif Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Venkatamma thota, Feel Khana, Asif Nagar 	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Opp Mohammadiya Masjid, Gudi Malkapur, Asif Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Dargah Ganja Shahi,Tappachabutra	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Asifnagar Zirrah, Tappachabutra	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Beside Anganwadi Center, Venkatagiri Hylam Colony area, Jubilee Hills	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	IAS Colony, Shaikpet, Banjara Hills	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Hakeempet Tolichowki 3 Film Nagar, Banjara Hills	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Syed Nagar, Banjara Hills	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Shoukath Nagar, Banjara Hills	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Ward no. 133, Chandranagar, Alwal, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Rajeev gandhi nagar ward no. 135, Alwal, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Ward no. 134, Hasmathpet Rajeev gandhi nagar, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Ward no. 135, Alwal, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Ward no. 134, Temple Alwal, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Ward no. 119, Hasmathpet, alwal, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Ward no. 119, Hasmathpet, Alwal, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Chandragiri nagar, Jagadgirigutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Yellammabanda, Jagathgirigutta, Jagadgirigutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Modi apts, block-b, apuroopa colony, Jagadgirigutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Khaja Housc Souroundings, Apuroopa colony, Jagadgirigutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Wazeed House Souroundings, Subhash Nagar, Jeedimetla, Jagadgirigutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Kalavathi nagar, Jagadgirigutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Thurkapally village, Shamirpet	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Balajinagar, Kukatpally	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Pvr residcney,phase-II, dharma Teddy colony, hyder nagar, Kphb	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Plot no. 997, phase- II, bhagath singh nagar, vasanth nagar, Kphb	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Orrange county, near continental hospital, Gachibowli	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Ayyappa society, Madhapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Izzath nagar, Madhapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Aditya nagar, new Hafeezpet, Miyapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Sai colony, old hafeczpet, Miyapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Sitara hotel, Miyapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Ambedkar nagar, Miyapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Mythri nagar, Miyapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Rajapushpa apartment, Narsingi	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Hallmark tranquil, Narsingi	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Anjaiah nagar, Raidurgam	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Mayuri nagar, Rc Puram	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Aparna lake breeze G block, Chandanagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Dhanamma jopidi, Mailardevpally	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Kings colonys, shastri puram, Mailardevpally	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Roshan colony, Mailardevpally	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Cheguru, Nandigama	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	New friends colony, upper pally, Rajendranagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Imad nagar ,mm pahadi, Rajendranagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Jalalbaba nagar, near ration shop, Rajendranagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	Jalalbaba nagar near nawaz rice shop, Rajendranagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Telangana	Hyderabad	All	P & T colony, Suncity, bandlaguda jagir, Rajendranagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
+Maharashtra	Pimpri-Chinchawad	All	Kharalwadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Vijayanagar, Dighi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Indiranagar, Chinchwad	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Bajaj School Campus, Sambhajinagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Nikamvasti, Ch-holi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Chhatrapati Chowk, Rahatni	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Anandnagar, Chinchwad station	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Chakrapani Colony, Dighi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Pawannagar, Old Sangvi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Vikasnagar, Kiwale	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Copper School, Residence	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Phugewadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Sai Prasad, Pimple Saudagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Panchdurga, Rupinagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Kavadenagar, Pimplegurav	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Umbrella Park, Sambhajinagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Amritdhara, Dighi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	More basti	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Bhatnagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Gyan Angan Sosa. Accommodation	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Hanuman Colony, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Alankapuram Road, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Sadguru Colony, Wakad	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Shrikrishna Colony, Rahatni	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Sharadnagar, Chikhali	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Walhekarwadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Akashraj, Ravet	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Ghansham Sosa. Pimple Saudagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Balghare Vasti, Chikhali	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Destination memory, Chikhali	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Dhavade Vasti, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Shivrajnagar, Rahatni	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Bombay Colony, Dapodi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Mahadevnagar, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Kaverinagar, Wakad Police Line	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Pimpri Camp, CZ	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Alankapuram Sosa. Vadmukhwadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Shastri Chowk, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Dange Chowk, Wakad	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Boudhnagar, Pimpri	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Gaikwad Chawl, Kalewadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Bapdevnagar, Kiwale	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Kiwale Gaothan	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Dhorenagar, Juni Sangvi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Sahyognagar, Rupinagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Prestige Building, Chinchwad	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Pawannagar, Kalewadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Ambedkarnagar, Kiwale	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Mhalsakant Chowk, Akurdi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Madhura Colony, Walhekarwadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Keshavnagar, Kasarwadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Ganeshnagar, Bopkhel	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Kalpataru Estate, Pimple Gurav	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Dhore Farm, Navi Sangvi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Sangamnagar, Old Sangvi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Phoenix Hospital Kalewadi fork	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Mukai Chowk, Kiwale	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Siddharth Building, Ajanthanagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Kuldeep Angan, Nehru Nagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Sonkar Chambers, Pimpri	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Laxmitara Market, Dange Chowk	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Bhimnagar, Pimpri	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Radhakrishnanagar, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Bahirwade Complex, Chinchwad	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Yashwantnagar, Chikhali	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Sai Apartment, Guruvihar, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Gurudwara Road, Walhekarwadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Phulenagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Gulabnagar, Dapodi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Shetty Chaal, Dapodi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Shindenagar, Old Sangvi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	MB Comp, Kiwle	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Shriram Colony, Bijlinagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Duttnagar, Akurdi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
+Maharashtra	Pimpri-Chinchawad	All	Rose Conti, Pimple Saudagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
