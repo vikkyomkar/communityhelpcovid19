@@ -229,15 +229,9 @@ Karnataka	Kalaburagi	All	Pilakamma area of Wadi town	https://www.deccanherald.co
 Karnataka	Kalaburagi	All	Ward No. 11, 12, 13, 14, Wadi town	
 Karnataka	Uttara Kannada	All	more than 5 cases reported	
 Karnataka	Bagalkote	All	Killa Area	
-Karnataka	Mandya	All	Swarnasandra Layout	https://www.deccanherald.com/state/karnataka-districts/dc-team-on-toes-inspect-containment-zone-in-mandya-823860.html
 Karnataka	Vijayapura	All	Gol Gumbaz	
 Karnataka	Dharwad	All	Mulla Oni in Hubballi	https://www.thehindu.com/news/national/karnataka/coronavirus-police-tighten-vigil-in-dharwad-district/article31327025.ece
 Karnataka	Ballari	All	SR Nagar of Hospete	https://www.deccanherald.com/state/gadag-haveri-ballari/one-more-tests-positive-for-covid-19-in-karnatakas-ballari-district-tally-at-5-821183.html
-Karnataka	Mandya	All	Malavalli	https://www.deccanherald.com/state/karnataka-districts/covid-19-mandyas-nagamangala-declared-containment-zone-822786.html
-Karnataka	Mandya	All	Nagamangala taluk	https://www.deccanherald.com/state/karnataka-districts/covid-19-mandyas-nagamangala-declared-containment-zone-822786.html
-Karnataka	Mandya	All	Hanif Mohalla	https://www.deccanherald.com/state/karnataka-districts/covid-19-mandyas-nagamangala-declared-containment-zone-822786.html
-Karnataka	Mandya	All	Ward 12, 14, 15, 16	https://www.deccanherald.com/state/karnataka-districts/covid-19-mandyas-nagamangala-declared-containment-zone-822786.html
-Karnataka	Mandya	All	Ward No 32 and 33	https://timesofindia.indiatimes.com/city/mysuru/two-wards-declared-containment-zones-in-mandya/articleshow/75087157.cms
 Gujarat	Surat	All	Adajan Patiya, Rander	https://in.news.yahoo.com/look-gujarat-contained-neighbourhoods-195235424.html
 Gujarat	Surat	All	Begumpura	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
 Gujarat	Surat	All	Sachin area	https://www.outlookindia.com/newsscroll/strict-lockdown-at-gujarats-covid19-hotspots-cases-reach-175/1795120
@@ -454,9 +448,6 @@ Jammu & Kashmir 	Shopian	All	Note: Entire District declared Red Zone Hotspot as 
 Jammu & Kashmir 	Rajouri	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jharkhand 	Ranchi	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Jharkhand 	Bokaro	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Karnataka 	Dakshina Kannada	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Karnataka 	Bidar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Karnataka 	Kalaburagi	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Karnataka 	Bagalkote	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Karnataka 	Dharwad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Ladakh 	Kargil	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -493,7 +484,6 @@ Maharashtra	Raigad	All	Uran	https://www.lokmat.com/raigad/coronavirus-six-corona
 Maharashtra	Raigad	All	Kharghar	https://www.lokmat.com/raigad/coronavirus-six-corona-patient-increase-panvel-uran-28-patients-raigad/?utm_source=Lokmat.com&utm_medium=InfiniteArticle-Desktop
 Maharashtra	Raigad	All	Kalamboli	https://www.lokmat.com/raigad/coronavirus-six-corona-patient-increase-panvel-uran-28-patients-raigad/?utm_source=Lokmat.com&utm_medium=InfiniteArticle-Desktop
 Maharashtra	Raigad	All	Raigad Rural	https://www.lokmat.com/raigad/coronavirus-six-corona-patient-increase-panvel-uran-28-patients-raigad/?utm_source=Lokmat.com&utm_medium=InfiniteArticle-Desktop
-Karnataka	Chikkaballapura	All	Gauribidanur taluk	http://www.onefivenine.com/india/villag/Chikballapur/Gauribidanur
 Madhya Pradesh	Bhopal	All	Kolar  -  Trilanga, Signature Residency, Bairagarh Chichali, Priyanka Nagar zganpati Enclave	https://www.bhaskar.com/local/mp/bhopal/news/119-red-zones-in-the-city-more-than-4-lakh-population-in-containers-127182483.html
 Madhya Pradesh	Bhopal	All	Kamla Nagar  -  Kotra, Nehru Nagar, Naya Basera, Shabri Nagar, Ambedkar Colony Policeline	https://www.bhaskar.com/local/mp/bhopal/news/119-red-zones-in-the-city-more-than-4-lakh-population-in-containers-127182483.html
 Madhya Pradesh	Bhopal	All	21 Lord campus Laxmi Parisar  	https://www.naidunia.com/madhya-pradesh/bhopal-coronavirus-madhya-pradesh-news-less-patient-than-indore-yet-more-number-of-container-areas-in-bhopal-5509985
@@ -2043,7 +2033,6 @@ Karnataka	Bengaluru Urban	All	BTM Layout, Ward 176, South	https://www.facebook.c
 Karnataka	Bengaluru Urban	All	Shivajinagar, Ward 92, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Begur, Ward 192, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Marathahalli, Ward 86, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Hongasandara, Ward 189, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Padarayanapura, Ward 135, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Jagajeevanram Nagar, Ward 136, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Assam	Cachar	All	Sukanta Lane, Tarapur, Cachar Assam	https://twitter.com/SilcharToday/status/1264240740940554241
@@ -3102,11 +3091,11 @@ Gujarat 	Ahmedabad	All	NARANPURA; NIRMAL APPARTMENT, NEAR JAY MANGAL BRTS	https:
 Gujarat 	Ahmedabad	All	PALDI; AMBEDKAR COLONY	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
 Gujarat 	Ahmedabad	All	MAKTAMPURA; TAVAKAL VILLA,	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
 Gujarat 	Ahmedabad	All	SARKHEJ; SHREE NANDNAGAR PART 3	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
-Karnataka	Bengaluru Urban	All	Subhash Nagar, Ward-95, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	Subramanya Nagar, Ward-66, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	Azadnagar, Ward-141, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	Nayandahalli, Ward-131, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	Rayapuram, Ward-137, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	Subhash Nagar, Ward-95, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	Subramanya Nagar, Ward-66, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	Azadnagar, Ward-141, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	Nayandahalli, Ward-131, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	Rayapuram, Ward-137, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
 Delhi 	Central	All	Sadar Bazaar, Central District.	https://delhifightscorona.in/containment-zones-operation-shield/
 Delhi 	Central	All	Chandni Mahal, Central District.	https://delhifightscorona.in/containment-zones-operation-shield/
 Delhi 	Central	All	NabiKarim, Central District.	https://delhifightscorona.in/containment-zones-operation-shield/
@@ -3650,7 +3639,7 @@ Maharashtra 	Nashik	All	Rishiraj Presidency, D'suza Colony	https://twitter.com/m
 Maharashtra 	Nashik	All	Madhuban colony, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
 Maharashtra 	Nashik	All	Kalekar Chawl, Jui Nagar, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
 Maharashtra 	Nashik	All	Shivshakti Nagar, Trimurti Chowk, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
-Karnataka	Bengaluru Urban	All	Visveswarapuram, Ward-143, South (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	Visveswarapuram, Ward-143, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
 Gujarat	Gandhinagar	Dehgam	Lavad Farm	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
 Gujarat	Gandhinagar	Gandhinagar	Khoraj (Hudko Area)	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
 Gujarat	Gandhinagar	Gandhinagar	Shukan Silver Society-Kudasan	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
@@ -4492,3 +4481,49 @@ Uttar Pradesh	Agra	All	प्रकाशपुरम टेढ़ी बगि�
 Uttar Pradesh	Agra	All	नगला बुद्धा धनौली खेरिया मोड़	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
 Uttar Pradesh	Agra	All	12 बीघा श्रवस्त नरीपुरा	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
 Uttar Pradesh	Agra	All	सीता नगर रामबाग	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Karnataka	Kalaburagi	All	Islamabad Colony 3, New Rehmat Nagar	http://kgis.ksrsac.in/CZDocuments//Notifications//04_1_19_P-604%20Notification.pdf
+Karnataka	Kalaburagi	All	Sanstraswadi Maktampur	
+Karnataka	Kalaburagi	All	Mominpura Maktampur	
+Karnataka	Kalaburagi	All	Rehmath Nagar Sedam	
+Karnataka	Raichur	All	Part of Maliyabad Pachayat of Raichur Town, Raichur Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_4_P1835_notification_2020_05_26__21_54_37.pdf
+Karnataka	Raichur	All	Ward No. 7, Santhebazar road near Naikwady School Maski  Area	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_5_P2254_CZ_MASKI_NOTIFICATION_2020_05_29__11_04_16.PDF
+Karnataka	Raichur	All	Ward No. 4 Gole Market, Raichur	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_6_P2423_CZ_RAICHUR_NOTIFICATION_2020_05_30__13_39_17.pdf
+Karnataka	Raichur	All	Parvathi Nagara Maski	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_7_P3074_CZ_MASKI2_notification_2020_06_02__17_08_51.PDF
+Karnataka	Raichur	All	J.B. Patil Judge residential house, Ward No. 9, Lingasuguru Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_8_P3075_CZ_LGS_NOTIFICATION_2020_06_03__18_16_44.PDF
+Karnataka	Raichur	All	Sarjapur Village, Lingasuguru Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_9_P3076_CZ_SARJAPUR_NOTIFICATION_2020_06_03__18_31_12.PDF
+Karnataka	Raichur	All	Parapur Village, Deodurga Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_10_P3644_PARAPUR_DEVADURGA_2020_06_04__18_28_43.PDF
+Karnataka	Raichur	All	Myakaladoddi Village, Deodurga Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_11_P3646_MYAKALDODDI_DEVADURGA_2020_06_05__13_27_47.PDF
+Karnataka	Raichur	All	Near Ramchandra Reasidential House, Deodurga Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_12_P3651_DEVADURGA_NOTIFICATION_2020_06_05__13_40_14.PDF
+Karnataka	Raichur	All	Jalahalli Village, Deodurga Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_13_P3866_JALLAHALLI_DEVADURGA_2020_06_05__13_55_55.PDF
+Karnataka	Raichur	All	Basaveshwar Nagar, Maski, Maski Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_14_P3870_P3900_MASKI_BASVESHWRNGR_2020_06_05__14_06_27.PDF
+Karnataka	Raichur	All	Ward No. 19, Hatti Village Lingasugur Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_15_P3871_Ward19_HATTI_LINGASUGUR_2020_06_05__14_19_51.PDF
+Karnataka	Raichur	All	Kakkaladoddi Village, Deodurga taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_16_P3884_KAKKALDODDI_DEVADURGA_2020_06_05__14_27_19.PDF
+Karnataka	Raichur	All	Pallay Carnp, Joladarashi Viilage, Maski Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_17_P3897_JOLADARASHI_MASKI_2020_06_05__14_34_45.PDF
+Karnataka	Raichur	All	SC Ward Street, K. Gudadinni Village, Sirwar Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_18_P4097_K%20GUDADINNI_SIRWAR_2020_06_06__11_03_26.pdf
+Karnataka	Raichur	All	APMC Street, Manavi, Manavi Taluk	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_19_P4096_APMCSTREET_MANVI_2020_06_06__11_24_20.PDF
+Karnataka	Raichur	All	Askihal Village, Raichur Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_20_P4100_ASKIHAL_RCR_NOTIFICATION_2020_06_06__17_34_41.PDF
+Karnataka	Raichur	All	Saibaba Temple Street, Rampur Village, Raichur Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//06_1_21_P4102_RAMPUR_RCR_NOTIFICATION_2020_06_06__17_56_36.PDF
+Karnataka	Mandya	All	Near Devegowda House/ Anjaneya Swamy Temple	http://kgis.ksrsac.in/CZDocuments//Notifications//22_1_1_P-179,237,238,239,464,443,%20571,%20572,%20573,%20982_Notifications.pdf
+Karnataka	Mandya	All	Near KSRTC Bus Stand Compound/ Forest Office	http://kgis.ksrsac.in/CZDocuments//Notifications//22_1_2_P_172,173_Notifications.pdf
+Karnataka	Mandya	All	Near Hotel Thimmapaa's House	http://kgis.ksrsac.in/CZDocuments//Notifications//22_1_6_P_324_notifications.pdf
+Karnataka	Mandya	All	Near Ramakrishnegowda s/o Lt Narasimhegowda House	http://kgis.ksrsac.in/CZDocuments//Notifications//22_1_13_P_637,%20638_Notifications.pdf
+Karnataka	Mandya	All	Maruvanahalli Village	http://kgis.ksrsac.in/CZDocuments//Notifications//22_1_14_P_869_Notifications.pdf
+Karnataka	Mandya	All	K.R. Pete Town Jayanagara Extension	http://kgis.ksrsac.in/CZDocuments//Notifications//22_1_18_CZ-18%20Notification.pdf
+Karnataka	Bidar	All	Bidar City	http://kgis.ksrsac.in/CZDocuments//Notifications//05_1_1_CZ_1_Patients%20Notifications.pdf
+Karnataka	Vijayapura	All	Near Rajesab Mujavar Farm House	http://kgis.ksrsac.in/CZDocuments//Notifications//03_1_5_P_769_notifications.pdf
+Karnataka	Vijayapura	All	Near Pailvan Galli Allapur Gate Road	http://kgis.ksrsac.in/CZDocuments//Notifications//03_1_6_P_538_2020_05_27__11_28_18.pdf
+Karnataka	Hassan	All	Ere Katte, 2nd Cross, B. Kaatihalli Gram Pachayat	http://kgis.ksrsac.in/CZDocuments//Notifications//23_1_1_Hassan%20containment%20Zone1_2020_05_24__19_02_45.pdf
+Karnataka	Chikkaballapur	All	Ward No.17, 1(), 12, 13 of Chtkkaballapura Town	http://kgis.ksrsac.in/CZDocuments//Notifications//29_1_2_P_636_Notification.pdf
+Karnataka	Chikkaballapur	All	Part of Ward No. 22 of Bageaplli Town	http://kgis.ksrsac.in/CZDocuments//Notifications//29_1_4_Zone%204%20Notifications%20Bagepalli_2020_05_29__11_50_51.pdf
+Karnataka	Dakshina Kannada	All	Nadumane, Kudupu Village, Mangaluru Taluka	http://kgis.ksrsac.in/CZDocuments//Notifications//24_1_18_P_1437_Notifications_2020_05_24__10_59_22.pdf
+Karnataka	Dakshina Kannada	All	Gundalike, Yeyyadi, Kadri Village, Mangaluru Taluk	http://kgis.ksrsac.in/CZDocuments//Notifications//24_1_16_P_1234_Notifications_2020_05_24__10_58_23.pdf
+Karnataka	Dakshina Kannada	All	Jeppu Patna, Jeppinamogaru Village, Mangaluru Taluk	http://kgis.ksrsac.in/CZDocuments//Notifications//24_1_15_P_1094_Notifications_2020_05_24__10_57_51.pdf
+Karnataka	Dakshina Kannada	All	Gudde Kopla, Idya Village, Mangaluru Taluk	http://kgis.ksrsac.in/CZDocuments//Notifications//24_1_14_P_1009_NOtifications_2020_05_24__10_57_14.pdf
+Karnataka	Dakshina Kannada	All	Specific area of Pilar, Someshwar Village, Magaluru Taluk	http://kgis.ksrsac.in/CZDocuments//Notifications//24_1_13_P_947_Notifications_2020_05_24__10_56_29.pdf
+Karnataka	Dakshina Kannada	All	Specific area of B-Kasba Village, Bantwal Taluk	http://kgis.ksrsac.in/CZDocuments//Notifications//24_1_8_CZ8%20NOTIFICATION_2020_05_24__16_15_30.pdf
+Karnataka	Bengaluru Urban	All	Arakere, Ward-193, Bommanahalli (NEW)	
+Karnataka	Bengaluru Urban	All	Bellanduru, Ward-150, Mahadevapura (NEW)	
+Karnataka	Bengaluru Urban	All	Doddanekundi, Ward-85, Mahadevapura (NEW)	
+Karnataka	Bengaluru Urban	All	Yelahanka New Town, Ward-04, Yelahanka (NEW)	
+Karnataka	Bengaluru Urban	All	Doddabammasandra, Ward-10, Yelahanka (NEW)	
+Karnataka	Bengaluru Urban	All	Kotigepalya, Ward-73, Raja Rajeshwari Nargar (NEW)	
