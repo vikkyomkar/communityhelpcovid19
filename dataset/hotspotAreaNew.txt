@@ -166,13 +166,6 @@ Madhya Pradesh	Dewas	All	Sheetlamata ward, Haatpipliya City	https://www.indiatvn
 Madhya Pradesh	Dewas	All	Panigaon village	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Rajasthan	Kota	All	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
 Karnataka	Mysuru	All	Nanjangud town	https://www.dtnext.in/News/National/2020/04/02135830/1222923/Covid19--Mysuru-district-declared-Red-Zone-security-.vpf
-Andhra Pradesh	Visakhapatnam	All	Thatichetlapalem	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
-Andhra Pradesh	Visakhapatnam	All	Akkayyapalem	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
-Andhra Pradesh	Visakhapatnam	All	Padmanabham	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
-Andhra Pradesh	Visakhapatnam	All	Gajuwaka	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
-Andhra Pradesh	Visakhapatnam	All	Allipuram	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
-Andhra Pradesh	Visakhapatnam	All	Narsipatnam	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
-Andhra Pradesh	Visakhapatnam	All	Poorna Market	https://www.yovizag.com/covid-19-update-7-red-zones-in-vizag-house-nearly-4-lakh-people/
 Andhra Pradesh	Kurnool	All	Roja Street	https://www.thehindu.com/news/national/andhra-pradesh/red-zones-created-in-kurnool/article31252572.ece
 Andhra Pradesh	Kurnool	All	Owk and Banaganapalle villages	https://www.thehindu.com/news/national/andhra-pradesh/red-zones-created-in-kurnool/article31252572.ece
 Andhra Pradesh	Kurnool	All	Kappalanagar in Kurnool town	https://www.thehindu.com/news/national/andhra-pradesh/red-zones-created-in-kurnool/article31252572.ece
@@ -183,10 +176,6 @@ Andhra Pradesh	Nellore	All	Kavali	https://www.thehindu.com/news/national/andhra-
 Andhra Pradesh	Nellore	All	Sullurpeta	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
 Andhra Pradesh	Nellore	All	Sriharikota	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
 Andhra Pradesh	Kadapa	All	More than 5 cases reported	https://www.thenewsminute.com/article/133-covid-19-clusters-andhra-nellore-has-largest-number-122327
-Andhra Pradesh	Prakasam	All	Ongole	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
-Andhra Pradesh	Prakasam	All	Chirala	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
-Andhra Pradesh	Prakasam	All	Kandukur	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
-Andhra Pradesh	Prakasam	All	Chimakurthy	https://www.thehindu.com/news/national/andhra-pradesh/more-areas-declared-red-zones-as-nellore-reports-8-fresh-cases/article31251413.ece
 Telangana	Nizamabad	All	Malapally	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Nizamabad	All	Hymadpura	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
 Telangana	Nizamabad	All	Habeebnagar	https://timesofindia.indiatimes.com/city/hyderabad/telangana-marks-100-hotspots-to-check-virus-spread/articleshow/75038312.cms
@@ -394,12 +383,10 @@ Ladakh	Leh	All	Saboo Phu	http://universalnewstimeline.com/saboo-phu-containment-
 Andhra Pradesh 	Kurnool	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Andhra Pradesh 	Guntur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Andhra Pradesh 	Nellore	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Andhra Pradesh 	Prakasam	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Andhra Pradesh 	Krishna	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Andhra Pradesh 	YSR	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Andhra Pradesh 	West Godavari	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Andhra Pradesh 	Chittoor	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Andhra Pradesh 	Visakhapatnam	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Andhra Pradesh 	East Godavari	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Andhra Pradesh 	Anantapur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Bihar 	Siwan	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -485,7 +472,6 @@ Uttar Pradesh 	Bulandshahr	All	Note: Entire District declared Red Zone Hotspot a
 Uttar Pradesh 	Sitapur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Basti	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Baghpat	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Karnataka 	Bengaluru Rural	All	Kodipalya village, Doddaballapur	https://www.youtube.com/watch?v=GPiXVVMipAA
 Punjab 	Pathankot	All	T-3 Quarters at Additional Land Colony, ShahpurKandi Township, Jugial	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041154.pdf
 Punjab 	Pathankot	All	Anandpur Rara/Kulian	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041380.pdf
 Punjab 	Pathankot	All	Village Sarti, Tikka Tarowan, Hadbast No. 404, Tehsil Dharkalan	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041295.pdf
@@ -974,147 +960,6 @@ West Bengal	Kolkata	Ward-23	265C RABINDRA SARAN!, KOLKATA, BARABAZAR, KOLKATA 70
 West Bengal	Kolkata	Ward-23	3 & 12 HANSPUKUR 1ST LANE, BARABAZAR, KOLKATA 700097, SRI HORIRAM GOENKA STREET	https://twitter.com/ANI/status/1257384466290532353
 West Bengal	Kolkata	Ward-38	24/H, BECHU CHATTERJEE STREET, AMHERST STREET, HERAMBO DAS LANE, BROJANATH MITRA LANE	https://twitter.com/ANI/status/1257384466290532353
 West Bengal	Kolkata	Ward-38	110A MM Barman Street, Kolkata 700007, M M Burman street, Shambhu Chatterjee street, Mitra Lane	https://twitter.com/ANI/status/1257384466290532353
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Vivekananda Colony	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - South Jailroad	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Kummariveedhi	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Allipuram Mainroad	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Nerellakoneru	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Venkateswara Metta	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Neelam Vepachettu	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Captain Ramarao Junction	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Bangaramma Metta	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Narayana Street	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Dabagardens Main Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Saibaba Street	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Mirapakayala	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Veedhi	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Gowri Street	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Ammavari Veedhi	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Krishna Gardens	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Allipuram - Prema Samajam	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Revidi - Venkatapuram	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	ITI Junction - Subhash Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	ITI Junction - Thummada Pallem	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	ITI Junction - Siddardha Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	ITI Junction - Bhavani Gardens	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	ITI Junction - Sriram Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	ITI Junction - Ganesh Nagar 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	ITI Junction - Gajapati Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	ITI Junction - Nalanda Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	ITI Junction - Sankuru Peta, Kendra vidyalam Area Surya Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	MTC Palem - Muslim thatichetla Palem	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	MTC Palem - Pedduru 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	MTC Palem - Ramchandra Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	MTC Palem - Abid Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	MTC Palem - Sramik Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	MTC Palem - Srinivasa Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	MTC Palem - Andhra Jyothi Paper Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Santhinagar (NAD) - Gowri Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Santhinagar (NAD) - Marripalem Vuda Lay Out	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Santhinagar (NAD) - Shanti Nagar 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Santhinagar (NAD) - Netajinagar 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Railway New Colony - Santoshimata Temple Area 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Railway New Colony - Srinivasa Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Railway New Colony - Ganesh Temple Road, 80' Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Railway New Colony - Railway Quarters (KV Quarters)	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Railway New Colony - Nandagiri NAgar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Railway New Colony - Narendra Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Railway New Colony - Railway New Colony Bazar Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Railway New Colony - Venkateswara Colony	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Railway New Colony - Railway New Colony Main Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Railway New Colony - Gavara T.C. Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Railway New Colony - Ramchandra Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Railway New Colony - Srinivasa Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Rangireejuveedhi (Poorna Market) - Rangireejuveedhi	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Rangireejuveedhi (Poorna Market) - Salipeta	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Rangireejuveedhi (Poorna Market) - Mamatavariveedhi	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Rangireejuveedhi (Poorna Market) - KGH OP Gate Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Rangireejuveedhi (Poorna Market) - Upper Relliveedhi	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Rangireejuveedhi (Poorna Market) - Kodipandalaveedhi	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Rangireejuveedhi (Poorna Market) - AVN College Down	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Rangireejuveedhi (Poorna Market) - Town Kotha Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Rangireejuveedhi (Poorna Market) - Poorna Market	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Rangireejuveedhi (Poorna Market) - Velempeta	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Kunchamambaba Colony, Gajuwaka - Kunchamambaba Colony	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Kunchamambaba Colony, Gajuwaka - Datta Sai Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Kunchamambaba Colony, Gajuwaka - Sramika Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Kunchamambaba Colony, Gajuwaka - Srinivas Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Kunchamambaba Colony, Gajuwaka - LV Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Kunchamambaba Colony, Gajuwaka - Drivers Colony	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Kunchamambaba Colony, Gajuwaka - APIIC Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Kunchamambaba Colony, Gajuwaka - Canara Bank Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Komativeedhi (Narsipatnam) - Komativeedhi	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Komativeedhi (Narsipatnam) - Tuni Road 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Komativeedhi (Narsipatnam) - Dhanimireddiveedhi	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Komativeedhi (Narsipatnam) - KD Peta Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Komativeedhi (Narsipatnam) - Sivapuram	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chintalapalem  - Chintalapalem	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chintalapalem  - Narsingapalli	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Madhavadhara - Seethanna	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Madhavadhara - Gardens	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Madhavadhara - Kalinga Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Madhavadhara - Vidya Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Madhavadhara - Appayya Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Madhavadhara - Mahat Colony	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Madhavadhara - Bheem Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Madhavadhara - Gandhi Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Madhavadhara - Narasimha Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Madhavadhara - Vamsinagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Danbubazar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Kannayyapeta	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Prakasaraopeta	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Singh Hotel Junction Vishwanatham Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Sivalayam Street	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - SBI Colony	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Nawroji Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - ZP Junction	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Angadi Dibba	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Prahlada Kalyanamandapam	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Antony Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Saraswati Park	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Kanakaladibba	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Kotha Salipeta	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Krishnanagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Venkateswara Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Danbubazar - Sri Rangapuram Collector Office	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Chengalaraopeta	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - AVN College Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Godari Gothulu 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Sunnapuveedhi	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Town Kotharoad	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - SKML Temple Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Panja Junction	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Pappulaveedhi	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Agraharam Veedhi	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Dwarawari Veeedhi 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Beach Road	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Relliveedhi 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Jalaripeta	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Pendora Peta	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Vuruju Peta	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Asinana Veedhi 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Chengalarao Peta - Gollaveedhi	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Gopalapatnam - Rythu Bazar VUDU Lay Out	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Gopalapatnam - Govt. Hospital 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Gopalapatnam - Ajatha Park	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Gopalapatnam - Tailors Colony	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Gopalapatnam - Narasimha Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Gopalapatnam - RR Venkatapuram	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Gopalapatnam - Indira Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Gopalapatnam - Balaji Gardens 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Gopalapatnam - Simhadri Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Gopalapatnam - APSRTC Depot	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Marripalem - Narendhra Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Marripalem - Siva Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Marripalem - Parvathi Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Marripalem - Green Gardens	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Marripalem - Andhra Kesari Nagar 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Marripalem - FCI Nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Marripalem - Hussain nagar	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Marripalem - Bhaskar Gardens	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Marripalem - Ranapratap Nagar 	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Marripalem - Railway Quarters	https://twitter.com/suripkfan/status/1257156373592322051
-Andhra Pradesh	Visakhapatnam	All	Marripalem - Mohidden Gardens	https://twitter.com/suripkfan/status/1257156373592322051
 Assam	Guwahati	All	Doctor's Hostel no. 5 of Guwahati Medical College (GMCH) campus	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
 West Bengal	Kolkata	Ward-33	91,93,94A,95, Baliaghat Main Road (Lebugola Bustee)	
 West Bengal	Kolkata	Ward-34	10 to 34, Beliaghata Main Road	
@@ -1469,7 +1314,6 @@ Madhya Pradesh 	Indore	All	Police Line Mhow Thana
 Madhya Pradesh 	Indore	All	Shivshakti Nagar Indore	
 Madhya Pradesh 	Indore	All	Vidhinath Appartment Silicon City	
 Madhya Pradesh 	Indore	All	Village Kadwali Bujurg Indore	
-Chandigarh 	Chandigarh	All	Sector 30 B	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
 Chandigarh 	Chandigarh	All	Kacchi Colony in Dhanas	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
 Chandigarh 	Chandigarh	All	Bapu Dham Colony	https://www.rozanaspokesman.com/news/punjab/050520/9-more-contract-covid-19-in-chandigarh-total-count-111.html
 Maharashtra 	Mumbai	Ward-A	Ward-A M.R.A. Police Quarters,M.R.A. Road,Fort, 400001	https://stopcoronavirus.mcgm.gov.in/assets/docs/Containment-Zones.pdf
@@ -2213,10 +2057,6 @@ Karnataka	Bengaluru Urban	All	Varthur, Ward-149, Mahadevapura	https://www.facebo
 Karnataka	Bengaluru Urban	All	Ramamurthy Nagar, Ward-26, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Karnataka	Bengaluru Urban	All	Agrahara Dasarahalli, Ward-105, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Jammu & Kashmir	Srinagar	All	Eidgah	
-Karnataka	Udupi	All	Thenkanidiyoor village, Udupi taluk	https://www.daijiworld.com/news/newsDisplay.aspx?newsID=712066
-Karnataka	Udupi	All	Vaddarse village, Kundapur taluk	https://www.daijiworld.com/news/newsDisplay.aspx?newsID=712066
-Karnataka	Udupi	All	Karkala town, Karkala taluk	https://www.daijiworld.com/news/newsDisplay.aspx?newsID=712066
-Karnataka	Udupi	All	Karkala town, Karkala taluk	https://www.daijiworld.com/news/newsDisplay.aspx?newsID=712066
 Bihar	Patna	All	इंद्रलोक नगर, बाईपास, पटना सिटी	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
 Bihar	Patna	All	महाराजगंज, राजपूताना गली पटना सिटी	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
 Bihar	Patna	All	रिकाबगंज, मालसलामी, पटना सिटी	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
@@ -3929,122 +3769,6 @@ Puducherry	Puducherry	All	Solai nagar	https://www.dailythanthi.com/News/Puducher
 Puducherry	Puducherry	All	Thilakar nagar	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
 Puducherry	Puducherry	All	Periya Kottakuppam	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
 Puducherry	Puducherry	All	Vadamangalam	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
-Telangana	Hyderabad	All	Manneguda, Opp. RTA Office, lbraimpatnam, Abdullapurmet, RR Dist., RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Vasavi Colony, RK Puram, Hyd-500012, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Quba. Colony, Shaheen Nagar, Balapur, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Mohammad Shareef, R/o Opposite Upsan Mandir, Minor Colony, Errakunta, Balapur, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Venkatapura Village, Balapur Mandel, RR Dist., RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Wadi-e-Juban Colony. Kothapet Village, Balapur Mandal, RR Dist., RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Nandupally Village, Mahcshwaram Mandal, RR Dist., RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	P&T Colony, Saroornagar Mandal, RR dist., RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Prasanth Nagar, Vanasthalipuram, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Pahadishareef Village, balapur Mandal, R.R. Dist., RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Mamidipally road, Near Charminar, Masjid, Singani Colony dead-end, Pahadi Shareef, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Mankhal Village, Pahadishareef, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Raghavendera Nagar , Nacharam, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Jawahar Nagar, Moulali,Malkajgiri, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Shadullanagar Moula Ali, Malkajgiri, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Shafi Nagar, Malkajgiri, RACHAKONDA	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	A-Block, Hafeez Baba Nagar, Kanchanbagh	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Darab Jung Colony, Madannapet	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Chawni, Nade Ali Baig, Rein Bazar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Bagh-e-Jahana, Rein Bazar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	SRT Colony, Rein Bazar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Dhobighat, (Madina Mosque), Rein Bazar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Ali Cafe, Bi Bi ka Alawa Road, Rein Bazar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Near Sai baba temple, Reinbazar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Sultanpura, Mathaki Kidki, Mirchowk	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Chanchalguda, Dabeerpura	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Barkas ( Layola school), Chendrayangutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Poolbagh ( Ahmed Nagar Kaman, Kirana general store), Chendrayangutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Khairatabad, Saifabad	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	AC Guards, Saifabad	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Chintal Basthi Beside Golden Cafe, Saifabad	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Laxmi Nagar. Battery lane A, Red Hills, Nampally	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	A.C. Guards, Opp. PTI Buildings, Nampally	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Nallagutta, Ramgopalpet	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Badam Galli Domalguda, Chikkadpally	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	King Koti, Near Alkareem Hotel, Narayanaguda	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Happy Home apartments, Bayamma Galli New Nallakunta	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	1-2-56/G1, Surya Kakatiya Residency. St No. 3, Kakatiya Nagar, Habsiguda, Hyderabad	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	H.NO 17-2-388/2, Shantinagar, Saidabad	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	16-2-746/38, Sapota Bath, Saidabad 	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	H.No. 16-2-867/A/1/6/A Jeevan Yaar Jung, Saidabad	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Chaderghat H.No:16-10-111, Shah Lane, Old Malakpet, Chaderghat	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Prakash Nagar, Begumpet	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Police Line, Begumpet	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Srinivasanagar colony, Padmaraonagar, Chilkalguda	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Bouda Nagar, Chilkalguda	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Warasiguda, Chilkalguda	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Teachers colony, Tukaramgate	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Near Badi Mosque, North Lalaguda	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Beside PS Panjagutta area and Somajiguda Area	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Jayanthi nagar, Beside Lucky Function Hall, Rajiv Nagar, SR Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Jayashankar, Community Hall Borabanda, SR Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Rajeev Nagar, Near Nagarjuna School Lane, Borabanda, SR Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Mallepally Area, Habeebnagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Moghal Ka Nala, Opp PVNR Pillar No 92, Ring Raod, Langer house	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Ahmed Colony, MD Lines, Langer House, Humayun Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Beside Park Continetal Hotel, Masab Tank, Humayun Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Maheswari Complex Lane, masab tank, Humayun Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Near Asif nagar Old PS indira nagar Colony, Humayun Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Housing Board Lane, Vijayanagar Colony, Humayun Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	OU Colony Near Bharath gas, Shaikpet, Golconda	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Brindavan Colony, Towlichowki, Golconda	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Aditya Nagar Colony, Golconda	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Aziz liagh, Golconda	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Bada bazar, Golconda	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	MD Lines, Golconda	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Beside Kesari hanuman temple, Jiyaguda, Kulsumpura	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Murad Nagar, Asif Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Venkatamma thota, Feel Khana, Asif Nagar 	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Opp Mohammadiya Masjid, Gudi Malkapur, Asif Nagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Dargah Ganja Shahi,Tappachabutra	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Asifnagar Zirrah, Tappachabutra	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Beside Anganwadi Center, Venkatagiri Hylam Colony area, Jubilee Hills	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	IAS Colony, Shaikpet, Banjara Hills	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Hakeempet Tolichowki 3 Film Nagar, Banjara Hills	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Syed Nagar, Banjara Hills	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Shoukath Nagar, Banjara Hills	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Ward no. 133, Chandranagar, Alwal, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Rajeev gandhi nagar ward no. 135, Alwal, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Ward no. 134, Hasmathpet Rajeev gandhi nagar, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Ward no. 135, Alwal, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Ward no. 134, Temple Alwal, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Ward no. 119, Hasmathpet, alwal, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Ward no. 119, Hasmathpet, Alwal, CYBERABAD	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Chandragiri nagar, Jagadgirigutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Yellammabanda, Jagathgirigutta, Jagadgirigutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Modi apts, block-b, apuroopa colony, Jagadgirigutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Khaja Housc Souroundings, Apuroopa colony, Jagadgirigutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Wazeed House Souroundings, Subhash Nagar, Jeedimetla, Jagadgirigutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Kalavathi nagar, Jagadgirigutta	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Thurkapally village, Shamirpet	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Balajinagar, Kukatpally	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Pvr residcney,phase-II, dharma Teddy colony, hyder nagar, Kphb	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Plot no. 997, phase- II, bhagath singh nagar, vasanth nagar, Kphb	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Orrange county, near continental hospital, Gachibowli	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Ayyappa society, Madhapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Izzath nagar, Madhapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Aditya nagar, new Hafeezpet, Miyapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Sai colony, old hafeczpet, Miyapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Sitara hotel, Miyapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Ambedkar nagar, Miyapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Mythri nagar, Miyapur	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Rajapushpa apartment, Narsingi	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Hallmark tranquil, Narsingi	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Anjaiah nagar, Raidurgam	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Mayuri nagar, Rc Puram	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Aparna lake breeze G block, Chandanagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Dhanamma jopidi, Mailardevpally	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Kings colonys, shastri puram, Mailardevpally	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Roshan colony, Mailardevpally	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Cheguru, Nandigama	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	New friends colony, upper pally, Rajendranagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Imad nagar ,mm pahadi, Rajendranagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Jalalbaba nagar, near ration shop, Rajendranagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	Jalalbaba nagar near nawaz rice shop, Rajendranagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
-Telangana	Hyderabad	All	P & T colony, Suncity, bandlaguda jagir, Rajendranagar	https://twitter.com/kalyan_krazy/status/1267141386396106752
 Maharashtra	Pimpri-Chinchawad	All	Kharalwadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
 Maharashtra	Pimpri-Chinchawad	All	Vijayanagar, Dighi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
 Maharashtra	Pimpri-Chinchawad	All	Indiranagar, Chinchwad	https://www.pcmcindia.gov.in/marathi/covid_containment.php
@@ -4346,101 +4070,466 @@ Haryana	Gurugram	Gurugram	Nitin Vihar	https://twitter.com/DC_Gurugram/status/126
 Haryana	Gurugram	Gurugram	Princeton Estate (In DLF Ph-5 ) Askuji Floor, West Princeton Cartan, Askuji 2nd Building	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Plik Town House, U-28 Ki Jhuggi, (DLF Ph-3)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	C-301, Lagoon Apartment	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Uttar Pradesh	Gautam Buddh Nagar	All	A AND C BLOCK SECTOR 19 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SHIV ENCLAVE KULESRA GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE SURAJPUR GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	CHI II AWHO GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	D SECTOR 78 SUNSHINE HELIOS NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	MP 3 ELDECO AMANTRA SOCIETY SECTOR 119 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	PHASE III THANA SECTOR 71 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE SUTYANA GREATER NOIDA GALI NUMBER 1	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	KALI CHARAN MANDIR KASNA GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	GALAXY NORTH AVENUE II GAUR CITY II GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SHRAMIK KUNJ SECTOR 110 NOIDA NEAR POLICE STATION	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	TOWER 11 PURVANCHAL ROYAL PARK SECTOR 137 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	TOWER T1 PANCHSHEEL HYNISH PLOT 8 SECTOR 1 GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 40 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK SAMRIDHI GRAND AVENUE GREATER NOIDA WEST	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK HIM SAGAR APARTMENT POCKET 4 GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	TOWER T NIRALA ESTATE (NEAR PATWARI VILLAGE) GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	G BLOCK ACE CITY GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	OMICRON 1 HIG APARTMENTS PLOT NUMBER 16 OMICRON GREATER	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	B BLOCK KALYAN KUNJ BAROLA SECTOR 49	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	C TOWER JALVAYU TOWERS SECTOR 47 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE FALEDA GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	KILLA COLONY JEWAR	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	CHAULASH DADRI NEAR SYNDICATE BANK	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	B TOWER BLGC SUPERB SECTOR 110 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	HABIBPUR SUTYANA NEAR KESHRAM INTERCOLLEGE	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	TOWER K AMRAPALI SILICON CITY SECTOR 76 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE BHOODA SECTOR 81 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	GAUR CITY-II AVENUE 16 GAUR CITY GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK DHAWALGIRI APARTMENT SECTOR 11 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	A I PANCHSHEEL GREEN 2 NOIDA EXTENSION	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	B BLOCK KARTIK KUNJ SECTOR 44 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	KUMARO KA MOHALLA VILLAGE KANARSI DHANKAUR	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	BADA BAZAAR VILLAGE BILASPUR GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SENIOR CITIZEN COLONY POCKET 2 PHI II GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	ESIC COLONY NOIDA SECTOR 56 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	TOWER C SUPERTECH CAPETOWN SECTOR 74 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK SECTOR 105 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	TOWER F AJNAFIA HOMES GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	MARBLE HOME APARTMENT SECTOR 61 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	K AMRAPALI SILICON SECTOR 76 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	HAWELIA HOMES GREATER NOIDA WEST	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	LOGIX BLOSSOM COUNTY SECTOR-137	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	ATS GREEN 2 SECTOR 50 TOWER NUMBER 4	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	B ASHIYANA HOMES 2 SECTOR 70 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 52 C BLOCK NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	CHICHLI POST KHASI JEWAR	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 92 B BLOCK NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SWASTHYA VIHAR GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 11 NOIDA NEAR METRO HOSPITAL	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	BLOCK W SECTOR 12 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	TOWER ALIYANDIA E GRAND OMAXE SECTOR 93 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	PARTHALA CHOWK SECTOR 122 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	Z BLOCK SECTOR 12 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	B SECTOR XUI GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SURAJBAND GALI BRAG BALAN DADRI	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	K ROYAL GARDEN ESTATE SECTOR 61 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	VIKAS ENCLAVE YUSUFPUR CHAK SAVERI GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	B ACE ASPIRE TECHZONE	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 55 C BLOCK	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	A SECTOR 55 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	LINKEN C SECTOR 94 B NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 14A NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SADARPUR GALI NUMBER 43 SECTOR 45 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 87 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	TOWER B4 ECO VILLAGE 2 SUPERTECH NOIDA EXT, GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	D BLOCK SECTOR 55 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	E BLOCK APEX ATHENA SECTOR 75 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	M BLOCK SECTOR 25 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	B BLOCK SECTOR 53 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	NAYA BANS SECTOR 15 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	B SECTOR 58 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	K ARIHANT GARDEN SECTOR 1 GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	L AMRAPALI SAFAYAR SECTOR 45 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	PLOT NUMBER B SHIV ENCLAVE VILLAGE KULESRA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	TOWER B SUNDAR APARTMENT RAVI ENCLAVE SECTOR 78 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	C RAJAT VIHAR SECTOR 62 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	B GRAND AJNARA HERITAGE SECTOR 74 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	E BLOCK SECTOR 55 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	GALAXY VEDA TECHNO ZONE	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	B BLOCK SECTOR 55 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	D BLOCK SECTOR 48 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE CHTARA GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 29 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK PURER APARMENT GALLY NO 17, SECTOR 49 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	B SECTOR 20 BASOLE TELEPHONE EXCAHNGE NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	E TOWER GAUR SPORTS WOODS MORDERN MAHGUN LANE NOIDA SECTOR 79 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	NEAR FNG ROAD SECTOR 115 SORKHA NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	D RAJAT VIHAR SECTOR 62 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK SECTOR 22 NEAR COMMUNITY CENTER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	PRATEEK LAUREL SECTOR 120 TOWER I NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	UDYOG VIHAR D 4 BLOCK SECTOR 82 NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	TOWER 18 LOTUS BOULEVARD SECTOR 100 NOIDA PATH WAY SCHOOL KA PASS	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	ACE ASPIRE TOWER B NEAR PANCH MUKHI HAUMAN MANDIR GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	C BLOCK SECTOR 108	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	PALM OLYMPIA GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	CHIPYANA BUZURG GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
-Uttar Pradesh	Gautam Buddh Nagar	All	MANDI SHYAM NAGAR, KHERLI HAFIZPUR GREATER NOIDA	https://twitter.com/_anubhavk/status/1268800569424011266/photo/1
+Andhra Pradesh	Visakhapatnam	All	Railway New Colony	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Madhavadhara	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Dandu Bazar	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Chengalrao peta	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Gopala patnam 	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Marripalem	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Sri Nagar	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	KRM colony	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Simhadri puram	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Vadlapudi	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Pitapuram colony	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Relli veedhi	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Jaalari peta	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Sai Madhav Nagar (Naidu Thota)	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Appanna Colony ( Vepa Gunta)	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Priyadarshini colony ( Gaajuwaka)	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Jagannadha Puram (Akkaya Palem)	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	SVP Colony (Kobbari Thota)	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Vepa chettu 	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Gnanapuram (VSKP Railway station)	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Gayatri Nagar (PM Palem)	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Visakhapatnam	All	Duggapuvanipalem	https://twitter.com/UttarandhraNews/status/1269097155987374080
+Andhra Pradesh	Prakasam	All	Ekalavya Nagar, Ongole	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Gopal Nagar Extension, Ongole	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	District Jail, Ongole	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Ram Nagar 11th lane, Ongole	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Satyanarayanapuram, Ongole	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Rajupalem, Kothapatnam (M)	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	R.L. Puram, Chimakurthy Mandal	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Inamanamelluru, Maddipadu Mandal	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Rajakapalem, Tangutur	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	NSP Colony, Darsi	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Kanagalavaripalem, Korisapadu (M)	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Cumbum	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Simhadri Nagar, Kandukur	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Kovur Road, Kandukur	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Karedu, Ulavapadu	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	C S Puram	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Nallagandla SC Colony, H.M. Padu(M)	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Immadicheruvu, Veligandla Mandal	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Kammapadu, Veligandla Mandal	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Ganeshunipalli, Veligandla Mandal	https://twitter.com/prakasam_police/status/1269104842045177856
+Andhra Pradesh	Prakasam	All	Rallapalli, Veligandla Mandal	https://twitter.com/prakasam_police/status/1269104842045177856
+Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE SUTYANA GREATER NOIDA GALI NUMBER 1	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	KALI CHARAN MANDIR KASNA GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	GALAXY NORTH AVENUE II GAUR CITY II GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SHRAMIK KUNJ SECTOR 110 NOIDA NEAR POLICE STATION	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	TOWER 11 PURVANCHAL ROYAL PARK SECTOR 137 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	TOWER T1 PANCHSHEEL HYNISH PLOT 8 SECTOR 1 GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 40 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK SAMRIDHI GRAND AVENUE GREATER NOIDA WEST	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK HIM SAGAR APARTMENT POCKET 4 GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	TOWER T NIRALA ESTATE (NEAR PATWARI VILLAGE) GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	G BLOCK ACE CITY GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	OMICRON 1 HIG APARTMENTS PLOT NUMBER 1B OMICRON GREATER	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	B BLOCK KALYAN KUNJ BAROLA SECTOR 49	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	C TOWER JALVAYU TOWERS SECTOR 47 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE FALEDA GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	KILLA COLONY JEWAR	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	CHAULASH DADRI NEAR SYNDICATE BANK	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	B TOWER BLGC SUPERB SECTOR 110 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	HABIBPUR SUTYANA NEAR KESHRAM INTERCOLLEGE	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	TOWER K AMRAPALI SILICON CITY SECTOR 76 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE BHOODA SECTOR 81 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	GAUR CITY-II AVENUE 16 GAUR CITY GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK DHAWALGIRI APARTMENT SECTOR 11 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A I PANCHSHEEL GREEN 2 NOIDA EXTENSION	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	B BLOCK KARTIK KUNJ SECTOR 44 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	KUMARO KA MOHALLA VILLAGE KANARSI DHANKAUR	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	BADA BAZAAR VILLAGE BILASPUR GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SENIOR CITIZEN COLONY POCKET 2 PHI II GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	ESIC COLONY NOIDA SECTOR 56 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK SECTOR 105 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	TOWER F AJNARA HOMES GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	MARBLE HOME APARTMENT SECTOR 61 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	HAWELIA HOMES GREATER NOIDA WEST	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	LOGIX BLOSSOM COUNTY SECTOR-137	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	ATS GREEN 2 SECTOR 50 TOWER NUMBER 4	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	B ASHIYANA HOMES 2 SECTOR 70 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 52 C BLOCK NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	CHICHLI POST KHASI JEWAR	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 92 B BLOCK NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SWASTHYA VIHAR GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 11 NOIDA NEAR METRO HOSPITAL	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	BLOCK W SECTOR 12 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	TOWER ALIYANDIA E GRAND OMAXE SECTOR 93 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	PARTHALA CHOWK SECTOR 122 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	Z BLOCK SECTOR 12 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	8 SECTOR XUI GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SURAJBAND GALI BAAG BALAN DADRI	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	K ROYAL GARDEN ESTATE SECTOR 61 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	VIKAS ENCLAVE YUSUFPUR CHAK SAVERI GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	B ACE ASPIRE TECHZONE	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 55 C BLOCK	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A SECTOR 55 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	LINKEN C SECTOR 94 B NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 14A NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SADARPUR GALI NUMBER 43 SECTOR 45 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 87 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	D BLOCK SECTOR 55 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	E BLOCK APEX ATHENA SECTOR 75 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	M BLOCK SECTOR 25 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	B BLOCK SECTOR 53 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	NAYA BANS SECTOR 15 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	B SECTOR 58 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	K ARIHANT GARDEN SECTOR 1 GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	L AMRAPALI SAFAYAR SECTOR 45 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	PLOT NUMBER B SHIV ENCLAVE VILLAGE KULESRA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	TOWER B SUNDAR APARTMENT RAVI ENCLAVE SECTOR 78 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	C RAJAT VIHAR SECTOR 62 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	B GRAND AJNARA HERITAGE SECTOR 74 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	E BLOCK SECTOR 55 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	GALAXY VEDA TECHNO ZONE	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	B BLOCK SECTOR 55 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	D BLOCK SECTOR 48 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE CHTARA GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 29 NO1DA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK PURER APARMENT GALLY NO 17, SECTOR 49 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	B SECTOR 20 BASOLE TELEPHONE EXCAHNGE NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	E TOWER GAUR SPORTS WOODS MORDERN MAHGUN LANE NOIDA SECTOR 79 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	NEAR FNG ROAD SECTOR 115 SORKHA NOIDA 	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	D RAJAT VIHAR SECTOR 62 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK SECTOR 22 NEAR COMMUNITY CENTER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	PRATEEK LAUREL SECTOR 120 TOWER I NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	UDYOG VIHAR D 4 BLOCK SECTOR 82 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	TOWER 18 LOTUS BOULEVARD SECTOR 100 NOIDA PATH WAY SCHOOL KA PASS	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	ACE ASPIRE TOWER B NEAR PANCH MUKHI HAUMAN MANDIR GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	C BLOCK SECTOR 108	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	PALM OLYMPIA GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	CHIPYANA BUZURG GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	MANDI SHYAM NAGAR, KHERLI HAFIZPUR GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	T BLOCK SECTOR 100 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	TOWER F ANWAR MANALICA SECTOR 107 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK SECTOR 15 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 41 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 49 HINDAN VIHAR C BLOCK	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 56 LIG PLAT G BLOCK	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE SHAHPUR SECTOR 128 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	HYDE PARK TOWER V SECTOR 78 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A AND C BLOCK SECTOR 19 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SHIV ENCLAVE KULESRA GREATER NOIDA 	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE SURAJPUR GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	CHI II AWHO GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	D SECTOR 78 SUNSHINE HELIOS NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	MP 3 ELDECO AMANTRA SOCIETY SECTOR 119 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	PHASE III THANA SECTOR 71 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	BETA 1 GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 30 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	E BLOCK SECTOR 22 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	Q BLOCK SECTOR 21 JALVAYU VIHAR NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	ASHIYANA HOMES PH 2 SECTOR 70 NOMA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	LOGIX BLOOM GREEN TOWER L SECTOR 143 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SARIYA MARKET NEAR POLICE STATION BHANGEL NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE TUGALPUR GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	B BLOCK SECTOR 36 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK AMRAPALI SAPPHIRE SECTOR 48 GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE PIYAWALI TAJPUR DADRI NEAR HANUMAN MANDIR	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 10 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 9 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	GOVT. PRIMARY SCHOOL NITHARI SECTOR 31 NORM	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE MALAKPUR GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 5 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 27 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE SALARPUR NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	D BLOCK SECTOR 56 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 46 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE CHALERA GALI NUMBER 3 SECTOR 44 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE JHUNDPURA SECTOR 11 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	HOSHIYARPUR SECTOR 51 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	C GOLF CITY SECTOR 75 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	B BLOCK SECTOR 51 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 19 B BLOCK NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SAI UPVAN NEAR VILLAGE HABAITPUR NOIDA TOWER C AND D	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	NEAR SHIV RAM SCHOOL CHHAJARSI SECTOR 63 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	NEAR GOVERNMENT SCHOOL VILLAGE BISHADA GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	GULLY 43 VILLAGE SADARPUR SECTOR 45 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A IST AVENUE GAUR CITY SECTOR 4 GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	XU III B BLOCK GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A BLOCK YAMHA VIHAR SECTOR 49 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	JALVVAYU VIHAR SECTOR 21 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SUPER DELUXE FLATS SECTOR 15A, NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	Z w AND 0 BLOCK SECTOR 12 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	BHEL COLONY SECTOR 17 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	NEAR MANAS HOSPITAL VILLAGE GIJJHOD SECTOR 53	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	LANE 2 VILLAGE MAMURA SECTOR 66 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	GUJJAR COLONY VILLAGE KASNA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 8 NOIDA BASS BALI MARKET	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	NEAR CHOUDHARY HOSPITAL VILLAGE NANGLA CHARANDAS PHASE II NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	NEAR YADAV HOME BIRPAL COLONY SARFABAD SECTOR 73 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	C BLOCK ECO VILLAGE 1 SUPERTFCH GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	TOWER B SAYA ZION GAUR CITY 1 SECTOR 4 GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	VILLAGE RAMPUR BANGAR JEWAR	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	D SECTOR 50 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	F-BLOCK SECTOR 40 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	F BLOCK SECTOR 36 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	F BLOCK DELTA-I GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	C BLOCK NEAR ESIC SECTOR 22 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	A SECTOR 56 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	TOWER 30 JP KOSMOS SECTOR 134 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	B AND D TOWER ARIHANT AMBER SECTOR 1 GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	SECTOR 37 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	CHAURA VILLAGE SECTOR 22 NEAR R D PUBLIC SCHOOL	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	TOWER B4 ECO VILLAGE 2 SUPERTECH NOIDA EXT, GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	GULI NO 10 SECTOR 45 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	BLOCK SECTOR 20 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	MOHALLA HOLI CHOWK JEWAR GREATER NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Uttar Pradesh	Gautam Buddh Nagar	All	TOWER C SUPERTECH CAPETOWN SECTOR 74 NOIDA	https://www.india.com/uttar-pradesh/coronavirus-in-noida-number-of-containment-zones-goes-up-to-164-check-full-list-4050077/
+Maharashtra 	Nashik	All	Samta Nagar 2 Agartakli, Nashik	https://twitter.com/my_nmc/status/1268937121642905600
+Maharashtra 	Nashik	All	Ambedkar Chowk, Rajwada, Satpur	https://twitter.com/my_nmc/status/1268937121642905600
+Maharashtra 	Nashik	All	Sanjeri, Aksa Colony Khode nagar	https://twitter.com/my_nmc/status/1268937121642905600
+Maharashtra 	Nashik	All	Vijay Pride, Ramkrishna Nagar, Makhmalabad, Nashik 	https://twitter.com/my_nmc/status/1268937121642905600
+Maharashtra 	Nashik	All	Anmol Nayantara City-2, Karmyogi nagar, Nashik	https://twitter.com/my_nmc/status/1268937121642905600
+Maharashtra 	Nashik	All	Mynest Service appt., Tidke Colony	https://twitter.com/my_nmc/status/1268937121642905600
+Telangana	Hyderabad	All	RAMANTHAPUR GANESH NAGAR, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	KAPRA KAMALA NAGAR, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	BHAVANI NAGAR, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	ANNAPURNA COLONY NACHARAM, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	BABA NAGAR NACHARAM, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	RAGHAVENDRA COLONY NACHARAM, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	NEW KRISHNA NAGAR MALLAPUR, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MALLAPUR, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MALLAPUR OLD VILLAGE, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	HABSIGUDA STREET NO 8, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	VENKAT REDDY NAGAR, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	RAJENDRA NAGAR, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	CHILKA NAGAR, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PRAGATHI NAGAR, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PS COLONY, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	INDRA NAGAR RAMNTHAPUR, UPPAL, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	NTR NAGAR, SAROORNAGAR, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	RK PURAM ROAD NO 1, SAROORNAGAR, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SATYANARAYANA PURAM CHAITNAYA PURI, SAROORNAGAR, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	NEW GADDI ANARAM, SAROORNAGAR, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	NGO'S COLONY MEESEVA OPP 6 HOUSES ONLY, HYATHNAGAR, LB NAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SHAHIL APARPETMENT OLD MALAKPET, MALAKPET, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	RAIN BAZAR 1.SRT COLONY 2.LOBBAI HOTEL YAKATPURA RAILWAY STATION, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	DABIRPURA BB KALWA AREA, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	KURMA GUDA 3 TEMPLE AREA, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MADANAPET NALLAPOCHAMA TEMPLE, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	WEST PRASANTH NAGAR, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	EAST PRASANTH NAGAR, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	AKBAR BAGH PALTON, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SALIM NAGAR, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	AFZAL NAGAR, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	RASOOLPURA, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	CHANCHALGUDA, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	EID BAZAR, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	BAGA SHERANA, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PRESS COLONY, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	REDDY BASTHI SAIDABAD, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	KURMAGUDA SAI LAL THOTA, SANTOSH NAGAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SHIVAGANGA NAGAR TWO HOUSES, CHANDRAYANAGUTTA, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	LAKSHMI NAGAR, CHANDRAYANAGUTTA, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MUSABOWLI, CHARMINAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	AMAN NAGAR, CHARMINAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	KOTLA, CHARMINAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SULTHANSHI, CHARMINAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	ALIZA KOTLA, CHARMINAR, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	ALIBAGH, FALAKNAMA, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	JAHANUMA, FALAKNAMA, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	KONDA REDDYGUDA, FALAKNAMA, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	KISHAN BAGH, FALAKNAMA, CHARMINAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SBI COLONY MEHIDIPATNAM, MEHIDIPATNAM, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	JEBBA BHAG, MEHIDIPATNAM, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SITARAM BHAG RAM LELLA GROUND, MEHIDIPATNAM, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MURAD NAGAR KUNTA, MEHIDIPATNAM, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	KHISHAN NAGAR, MEHIDIPATNAM, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	DURGANAGAR, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	VENKATESWARA NAGAR, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SRI SAI NAGAR, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SANJAY NAGAR, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	INDRA NAGAR, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	KARWAN SABJI MANDI, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	LN NAGAR, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	DARIYA BHAG, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SATYANARAYANA NAGAR, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SULEMANJA MAJBARA, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	BHARATH NAGAR, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	BHIM NAGAR, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	RANGA NATH NAGAR, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PANNI PUR, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	KESARI HANUMAN TEMPLE LANE, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SAI DURGA NAGAR, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PANCHABAI HALVA, KARWAN AND ZIAGUDA DIVISIONS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SUBASH NAGAR, KHIRATHABAD, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	BJR NAGAR KHIRATHABAD, KHIRATHABAD, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	GANDHI NAGAR 2 HOUSES, KHIRATHABAD, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PREM NAGAR 1 HOUSE, KHIRATHABAD, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	ASHOK COLONY, KHIRATHABAD, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PREM NAGAR ERRAGADA, JUBLIEE HILLS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SRI NAGAR COLONY ENGINEERS COLONY, JUBLIEE HILLS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	KALLU COMPUND COLONY RYMATH NAGAR, JUBLIEE HILLS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	VIDEO GALLI RYMATH NAGAR, JUBLIEE HILLS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	VENKATAGIRI, JUBLIEE HILLS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	BANJARA NAGAR BORABANDA, JUBLIEE HILLS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MLA COLONY RAOD NO 12, JUBLIEE HILLS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	OM NAGAR SPR HILLS, JUBLIEE HILLS, KHAIRTHABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	LALAGUDA, SECUNDRABAD, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MAHEDNRA HILLS, SECUNDRABAD, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	TUKARAMGATE, SECUNDRABAD, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MEDI BHAVI SITAPHAL MANDI, SECUNDRABAD, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	DADAR COMPOUND, SECUNDRABAD, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	CHILAKALAGUDA DUDABHAI, SECUNDRABAD, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PATAN BASTHI JARA JARA HOTEL, MUSHEERABAD, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	BHOLAKPUR BADI MASID, MUSHEERABAD, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	BHOLAKPUR BANGLADESH MARKET, MUSHEERABAD, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	RAM NAGAR RAM MANDIR, MUSHEERABAD, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	EWS QUARTERS ,BHAGLINGAMPALLI, MUSHEERABAD, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MUSHEERABAD RAJA DELUXE ONE HOUSE, MUSHEERABAD, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	RAMNAGAR NEDAR BASTHI, MUSHEERABAD, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	KACHEGUDA KUDBIGUDA, AMBERPET, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	CHAPPAL BAZAR KACHEGUDA, AMBERPET, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	NIMBOLIADDA MOTHI MARKET KACHEGUDA, AMBERPET, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	KANGAN NAGAR MUNCIPAL QUARTERS GOLNAKA, AMBERPET, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SUNDUR NAGAR GOLNAKA, AMBERPET, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	NEW NALLAKUNTA, AMBERPET, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MARUTHI NAGAR GOLNAKA, AMBERPET, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PATEL NAGAR, AMBERPET, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	CHENNA REDDY NAGAR, AMBERPET, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	NEW INDRA NAGAR GOLNAKA MARKET, AMBERPET, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	GOLNAKA CHURCH LINE, AMBERPET, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MUTYAL BHAG HYDERGUDA, AMBERPET, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	GANDHI KUTIR NARAYANA GUDA, AMBERPET, SECUNDRABAD	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	NEREDMET SHIVA NAGAR, MALKAJIGIRI, MALKAJIGIRI	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MALIKARJUNA NAGAR, MALKAJIGIRI, MALKAJIGIRI	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	HANUMANPET, MALKAJIGIRI, MALKAJIGIRI	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	CEIFEL COLONY, MALKAJIGIRI, MALKAJIGIRI	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	OLD SAFILGUDA, MALKAJIGIRI, MALKAJIGIRI	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	DURGA NAGAR, MALKAJIGIRI, MALKAJIGIRI	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	VASANTHAPURI COLONY, MALKAJIGIRI, MALKAJIGIRI	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	YADAV BHASTHI MOOSAPET, MOOSAPET, KUKATPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	RANAPRATAP NAGAR ALLAPUR 3 HOUSES, MOOSAPET, KUKATPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SARDAR NAGAR, MOOSAPET, KUKATPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	RAINBOW VISTA APARTMENT 13TH FLOOR, MOOSAPET, KUKATPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	POWER NAGAR MOOSAPET, MOOSAPET, KUKATPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	ANJANEYA NAGAR MOOSAPET, MOOSAPET, KUKATPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	ASHMAT PET OLD BOWENPALLY, MOOSAPET, KUKATPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	VALABH NAGAR WARD OFFICE BACKSIDE, MOOSAPET, KUKATPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	HANUMAN NAGAR, MOOSAPET, KUKATPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	VIJAY NAGAR COLONY ONE APARTMET, MOOSAPET, KUKATPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	CHINTALMET, RAJENDERANAGAR, RAJENDERANAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	HYDERGUDA, RAJENDERANAGAR, RAJENDERANAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SULEMAN NAGAR, RAJENDERANAGAR, RAJENDERANAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	JALALBABA NAGAR, RAJENDERANAGAR, RAJENDERANAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SHASTRIPURAM, RAJENDERANAGAR, RAJENDERANAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	 ALIJAPUR, MANIKONDA, RAJENDERANAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MANIKONDA MARICHETTU CIRCLE AREA, MANIKONDA, RAJENDERANAGAR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MATRUSRI NAGAR MIYAPUR, CHANDANAGAR, SERILNGAMPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PN NAGAR MIYAPUR ONE HOUSE, CHANDANAGAR, SERILNGAMPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	LUMUNI SLN SPRINGS VILLA ONE HOUSE, CHANDANAGAR, SERILNGAMPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	RTC COLONY CHANDA NAGAR ONE HOUSE, CHANDANAGAR, SERILNGAMPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	RAGHAVENDRA COLONY, SERILINGAMPALLY, SERILNGAMPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	WHISPER VALLEY, SERILINGAMPALLY, SERILNGAMPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	APARANA VIHANGA, SERILINGAMPALLY, SERILNGAMPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SRI RAM NAGAR, SERILINGAMPALLY, SERILNGAMPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PAPIREDDY COLONY (ONLY TWO HOUSES), SERILINGAMPALLY, SERILNGAMPALLY	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PAPIREDDY NAGAR JAGADGIRIGUTTA, QUTUBULLAPUR, QUTUBULLAPUR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MAGDUL NAGAR JAGADGIRIGUTTA, QUTUBULLAPUR, QUTUBULLAPUR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SHIVA NAGAR ALLWYN COLONY, QUTUBULLAPUR, QUTUBULLAPUR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	RANGAREDDY NAGAR, QUTUBULLAPUR, QUTUBULLAPUR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	VANI NAGAR (QUTBULLAPUR), QUTUBULLAPUR, QUTUBULLAPUR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	LENIN NAGAR JAGADGIRIGUTTA, QUTUBULLAPUR, QUTUBULLAPUR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SR NAYAK NAGAR (APUROOPA COLONY), QUTUBULLAPUR, QUTUBULLAPUR	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PAHADISHARIF, JALPALLY MUNCIPALITY, MAHESWARAM	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	WADI-E -SALLEHEEM JALLPALLY MUNCIPALITY, JALPALLY MUNCIPALITY, MAHESWARAM	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	ROSHAN COLONY JALLPALLY MUNCIPALITY, JALPALLY MUNCIPALITY, MAHESWARAM	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	WADIHUDA JALLPALLY MUNCIPALITY, JALPALLY MUNCIPALITY, MAHESWARAM	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SAHIL NAGAR JALLPALLY MUNCIPALITY, JALPALLY MUNCIPALITY, MAHESWARAM	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	HARSHAGUDA, JALPALLY MUNCIPALITY, MAHESWARAM	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	SAI BALAJI HOMES BADANGPET, BADANGPET, MAHESWARAM	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	MEERPET LENIN NAGAR, BADANGPET, MAHESWARAM	https://telugu.samayam.com/photo/76213059.cms
+Telangana	Hyderabad	All	PALATINUM CITY NADARGUL, BADANGPET, MAHESWARAM	https://telugu.samayam.com/photo/76213059.cms
+Karnataka	Udupi	All	Tenkanidiyoor/Kelarkalabettu	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_3_Notification_2020_05_26__13_49_10.pdf
+Karnataka	Udupi	All	Vaddarse Village	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_4_Revised%20Notification_2020_06_05__15_41_33.PDF
+Karnataka	Udupi	All	Karkala Town	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_5_Notification_2020_05_26__13_50_25.pdf
+Karnataka	Udupi	All	Moodabettu Village (Kapu Tq)	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_7_Revised%20Notification_2020_06_05__15_42_04.PDF
+Karnataka	Udupi	All	Heroor Village (Brahmavara Tq)	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_8_Notification_2020_05_26__17_47_12.pdf
+Karnataka	Udupi	All	Kotatattu Village (Brahmavara Tq)	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_9_Notification_2020_06_03__19_45_04.pdf
+Karnataka	Udupi	All	Vandaru Village (Brahmavara Tq)	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_10_Notification_2020_06_03__19_54_28.pdf
+Karnataka	Udupi	All	Basrur Village ( Kundapura Tq)	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_11_Notification_2020_06_03__19_57_17.pdf
+Karnataka	Udupi	All	Ulluru Village (Byndoor Tq)	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_12_Notification%2012_2020_06_03__20_02_25.pdf
+Karnataka	Udupi	All	Kodi Village ( Kundapura TMC)	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_13_Notification%2013_2020_06_03__20_03_01.pdf
+Karnataka	Udupi	All	Vader hobli ( Kundapura TMC)	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_14_Notification%2014_2020_06_03__20_03_44.pdf
+Karnataka	Udupi	All	Gujjadi Village (Kundapura Tq)	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_15_Notification%2015_2020_06_03__20_04_07.pdf
+Karnataka	Udupi	All	Karkunje Village (Kundapura Tq)	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_16_Notification%2016_2020_06_03__20_04_39.pdf
+Karnataka	Udupi	All	Halnad Village (Kundapura Tq)	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_18_Notification%2018_2020_06_03__20_05_30.pdf
+Karnataka	Udupi	All	Badakere Village (Byndoor Tq)	http://kgis.ksrsac.in/CZDocuments//Notifications//16_1_19_Notification%2019_2020_06_03__20_05_58.pdf
+Karnataka	Tumkur	All	Ward-35, Khadar Nagar	http://kgis.ksrsac.in/CZDocuments//Notifications//18_1_5_Khadar%20Nagar.pdf
+Karnataka	Tumkur	All	Mayammanapalya Village	http://kgis.ksrsac.in/CZDocuments//Notifications//18_1_5_Karnakuppe.pdf
+Karnataka	Tumkur	All	Ward-12	http://kgis.ksrsac.in/CZDocuments//Notifications//18_1_7_Zone%20No.7.pdf
+Karnataka	Tumkur	All	Ward-22 & ward-23	http://kgis.ksrsac.in/CZDocuments//Notifications//18_1_8_P-1971_2020_05_25__12_18_18.pdf
+Karnataka	Tumkur	All	Mavinakunte Village, Bellavi Hobali	http://kgis.ksrsac.in/CZDocuments//Notifications//18_1_9_P-2135_2020_05_26__17_29_34.pdf
+Karnataka	Tumkur	All	Marlurdinaaa	http://kgis.ksrsac.in/CZDocuments//Notifications//18_1_10_zone10_2020_06_01__11_45_23.pdf
+Karnataka 	Bengaluru Rural	All	Veerasagara, Dobbespete Hobli, Nelamangala Taluk	http://kgis.ksrsac.in/CZDocuments//Notifications//21_1_3_p.no%201686_Veerasagara_CZ_Notification_2020_05_25__15_00_23.pdf
+Karnataka 	Bengaluru Rural	All	Chikka Korati, Nandagudi Hobli, Hoskote Taluk	http://kgis.ksrsac.in/CZDocuments//Notifications//21_1_4_p.no.1724_Chikka_Korati_CZ_Notification_2020_05_25__15_01_05.pdf
+Karnataka 	Bengaluru Rural	All	Hanumanthaiahyana Palya, Sasalu Hobli, Doddaballapura	http://kgis.ksrsac.in/CZDocuments//Notifications//21_1_5_CZ_5_Notification_2020_05_31__17_19_56.pdf
+Karnataka 	Bengaluru Rural	All	Ilathore, Kundana Hobli, Devanahalli	http://kgis.ksrsac.in/CZDocuments//Notifications//21_1_6_CZ_6_Notification_2020_05_31__17_20_38.pdf
+Karnataka 	Bengaluru Rural	All	Banasavadi, Kasaba Hobli, Nelamangala Taluk	http://kgis.ksrsac.in/CZDocuments//Notifications//21_1_7_CZ_7_P_no_2822_Banasavadi_2020_06_01__16_06_02.pdf
+Karnataka 	Yadgir	All	Kallur Rural Ward 	http://kgis.ksrsac.in/CZDocuments//Notifications//01_1_13_Ramdurga_kallur_13.pdf
+Karnataka 	Yadgir	All	Asar Mohalla Shorapur Taluka	https://yadgir.nic.in/en/covid-19/
+Karnataka 	Yadgir	All	KanneKollur Shahapur Taluka	https://yadgir.nic.in/en/covid-19/
+Karnataka 	Yadgir	All	Chandapur Kelagina Tanda Shahapur Taluka	https://yadgir.nic.in/en/covid-19/
+Karnataka 	Yadgir	All	Yadgir Ward no 20 Dukanwadi Yadgir Taluka	https://yadgir.nic.in/en/covid-19/
+Karnataka 	Yadgir	All	Saidapur Village Yadgir Taluka	https://yadgir.nic.in/en/covid-19/
+Karnataka 	Yadgir	All	Ukkinal sanna Tanda Shahapur Taluka	https://yadgir.nic.in/en/covid-19/
+Karnataka 	Yadgir	All	Doregudda Tanda Shahapur Taluka	https://yadgir.nic.in/en/covid-19/
+Uttar Pradesh	Agra	All	शास्त्री नगर चमरौली बरौली अहीर	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	गंगा नर्सिंग होम शमशाबाद	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	ग्राम बरारा पुलिस स्टेशन मलपुरा आगरा	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	कागारौल ब्लॉक खेरागढ़	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	मलपुरा	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	गढ़ी हरदयाल ब्लॉक अकोला	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	सौरा ब्लॉक सैंया	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	चमरौली नगरिया शमशाबाद	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	कोठी मोहल्ला एत्मादपुर	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	अमरपुरा-विपरावली ब्लॉक पिनाहट	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	ग्राम ऊँचा ब्लॉक खन्दौली	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	कस्बा खेरागढ सैंया	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	नैनाना ब्राहमण बरौली अहीर	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	मुरली विहार देवरेठा कस्बा बिचपुरी	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	सेखान मोहल्ला अछनेरा	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	कौलक्खा जसवन्त एस्टेट बरौली अहीर	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	गाँधी नगर 	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	कमला नगर	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	नगला पदी	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	एस0एन0एम0०सी0 	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	गोकुलपुरा किववई पार्क	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	रामनगर, केदार नगर, पृथ्वीनाथ फाटक, जोगीपाड़ा	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	शाहगंज	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	जगदीशपुरा	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	मोतीकुंज मदिया कटरा, लोहामंडी	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	अयोध्याकुंज, अर्जुन नगर खेरिया मोड	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	नगला फकीरचन्द ईदगाह बस स्टैण्ड के पास	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	बालूगंज	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	ट्रांस यमुना, रामबाग, सीतानगर, गोकुल नगर नरायच	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	नुनिहाई जमुनपारा	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	सेवला जाट, एच0पी० पेट्रोलियम ग्वालियर रोड	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	नगला परसोती देवरी रोड	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	मधु नगर, ग्वालियर रोड	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	शिव नगर, मास्टर प्लान रोड खन्‍्दारी	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	बल्केश्वर 	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	मोतिया की बगीची जीवनी मंडी	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	राधाकृष्ण बिहार उमाकृज कावेरी कूटुम्ब के पीछे सिकन्दरा	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	गोबर चौकी ताजगंज 	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	बिल्लोचपुरा, मुरलीनगर, ताजनगरी-ताजगंज	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	सदर भट्टी	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	Topkhana Nai ki Mandi	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	आवास विकास हरीपर्वत पश्चिमी	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	पालीवाल पार्क हरीपर्वत	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	बोदला सिकन्दरा	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	104 जी-12 जैपुरिया कॉलोनी, ताजगंज 	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	निर्भय नगर गैलाना	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	नई आबादी खन्‍्दारी के पास केन्द्रीय हिन्दी संस्थान नगला बूढी	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	शास्त्रीपुरम सिकन्दरा	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	गोपालपुरा ग्वालियर रोड	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	लोकन्द्र पुरी गढ़ी भदौरिया	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	सुंदरपाड़ा नार्थ नगर	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	ओम नगर नगला बूढ़ी	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	ईडब्लूएस-14 गुरू तेगबहादुर कॉलोनी	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	प्रकाशपुरम टेढ़ी बगिया	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	नगला बुद्धा धनौली खेरिया मोड़	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	12 बीघा श्रवस्त नरीपुरा	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
+Uttar Pradesh	Agra	All	सीता नगर रामबाग	https://twitter.com/OfficeOfDMAgra/status/1268952198265921536/photo/1
