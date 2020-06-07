@@ -1999,32 +1999,9 @@ Odisha 	Bhadrak	All	Mandalpada UPS, Basudev Block	https://cdn.s3waas.gov.in/s385
 Odisha 	Bhadrak	All	Padhuan UP School, Basudevpur Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
 Odisha 	Bhadrak	All	Jharadeswara High School, Dhamnagar Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
 Odisha 	Bhadrak	All	Ghatapur High School, Chandabali Block	https://cdn.s3waas.gov.in/s385422afb467e9456013a2a51d4dff702/uploads/2020/05/2020051979.pdf
-Karnataka	Bengaluru Urban	All	Lakkasandra, Ward 146, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Vammarpet, Ward 115, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Thanisandra, Ward 06, Yelahanka	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Nagavara, Ward 23, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Jnanabharathinagar, Ward 129, Raja Rajeshwari Nargar	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Hoodi, Ward 54, Mahadevpura	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Mangammanapalya, Ward 190, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Herohalli, Ward 72, Raja Rajeshwari Nargar	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	HBR Layout, Ward 24, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Malleshwaram, Ward 45, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	BTM Layout, Ward 176, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Shivajinagar, Ward 92, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Begur, Ward 192, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Marathahalli, Ward 86, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Padarayanapura, Ward 135, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Jagajeevanram Nagar, Ward 136, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Assam	Cachar	All	Sukanta Lane, Tarapur, Cachar Assam	https://twitter.com/SilcharToday/status/1264240740940554241
 Assam	Cachar	All	Badripur, Kashipur Pt-IV, Cachar	https://twitter.com/SilcharToday/status/1264240740940554241
 Assam	Cachar	All	Area surrounding Don Bosco School, Ramnagar, Silchar	https://twitter.com/SilcharToday/status/1264240740940554241
-Karnataka	Bengaluru Urban	All	Marappana Palya, Ward 44, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	S.K. Garden, Ward 61, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Puttenahalli, Ward 187, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Hagadur, Ward-84, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Varthur, Ward-149, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Ramamurthy Nagar, Ward-26, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
-Karnataka	Bengaluru Urban	All	Agrahara Dasarahalli, Ward-105, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1849655208503068/1849654818503107/?type=3&theater
 Jammu & Kashmir	Srinagar	All	Eidgah	
 Bihar	Patna	All	इंद्रलोक नगर, बाईपास, पटना सिटी	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
 Bihar	Patna	All	महाराजगंज, राजपूताना गली पटना सिटी	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
@@ -2116,13 +2093,6 @@ Uttar Pradesh	Ghaziabad	All	Sec 9 Vinayak Apartment Vashundhra	https://twitter.c
 Uttar Pradesh	Ghaziabad	All	Lal Mandir Wali Gali Param Hans Vihar Loni	https://twitter.com/DigestNoida/status/1257370134186012672
 Uttar Pradesh	Ghaziabad	All	B 3/1104 Krishna Apra garden Indirapuram	https://twitter.com/DigestNoida/status/1257370134186012672
 Uttar Pradesh	Ghaziabad	All	11E 150 Nehru Nagar Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Karnataka	Bengaluru Urban	All	Bommanahalli, Ward-175 	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
-Karnataka	Bengaluru Urban	All	HSR Layout, Ward-174, Bommanahalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
-Karnataka	Bengaluru Urban	All	Kadugodi, Ward-83, Mahadevapura 	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
-Karnataka	Bengaluru Urban	All	Agaram, Ward-114, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
-Karnataka	Bengaluru Urban	All	Siddapura, Ward-144, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
-Karnataka	Bengaluru Urban	All	Hosahalli, Ward-123, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
-Karnataka	Bengaluru Urban	All	Chokkasandra, Ward-39, Darasahalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1860573184077937/1860572824077973
 Assam	Guwahati	All	Ajanpir Path, Japorigog area	https://twitter.com/time8news/status/1267029897769172995
 Assam	Guwahati	All	Borbari area	https://twitter.com/time8news/status/1267029897769172995
 Tamil Nadu	Ariyalur	All	Poyyathanallur	https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/New-Doc-2020-05-30-18.20.54_1-merged-3-merged.pdf
@@ -2907,9 +2877,6 @@ Maharashtra 	Palghar	Vasai-Virar	Prabhag- B, Ward- 39 Pragati nagar, basera gard
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- B, Ward- 52 Shanti Apt & kaustub Apt, central park, nallasopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- C, Ward- 19 Vartak heights , phool pada road, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- D, Ward- 66 Gass gav,sopara gaon,nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
-Karnataka	Bengaluru Urban	All	Jayamahal, Ward-63, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
-Karnataka	Bengaluru Urban	All	Kempegowda, Ward-01, Yelahanka 	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
-Karnataka	Bengaluru Urban	All	Chalavadipalya, Ward-138, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1861474473987808/1861474443987811
 Gujarat 	Ahmedabad	All	BEHRAMPURA; Babunagar	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
 Gujarat 	Ahmedabad	All	Vatva; Nilgiri Society	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
 Gujarat 	Ahmedabad	All	Indrapuri; Christ Folk Society	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
@@ -2956,11 +2923,6 @@ Gujarat 	Ahmedabad	All	NARANPURA; NIRMAL APPARTMENT, NEAR JAY MANGAL BRTS	https:
 Gujarat 	Ahmedabad	All	PALDI; AMBEDKAR COLONY	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
 Gujarat 	Ahmedabad	All	MAKTAMPURA; TAVAKAL VILLA,	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
 Gujarat 	Ahmedabad	All	SARKHEJ; SHREE NANDNAGAR PART 3	https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114#divClusterArea
-Karnataka	Bengaluru Urban	All	Subhash Nagar, Ward-95, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	Subramanya Nagar, Ward-66, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	Azadnagar, Ward-141, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	Nayandahalli, Ward-131, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	Rayapuram, Ward-137, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
 Maharashtra	Pune	All	 Mangalwar Peth, Juna Bazaar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
 Maharashtra	Pune	All	 Parvatidarshan area 1	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
 Maharashtra	Pune	All	 Parvati, Dandekar Pool Slum	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
@@ -3346,7 +3308,6 @@ Maharashtra 	Nashik	All	Rishiraj Presidency, D'suza Colony	https://twitter.com/m
 Maharashtra 	Nashik	All	Madhuban colony, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
 Maharashtra 	Nashik	All	Kalekar Chawl, Jui Nagar, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
 Maharashtra 	Nashik	All	Shivshakti Nagar, Trimurti Chowk, Nashik	https://twitter.com/my_nmc/status/1267826940821422082/photo/4
-Karnataka	Bengaluru Urban	All	Visveswarapuram, Ward-143, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
 Gujarat	Gandhinagar	Dehgam	Lavad Farm	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
 Gujarat	Gandhinagar	Gandhinagar	Khoraj (Hudko Area)	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
 Gujarat	Gandhinagar	Gandhinagar	Shukan Silver Society-Kudasan	https://gandhinagar.gujarat.gov.in/assets/downloads/noti_02062020.pdf
@@ -4190,58 +4151,6 @@ Karnataka	Dakshina Kannada	All	Jeppu Patna, Jeppinamogaru Village, Mangaluru Tal
 Karnataka	Dakshina Kannada	All	Gudde Kopla, Idya Village, Mangaluru Taluk	http://kgis.ksrsac.in/CZDocuments//Notifications//24_1_14_P_1009_NOtifications_2020_05_24__10_57_14.pdf
 Karnataka	Dakshina Kannada	All	Specific area of Pilar, Someshwar Village, Magaluru Taluk	http://kgis.ksrsac.in/CZDocuments//Notifications//24_1_13_P_947_Notifications_2020_05_24__10_56_29.pdf
 Karnataka	Dakshina Kannada	All	Specific area of B-Kasba Village, Bantwal Taluk	http://kgis.ksrsac.in/CZDocuments//Notifications//24_1_8_CZ8%20NOTIFICATION_2020_05_24__16_15_30.pdf
-Karnataka	Bengaluru Urban	All	Arakere, Ward-193, Bommanahalli (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1866218930180029/1866218330180089/?type=3&theater
-Karnataka	Bengaluru Urban	All	Bellanduru, Ward-150, Mahadevapura (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1866218930180029/1866218330180089/?type=3&theater
-Karnataka	Bengaluru Urban	All	Doddanekundi, Ward-85, Mahadevapura (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1866218930180029/1866218330180089/?type=3&theater
-Karnataka	Bengaluru Urban	All	Yelahanka New Town, Ward-04, Yelahanka (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1866218930180029/1866218330180089/?type=3&theater
-Karnataka	Bengaluru Urban	All	Doddabammasandra, Ward-10, Yelahanka (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1866218930180029/1866218330180089/?type=3&theater
-Karnataka	Bengaluru Urban	All	Kotigepalya, Ward-73, Raja Rajeshwari Nargar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1866218930180029/1866218330180089/?type=3&theater
-Uttarakhand	Dehradun	All	Guru Road, Patel Nagar, Dehradun	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Bairaj Colony, Sinchai Vibhag, Rishikesh	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	EWS Block, MDDA Colony, ISBT Dehradun	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	PremBatta Gali, Santowali Ghati Dehradun	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	D-Block, Sichai Vibhag Pariyojna Khand, Nagar Nigam Rishikesh	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Dandipura Colony, Dehradun	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Racecourse Dehradun	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Adarsh Nagar, Lane No. 9, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Gali No. 34, Shivaji Nagar, Rishikesh	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Bees Bigha, Rishikesh, Dehradun	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ward No. 13, Gram line JeevanGarh, Vikasnagar	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ward No. 19, Herbertpur, Vikasnagar	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Gram Fatehpur Tanda, Doiwala	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Haripurkala, Basti Ward No 2, Motichur Line	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Circular Road, Dalanwala	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Om Sarthak Apartment, Sewlakala, Dehradun	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Brahmapuri, Patelnagar	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Kalinga Colony, Araghar	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Basant Vihar, Phase 2, Dehradun	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Navin Mandi, Niranjanpur, Dehradun	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Railway road, Rishikesh	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Vill. Gadi Maychak, Dehradun	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Harshrinath Gali, Khudbuda Mohalla	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Khata Kheri, Bhagwanpur	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Sati Mohalla, ward no.34, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Matawala Mohalla, Ward no.8, Nagar Panchayat Londaura	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward no.12, Mohd pur, Mohan pura, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Munda Khera Kalan, Laksar	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Dargapur, Laksar	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Adarsh Nagar, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Dabki, Laksar	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Village- Dadupur, Govindpur, Haridwar	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Hazrat Bilal Mohalla, Ward No. 6, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ambedkar Colony, Ward No. 9, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Green Park Colony, Roorkee	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vaishnavi Apartment, Kankhal	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Jaswinder Enclave, Bhagirathi, Ward No.1, Haridwar	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vill. Alawalpur, Laksar	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Danori, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward No 5, PWD Colony, Khanjarpur Road, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vill. Mohitpur, Tehsil Bhagwanpur	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Shivalik Nagar, Haridwar	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Pauri	All	Vill. Pipili, Block Pabau, Pauri	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Pauri	All	Gram Satpali patti, Chaubattakhal, Pauri	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Vill. Bhati, Magadhar, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Vill. Lamnidhar, Tehsil Jakhanidhar	https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf
 Delhi	Central	All	Sadar Bazaar, Central District.	https://delhifightscorona.in/containment-zones-operation-shield/
 Delhi	Central	All	Chandni Mahal, Central District.	https://delhifightscorona.in/containment-zones-operation-shield/
 Delhi	Central	All	NabiKarim, Central District.	https://delhifightscorona.in/containment-zones-operation-shield/
@@ -4340,7 +4249,6 @@ Delhi	South	All	Maa Durga Apartments, Ward No. 3, Mehrauli, New Delhi	https://de
 Delhi	South	All	Entire Lane From H.No. J-3/40 Including J-3/43 and J-4/77C Upto J- 4/80C of Khirki Extension, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
 Delhi	South	All	H.No. 15/80 to H.No. 15/100 Dakshinpuri	https://delhifightscorona.in/containment-zones-operation-shield/
 Delhi	South	All	H.No. G-70A, Phase-VI, Aya Nagar, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
-Delhi	South- East	All	Markaz Masjid and Nizamuddin Basti	https://delhifightscorona.in/containment-zones-operation-shield/
 Delhi	South- East	All	Area of Street/Gali No. 18 to 22 of Zakir Nagar and nearby area of Abu Bakar Masjid of Zakir Nagar ( Core) rest of Zakir Nagar as Buffer Zone	https://delhifightscorona.in/containment-zones-operation-shield/
 Delhi	South- East	All	H. No. 811 to 829 and 842 to 835 - Khadda Colony, Jaitpur, Extension , Part-II, Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
 Delhi	South- East	All	H. No. 1144 to 1134 and 618 to 623 - Khadda Colony, Jaitpur, Extension , Part-II, New Delhi	https://delhifightscorona.in/containment-zones-operation-shield/
@@ -4546,8 +4454,6 @@ Kerala 	Palakkad	All	Wards - 7; Pookkottukavu	https://twitter.com/BreakingViews4
 Kerala 	Palakkad	All	Wards - 8; Thenkara	https://twitter.com/BreakingViews4u/status/1269255671473569794
 Kerala 	Palakkad	All	Wards - 11, 12; Pirayiri	https://twitter.com/BreakingViews4u/status/1269255671473569794
 Kerala 	Palakkad	All	Wards - 4; Kollengode	https://twitter.com/BreakingViews4u/status/1269255671473569794
-Kerala 	Kollam	All	Neendakara Harbour; Neendakara	https://twitter.com/BreakingViews4u/status/1269255671473569794
-Kerala 	Kozhikode	All	All Wards; Olavanna	https://twitter.com/BreakingViews4u/status/1269255671473569794
 Madhya Pradesh	Bhopal	All	Jahangirabad	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
 Madhya Pradesh	Bhopal	All	Aishbagh	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
 Madhya Pradesh	Bhopal	All	Mangalwara	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
@@ -4582,10 +4488,116 @@ Madhya Pradesh	Bhopal	All	Ratibad	https://cdn.s3waas.gov.in/s337a749d808e46495a8
 Madhya Pradesh	Bhopal	All	Bajariya	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
 Madhya Pradesh	Bhopal	All	682 गांधी नगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
 Madhya Pradesh	Bhopal	All	बी 509 हाउसिंग बोर्ड कालोनी एम.आई.जी बांगला करोंद, निशातपुरा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
-Madhya Pradesh	Bhopal	All	कमला नगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
 Madhya Pradesh	Bhopal	All	मकान नं. एच 8/87 25 बटालियन भोपाल, कमला नगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
 Madhya Pradesh	Bhopal	All	बेरिक न. 0525 बटालियन भोपाल. कमला नगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
 Madhya Pradesh	Bhopal	All	मकान नं. 1788 मछली मार्केट, बैरागढ़ (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
 Madhya Pradesh	Bhopal	All	मकान नं. 415 सेक्टर 03 शक्ती नगर, गोविन्दपुरा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
 Madhya Pradesh	Bhopal	All	एफ 2/21 विनायक होम्स अशोका गार्डन (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
 Madhya Pradesh	Bhopal	All	मन. 47/1 इब्राहीमगंज, हनुमानगंज (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
+Puducherry	Puducherry	All	Kamatchi Amman Kovil Street, White Town	https://twitter.com/pondicherryinfo/status/1269507023420309505
+Puducherry	Puducherry	All	2nd Cross street, Veeman Nagar, Thattanchavady	https://twitter.com/pondicherryinfo/status/1269507023420309505
+Puducherry	Puducherry	All	Govindan Street, Anandha Nagar, Kathirkamam	https://twitter.com/pondicherryinfo/status/1269507023420309505
+Uttarakhand	Dehradun	All	Guru Road, Patel Nagar, Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Bairaj Colony, Sinchai Vibhag, Rishikesh	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	EWS Block, MDDA Colony, ISBT Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	PremBatta Gali, Santowali Ghati Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	D-Block, Sichai Vibhag Pariyojna Khand,Nagar Nigam Rishikesh	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Dandipura Colony, Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Racecourse Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Adarsh Nagar, Lane No. 9, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gali No. 34, Shivaji Nagar, Rishikesh	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Bees Bigha, Rishikesh, Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No. 13, Gram line JeevanGarh, Vikasnagar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No. 19, Herbertpur, Vikasnagar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gram Fatehpur Tanda, Doiwala	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Haripurkala, Basti Ward No 2, Motichur 	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Circular Road, Dalanwala	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Om Sarthak Apartment, Sewlakala, Dehradu	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Brahmapuri, Patelnagar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Kalinga Colony, Araghar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Basant Vihar, Phase 2, Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Navin Mandi, Niranjanpur, Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Railway road, Rishikesh	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Vill. Gadi Maychak, Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Harshrinath Gali, Khudbuda Mohalla	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Khata Kheri, Bhagwanpur	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Sati Mohalla, ward no.34, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Matawala Mohalla, Ward no.8, Nagar Panchayat Londaura	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward no.12, Mohd pur, Mohan pura, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Munda Khera Kalan, Laksar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Dargapur, Laksar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Adarsh Nagar, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Dabki, Laksar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village- Dadupur, Govindpur, Haridwar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Hazrat Bilal Mohalla, Ward No. 6, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ambedkar Colony. Ward No. 9, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Green Park Colony, Roorkee	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vaishnavi Apartment, Kankhal	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Jaswinder Enclave, Bhagirathi, Ward No.1.Haridwar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vill. Alawalpur, Laksar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Danori, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward No 5, PWD Colony, Khanjarpur Road Tehsil Roorktee	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vill. Mohitpur, Tehsil Bhagwanpur	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Shivalik Nagar, Haridwar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Pauri	All	Vill. Pipili, Block Pabau, Pauri	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Pauri	All	Gram Satpali patti, Chaubattakhal, Pauri	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Vill. Bhati, Magadhar, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Vill. Lamnidhar, Tehsil Jakhanidhar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Akhori, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Jelam, Tehsil Jakhanidhar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Dhung Patti, Gyarahgaon, Tehsil Ghans	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Gawadamalla, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Kyulagi, Tehsil Kandisaud	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Jakhnyali, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Karnataka	Bengaluru Urban	All	a street in  Malleshwaram, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Herohalli, R R Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Mangammanapalya, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Jnanabharathinagar, R R Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Jagjeevanramnagar, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Lakkasandra, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Thanisandra, Yelahanka	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Marappanapalya, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Hagaduru, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Varthur, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Ramamurthy Nagara, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Agrahara Dasarahalli, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Siddapura, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Hosahalli, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Bommanahalli, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Agaram, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Kadugodi, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Chalradipalya, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Kempegowda, Yelahanka	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Subhash Nagar, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Subramanya Nagar, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Rayapuram, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Azad Nagar, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Nayandanahalli, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Hoodi, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Kotigepalya, R R Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Horamavu, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Hagaduru, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Malleshwaram, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Marathalli, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Puttenahalli, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Yelahanka New Town, Yelahanka	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Arakere, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Doddabommasandra, Yelahanka	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Thanisandra, Yelahanka	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex Hoodi, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex Agaram, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex Puttenahalli, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex Marathalli, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex Domlur, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex HSR Layout, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex Jayamahal, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex Visvesvarapuram, South	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex Singasandra, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex Bellanduru, Mahadevapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	Padarayanpura, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	Slum area in Nagavara, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	Slum area in S.K. Garden, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	Hotel in Chokkasandra, Dasarahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Yelachenahalli, Bommanahalli (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Bagalgunte, Dasarahalli (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Chokkasandra, Dasarahalli (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
