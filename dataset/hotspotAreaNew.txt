@@ -4441,9 +4441,9 @@ Kerala 	Wayanad	All	Wards - 4, 5, 6; Muttil	https://twitter.com/BreakingViews4u/
 Kerala 	Wayanad	All	All Wards; Bathery (M)	https://twitter.com/BreakingViews4u/status/1269255671473569794
 Kerala 	Wayanad	All	Wards - 8, 12, 13, 14, 15, 18; Meenaghadi	https://twitter.com/BreakingViews4u/status/1269255671473569794
 Kerala 	Wayanad	All	Wards - 8, 9, 10; Thavinjal	https://twitter.com/BreakingViews4u/status/1269255671473569794
-Kerala 	Malappuram	All	Wards - 21; Anakkayam	https://twitter.com/BreakingViews4u/status/1269255671473569794
-Kerala 	Malappuram	All	Wards - 5, 38; Tirurangadi (M)	https://twitter.com/BreakingViews4u/status/1269255671473569794
-Kerala 	Malappuram	All	Wards - 5, 6, 7, 9, 12, 14, 16, 33,; Manjeri (M)	https://twitter.com/BreakingViews4u/status/1269255671473569794
+Kerala 	Malappuram	All	Wards - 21; Anakkayam	https://dashboard.kerala.gov.in/hotspots.php
+Kerala 	Malappuram	All	Wards - 5, 38; Tirurangadi (M)	https://dashboard.kerala.gov.in/hotspots.php
+Kerala 	Malappuram	All	Wards - 5, 6, 7, 9, 12, 14, 16, 33,; Manjeri (M)	https://dashboard.kerala.gov.in/hotspots.php
 Kerala 	Ernakulam	All	Wards - 60; Cochin (C)	https://twitter.com/BreakingViews4u/status/1269255671473569794
 Kerala 	Idukki	All	Wards - 8, 11, 12; Udumbanchola	https://twitter.com/BreakingViews4u/status/1269255671473569794
 Kerala 	Palakkad	All	Wards - 20; Puthupariyaram	https://twitter.com/BreakingViews4u/status/1269255671473569794
@@ -4550,7 +4550,6 @@ Uttarakhand	Tehri	All	Gram Gawadamalla, Tehsil Ghansali	https://health.uk.gov.in
 Uttarakhand	Tehri	All	Gram Kyulagi, Tehsil Kandisaud	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
 Uttarakhand	Tehri	All	Gram Jakhnyali, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
 Karnataka	Bengaluru Urban	All	a street in  Malleshwaram, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Herohalli, R R Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street in  Mangammanapalya, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street in  Jnanabharathinagar, R R Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street in  Jagjeevanramnagar, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
@@ -4598,6 +4597,18 @@ Karnataka	Bengaluru Urban	All	Padarayanpura, West	https://www.facebook.com/bbmp.
 Karnataka	Bengaluru Urban	All	Slum area in Nagavara, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
 Karnataka	Bengaluru Urban	All	Slum area in S.K. Garden, East	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
 Karnataka	Bengaluru Urban	All	Hotel in Chokkasandra, Dasarahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Yelachenahalli, Bommanahalli (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Bagalgunte, Dasarahalli (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Chokkasandra, Dasarahalli (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Yelachenahalli, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Bagalgunte, Dasarahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Chokkasandra, Dasarahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-64) in Chalradipalya, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-65) in Chalradipalya, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in Padarayanapura, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Uttarakhand	U.S. Nagar 	All	Sampoornanand Central Jail Tehsil Sitarganj	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Sultanpur, Adampur Tehsil Laksar	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mahigran, Ward No. 35. Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
+Kerala 	Malappuram	All	Wards - 2, 3; Moorkkanadu	https://dashboard.kerala.gov.in/hotspots.php
+Kerala 	Malappuram	All	Wards - 9, 10, 11, 12, 13; Kuruva	https://dashboard.kerala.gov.in/hotspots.php
+Kerala 	Malappuram	All	Wards - 12; Kalpakanchery	https://dashboard.kerala.gov.in/hotspots.php
+Kerala 	Malappuram	All	Wards - 7, 8, 9, 10, 11, 17, 18; Edappal	https://dashboard.kerala.gov.in/hotspots.php
+Kerala 	Malappuram	All	Wards - 12, 13, 14; Vattamkulam	https://dashboard.kerala.gov.in/hotspots.php
+Kerala 	Palakkad	All	Ward - 20; Shornoor	https://dashboard.kerala.gov.in/hotspots.php
