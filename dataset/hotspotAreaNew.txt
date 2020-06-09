@@ -4600,9 +4600,9 @@ Karnataka	Bengaluru Urban	All	Hotel in Chokkasandra, Dasarahalli	https://www.fac
 Karnataka	Bengaluru Urban	All	a street in  Yelachenahalli, Bommanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street in  Bagalgunte, Dasarahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street in  Chokkasandra, Dasarahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-64) in Chalradipalya, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-65) in Chalradipalya, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in Padarayanapura, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-64) in Chalradipalya, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-65) in Chalradipalya, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in Padarayanapura, West	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
 Uttarakhand	U.S. Nagar 	All	Sampoornanand Central Jail Tehsil Sitarganj	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Sultanpur, Adampur Tehsil Laksar	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Mahigran, Ward No. 35. Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
@@ -4612,3 +4612,16 @@ Kerala 	Malappuram	All	Wards - 12; Kalpakanchery	https://dashboard.kerala.gov.in
 Kerala 	Malappuram	All	Wards - 7, 8, 9, 10, 11, 17, 18; Edappal	https://dashboard.kerala.gov.in/hotspots.php
 Kerala 	Malappuram	All	Wards - 12, 13, 14; Vattamkulam	https://dashboard.kerala.gov.in/hotspots.php
 Kerala 	Palakkad	All	Ward - 20; Shornoor	https://dashboard.kerala.gov.in/hotspots.php
+Karnataka	Bengaluru Urban	All	a street (A-68) in Chamrajpet, West (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-70) in Gali Anjaneya Temple, South (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-71) in Hampi Nagar, South (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-73) in Dharmaraya Swamy Nagara, South (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-74) in SudamaNagar, South (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment (AP-16) in Gurappanapalya, South (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  HBR Layout, Bommanahalli (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Muneshwara Nagar, East (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
+Uttarakhand	Dehradun	All	Ward No. 5, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ramvihar, Ballupur	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Tikampur, Pargana Jwalapur	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Gaindikhata, Haridwar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Khedi Shikohpur, Bhagwanpur 	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
