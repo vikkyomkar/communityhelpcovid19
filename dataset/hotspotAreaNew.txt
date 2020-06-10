@@ -4484,60 +4484,6 @@ Uttarakhand	Tehri	All	Gram Dhung Patti, Gyarahgaon, Tehsil Ghans	https://health.
 Uttarakhand	Tehri	All	Gram Gawadamalla, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
 Uttarakhand	Tehri	All	Gram Kyulagi, Tehsil Kandisaud	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
 Uttarakhand	Tehri	All	Gram Jakhnyali, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Karnataka	Bengaluru Urban	All	a street in  Malleshwaram (4 Cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Mangammanapalya (15 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Jnanabharathinagar ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Jagjeevanramnagar  ( 4 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Lakkasandra  ( 2 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Thanisandra  ( 2 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Marappanapalya  ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Hagaduru  ( 6 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Varthur (2 casess)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Ramamurthy Nagara ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Agrahara Dasarahalli ( 6 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Siddapura ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Hosahalli ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Bommanahalli ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Agaram ( 3 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Kadugodi ( 2 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Chalradipalya ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Kempegowda ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Subhash Nagar ( 2 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Subramanya Nagar ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Rayapuram ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Azad Nagar ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Nayandanahalli ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Hoodi ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Kotigepalya ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Horamavu ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Hagaduru ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Malleshwaram ( 3 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Marathalli ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Puttenahalli ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Yelahanka New Town ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Arakere ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Doddabommasandra ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Thanisandra ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	an apartment complex in Hoodi  ( 4 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	an apartment complex in Agaram ( 5 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	an apartment complex in Puttenahalli ( 4 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	an apartment complex in Marathalli ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	an apartment complex in Domlur ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	an apartment complex in HSR Layout ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	an apartment complex in Jayamahal ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	an apartment complex in Visvesvarapuram ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	an apartment complex in Singasandra ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	an apartment complex in Bellanduru ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	Padarayanpura ( 67 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	Slum area in Nagavara ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	Slum area in S.K. Garden ( 16 cases)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	Hotel in Chokkasandra ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Yelachenahalli ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Bagalgunte ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Chokkasandra ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-64) in Chalradipalya ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-65) in Chalradipalya ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in Padarayanapura ( 1 case)	https://www.facebook.com/bbmp.comm1/photos/pcb.1867116956756893/1867116446756944/?type=3&theater
 Uttarakhand	U.S. Nagar 	All	Sampoornanand Central Jail Tehsil Sitarganj	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Sultanpur, Adampur Tehsil Laksar	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Mahigran, Ward No. 35. Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
@@ -4547,34 +4493,24 @@ Kerala 	Malappuram	All	Wards - 12; Kalpakanchery	https://dashboard.kerala.gov.in
 Kerala 	Malappuram	All	Wards - 7, 8, 9, 10, 11, 17, 18; Edappal	https://dashboard.kerala.gov.in/hotspots.php
 Kerala 	Malappuram	All	Wards - 12, 13, 14; Vattamkulam	https://dashboard.kerala.gov.in/hotspots.php
 Kerala 	Palakkad	All	Ward - 20; Shornoor	https://dashboard.kerala.gov.in/hotspots.php
-Karnataka	Bengaluru Urban	All	a street in Chamrajpet (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in Gali Anjaneya Temple (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in Hampi Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in Dharmaraya Swamy Nagara (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in SudamaNagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
-Karnataka	Bengaluru Urban	All	an apartment in Gurappanapalya (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  HBR Layout (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Muneshwara Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
 Uttarakhand	Dehradun	All	Ward No. 5, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
 Uttarakhand	Dehradun	All	Ramvihar, Ballupur	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Gram Tikampur, Pargana Jwalapur	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Gram Gaindikhata, Haridwar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Gram Khedi Shikohpur, Bhagwanpur 	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Madhya Pradesh	Bhopal	All	म. न. 44 अहाता सिकन्दर कुली पुल बोगदा, ऐशबाग (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	म.न. 149, भारत टॉकिज सरदार पटेल नगर भोपाल, मंगलवारा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	146, इतवारा भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	33, खलील मजिल जुमेराती भोपाल, कोतवाली (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	म.न. 7 ए शाहनशाह गार्डन, अशोकागार्डन (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	152 बी गायत्री नगर जे.के. रोड भोपाल, अशोकागार्डन (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	वर्धमान ग्रीन पार्क 48 अशोकागार्डन भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	म.न. 20 गली न. 2 बुधवारा चार बत्ती चौराहा मछली मार्केट बुधवारा, तलैया (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	म.न. 11, नियर भारतीय विद्या मंदिर पंचशील, टीटी नगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	जय भीम नगर, टीटी नगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	म.न. 20 गिदवानी पार्क बैरागढ (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	आंबेडकर नगर भोपाल, कमला नगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	म.न. 325 सेक्टर 02 शक्ति नगर भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Karnataka	Bengaluru Urban	All	a street in Chalavadipalya (New)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in Vishveshwara Puram (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
+Madhya Pradesh	Bhopal	All	म. न. 44 अहाता सिकन्दर कुली पुल बोगदा, ऐशबाग	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	म.न. 149, भारत टॉकिज सरदार पटेल नगर भोपाल, मंगलवारा	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	146, इतवारा भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	33, खलील मजिल जुमेराती भोपाल, कोतवाली	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	म.न. 7 ए शाहनशाह गार्डन, अशोकागार्डन	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	152 बी गायत्री नगर जे.के. रोड भोपाल, अशोकागार्डन	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	वर्धमान ग्रीन पार्क 48 अशोकागार्डन भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	म.न. 20 गली न. 2 बुधवारा चार बत्ती चौराहा मछली मार्केट बुधवारा, तलैया	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	म.न. 11, नियर भारतीय विद्या मंदिर पंचशील, टीटी नगर	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	जय भीम नगर, टीटी नगर	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	म.न. 20 गिदवानी पार्क बैरागढ	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	आंबेडकर नगर भोपाल, कमला नगर	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	म.न. 325 सेक्टर 02 शक्ति नगर भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
 Maharashtra 	Nashik	All	CIDCO	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
 Maharashtra 	Nashik	All	Navshya Ganpati	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
 Maharashtra 	Nashik	All	Nashik Road	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
@@ -4718,3 +4654,105 @@ Maharashtra 	Nashik	All	Madhavji Plaza, Lonar Lane RK Nashik	https://twitter.com
 Maharashtra 	Nashik	All	Shital Vihar Soc., Bhabha Ngr, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
 Maharashtra 	Nashik	All	Chandrabhaga Appt. Shivam ngr, Panchvati	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
 Maharashtra 	Nashik	All	Bhore wada, Sardar Chowk,, Panchvati, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
+Uttarakhand	Haridwar	All	Gram Mehwad kala, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Madhya Pradesh	Bhopal	All	म.नं.-69, देवकी नगर, बैरसिया, रोड, भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	11बी, शान्ति नगर भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	सी-1, जे.डी. काम्पलेक्स, करोंद मण्डी 80 फीट रोड, भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	शिव नगर कॉलोनी, सेन नगर के पास (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	21, सिंधी मार्केट, भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.नं.-497, 80 फीट रोड, पुष्पा नगर भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	शान्ति ऐवेन्यू-2, वल्लभ नगर लालघाटी, भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	राज महल कुमार मोहल्ला, वार्ड नंबर-62, मिसरोद (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	गाँधी मोहल्ला पानी की टंकी के पास मिसरोद (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	401, सिग्नेचर रेसीडेंसी, कोलार रोड, भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.नं.-405, अरनब प्रधान मल्टी भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	50 पीयूष नगर अवधपुरी भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.नं.-43, इन्द्रपुरी भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.नं.-349, के बगल में होटल आर.के. रेजेन्सी के पीछे लालघाटीहलालपुरा भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.नं.-34ए, शिव शक्ति नगर भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.नं.-10, नूर महल मालयीपुरा इमामबाड़ा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Karnataka	Bengaluru Urban	All	a street in  Malleshwaram 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Mangammanapalya 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Jnanabharathinagar 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Jagjeevanramnagar  	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Lakkasandra  	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Thanisandra  	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Marappanapalya  	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Hagaduru  	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Varthur 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Ramamurthy Nagara 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Agrahara Dasarahalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Siddapura 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Hosahalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Bommanahalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Agaram 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Kadugodi 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Chalradipalya 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Kempegowda 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Subhash Nagar 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Subramanya Nagar 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Rayapuram 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Azad Nagar 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Nayandanahalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Hoodi 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Kotigepalya 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Horamavu 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Hagaduru 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Malleshwaram 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Marathalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Puttenahalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Yelahanka New Town 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Arakere 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Doddabommasandra 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Thanisandra 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex in Hoodi  	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex in Agaram 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex in Puttenahalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex in Marathalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex in Domlur 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex in HSR Layout 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex in Jayamahal 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex in Visvesvarapuram 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex in Singasandra 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment complex in Bellanduru 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	Padarayanpura 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	Slum area in Nagavara 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	Slum area in S.K. Garden 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	Hotel in Chokkasandra 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Yelachenahalli 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Bagalgunte 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Chokkasandra 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-64) in Chalradipalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-65) in Chalradipalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in Padarayanapura 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in Chamrajpet 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in Gali Anjaneya Temple 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in Hampi Nagar 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in Dharmaraya Swamy Nagara 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in SudamaNagar 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment in Gurappanapalya 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  HBR Layout 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in  Muneshwara Nagar 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in Chalavadipalya 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street in Vishveshwara Puram 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-75) in Konanakunte	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-76) in Bellanduru	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-77) in Adugodi	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-78) in Yelahanka New Town	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-79) in Raj Mahal Guttahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-80) in Chalavadipalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-81) in Sriram Mandir	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-82) in Vidyapeeta	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-83) in Hongasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-84) in Settihalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-85) in Basavanpura	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-86) in Siddapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-87) in Siddapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-88) in Hosakerehalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-89) in Visvesvarapuram	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-90) in Rayapuram	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-91) in Chalavadipalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-92) in Gandhi Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-93) in SK Garden	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-94) in Mahalakshmi Layout	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment (AP-17) in Vidyaranyapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
