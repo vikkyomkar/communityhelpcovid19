@@ -4496,8 +4496,8 @@ Tamil Nadu	Nagapattinam	All	Parasalur	https://drive.google.com/file/d/1rnhyR4Vln
 Tamil Nadu	Ramanathapuram	All	Keelakarai Municipality	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Ranipet	All	Nedumpuli	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Tenkasi	All	Puyliyan gu di 1	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Tcnkasi	All	Poigai	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Tcnkasi	All	Kadanganeri	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
+Tamil Nadu	Tenkasi	All	Poigai	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
+Tamil Nadu	Tenkasi	All	Kadanganeri	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Tenkasi	All	Kuthapanchan	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Tenkasi	All	Subbaiahpuram	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Tenkasi	All	Rajagopalaperi	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
