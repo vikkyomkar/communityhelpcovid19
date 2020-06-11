@@ -4544,3 +4544,30 @@ Tamil Nadu	Tiruvannamalai 	All	Purasai	https://drive.google.com/file/d/1rnhyR4Vl
 Tamil Nadu	Tiruvannamalai 	All	Theethapattu	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Tiruvannamalai 	All	Melsanthai	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Tiruvannamalai 	All	Vasudevanparthi	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
+Karnataka	Bengaluru Urban	All	a street (A-95) in kaval Bayrasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-96) in Gurappanapalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-97) in Singasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-98) in Konanakunte	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-99) in hoodi	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-100) in Bellanduru	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-101) in Vasanthapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-102) in Arakere	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-103) in Bagalgunte	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-104) in Singasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-105) in Devasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-106) in Visvesvarapuram	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-107) in SK Garden	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-108) in Newthippasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-109) in SK Garden	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-110) in Ganga nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-111) in Sampangiram Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-112) in SK Garden	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-113) in Kushal Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-114) in Chamrajpet	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-115) in Gurappanapalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-116) in Rayapuram	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-117) in Dharmaraya Swamy Nagara	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-118) in Chikpet	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-119) in Kammanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	a street (A-120) in Hanumanthanagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Karnataka	Bengaluru Urban	All	Apartment (AP-19) in Vasanthanagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
