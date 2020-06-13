@@ -40,7 +40,6 @@ Punjab	SAS Nagar Mohali	All	Haripur Kurha village	https://timesofindia.indiatime
 West Bengal	Medinipur East	All	Egra	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
 West Bengal	Kalimpong	All	Note: Entire District declared Red Zone Hotspot	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
 West Bengal	Nadia	All	Tehatta	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-Assam	Guwahati	All	Athgaon Kabarsthan Masjid	https://www.ndtv.com/india-news/assam-coronavirus-news-guwahatis-athgaon-kabarsthan-masjid-declared-hotspot-after-first-death-in-sta-2209846
 Maharashtra	Ahmednagar	All	Mumkundnagar (Nagar City)	https://maharashtratimes.com/maharashtra/ahmednagar-news/jamkhed-city-corona-hotspot/articleshow/75084819.cms
 Maharashtra	Ahmednagar	All	 Alamgir (Nagar taluka)	https://maharashtratimes.com/maharashtra/ahmednagar-news/jamkhed-city-corona-hotspot/articleshow/75084819.cms 
 Maharashtra	Ahmednagar	All	 Naikwadapura (Sangamner city)	https://maharashtratimes.com/maharashtra/ahmednagar-news/jamkhed-city-corona-hotspot/articleshow/75084819.cms
@@ -255,7 +254,6 @@ Bihar	Begusarai	All	Teghra Block 	https://navbharattimes.indiatimes.com/state/b
 Bihar	Begusarai	All	Mansoorchak Block 	https://navbharattimes.indiatimes.com/state/bihar/other-cities/bihar-lockdown-6-places-in-begusarai-declared-hotspot/articleshow/75080409.cms
 Maharashtra	Nagpur	All	Gitanjali Square	https://twitter.com/ANI/status/1250258393996107777
 Maharashtra	Nagpur	All	Hasanbagh	https://twitter.com/ANI/status/1250258393996107777
-Assam	Guwahati	All	Spanish Garden complex	https://twitter.com/ANI/status/1250026000504610818
 Jammu & Kashmir	Jammu	All	Janiur	https://twitter.com/ANI/status/1250141271500324864?s=09
 Jammu & Kashmir	Jammu	All	Peer Mitha (Gujjar Nagar)	https://twitter.com/ANI/status/1250141271500324864?s=09
 Jammu & Kashmir	Jammu	All	Bhatindi & Sunjwan	https://twitter.com/ANI/status/1250141271500324864?s=09
@@ -930,7 +928,6 @@ West Bengal	Kolkata	Ward-23	265C RABINDRA SARAN!, KOLKATA, BARABAZAR, KOLKATA 70
 West Bengal	Kolkata	Ward-23	3 & 12 HANSPUKUR 1ST LANE, BARABAZAR, KOLKATA 700097, SRI HORIRAM GOENKA STREET	https://twitter.com/ANI/status/1257384466290532353
 West Bengal	Kolkata	Ward-38	24/H, BECHU CHATTERJEE STREET, AMHERST STREET, HERAMBO DAS LANE, BROJANATH MITRA LANE	https://twitter.com/ANI/status/1257384466290532353
 West Bengal	Kolkata	Ward-38	110A MM Barman Street, Kolkata 700007, M M Burman street, Shambhu Chatterjee street, Mitra Lane	https://twitter.com/ANI/status/1257384466290532353
-Assam	Guwahati	All	Doctor's Hostel no. 5 of Guwahati Medical College (GMCH) campus	https://guwahatitimes.com/guwahati-three-new-containment-zones-declared-in-city/
 West Bengal	Kolkata	Ward-33	91,93,94A,95, Baliaghat Main Road (Lebugola Bustee)	
 West Bengal	Kolkata	Ward-34	10 to 34, Beliaghata Main Road	
 West Bengal	Kolkata	Ward-3	Ward-3 H/22, J K Ghosh Road, Lal Maidan	
@@ -2093,8 +2090,6 @@ Uttar Pradesh	Ghaziabad	All	Sec 9 Vinayak Apartment Vashundhra	https://twitter.c
 Uttar Pradesh	Ghaziabad	All	Lal Mandir Wali Gali Param Hans Vihar Loni	https://twitter.com/DigestNoida/status/1257370134186012672
 Uttar Pradesh	Ghaziabad	All	B 3/1104 Krishna Apra garden Indirapuram	https://twitter.com/DigestNoida/status/1257370134186012672
 Uttar Pradesh	Ghaziabad	All	11E 150 Nehru Nagar Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Assam	Guwahati	All	Ajanpir Path, Japorigog area	https://twitter.com/time8news/status/1267029897769172995
-Assam	Guwahati	All	Borbari area	https://twitter.com/time8news/status/1267029897769172995
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- B, Ward- 52 Sai krupa apt ostwal nagar	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- E, Ward- 81 Omkar apt, sayukat nagar, nalasopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- A, Ward- 35 Shree sai complex, nr, gress colony, bolinj, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
@@ -2966,16 +2961,16 @@ Haryana	Faridabad	All	Gali No. 12 and 15 New Baselwa Colony	https://twitter.com/
 Haryana	Faridabad	All	H. No. 404 wali Gali, Rahul Colony, NIT	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali having plot no. 915 to 918 and 927 to 929, Parvatiya Colony, Sector-52	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Sant Nagar	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Gurugram	Gurugram	Hari Mandir, Janua bank wali Gali, RK Market Tiraha , Sahil Insurance Point wali Gali, Chota Bazar (Ward No. 8, Pataudi)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
+Haryana	Gurugram	Gurugram	Janua bank wali Gali, Sahil Insurance Point wali Gali (Ward No. 8, Pataudi)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Harijan Basti, Village Firni, Sunder House to Aatama Ram house, Raj Kumar House to Kailash House (Dadawas Village, Pataudi)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Gali No 6 N Block, Mohan Nagar-Naya gaon, Sohan	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Lane No 1 (Near India Leads), Lane No 7 (Near Bangali Hotel), Lane No 6B, Yadav Medicos(In Sarhaul Village)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Maghdoot Apartments Sector 10 A, Gurugram	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Om Nagar	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Ganga Vihar (In Sec 12)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
+Haryana	Gurugram	Gurugram	Om Nagar Gali No 4,5,6	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
+Haryana	Gurugram	Gurugram	Ganga Vihar Adarsh Nagar(In Sec 12)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Police Station Road Dundahera, Aggrawal sweets Gali (comes under Sector 21), Community,Centre, Dundahera Vishal Mega Mart	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Ardee City Society (Block A,B,C)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Dev Jewelry Shop, Ashok Vihar,Nandhi Dham,Chotu Ram Chowk,Ashok Vihar	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
+Haryana	Gurugram	Gurugram	Gali No 3 Sheetla Colony Block E, Gali No 5, Gali No B6, B11, Ashok Vihar Phase -III	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
+Haryana	Gurugram	Gurugram	Ardee City Society (Block A,B,C) In Sec 52	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Parmawati Gali Near School, Shani Mandir, Matawali Gali Yadram Gali (Islampur Village)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Kadipur Enclave, Gali No. 4, Basai Enclave part-2, Gali No. 2, Braham Yadav Parshad office Gali No. 9	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Surat Nagar Phase-II Gali No 22., Gali No. 21 D, Gali No. 23 Dhanwapur Road	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
@@ -2985,53 +2980,42 @@ Haryana	Gurugram	Gurugram	Shivaji Park Gali No. 1, 2, 3, 4, Hira Nagar Gali No. 
 Haryana	Gurugram	Gurugram	Anand Garden Gali No 2 Ashok Garden Gali No 3, Rattan Vihar, Mahalaxmi Garden Gali No. 5, Gali No. 6, Swaroop Garden Garden	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Flying Birds School, RK Surgical Ramlila Ground and backside of Lal nursing home and Kharbanda hospital,Parjapati Ki dharmasala, Saini Ki dharmasala,Gupta Collage,Jawahar nagar park	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Krishna Nagar Gali No 2	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Jyoti Park Gali No 7, Gali No. 9, Baldev Nagar Gali No 34, Krishna colony Gali No. 9, Ambedkar Nagar Gali No. 1 ( Housing Board), Firoz Gandhi Colony - 2	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	DLF Phase 2 L-Block	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Choti Mata Mandir, Dr. Rohilla Clinic, Sunaro ka Mandir, Dr. Azad Clinic, Asthal Mandir, Devi ki Aganwadi( 42 Biswa)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Basai Village Bus Stand, Old Railway Fatak, Basai Enclave Part-1, Kamlesh Aganwadi in Basai Village	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Santra Devi School wali Gali Block F, Santosh AWC wali Gali Block D, Lalu Prashad wali Gali Block D (Rajendra Park)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Vikas Nagar, Gau Shala Basai Enclave, Housing Board Colony, Balaji Hospital (in Bhawani Enclave)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Ravi Nagar Gali No.5, Devi Lal Colony Gali No. 9, Ambedkar Nagar, Gali No. 2	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Adjacent to Shyam Public School (in Khandsa), Gali in front of Balaji Mandir	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Om Parkash ki Gali (In Nathupur Village)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Kherki Daula ki Dhani (Kherki Daula Village)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Virdha Ashram Wali Gali (In Bajghera Village)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Hanuman Mandir Vali Gali (In Baliyawas Village)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Chappar wali Gali, Hoti Lal Ki Dhani, Mandir Wali Gali (Jamalpur)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Block D, Gali No.6, Gali No. 7, Gali No.8 (in Sheetla Colony)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	New Palam Vihar, Block-D, Rishi Raj Rana Housewali Gali, Block-K-1, Gali No 1, New Palam Vihar Block-D till end	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	A Block (Harmony Homesin Sector 57)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Hari Nagar, Gali No. 4	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	New Shiv Mandir, Rajiv Nagar East-Gali No. 3,8,9,10	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	D 55, Sector 56 Opposite Post Office	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Bata Showroom Gali No. 13, Anup Singh Marg Gali No. 14 (In Sector-17)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Sattu Ka Ghar, Gali Towards metro pillar no. 51, Community Centre Sikanderpur Ghosi	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Opposite Police mess, peer wali gali, back side of Govt. School, Back Side of Sec. 22A, Near Yashvir Yadav Ka makan	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Rama Apartment, , Gold souk mall, gate no. 19 (in block-c), Lord Krishna Apartment, community centre(in block-c) (Sushant Lok-1)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Bhardwaj House No. 386-9A, Guru Kripya Gayatri Bhawan BD Verma House No. 401, House No. 409 Ganga Sadan 9A, Jhuggi Pocket-3, (In Sec. 9A)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Govt Middle School C block Palam Vihar, C Block Shiksha Bharti School Palam Vihar	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
+Haryana	Gurugram	Gurugram	Shiksha Bharti School Palam Vihar	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Gali No.1, Panch wali Colony , Panchwali Adjacent Gali Near PHC Complex, Panchwali main gali Near S. Sec. School Daultabad	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Mahipal Yadav ka Makan (In Chanderlok), Nathuram Market, Kishan Chowk, Ganesh Mandir (In DLF Phase-4)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Olive Tower (In Sector-54)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Aggarwal Store, Vasil Public School, R.B.S School (Palam Vihar Ext.)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Tau Gopi wali gali,Rajendra Park, Shiv mandir wali gali, near mahalwada, Nand hospital wali gali	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Mukesh Yadav Ka Ghar, House No. 685 to 789, Nathu Singh Ka Ghar, House No. 915 to 919 (Chakkarpur Village)  	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Aliya Ki Jhuggi, Kalu Ki Jhuggi, Sukariva Ki Jhuggi In Sector-53	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Veridha Aashram, Community Center (Sunita Katariya), Choti Mata Mandir (Gurgaon Village)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
+Haryana	Gurugram	Gurugram	Royal Gym wali Gali, Gali No 2, Ashokpuri, Union Bank Wali Gali Ashokpuri, Bagga Wali Gali, Flat Wali Gali, Nai Bagadi Wali Gali Saini Mohalla	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
+Haryana	Gurugram	Gurugram	Aliya Ki Jhuggi, Kalu Ki Jhuggi, Sukariya Ki Jhuggi In Sector-53	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Sadguru Enclave Gali No 4, 5 & 6 Nobal Enclave (Mullahera)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Sai Boutique wali Gali, Last Gali New Basti (West Side) , Wine Shop adjacent to old railway road, Kali Mata Ka Mandir (Old Railwa Road)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
+Haryana	Gurugram	Gurugram	Sai Boutique wali Gali, Last Gali New Basti (West Side) (Old Railway Road)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Shani Mandir H Block, Himgiri Bhawan A- Block (Saraswati Enclave)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	From Jawala Mill Parking Ki Diwar, House No. 36 Wali line, Near Yadav Atta Chakki, Auto Parking Sec 22	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
+Haryana	Gurugram	Gurugram	From Jawala Mill Parking Ki Diwar, House No. 36 Wali line, Near Yadav Atta Chakki, Auto Parking Sec 22 (In Sector 22-A)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Gali (Ishwer house to Suresh house,) Gali (Rajendra house to Misro house) (Prem Puri in Sector-32)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	House No. 219 to House no. 223, Maman's Shop (In Indra Colony Part-1, Sector-52)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Lilu Ki Dhani (Shikohpur Near Shri Krishan Mandir)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	Gali No. 2 Rajiv Colony	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
+Haryana	Gurugram	Gurugram	Gali No. 2 Rajiv Colony (In Sector 33)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Maruti Vihar gate, Ramesh goyal clinic wali gali (Saraswati Vihar)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Gali No. 1 to 6, Gali No. 11 to 13, Opposite Kings Bridge Play School (In Hans Enclave)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Nitin Vihar	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Princeton Estate (In DLF Ph-5 ) Askuji Floor, West Princeton Cartan, Askuji 2nd Building	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Plik Town House, U-28 Ki Jhuggi, (DLF Ph-3)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
-Haryana	Gurugram	Gurugram	C-301, Lagoon Apartment	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
+Haryana	Gurugram	Gurugram	C-301, Lagoon Apartment (Nathupur)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Andhra Pradesh	Visakhapatnam	All	Railway New Colony	https://twitter.com/UttarandhraNews/status/1269097155987374080
 Andhra Pradesh	Visakhapatnam	All	Madhavadhara	https://twitter.com/UttarandhraNews/status/1269097155987374080
 Andhra Pradesh	Visakhapatnam	All	Dandu Bazar	https://twitter.com/UttarandhraNews/status/1269097155987374080
@@ -3654,48 +3638,6 @@ Madhya Pradesh	Bhopal	All	मन. 47/1 इब्राहीमगंज, हन
 Puducherry	Puducherry	All	Kamatchi Amman Kovil Street, White Town	https://twitter.com/pondicherryinfo/status/1269507023420309505
 Puducherry	Puducherry	All	2nd Cross street, Veeman Nagar, Thattanchavady	https://twitter.com/pondicherryinfo/status/1269507023420309505
 Puducherry	Puducherry	All	Govindan Street, Anandha Nagar, Kathirkamam	https://twitter.com/pondicherryinfo/status/1269507023420309505
-Uttarakhand	Dehradun	All	Guru Road, Patel Nagar, Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Bairaj Colony, Sinchai Vibhag, Rishikesh	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	EWS Block, MDDA Colony, ISBT Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	PremBatta Gali, Santowali Ghati Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	D-Block, Sichai Vibhag Pariyojna Khand,Nagar Nigam Rishikesh	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Dandipura Colony, Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Racecourse Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Adarsh Nagar, Lane No. 9, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Gali No. 34, Shivaji Nagar, Rishikesh	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Bees Bigha, Rishikesh, Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ward No. 13, Gram line JeevanGarh, Vikasnagar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ward No. 19, Herbertpur, Vikasnagar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Gram Fatehpur Tanda, Doiwala	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Haripurkala, Basti Ward No 2, Motichur 	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Circular Road, Dalanwala	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Om Sarthak Apartment, Sewlakala, Dehradu	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Brahmapuri, Patelnagar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Kalinga Colony, Araghar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Basant Vihar, Phase 2, Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Navin Mandi, Niranjanpur, Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Railway road, Rishikesh	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Vill. Gadi Maychak, Dehradun	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Harshrinath Gali, Khudbuda Mohalla	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Khata Kheri, Bhagwanpur	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Sati Mohalla, ward no.34, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Matawala Mohalla, Ward no.8, Nagar Panchayat Londaura	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward no.12, Mohd pur, Mohan pura, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Munda Khera Kalan, Laksar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Dargapur, Laksar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Adarsh Nagar, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Dabki, Laksar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Village- Dadupur, Govindpur, Haridwar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Hazrat Bilal Mohalla, Ward No. 6, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ambedkar Colony. Ward No. 9, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Green Park Colony, Roorkee	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vaishnavi Apartment, Kankhal	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Jaswinder Enclave, Bhagirathi, Ward No.1.Haridwar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vill. Alawalpur, Laksar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Danori, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward No 5, PWD Colony, Khanjarpur Road Tehsil Roorktee	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vill. Mohitpur, Tehsil Bhagwanpur	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Shivalik Nagar, Haridwar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
 Uttarakhand	Pauri	All	Vill. Pipili, Block Pabau, Pauri	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
 Uttarakhand	Pauri	All	Gram Satpali patti, Chaubattakhal, Pauri	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
 Uttarakhand	Tehri	All	Vill. Bhati, Magadhar, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
@@ -3707,19 +3649,12 @@ Uttarakhand	Tehri	All	Gram Gawadamalla, Tehsil Ghansali	https://health.uk.gov.in
 Uttarakhand	Tehri	All	Gram Kyulagi, Tehsil Kandisaud	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
 Uttarakhand	Tehri	All	Gram Jakhnyali, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
 Uttarakhand	U.S. Nagar 	All	Sampoornanand Central Jail Tehsil Sitarganj	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Sultanpur, Adampur Tehsil Laksar	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mahigran, Ward No. 35. Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
 Kerala 	Malappuram	All	Wards - 2, 3; Moorkkanadu	https://dashboard.kerala.gov.in/hotspots.php
 Kerala 	Malappuram	All	Wards - 9, 10, 11, 12, 13; Kuruva	https://dashboard.kerala.gov.in/hotspots.php
 Kerala 	Malappuram	All	Wards - 12; Kalpakanchery	https://dashboard.kerala.gov.in/hotspots.php
 Kerala 	Malappuram	All	Wards - 7, 8, 9, 10, 11, 17, 18; Edappal	https://dashboard.kerala.gov.in/hotspots.php
 Kerala 	Malappuram	All	Wards - 12, 13, 14; Vattamkulam	https://dashboard.kerala.gov.in/hotspots.php
 Kerala 	Palakkad	All	Ward - 20; Shornoor	https://dashboard.kerala.gov.in/hotspots.php
-Uttarakhand	Dehradun	All	Ward No. 5, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ramvihar, Ballupur	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Tikampur, Pargana Jwalapur	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Gaindikhata, Haridwar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Khedi Shikohpur, Bhagwanpur 	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
 Madhya Pradesh	Bhopal	All	म. न. 44 अहाता सिकन्दर कुली पुल बोगदा, ऐशबाग	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
 Madhya Pradesh	Bhopal	All	म.न. 149, भारत टॉकिज सरदार पटेल नगर भोपाल, मंगलवारा	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
 Madhya Pradesh	Bhopal	All	146, इतवारा भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
@@ -3876,7 +3811,6 @@ Maharashtra 	Nashik	All	Madhavji Plaza, Lonar Lane RK Nashik	https://twitter.com
 Maharashtra 	Nashik	All	Shital Vihar Soc., Bhabha Ngr, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
 Maharashtra 	Nashik	All	Chandrabhaga Appt. Shivam ngr, Panchvati	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
 Maharashtra 	Nashik	All	Bhore wada, Sardar Chowk,, Panchvati, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Uttarakhand	Haridwar	All	Gram Mehwad kala, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
 Madhya Pradesh	Bhopal	All	म.नं.-69, देवकी नगर, बैरसिया, रोड, भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
 Madhya Pradesh	Bhopal	All	11बी, शान्ति नगर भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
 Madhya Pradesh	Bhopal	All	सी-1, जे.डी. काम्पलेक्स, करोंद मण्डी 80 फीट रोड, भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
@@ -4544,33 +4478,177 @@ Tamil Nadu	Tiruvannamalai 	All	Purasai	https://drive.google.com/file/d/1rnhyR4Vl
 Tamil Nadu	Tiruvannamalai 	All	Theethapattu	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Tiruvannamalai 	All	Melsanthai	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Tiruvannamalai 	All	Vasudevanparthi	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Karnataka	Bengaluru Urban	All	a street (A-95) in kaval Bayrasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-96) in Gurappanapalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-97) in Singasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-98) in Konanakunte	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-99) in hoodi	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-100) in Bellanduru	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-101) in Vasanthapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-102) in Arakere	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-103) in Bagalgunte	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-104) in Singasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-105) in Devasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-106) in Visvesvarapuram	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-107) in SK Garden	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-108) in Newthippasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-109) in SK Garden	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-110) in Ganga nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-111) in Sampangiram Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-112) in SK Garden	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-113) in Kushal Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-114) in Chamrajpet	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-115) in Gurappanapalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-116) in Rayapuram	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-117) in Dharmaraya Swamy Nagara	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-118) in Chikpet	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-119) in Kammanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-120) in Hanumanthanagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	Apartment (AP-19) in Vasanthanagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-125) in Horamavu (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-126) in Hongasandra (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
-Karnataka	Bengaluru Urban	All	a street (A-124) in BTM Layout (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1862462647222324/1862462490555673
+Haryana	Gurugram	Gurugram	Ward No 5, New Colony, (Farrukh Nagar)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Dharmpal Ki Building, Sachin Ki Building, Soni Ki Building, Jalu Ki Building, Deep Chand Ki Building (Nathupur)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Sunhari Bhawan, Sami Ki Gali, Naya Mohalla, Bijender Yadav Ki Gali, CC Apartment (Nathupur)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Hosiyar Ki Building. Munni Ka Makan, Chawadi Mohalla. (Nathupur)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Bhagwati Place, House No. 473 & 252 Wali Gali (In Sector 1) B-1 Tower Shivalik Sidko Society (In Manesar Village)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Lal Building, Mata Chowk, Prem Market. ( In Naharpur)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Mata Mandir Wali Gali, Snatam Dhram Mandir Wali Gali, Bata Showroom Wali Gali (Village Sukhrali)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Gali No. I In front of DAV Public School (Sector-14. Gurugram)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Sky Court Tower, LCG Tower, LTH Tower (In Laburnum Apartment)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	E-Block.F Block, C Block ,A Block (In DLF Phase-2)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Sheetla Colony Gali No.1 Block A	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Laltu Colony, Sonu House To Bahadur House, Saitan Colony,Uday Veer House To Ramesh House. (In Behrampur Village)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Gali No. 1 To 4 Shanti Nagar	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Gali No. 1 To 4, Shivaji Nagar	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Last Gali Pratap Nagar ki, Lord Jesus Front Wali Gali Near Park, Mandir Wali Gali Mendhi Park. Indian Overses Bank Se Phle Wali Gali Near Shiv Murti. Back Or Lord Jesus School Kabadi Wali Gali, Lord Jesus School K Saath Wala Ghar. Vijay Wali Gali	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Aarvy Hospital Wali Gali Bartkhana, Sabji Mandi K Sath Toys Shop Wali Gali Roshan Pura	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Gali No. 3 & 7 Patel Nagar	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Raheja Atlantis Apartment, Navketan Apartment, HSIIDC Apartment House No. 625 to 704 wali gali, House No. 635 to 649 wali Gali. Housing board colony, House No. 875 to House No. 894 wali gali, House No. 744 to 766 wali gali (In Sector 31)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Arjun nagar gali no. 1,3,4,5,6,7,9,11,13 Ram Nagar Gali no 4	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Puneet madan wali gali (In Subhash Nagar)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	H.no. 1240 (In Sec-17-C.) Adjacent Dr. Mathur Ayurved Hospital	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Shakti Apartment Sec-15-II. Arya Samaj Mandir Wali Gali, Salwan Public School ke samne wali gali	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Achary PG Wali Gali, Community Centre k pass Wali Gali (In Sector 15 Part-1)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Krishna Mandir Wali Gali. Prajapati Dharmshala ki left Wali Gali, Vishal Tent House Wali Gali (Jacubpura)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Sispal Vihar, A Block (In Sector 49)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Nirwana Country (In Sector 50)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	S Block, W Block, Park View (Vatika city). Scc 49	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Parshwanath Exotica, Vipul Society (In Sector 53)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Renu Ki AWC, Bharna Kuaa Chowk, Shiv Dharmshala Chowk, Ramrati Wife Ramkishan Chowk (In Khandsa Village)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Block K. Rishi Raj Rana House Wali Gali, Block D New Palm Vihar. Syam Aata Chakki Wali Gali Block P. Star Acedamy Wali Gali Block P (In New Palam Vihar)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Tower No.19 ( Central Park) (In Sector-18)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Lord Shiva Apartment, Sanskriti Apartment, Pelican Apartment, House No-220 To 400, House No. 500 To 650. House No.900 To 1250, House No. 1550 To 1700 (In Sector 10-A)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Manohar Nagar Gali No-13. Baldev, Gali No. 16,18,12,14 	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Firoj Gandhi Colony-1, Ravi Nagar Gali No-1,4,5	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Krishna Colony Gali No-4 to 9	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Firoj Gandhi Colony-2 Gali No.2, Ambedkar Nagar, Housing Board Colony Sec-7, Block C&D (In Sector 9)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Jyoti Park Gali No. 7,8,10,11,13 Madanpuri Gali No-2 to 11	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Devi Lal Colony Gali No. 12,14	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	New Coloony Gali No. 11, Shiv Puri Gali No-9	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Parsvnath Tower C (Sohna Road)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Block N & Block J (In Mafil Garden)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Block A to 11 DLF phase I, Silver apartment DLF phase I	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Haryana	Gurugram	Gurugram	Tower C1, C2, C5, C7, B2 (In Power Grid Aprtmant Sector-43)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
+Uttarakhand	Dehradun	All	Prem Batta Gali, Santowali Ghati Dehradun	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Adarsh Nagar, Lane No. 9, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gali No. 34, Shivaji Nagar, Rishikesh	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Bees Bigha, Rishikesh, Dehradun	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No. 13. Gram line JeevanGarh, Vikasnagar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No. 09, Herbertpur, Vikasnagar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gram Fatehpur Tanda, Doiwala	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Haripurkala, Basti Ward No 2, Motichur Line	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Circular Road, Dalanwala	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Brahmapuri, Patelnagar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Kalinga Colony, Araghar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Basant Vihar, Phase 2, Dehradun	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Navin Mandi, Niranjanpur, Dehradun	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Railway road, Rishikesh	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Vill. Gadi Maychak, Dehradun	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Harshrinath Gali, Khudbuda Mohalla	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No. 5, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ramvihar, Ballupur	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Purvi Patel Nagar, Dehradun	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Chamanpuri, Thana Patelnagar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	16 Mohini Road, Dalanwala	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Sati Mohalla, ward no. 34, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Matawala Mohalla, Ward no.8, Nagar Panchayat Londaura	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward no. 12, Mohd pur, Mohan pura, Nagar Nigam  Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Munda Khera Kalan, Laksar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Dargapur, Laksar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Adarsh Nagar, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Dabki, Laksar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village - Dadupur, Govindpur, Haridwar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Hazrat Bilal Mohalla, Ward No. 6, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Green Park Colony. Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vaishnavi Apartment, Kankhal	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ambedkar Colony. Ward No. 9. Landoura, Manglore	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Jaswinder Enclave, Bhagirathi, Ward No.1, Haridwar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vill. Alawalpur, Laksar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Danori, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vill. Mohitpur, Tehsil Bhagwanpur	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward No 5, PWD Colony, Khanjarpur Road,TehsilRoorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Shivalik Nagar, Haridwar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Sultanpur, Adampur, Tehsil Laksar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mahigran, Ward No. 35, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Tikampur, Pargana Jwalapur	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Gaindikhata, Haridwar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Khedi Shikohpur, Bhagwanpur	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Mehwad kala, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vill. Lathardeva, Tesil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Adarsh Nagar, Tehsil Rookee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vill. Dandera, Awasiya Colony, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Bhangedi, Mahawatpur, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Inayatpur, Pargana Bhagwanpur	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Mirzapur (Mohanapur), Ward No 5. Tehsil Laksar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Dandera, Milap Nagar Colony, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Puhana, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mohalla Malakpura, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mohalla Ramnagar, Tehsil Haridwar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	U.S. Nagar 	All	Ward No. 38, Shiv Shakti Society, Rudrapur	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Vill. Dobri, Magadhar, Tehri Garhwal	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Karnataka	Bengaluru Urban	All	a street (A-95) in kaval Bayrasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-96) in Gurappanapalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-97) in Singasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-98) in Konanakunte	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-99) in hoodi	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-100) in Bellanduru	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-101) in Vasanthapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-102) in Arakere	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-103) in Bagalgunte	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-104) in Singasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-105) in Devasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-106) in Visvesvarapuram	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-107) in SK Garden	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-108) in Newthippasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-109) in SK Garden	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-110) in Ganga nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-111) in Sampangiram Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-112) in SK Garden	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-113) in Kushal Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-114) in Chamrajpet	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-115) in Gurappanapalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-116) in Rayapuram	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-117) in Dharmaraya Swamy Nagara	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-118) in Chikpet	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-119) in Kammanahalli	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-120) in Hanumanthanagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	Apartment (AP-19) in Vasanthanagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-125) in Horamavu (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-126) in Hongasandra (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-124) in BTM Layout (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
+Assam	Guwahati	All	Japorigog	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Borbari	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Bishnupur, Krishna Nagar	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Dhirenpara	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Pub-Sarania	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Bathou Nagar, Geeta Mandir	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Krishna Nagar, Gosala	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Central Jail Premises, Lokhra	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Indrapur Hill Top, Near Medical College	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Lichubagan, Hengerabari	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Arihan Apartment, Panbazar	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Syamkunj Apartment, Lakhinagar, RG Baruah Road	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Hajongbori Village, Chandrapur	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Bhaskar Nagar, B-Block, Fatasil	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Sarabbhati, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Athgaon, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Hirapara Village (Azara)	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Christian Basti, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Bishnupur (Bharalumukh)	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Shantipur	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Satgaon	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Sankar Nagar, Lalganesh	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Dhirenpara, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Athgaon-II (SJ Road)	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Lamb Road, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Kushal Nagar, Bamunimoidan	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Birubari, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Athgaon Pukhuripar, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Barsapara, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Rupnagar, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Netaji Vidyapith rly HS School, Maligaon, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Fatasil Chariali	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Silpukhuri, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Housing Colony, Ghoramora, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Netaji Vidyapith HS School, Maligaon Campus	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Block-M of Pragjyotish bHousing Colony, Ghoramora	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Satgaon Army Camp, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	CISF Camp, Sector-III, Noonmati Refinery	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Mangaldeep Residency, Lalganesh	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	GS Colony. Fatasil, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Tokoubari, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	K.C Sen Road, Paltanbazar, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Sankarpur, Birubari Tiniali	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Guwahati	All	Uzanbazar Railway Colony	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
