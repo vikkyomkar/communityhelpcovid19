@@ -3947,11 +3947,9 @@ Uttar Pradesh	Agra	All	बालूगंज	https://twitter.com/PrabhuNs_/statu
 Uttar Pradesh	Agra	All	ट्रांस यमुना कॉलोनी, रामबाग, सीतानगर, गोकुल नगर नरायच	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	नुनिहाई जमुनापार	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	नगला परसोती देवरी रोड	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	मधु नगर ग्वालियर रोड	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	शिव नगर, मास्टर प्लान रोड खन्दारी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	बल्केश्वर	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	मोतिया की बगीची जीवनी मंडी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	राधाकृष्ण बिहार उमाकुंज कावेरी कुटुम्ब के पीछे सिकन्दरा	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	गोबर चौकी ताजगंज	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	बिल्लोचपुरा, मुरलीनगर, ताजनगरी-ताजगंज	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	नगला पदी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
@@ -4652,3 +4650,35 @@ Assam	Guwahati	All	Tokoubari, Guwahati	https://twitter.com/DCKamrupMetro/status/
 Assam	Guwahati	All	K.C Sen Road, Paltanbazar, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
 Assam	Guwahati	All	Sankarpur, Birubari Tiniali	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
 Assam	Guwahati	All	Uzanbazar Railway Colony	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
+Assam	Sonitpur	All	Da-Dhara, Bamunchubari, Mazgaon	https://twitter.com/Dhekiajulibuds/status/1271797392002576384/photo/1
+Assam	Sonitpur	All	Village- Manujuli Gaon, Dhekiajuli, Vivekananda Road, PS- Dhekiajuli	https://twitter.com/Dhekiajulibuds/status/1271797392002576384/photo/2
+Tamil Nadu	Trichy	All	Kottapattu	https://twitter.com/dkarthikTOI/status/1270938496643952641
+Tamil Nadu	Trichy	All	Cantonment (near Bharathidasan Road)	https://twitter.com/dkarthikTOI/status/1270938496643952641
+Tamil Nadu	Trichy	All	Chinna Chetti Street near Big Bazar Street	https://twitter.com/dkarthikTOI/status/1270938496643952641
+Tamil Nadu	Trichy	All	Jeeva Nagar Near Madurai Road	https://twitter.com/dkarthikTOI/status/1270938496643952641
+Tamil Nadu	Trichy	All	Thiruvanaikoil	https://twitter.com/dkarthikTOI/status/1270938496643952641
+Odisha 	Balasore	All	PXE Military Wing area at Chandipur	https://odishabytes.com/pxe-military-wing-area-in-odishas-chandipur-declared-containment-zone/
+Odisha 	Ganjam	All	Narendrapur village under Chatrapur block	https://odishabytes.com/several-villages-in-odishas-ganjam-district-declared-containment-zone/
+Odisha 	Ganjam	All	Ghadaghadapalli under Sri Ramchandrapur panchayat	https://odishabytes.com/several-villages-in-odishas-ganjam-district-declared-containment-zone/
+Odisha 	Ganjam	All	Pratapur village under Purushottampur block	https://odishabytes.com/several-villages-in-odishas-ganjam-district-declared-containment-zone/
+Odisha 	Puri	All	Pakhimunda village under Dasbidyadharpur panchayat in Satyabadi block	https://odishabytes.com/three-villages-in-satyabadi-block-of-puri-declared-containment-zone/
+Odisha 	Puri	All	the area between Dangura village and Alikia village 	https://odishabytes.com/three-villages-in-satyabadi-block-of-puri-declared-containment-zone/
+Odisha 	Puri	All	Jaipur village under Mahura panchayat of Satyabadi block	https://odishabytes.com/three-villages-in-satyabadi-block-of-puri-declared-containment-zone/
+Odisha 	Ganjam	All	Ghodapada, Badapalli panchayat, Khalikote block	https://www.outlookindia.com/newsscroll/10-villages-of-ganjam-district-declared-as-containment-zones/1858931
+Odisha 	Ganjam	All	Siallipata, Badapalli panchayat, Khalikote block	https://www.outlookindia.com/newsscroll/10-villages-of-ganjam-district-declared-as-containment-zones/1858931
+Odisha 	Ganjam	All	Kurimpur, Badapalli panchayat, Khalikote block	https://www.outlookindia.com/newsscroll/10-villages-of-ganjam-district-declared-as-containment-zones/1858931
+Odisha 	Ganjam	All	Gundripati, Badapalli panchayat, Khalikote block	https://www.outlookindia.com/newsscroll/10-villages-of-ganjam-district-declared-as-containment-zones/1858931
+Odisha 	Ganjam	All	Badapalli, Badapalli panchayat, Khalikote block	https://www.outlookindia.com/newsscroll/10-villages-of-ganjam-district-declared-as-containment-zones/1858931
+Odisha 	Ganjam	All	Sanabala, Badapalli panchayat, Khalikote block	https://www.outlookindia.com/newsscroll/10-villages-of-ganjam-district-declared-as-containment-zones/1858931
+Odisha 	Ganjam	All	Nuapalli, Badapalli panchayat, Khalikote block	https://www.outlookindia.com/newsscroll/10-villages-of-ganjam-district-declared-as-containment-zones/1858931
+Odisha 	Ganjam	All	Chhakasing, Badapalli panchayat, Khalikote block	https://www.outlookindia.com/newsscroll/10-villages-of-ganjam-district-declared-as-containment-zones/1858931
+Odisha 	Ganjam	All	Devijhara, Badapalli panchayat, Khalikote block	https://www.outlookindia.com/newsscroll/10-villages-of-ganjam-district-declared-as-containment-zones/1858931
+Odisha 	Ganjam	All	Biripur, Aitipur panchayat	https://www.outlookindia.com/newsscroll/10-villages-of-ganjam-district-declared-as-containment-zones/1858931
+Odisha 	Ganjam	All	Ch. Tikarapada, Digapahandi block	https://www.outlookindia.com/newsscroll/10-villages-of-ganjam-district-declared-as-containment-zones/1858931
+Odisha 	Ganjam	All	Rumagada, Polasara block	https://www.outlookindia.com/newsscroll/10-villages-of-ganjam-district-declared-as-containment-zones/1858931
+Uttar Pradesh	Agra	All	आजाद गली फतेहाबाद (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	ग्राम अटूस अछनेरा (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	ग्राम अभयपुरा अछनेरा (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	मलपुरा (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	गुरूद्वारा के पास माईथान छत्ता 	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	जंगजीत नगर-राजपुर चुंगी विभव नगर	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
