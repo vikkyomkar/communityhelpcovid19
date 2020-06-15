@@ -3829,7 +3829,6 @@ Madhya Pradesh	Bhopal	All	म.नं.-34ए, शिव शक्ति नगर
 Madhya Pradesh	Bhopal	All	म.नं.-10, नूर महल मालयीपुरा इमामबाड़ा	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
 Karnataka	Bengaluru Urban	All	a street in  Malleshwaram 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street in  Mangammanapalya 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street in  Jnanabharathinagar 	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street in  Jagjeevanramnagar  	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street in  Lakkasandra  	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street in  Thanisandra  	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
@@ -4682,30 +4681,30 @@ Uttar Pradesh	Agra	All	ग्राम अभयपुरा अछनेरा 
 Uttar Pradesh	Agra	All	मलपुरा (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	गुरूद्वारा के पास माईथान छत्ता 	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	जंगजीत नगर-राजपुर चुंगी विभव नगर	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Karnataka	Bengaluru Urban	All	a street (A-127) in Chalavadipalya (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-128) in Sudam Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-129) in K.R.Market (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-130) in K.R.Market (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-131) in Sampangiram Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-132) in Dayananda Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-133) in Vidyapeetha (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-134) in Ulsoor (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-135) in Sudam Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-136) in Vasanth Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-137) in Azad Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-138) in Bharathi Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-139) in K.R.Market (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-140) in Padarayanapura (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-141) in Marappana Palya (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-142) in Jayachamarajendra Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-143) in Muneshwara Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-144) in Shiva Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-145) in Lingarajapuram (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-146) in Aramane Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-147) in Sampangiram Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-148) in Ulsoor (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	a street (A-149) in K.R.Market (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Karnataka	Bengaluru Urban	All	an apartment (AP-20) in Vignana Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-127) in Chalavadipalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-128) in Sudam Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-129) in K.R.Market	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-130) in K.R.Market	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-131) in Sampangiram Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-132) in Dayananda Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-133) in Vidyapeetha	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-134) in Ulsoor	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-135) in Sudam Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-136) in Vasanth Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-137) in Azad Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-138) in Bharathi Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-139) in K.R.Market	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-140) in Padarayanapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-141) in Marappana Palya	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-142) in Jayachamarajendra Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-143) in Muneshwara Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-144) in Shiva Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-145) in Lingarajapuram	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-146) in Aramane Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-147) in Sampangiram Nagar	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-148) in Ulsoor	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-149) in K.R.Market	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment (AP-20) in Vignana Nagar 	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
 Uttarakhand	Tehri	All	Vill. Danda, Tehri Garhwal	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Mohalla Rajendranagar Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Ward No. 31. Mohallia Puran Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
@@ -4741,3 +4740,53 @@ Madhya Pradesh	Bhopal	All	बेहाईन्ड मरघटिया मं�
 Madhya Pradesh	Bhopal	All	म.नं. 18, वार्ड नं. 14, यादवपुरा कच्ची मस्जिद के पास भोपाल, शाहजहानाबाद (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
 Madhya Pradesh	Bhopal	All	म.नं. 12, वार्ड नं. 14, यादवपुरा कच्ची मस्जिद के पास भोपाल, शाहजहानाबाद (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
 Madhya Pradesh	Bhopal	All	मनं. 137, सिद्धार्थ नगर पिपलानी (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Karnataka	Bengaluru Urban	All	a street (A-17) in Chalavadipalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-150) in Varthur (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-151) in Singasandra (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-152) in Hongasandra (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-153) in HSR Layout (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-154) in Thanisandra (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-155) in Hongasandra (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-156) in S.K.Garden (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-157) in Bapuji Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-158) in Bapuji Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-159) in Dharmarayaswamy Temple (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-160) in Dharmarayaswamy Temple (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-161) in Siddapura (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-162) in Chamrajpet (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-163) in Bharathi (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-164) in Vidyapeetha (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-165) in Basavanagudi (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-166) in Jayachamarajendra (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-167) in Bapuji Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-168) in Pulikeshi Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-169) in Vasanth Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-170) in Jayangar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-171) in Shanthala (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-172) in Vasanthapura (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-173) in Vasanthapura (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-174) in Doddanekkundi (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-175) in Bilekahalli (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-176) in Dharmarayaswamy Temple (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-177) in Chalavadipalya (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-178) in Lakkasandra (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-179) in Azadnagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-180) in Gurappanapalya (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-181) in Basavanagudi (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-182) in Girinagara (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-183) in Visvesvarapuram (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-184) in KG Halli (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-185) in Pattabiramanagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-186) in Dharmarayaswamy Temple (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-187) in Kaval Byrasandra (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-188) in Sampangiramnagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-189) in SudamaNagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-190) in Pattabiramanagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-191) in Sampangiramnagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-192) in Srinagara (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-193) in Pattabiramanagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-194) in Jayanagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-195) in Dharmarayaswamy Temple (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-196) in Lakkasandra (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	a street (A-197) in Dharmarayaswamy Temple (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Karnataka	Bengaluru Urban	All	an apartment (AP-21) in Vidyaranyapura (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
