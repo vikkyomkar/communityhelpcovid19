@@ -4706,3 +4706,25 @@ Karnataka	Bengaluru Urban	All	a street (A-147) in Sampangiram Nagar (NEW)	https:
 Karnataka	Bengaluru Urban	All	a street (A-148) in Ulsoor (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street (A-149) in K.R.Market (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
 Karnataka	Bengaluru Urban	All	an apartment (AP-20) in Vignana Nagar (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Uttarakhand	Tehri	All	Vill. Danda, Tehri Garhwal	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mohalla Rajendranagar Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward No. 31. Mohallia Puran Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mohalla Shakti Vihar, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Nagar Panchayat Landore. Tehsil Roorkee,	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village Bahedi Mahawatpura, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vill Banheda, Tanda, Block Narsan	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Salempur, Mahmood pratahm, Pargana Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mohalla Mahalaxmipuram (Mohanpura. Mohammadpur).Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Pathanpura, Ward No. 1, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
+Madhya Pradesh	Bhopal	All	1412 कुष्णा नगर कोच फैक्ट्री रोड भोपाल, बजरिया	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	हनुमान नगर मिसरोद	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.न. 703 अशोका गार्डन भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.न. 38 सुभाष कालोनी अशोकागार्डन	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.न. सी 01 थर्ड फ्लोर जय अम्बे काम्पलेक्स नियर मैक्स अस्पताल करोंद भोपाल, निशातपुरा	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	ओल्ड स्टेशन रोड बरागढ, बैरागढ	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	736 अमराई बागसेवनिया भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	त.न. 58 आजाद नगर गोविन्दपुरा भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	117 बी हजरत निजामुददीन कालोनी पिपलानी	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	मेण्डोरी गांव रातीबड़	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	31 कम्फर्ट पार्क राजीव नगर अयोध्या बायपास भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	इमलिया रोड घाट खेडी गांव भोपाल, सूखी सेवनिया	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
