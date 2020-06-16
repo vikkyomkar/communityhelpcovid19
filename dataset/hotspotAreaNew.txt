@@ -3912,14 +3912,8 @@ Karnataka	Bengaluru Urban	All	a street (A-93) in SK Garden (NEW)	https://www.fac
 Karnataka	Bengaluru Urban	All	a street (A-94) in Mahalakshmi Layout (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
 Karnataka	Bengaluru Urban	All	an apartment (AP-17) in Vidyaranyapura (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
 Uttar Pradesh	Agra	All	कस्बा फतेहपुर सीकरी (पुनः प्रभावी) (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	गढ़ी हरदयाल ब्लॉक अकोला (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	सौरा ब्लॉक सैंया (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	चमरौली नगरिया शमशाबाद (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	कस्बा एत्मादपुर (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	अमरपुरा-विपरावली ब्लॉक पिनाहट (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	ग्राम ऊँचा ब्लॉक खन्दौली (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	कस्बा खेरागढ सैंया (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	नैनाना ब्राहमण बरौली अहीर (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	मुरली विहार देवरेठा कस्बा बिचपुरी (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	सेखान मोहल्ला अछनेरा (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	कौलक्खा जसवन्त एस्टेट बरौली अहीर (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
@@ -3945,26 +3939,15 @@ Uttar Pradesh	Agra	All	नगला फकीरचन्द ईदगाह ब
 Uttar Pradesh	Agra	All	बालूगंज	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	ट्रांस यमुना कॉलोनी, रामबाग, सीतानगर, गोकुल नगर नरायच	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	नुनिहाई जमुनापार	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	नगला परसोती देवरी रोड	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	शिव नगर, मास्टर प्लान रोड खन्दारी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	बल्केश्वर	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	मोतिया की बगीची जीवनी मंडी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	गोबर चौकी ताजगंज	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	बिल्लोचपुरा, मुरलीनगर, ताजनगरी-ताजगंज	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	नगला पदी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	तोपखाना, नाई की मंडी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	आवास विकास हरीपर्वत पश्चिमी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	पालीवाल पार्क हरीपर्वत	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	बोदला सिकन्दरा	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	104 जी-12 जैपुरिया कॉलोनी, ताजगंज	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	निर्भय नगर गैलाना	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	नई आबादी खन्दारी के पास केन्द्रीय हिन्दी संस्थान नगला बूढी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	शास्त्रीपुरम सिकन्दरा	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	गोपालपुरा ग्वालियर रोड	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	लोकेन्द्र पुरी गढ़ी भदौरिया	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	सुन्दरपाड़ा नोर्थ इदगाह	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	ओम नगर नगला बूढी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
-Uttar Pradesh	Agra	All	ईडब्लूएस-14 गुरू तेगबहादुर कॉलोनी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	प्रकाशपुरम टेढ़ी बगिया	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	नगला बुद्धा धनौली खेरिया मोड़	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
 Uttar Pradesh	Agra	All	12 बीघा/श्रवस्त नरीपुरा	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
@@ -4790,3 +4773,16 @@ Karnataka	Bengaluru Urban	All	a street (A-195) in Dharmarayaswamy Temple (NEW)	h
 Karnataka	Bengaluru Urban	All	a street (A-196) in Lakkasandra (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street (A-197) in Dharmarayaswamy Temple (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
 Karnataka	Bengaluru Urban	All	an apartment (AP-21) in Vidyaranyapura (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
+Uttar Pradesh	Agra	All	सुर्या नगर, मास्टर प्लान रोड खन्दारी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	गोकुलपुरा	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	लोकेन्द्र पुरी गढी भदौरिया	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	राज नगर/सिर की मण्डी/पुल छिगा मोदी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	अमिता विहार एक्सटेंशन कर्मयोगी कमला नगर	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	नसीराबाद मऊ रोड नगला बूढी	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	30/50 गली रंगरेजान, राजा मण्डी, भारत टाकीज	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	नन्दापुरा मायापुरी देवरी रोड	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	जी-13, मुस्तफा क्वाटर आगरा कैन्ट	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	ग्राम रजईबरोली अहीर (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	कृष्णा बाग अवधपरी लोक विवपरी (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	ग्राम कोलक्खा लोक बरोली मार (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
+Uttar Pradesh	Agra	All	मलपुरा सेमरा खन्दाली (ग्रामीण)	https://twitter.com/PrabhuNs_/status/1270740804521340930/photo/2
