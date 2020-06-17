@@ -94,20 +94,6 @@ Uttar Pradesh	Lucknow	All	Najarbagh Mosque	https://www.livehindustan.com/uttar-p
 Uttar Pradesh	Lucknow	All	Khajoor Wali Mosque	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Lucknow	All	Ali Hayat Masjid Faizullaganj Madiyav.	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Lucknow	All	Rajauli Mosque	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	Humayun Nagar	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	 Shastri Nagar Sector 13	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	 Sarai Bahleem	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	Islamabad	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	Suryanagar in Civil Line	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	Khivai in Sarurpur	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	Mahalaka in Falavada	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	Harnamadas Road	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	Some parts of Sardhana and Mawana towns	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	Arafat Mosque area of ​​Mawana	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	Mohalla Kalyan Singh	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	Chappar Mosque	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	Mohalla Munnalal	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
-Uttar Pradesh	Meerut	All	Mohalla Bada Mahadev town	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Firozabad	All	Hussaini Square	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Firozabad	All	Shishagran	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
 Uttar Pradesh	Firozabad	All	Durgesh Nagar	https://www.livehindustan.com/uttar-pradesh/story-covid19-lockdown-full-list-of-coronavirus-hotspots-in-up-sealed-till-april-15-citywise-list-3136893.html
@@ -419,7 +405,6 @@ Telangana 	JogulambaGadwal	All	Note: Entire District declared Red Zone Hotspot a
 Telangana 	MedchalMalkajgiri	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Karimnagar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Telangana 	Nirmal	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttar Pradesh 	Meerut	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Lucknow	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	Saharanpur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Uttar Pradesh 	ShamIi	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
@@ -4848,3 +4833,26 @@ Madhya Pradesh	Bhopal	All	म.न. 50, गली न. 01 राम मंदि�
 Madhya Pradesh	Bhopal	All	म.न. 517 जे.पी. नगर डी.आई.जी. बंगला भोपाल, गौतमनगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
 Madhya Pradesh	Bhopal	All	म.न. 390, अब्बास नगर भोपाल, गांधीनगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
 Madhya Pradesh	Bhopal	All	म.न. 62 लेबर कालोनी इन्द्रपुरी भोपाल, पिपलानी (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Uttar Pradesh 	Meerut	All	चैतन्यपुरम	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	जाकिर कालोनी	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	रोशनपुर डोरली	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	सरधना पुलिस स्टेशन का आवासीय परिसर	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	रिठानी	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	ब्रहमपुरी	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	संजय कालोनी बागपत रोड	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	हरिनगर	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	डिग्गी मोहल्ला	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	जयदेवी नगर	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	सराय लाल दास	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	भगवतपुरा	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	रुकनपुिर मोरना	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	फाजलपुर कंकरखेड़ा	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	सरधना	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	अहमदनगर	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	हापुड़ चुंगी	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	खंदावली	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	निलोहा	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	खरदोनी	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	सैदपुर (हस्तिनापुर)	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	मुल्तान नगर	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
+Uttar Pradesh 	Meerut	All	जागृति विहार सेक्टर-9	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
