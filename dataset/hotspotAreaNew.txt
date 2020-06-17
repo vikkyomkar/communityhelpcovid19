@@ -4514,31 +4514,31 @@ Uttarakhand	Haridwar	All	Vill Banheda, Tanda, Block Narsan	https://health.uk.gov
 Uttarakhand	Haridwar	All	Gram Salempur, Mahmood pratahm, Pargana Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Mohalla Mahalaxmipuram (Mohanpura. Mohammadpur).Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Pathanpura, Ward No. 1, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Madhya Pradesh	Bhopal	All	1412 कुष्णा नगर कोच फैक्ट्री रोड भोपाल, बजरिया (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
-Madhya Pradesh	Bhopal	All	हनुमान नगर मिसरोद (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
-Madhya Pradesh	Bhopal	All	म.न. 703 अशोका गार्डन भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
-Madhya Pradesh	Bhopal	All	म.न. 38 सुभाष कालोनी अशोकागार्डन (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
-Madhya Pradesh	Bhopal	All	म.न. सी 01 थर्ड फ्लोर जय अम्बे काम्पलेक्स नियर मैक्स अस्पताल करोंद भोपाल, निशातपुरा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
-Madhya Pradesh	Bhopal	All	ओल्ड स्टेशन रोड बरागढ, बैरागढ (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
-Madhya Pradesh	Bhopal	All	736 अमराई बागसेवनिया भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
-Madhya Pradesh	Bhopal	All	त.न. 58 आजाद नगर गोविन्दपुरा भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
-Madhya Pradesh	Bhopal	All	117 बी हजरत निजामुददीन कालोनी पिपलानी (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
-Madhya Pradesh	Bhopal	All	मेण्डोरी गांव रातीबड़ (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
-Madhya Pradesh	Bhopal	All	31 कम्फर्ट पार्क राजीव नगर अयोध्या बायपास भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
-Madhya Pradesh	Bhopal	All	इमलिया रोड घाट खेडी गांव भोपाल, सूखी सेवनिया (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
-Madhya Pradesh	Bhopal	All	म.नं. 34, सुदामा नगर गोविन्दपुरा, ऐशबाग (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	म.नं. 1733, मुरार जी नगर पुल बोगदा थाना ऐशबाग (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	म.नं. 08, अहमद अली कालोनी, ऐशबाग (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	म.नं. 265 टीलाजमालपुरा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	करोद बिलाल कालोनी, निशातपुरा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	संजीव नगर भोपाल, निशातपुरा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	1/4, पारस भवन स्टेशन बजरिया भोपाल, स्टेशन बजरिया (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	आर बी 17, बी रेल्वे हास्पिटल के पास ईस्ट रेल्वे कालोनी भोपाल, स्टेशन बजरिया (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	म.नं. 32, जोगीपुरा बरखेडी, जहांगीराबाद (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	बेहाईन्ड मरघटिया मंदिर शाहजहांनाबाद (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	म.नं. 18, वार्ड नं. 14, यादवपुरा कच्ची मस्जिद के पास भोपाल, शाहजहानाबाद (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	म.नं. 12, वार्ड नं. 14, यादवपुरा कच्ची मस्जिद के पास भोपाल, शाहजहानाबाद (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	मनं. 137, सिद्धार्थ नगर पिपलानी (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	म.नं. 34, सुदामा नगर गोविन्दपुरा, ऐशबाग	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.नं. 1733, मुरार जी नगर पुल बोगदा थाना ऐशबाग	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.नं. 08, अहमद अली कालोनी, ऐशबाग	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.नं. 265 टीलाजमालपुरा	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	करोद बिलाल कालोनी, निशातपुरा	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	संजीव नगर भोपाल, निशातपुरा	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	1/4, पारस भवन स्टेशन बजरिया भोपाल, स्टेशन बजरिया	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	आर बी 17, बी रेल्वे हास्पिटल के पास ईस्ट रेल्वे कालोनी भोपाल, स्टेशन बजरिया	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.नं. 32, जोगीपुरा बरखेडी, जहांगीराबाद	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	बेहाईन्ड मरघटिया मंदिर शाहजहांनाबाद	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.नं. 18, वार्ड नं. 14, यादवपुरा कच्ची मस्जिद के पास भोपाल, शाहजहानाबाद	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.नं. 12, वार्ड नं. 14, यादवपुरा कच्ची मस्जिद के पास भोपाल, शाहजहानाबाद	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
+Madhya Pradesh	Bhopal	All	म.नं. 137, सिद्धार्थ नगर पिपलानी	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	1412 कुष्णा नगर कोच फैक्ट्री रोड भोपाल, बजरिया	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	हनुमान नगर मिसरोद	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	म.न. 703 अशोका गार्डन भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	म.न. 38 सुभाष कालोनी अशोकागार्डन	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	म.न. सी 01 थर्ड फ्लोर जय अम्बे काम्पलेक्स नियर मैक्स अस्पताल करोंद भोपाल, निशातपुरा	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	ओल्ड स्टेशन रोड बरागढ, बैरागढ	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	736 अमराई बागसेवनिया भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	त.न. 58 आजाद नगर गोविन्दपुरा भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	117 बी हजरत निजामुददीन कालोनी पिपलानी	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	मेण्डोरी गांव रातीबड़	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	31 कम्फर्ट पार्क राजीव नगर अयोध्या बायपास भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	इमलिया रोड घाट खेडी गांव भोपाल, सूखी सेवनिया	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
 Karnataka	Bengaluru Urban	All	a street (A-17) in Chalavadipalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street (A-150) in Varthur (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street (A-151) in Singasandra (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
@@ -4843,3 +4843,8 @@ Uttar Pradesh	Gautam Buddh Nagar	All	B Block Sec. 44 Noida	https://twitter.com/D
 Uttar Pradesh	Gautam Buddh Nagar	All	B block Sadarpur Colony near Hanuman Mandir	https://twitter.com/DhaorAshni/status/1272504338426941440/photo/2
 Uttar Pradesh	Gautam Buddh Nagar	All	Paradise Boys Hostel Tugalpur Road Pari Chowk Gr. Noida	https://twitter.com/DhaorAshni/status/1272504338426941440/photo/2
 Uttar Pradesh	Gautam Buddh Nagar	All	Surajpur Durga Colony Gr. Noida	https://twitter.com/DhaorAshni/status/1272504338426941440/photo/2
+Madhya Pradesh	Bhopal	All	म.न. 68 चौकी इमामबाडा अमर बंसत नूर महल रोड भोपाल, कोतवाली (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	म.न. 50, गली न. 01 राम मंदिर के पास टीलाजमालपुरा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	म.न. 517 जे.पी. नगर डी.आई.जी. बंगला भोपाल, गौतमनगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	म.न. 390, अब्बास नगर भोपाल, गांधीनगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	म.न. 62 लेबर कालोनी इन्द्रपुरी भोपाल, पिपलानी (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
