@@ -2768,19 +2768,26 @@ Maharashtra	Pimpri-Chinchawad	All	Shriram Colony, Bijlinagar	https://www.pcmcind
 Maharashtra	Pimpri-Chinchawad	All	Duttnagar, Akurdi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
 Maharashtra	Pimpri-Chinchawad	All	Rose Conti, Pimple Saudagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
 Haryana	Faridabad	All	Dabua Colony 	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Faridabad	All	NIT-1, Block A, B, C, D and H NIT-2 Block G, L Block	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Faridabad	All	Area in Sector-28, Faridabad (a) Blocks bearing Plot no. 682P-889P, 835P-905P, 817P-834P, 851P-876P, and 781P-816P, Sector- 28, Faridabad. (b) Row of plots from 972P to 984P.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	NIT-1, Block A, B, C, D and H NIT-2 Block G, L, Block -D	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	H.No. 42 to 72, Block-N,NIT-2, KL Mehta Road	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Peripheral/ITI road, NIT-3	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Area in Sector-28, Faridabad (a) Row of plots from 972P to 984P.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Baad Mohalla, Old Faridabad.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Block-B, Jawahar Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali No. 6 (H. No. 1945 to 1954), Jawahar Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	H. No. 2020 wali Gali, New Janta Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	H. No, 1415 wali Gali, New Janta Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row of plots 1176 to 113, Block G, Jawahar Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Khushwaha Digital Studio wali Gali, Jawahar Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Block-F, Shani Dev Mandir Wali Gali	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Jawahar Colony, Kand B	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali No. 2 from Mujesar main Market road, Goyal Colony, Kohli Mohalla, Mujesar	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	K.C. Arya Public School Wali Gali, Lamba Chowk,  rattan colony , Mujesar	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plot nos. 2730 to 2741, row of plot no. 2742-2753, Green Field Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plot nos. 965 to 976 and 1088 to 1096, Green Field Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plot no. 746-770, 771-783 & 807-827, Green Field Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plots 2449-2446 and 2467-2486, Green Field Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Faridabad	All	Area covered between House no. MCF-9470, Gali no. 294,295 near Gaunchi drain, House no. MCF-9491, Gali no. 295, Shop no. 8810, Near Gali no. 285 (Goyal Trading) and Workshop on Plot no. F-12 (Microtech Industries along Gaunchi Drain), Sanjay Colony, Sector-23	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	House No. A-2410 to A-2448, A-Block, Kaushalya Marg	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali No. 36, Sanjay Colony, Sector-23	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plots with plot nos. 1499 and the row of plots in front of it (Gali No. 11), Sanjay Colony, Sector-23	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Pocket in between Gali No. 39, 33ft road, Gali No. 34, Sanjay Colony, Sector-23	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
@@ -2789,15 +2796,13 @@ Haryana	Faridabad	All	Pocket between 33ft road and A.P Senior Secondary School, 
 Haryana	Faridabad	All	Pocket in south of NIMS Hospital opposite HDFC ATM, Sanjay Colony, having house no. 202, Sector-23A	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali No. 1, adjacent to Madhuban Restaurant Opposite Punjab Rolling Mill Chowk, Sector-23	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali No. 251, Block-F, Sanjay Colony, Sector-23. 	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Faridabad	All	Gali No-55, Block-A, Sanjay Colony, Sector-23	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Faridabad	All	Area of Sector- 23A (Part) and Sanjay Colony, Sector-23, Faridabad covered between House no. 1235, Sector-23A (in front of park and market), House no. 1648, Sector- 23A, House no. 1353, Sector- 23A (in front of Fountain Park), Shop no. 48, Gali no.8 (Royal Properties on 22ft. Main Road), Sanjay Colony and Shop no. 13, Gali no. 03 (Mohar Ladies Tailor on 22ft. Road), Sanjay Colony.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Gali No-55 & 56, Block-A, Sanjay Colony, Sector-23	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Plot nos. 1136 to 1145, 1520 to 1563, 1886 to 1961 P, 1962 to 1965, 2028 to 2031, 2032 to 2041, 2079 to 2087 P, 2935 to 2937 P, 2980 P to 2982, Sector-62	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Area of Adarsh Colony, Near Mulla Hotel, Faridabad covered between the locations of shop no. J-1(Sumit Traders, FBD-Oridsa B.S TempoService), Shop no. R-370(Batra Kirana Store in front of Veshno Devi Mandir), Shop no. R-303 (Wine & Kunal Soda Shop in front of Ram Singh Auto Centre) & House no. J-59, Valmiki Gali along the Central Water Works Commission	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Pocket of EWS Plot bearing no. 288 to 701, Sector-18, Housing Board Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Block containing 874 to 979, Sector-18, Housing Board Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Faridabad	All	Area covered between the locations of the houses of Sh. Sukhbir Singh Advocate, Sh. Fireh Chandila, Sh. Vijay Chandila and the Panchayat Bhawan in Village Fatehpur Chandila.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Faridabad	All	Village Mahola	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Village Sihi	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Gali No 1, Near Govt College Tigaon	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Shiv Sharda Colony, Ballabgarh	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Structure falling between the stretch of Mawai Road from Shiv Mandir to Mahendra Building Material Shop, Tilpat, Sector- 91	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Area between row of plot nos. 996 to 966 and road in front of row of plots 739 to 759, sector-10, Faridabad.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
@@ -2805,44 +2810,66 @@ Haryana	Faridabad	All	Indira Colony, Sector-05	https://twitter.com/DC_Faridabad/
 Haryana	Faridabad	All	Entire belt of Auto Pin Jhuggies situated along Nallah, between Railway Road and Sector Dividing Road of Sector- 22 and 24. 	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Blocks bearing Plot nos. 8P-21P, 75P-90P, 91P-114P, 161P-198P and row of plots from plot no.168P-175, 183-191P, 215P-218, 235-238P & 116P-141P Sector-14	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Area between road in front of row of plot no. 687P-699P, road in front of row of plot no. 834P-853, road in front of row of plot no. 714P-727 and Stretch of Sector Dividing Road of Sector- 7 and 8 abutting row of plot no. 780P-803P.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row. Of plot no 1646P to 1658P and Park. In front of it. 	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Block of plots 2321-2334, row of plots 2269 to 2275, 2362 to 2371 & 2399 to 2412, Sector-7	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Gali No 2. Ghada Colony, Nehar Par	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Village Mawai	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Cluster namely ‘Sai Colony’ bounded by Firing Range Road and Sai Mandir Road, along Chainsa Distributary, Village Mawai.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Structures existing on stretch of Kheri kalan Road between the existing shop namely Krishna Dairy and Jai Ma Durge Building Material Shop, Indra Colony, Near Kheri Pull	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Cluster namely ‘Hanuman Nagar’ situated between sector dividing road of Sector- 87 and 88 and Vikas Nagar, along the Faridabad Nachauli Road, Sector- 87	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Gali having plot no 915 to 918 and 927 to 929 Parvatiya colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row of N.No. 2377 to 2388 , Parvatiya colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali No. 1, Sai Card Home wali Pocket between 35ft road and Wazirpur Road, Hanuman Nagar, Sector-87	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Part area of Himalaya School pocket covered between Air Force Nallah (stretch between Saraswati School & developed plot of Sh. Chaudhary), Aggarwal School Gali (up to House of Davesh Aggarwal Advt., Gali No. 1 & 5, 5/1 (Khushi Silai Center) up to Saraswati School, Sanjay Enclave, Parvatiya Colony (Masjid Area), Faridabad	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Area of Jawahar Colony in the south of press colony between the 22 feet road, existing Nallah and Jawahar colony road.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Millhard Colony in the South of Bata Road Flyover	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Area of Jain Colony between the Gali no.6 (stretch from FCA- 101 to 161) and Mohna Road (Stretch from Jain Vidya Mandir School to existing Park/Bank) and Mukesh Colony Road (Stretch from Akash Cinema to FCA-101), Ballabgarh.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Faridabad	All	Village Deegh and Pehladpur Mazra Deegh.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Part of Block- C and D, NH-5 between Sahid Bhagat Singh Marg and Sahid Sukhdev Singh Marg.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Area of Jagram Sarpanch Colony between Meethapur Palla Road, Agwanpur Road, Sehatpur Chowk-Sehatpur Bridge Road, Village Palla.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Gangaram Colony, Gali No 2, Surya. Vihar part-2	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Gali No 7, Shastri. Colony/Ved ram Colony, Palla	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Gali No. 4, Surya Vihar, Sehatpur	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali No. 6, Chauhan Colony/Ved ram Colony, Palla.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Block of Plot no. 513P-547P, 548P-573P, row of plots. 525P-535P and plot nos. 712 to 722, 574P to 592, Sector-16	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Pocket between the Row of plots 306 to 327P and the Green belt along the 60ft wide in front row of plot 149P - 163P, Sector-16	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Plot no. 849 to 859P, 883 to 880 P, 904 to 907 P and the Park abutting plot no. 860P & 879P, Sector-16	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plots 513P to 524 and 502 to 512, Sector-16	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plots 2191P to 2208P, Sector-16	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row of plots 2685P to 2700 and. 2707 to 2723P	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Colonel Vihar Part-II, Gali of Devilal Dairy, Pocket between shop of Prince jewelers, Saini Public School and Jagdish General Store on west of 35ft road between Vikas Nagar and Bharat Colony.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	gali No 1,35 ft Road, Bharat colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Pocket of Bharat Colony in east of SRS Hightech affordable housing ,  Bharat Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Gali No 10, Bharat Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Block of Plot nos. 4089-4100, 4067-4088, 4043-4066, 4411C-4427, 4101-4132 and 4133-4162, IP Colony, Near Ex-Sainik Colony Sector-49	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Block of plots 553-594, row of plots 595 to 611 & 538 to 552 and Park in this block, Sector-55	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plots 1296P to 1310P and 1289 to 1277P, Sector-55	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali infront of Mitti Wala Park,( North side) in pocket surrounded by Shiv Mandir Gali, Govt. Model Sr. Sanskar School, Sector-55	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row oof H.No 2960 to. 2999	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row. Of plot no 553 to 572	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Dhani/Structures located on the stretch of 150 meter of Bahadurpur- Badrola village link road from Phirni of village Bahadurpur.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Bhagat Singh Colony, Ballabgarh:- Area bounded by Shop No. 207 (Riya General Store), H. No. 346 (Bal Kisha Yadav), H. No. 341, H. No. 339 (Jaman Singh), H. No. 338 (opposite Bohra Public School) and Shri Durga Nursing Home.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	East Chawla Colony, Ballabgarh, Area on 22 ft road bounded by H. No. 960 (Ombati Saini), Laurel Kids School, H. No. 889 (Heera Devi) and Modern Saraswati Vidya Niketan public school in rear of H. No. 960, East Chawla Colony, Ballabgarh	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	East Chawla Colony, Ballabgarh:- Pocket in front of existing police station on 22 feet road between H. No. D-186, D-61, D-243	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	East Chawla Colony, Ballabgarh:- Pocket between Shyam Motors, National condition and powertech inverter, Ashok bakery and Shri Balaji test house adjacent to Gurgaon canal.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Sector-03:- Area of 36 yd. pocket bounded by Plot no. 5499 (Ravindra Singh), Haritma Public School, H. No. 5346 (Anish Ahmed), H. No. 5481 (Darshan Singh).	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row. Of plots 585 to 591	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row of plot nos 4320 to 4340 and 4354 to 4379	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row of plot nos 3874 to 3881 and. 3910 too. 3914A	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Sector-23, Faridabad:- Area of Housing Board Colony bounded by H. No. 997, H. No. 552, H. No. 494, H. No. 440 (Sharma), H. No. 1014, H. No. 1013.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Uncha Gaon, Ballabgarh :- Area at Shahpura Road (about 300 mtr. from ferny of Uncha Gaon) bounded by Farms of Sh. Amrit Saini Lal, Sh. Rajesh Saini, Sh. Ram Kumar Saini and Samarak School.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Balmiki Mohalla, Uncha Gaon, Ballabgarh	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Prem Nagar Opposite Vivek Uniforms,  Uncha Gaon Chungi	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plots 1121 to 1135P and 1122 to 1137P , Sector-37	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row of plots 777 to 786P and 751 to 740P,Sector 37	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row oof polts 1248 to 1258	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Tower C, Ibiza Town, opposite Suraj kund	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Bhoor Colony, Old Faridabad	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Village Gaunchi	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali of Khurrana Steel Cutter, Nehru Ground	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of residences in north of the Bata Flyover in Ram Nagar between Highway and Railway line.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	60ft wide road from sector dividing road of sector 30 & 31 from plot no 13, Block-5 to plot no 1 of Block-10 up to Park on this road, Spring Field Colony.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row of H.No 17 to 27,Block-7, Spring Field Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	H.No.1 to 19, Block 11, Spring Field Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Pocket of Baselwa Colony between Dost printing Press, KD Trading, shop of Aggarwal bakers	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	A stretch of 220 m of Gupta Paints and Hardware gali from Basantpur Road, Panchsheel Colony.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Pocket between Chakki Wali Gali (D-165 Rajbir Atta Chakki), Jaat Chaupal, Gali leading to Mandi Market and SD Model School, Ajronda	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
@@ -2851,26 +2878,34 @@ Haryana	Faridabad	All	Row of plots from N2-12A to N2-19 and N2-02 to N2-11, N Bl
 Haryana	Faridabad	All	Pocket of Friends Colony abutting Railway Line in between Garg General Store, HDFC ATM, Raju Kirana Store, Sector-20.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Village Nariala	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plot nos. 676P to 688P and 697P to 687P, Sector-21C	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row of plots 598 to. 742	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plots nos. 289P to 304P, Sector-29	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali no. 4, Harkesh Colony, Tilpat.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Gali no. 2, Chajjan Nagar, New Tilpat Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Baselwa Colony:- Gali No. 12 and Open Ground at Bye pass near starting point of Chungi Road, Baselwa Colony, Old Faridabad.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Baselwa Colony:- Gali No. 13 from Purani Chungi Road to end of the gali No. 13	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Baselwa Colony:- Gali No. 2 (having H.No. 210), Baselwa Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali no.1 (Having Axis Bank ATM) from Mujessar main Marg.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali Brijwasi Sweets wali (From Chacha road to and of the Brijwasi sweet wali gali), Block-A, Parvatiya Colony, Sector-52	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Tower T-11 for Group Housing Colony namely RPS Savana, Sector-88	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	1D-33, Block, NIT-1	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Tower T-6, Lake View Apartments, Sector-48	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	12 m road in between plot no. 1313 & 1133 and 12 m road in between plot no. 1163 & park, Row of plots 1134 to 1144 and 1151 to 1162 of D Block, Sector-49, Sainik Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	H.No. 802 to 812, 813 to 823, Pocket-B(Having H.No B-808), Sainik Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	H.No. 2297 to 2301 and 2308 to 2315, Block-F, Aravali Vihar, Sainik Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Abadi of Village Mewla Maharajpur	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Part Ram Nagar in between Neelam Bata Road and Bata Fly over, Sector-20B	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Pocket (Maa Bahgwati Mandir wali) of Colony located (adjacent to NTPC) in rear side of Govt. Polytechnic, Neemka.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali infront of H. No. 1966 up to the Main Road in front of Mile Stone Public School, Jawahar Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	139A to 145A and 119 to 128, Sector-11	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row of. Plot nos 190. to. 199. and 170. to 188	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plots nos. Al2-14 to A12-20, A11-01 to A11-08, A Block-, Sector-85, BPTP	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plots nos. L8-01 to L8-06 and L8-07 to L8-12, Block-L, Sector- 84, BPTP, Faridabad.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	BPTP, Sector-84:- Tower L, Park, Elite Premium, Group Housing	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Entire Pocket of Adarsh Nagar having Internal Faith Church	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	H. no. 1043 wali gali Opposite Better Life Pharmacy, Subhash Colony, Sector-60, Ballabgarh.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali no. 15 and Gali No. 04, SGM Nagar	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	H.No. 201 wali Gali, Pocket-A Disha Apartment, Sector-48	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Ashoka Enclave, Sector-37:- Plot no. 286 to 300.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Ashoka Enclave, Sector-37:- Row of plots 167 to 170 and the park infront.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Ashoka Enclave, Sector-37:- Row of plots No.150 to 160.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
@@ -2884,6 +2919,7 @@ Haryana	Faridabad	All	Cluster of Prem Nagar Jhuggies Opposite Adani CNG Station 
 Haryana	Faridabad	All	Pocket between Talab Road and Markas Masjid, Baba Nagar, Opposite plot no. 1360P, 1333P, Sector-19, Faridabad.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Sector-17:- Row of plots 275 to 385, 286 to 294, 250 to 263, 239 to 249 and the Park adjacent to 285P.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Sector-17:- Row of plots 983P to 994P, Govt. Primary School, 746P, 887P to 890.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Sector-17:- Row of plots 1314P to 1320P, 1378,1379,1350,1351	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali No. 16 & 17, Baselwa Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Raju Halwai Wali Gali (having House No. 363/6), 22ft Road, Jawahar Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Dayal Basti adjoining to Green Field Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
@@ -2899,13 +2935,18 @@ Haryana	Faridabad	All	Tower 11, Puri Pratham, Sector-84	https://twitter.com/DC_F
 Haryana	Faridabad	All	Village Fafunda, Tehsil Dayalpur	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali No. 9 (having H. No. 511), Batta Colony Part-2, Sehat Pur	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plot 1592 to 1607P, 1630P to 1643, Sector-28	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Faridabad	All	Row of plots 401P to 412 and Plot no. 413P, 444P, 453P, 454P, park,	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Faridabad	All	517P, 518, Sector-7	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Sector-28:- Row of plot nos. 420P To  439P And 393P To 406P	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Sector-28:-  Row Of plots 634P to 639P and 633P to 628P	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Sector-28:- Row of plot nos 1928 to 1938	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Sector-28:-  Row of plot nos. 2289 to 2298 and 2284 to 2288	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Row of plots 401P to 412 and Plot no. 413P, 444P, 453P, 454P, park,517P, 518, Sector-7	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plots 1008 to 1018 and 1019 to 1024 and Park, Sector-10.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Village Machgar	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Row of plots 577P to 594P, 651P, 652P and park, Sector-10	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	2nd pocket in south of CR Modern High School, Bhudutt Colony, Ballabgarh.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali No. 2, Near Punjabi Dharamshala, Adarsh Nagar, Ballabgarh.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Gali No. 1, Near Shyam Mandir, Adarsh Nagar	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Gali No. 5, Near Nav Jyoti School, Adarsh Nagar	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Pocket of plot no. 739 to 873, Housing Board Colony, Sector-18	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Plot no. 682P to 697P, 670P to 681P and park, Sector-21C	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Block-A between main Bnd Road, Kabli Gurudwara Gali and Saheed Bahgata Singh Marg having H. No. 3991	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
@@ -2921,12 +2962,12 @@ Haryana	Faridabad	All	Village Jajru	https://twitter.com/DC_Faridabad/status/1268
 Haryana	Faridabad	All	Cluster of Jhugies Near Vardhman mall, Sector-19	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Plot nos. 1835 to 1839P, Sector-65, Faridabad	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Village Sikrona.	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Faridabad	All	Row of plots nos. 310 to 327, Sector-31	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Sector-31:-  Row of plots nos. 310 to 327	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Sector-31:-  Row of plots nos. 317 to 330	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Village Chandawali	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	Gali No. 12 and 15 New Baselwa Colony	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	H. No. 404 wali Gali, Rahul Colony, NIT	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Faridabad	All	Gali having plot no. 915 to 918 and 927 to 929, Parvatiya Colony, Sector-52	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
-Haryana	Faridabad	All	Sant Nagar	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
+Haryana	Faridabad	All	Sant Nagar	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
 Haryana	Gurugram	Gurugram	Janua bank wali Gali, Sahil Insurance Point wali Gali (Ward No. 8, Pataudi)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Harijan Basti, Village Firni, Sunder House to Aatama Ram house, Raj Kumar House to Kailash House (Dadawas Village, Pataudi)	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
 Haryana	Gurugram	Gurugram	Gali No 6 N Block, Mohan Nagar-Naya gaon, Sohan	https://twitter.com/DC_Gurugram/status/1268778730794569728/photo/3
@@ -4864,3 +4905,51 @@ Uttar Pradesh 	Lucknow	All	भागामऊ नियर प्राइमर
 Uttar Pradesh 	Lucknow	All	मौलवीगंज अमीनाबाद लखनऊ	https://twitter.com/NewsWrap360/status/1273323102722654208/photo/1
 Uttar Pradesh 	Lucknow	All	505/747 जोशी टोला डालीगंज लखनऊ	https://twitter.com/NewsWrap360/status/1273323102722654208/photo/1
 Uttar Pradesh 	Lucknow	All	सुशान्त गोल्फ सिटी लखनऊ	https://twitter.com/NewsWrap360/status/1273323102722654208/photo/1
+Haryana	Faridabad	All	Green Field Colony:- House No. A-2192 to A-2214, A-Block, Major Dhyanchand Marg	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Green Field Colony:- House No. A-2389 to A-2409, A-Block, Sant Ravidas Marg,	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Green Field Colony:- Houses Nos. B-1299 to B-1303 and B-1477 to B-1480 B-Block, Space Road	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Green Field Colony:- Houses Nos. B-885 to B-890 and B-866 to B-870 and B-902 to B-908, B-Block, Surdas Marg / Tansen Marg	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Green Field Colony:- House No. B-501 to B-518 B-Block, Ashok Marg,	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Green Field Colony:- House No. C-3001 to C-3009 C-Block	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Sanjay Colony Sector 23:- stretch of 22ft Road, near Parmar trader (sanitary Shop) No. 15,  near Gali	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Sanjay Colony Sector 23:- Row of H. No. 10353 to 10365.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Sanjay Colony Sector 23:- 22ft Road, D Block, Main matket, Jivan nagar.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Sanjay Colony Sector 23:- Gali. No. 41.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Sanjay Colony Sector 23:- Row of H. No. 9004 to 9017.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Sanjay Colony Sector 23:- Row of plot nos. 1846/3 to 1848/2 and 1849/2 to 1854/2.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Sanjay Colony Sector 23:- 818/07 to 818/23.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Sanjay Colony Sector 23:- H. No. 2808 to 2916 and 2918 to 2924 Gali No. 20A, Sanjay Colony	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Sector-23:- Row of H. No. 5552 to 5570, Gali No. 23, Block-E, Faridabad	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Pocket in the north of Saraswati Vidya Niketan School having H. No 100 wali Gali, BajrangChowk Sarai Khawaza.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	H. No. 1038, Harkesh Nagar, Faridabad	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Gali No. 9 having prince jewelers shop in the west of Basantpur- Ismailpur road (in front Aggarwal Building material Supply, Panchseel park, Basant Pur, Faridabad	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	H. No. 17, BPTR Park Elite Floors Block-N, Sector-82, Faridabad.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Village Panhera khurd.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Row of Plot nos. 520 to 529 and 411 to 419 Sector-22, Faridabad.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Row of H. Nos. 62 to 85 near Anaj Mandi, Ballabgarh.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Row of H. No. 88 to 104, Gali No. 1, Ahir Wara, old Faridabad.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Row of H. no. 56 to 85, Ahir Wara, Old Faridabad	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	H.No. 4518 in rear of Dhanlaxmi motors, Sector-20A, Ajrondi.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Village Bhanakpur	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Gali No. 2 (Having H. No. 133), Ahir Wara, Ballabgarh.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Juggies in between Guagaon Canal and Industrial Sector-4, Faridabad.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Gali No. 4/2, Shiv Enclave, Ismailpur, Palla	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Gali No. 5, B Block, Nikhil Vihar, Ismailpur, Palla	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Row of Houses V94 to V106, Gali/ Lane No. 12, Gandhi Colony.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Gali No. 18, 1172 to 1181 and 1214 to 1221, Gandhi Colony	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Gali No. 3, Nawada Koh Colony (having h. No. 64), near iyoti public school Sector-49, Faridabad.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Row of H. No. 108 to 121, Sector-30, Faridabad.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Row of H. No. 301 to 316, Gali No. 4, Bhatia Colony, Ballabgarh.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	H. No. A-24 wali Gali, near Sh. Santan Dharam Shiv Mandir, Kapra Colony,  Sector-51, Faridabad.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Row of Flat No. M2-06 to M2-15 and M2-15 to M2-2, 2nd Floor, Block-M, BPTP Parkland, Sector-83, Faridabad.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Gali No. 3, Nangla Enclave Part-2, Ghazipur, Sector-51, Faridabad.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	D-564 wali gali, near Radhika Infotech Pvt. Ltd, ganeshi House, Ajronda, Sector  15A, Faridabad.	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Pocket of Rajeev Colony in south of Kanchan Vidya Mandir Sr. Sec School, Sohna Road, Faridabad	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Pachayala Maholla, Machgar	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Near to Pracheen Mandir, Sikrona	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Bhegeria Mohalla and Nichla Mohalla, Panhera khurd	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Pachayala Mohalla, Nariyla	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Koli Mohalla, Malrena	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Imami Patti, Bhanakpur	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Dayalpur Prajapati Mohalla	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Haryana	Faridabad	All	Chandawli Harijan Mohalla and Mohna road infront of market	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
