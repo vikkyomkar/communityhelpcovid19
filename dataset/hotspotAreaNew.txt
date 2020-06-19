@@ -4850,11 +4850,11 @@ Uttar Pradesh	Gautam Buddh Nagar	All	B Block Sec. 44 Noida	https://twitter.com/D
 Uttar Pradesh	Gautam Buddh Nagar	All	B block Sadarpur Colony near Hanuman Mandir	https://twitter.com/DhaorAshni/status/1272504338426941440/photo/2
 Uttar Pradesh	Gautam Buddh Nagar	All	Paradise Boys Hostel Tugalpur Road Pari Chowk Gr. Noida	https://twitter.com/DhaorAshni/status/1272504338426941440/photo/2
 Uttar Pradesh	Gautam Buddh Nagar	All	Surajpur Durga Colony Gr. Noida	https://twitter.com/DhaorAshni/status/1272504338426941440/photo/2
-Madhya Pradesh	Bhopal	All	म.न. 68 चौकी इमामबाडा अमर बंसत नूर महल रोड भोपाल, कोतवाली (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	म.न. 50, गली न. 01 राम मंदिर के पास टीलाजमालपुरा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	म.न. 517 जे.पी. नगर डी.आई.जी. बंगला भोपाल, गौतमनगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	म.न. 390, अब्बास नगर भोपाल, गांधीनगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
-Madhya Pradesh	Bhopal	All	म.न. 62 लेबर कालोनी इन्द्रपुरी भोपाल, पिपलानी (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	म.न. 68 चौकी इमामबाडा अमर बंसत नूर महल रोड भोपाल, कोतवाली	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	म.न. 50, गली न. 01 राम मंदिर के पास टीलाजमालपुरा	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	म.न. 517 जे.पी. नगर डी.आई.जी. बंगला भोपाल, गौतमनगर	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	म.न. 390, अब्बास नगर भोपाल, गांधीनगर	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	म.न. 62 लेबर कालोनी इन्द्रपुरी भोपाल, पिपलानी	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
 Uttar Pradesh 	Meerut	All	चैतन्यपुरम	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
 Uttar Pradesh 	Meerut	All	जाकिर कालोनी	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
 Uttar Pradesh 	Meerut	All	रोशनपुर डोरली	https://www.thesabera.com/meerut/meerut-new-hotspot-list-announce/?fbclid=IwAR3MOJzUfm8CMeyYyiSrEl7y8p_RU59ZtPaleg9QFN82cP4ERx9k0L_8Rzs
@@ -4953,3 +4953,9 @@ Haryana	Faridabad	All	Koli Mohalla, Malrena	https://drive.google.com/file/d/1w1s
 Haryana	Faridabad	All	Imami Patti, Bhanakpur	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
 Haryana	Faridabad	All	Dayalpur Prajapati Mohalla	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
 Haryana	Faridabad	All	Chandawli Harijan Mohalla and Mohna road infront of market	https://drive.google.com/file/d/1w1sTWug3t8spIX-lMW2HLlgKl465RvoX/view
+Madhya Pradesh	Bhopal	All	47, अहमदाबाद पैलेस कोहेफिजा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	बी-122 एचबीए कालोनी कोहेफिजा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	वार्ड नं 53, नियर मस्जिद बावडिया कला, शाहपुरा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	एस-18/3 नियर साधुवासवानी स्कूल बैरागढ (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	निरूपम रायल कालानी बिहाईन्ड जाटखेडी होशंगाबाद रोड, मिसरोद (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
+Madhya Pradesh	Bhopal	All	ई-08,184 भरत नगर शाहपुरा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
