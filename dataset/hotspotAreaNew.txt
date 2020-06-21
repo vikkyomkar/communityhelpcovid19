@@ -38,7 +38,6 @@ Punjab	SAS Nagar Mohali	All	Mukandpur village	https://timesofindia.indiatimes.co
 Punjab	SAS Nagar Mohali	All	Devi Nagar village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
 Punjab	SAS Nagar Mohali	All	Haripur Kurha village	https://timesofindia.indiatimes.com/city/chandigarh/10-new-cases-spur-punjab-to-declare-derabassi-a-hotspot/articleshow/75092224.cms
 West Bengal	Medinipur East	All	Egra	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
-West Bengal	Kalimpong	All	Note: Entire District declared Red Zone Hotspot	https://timesofindia.indiatimes.com/city/kolkata/complete-lockdown-plan-for-10-covid-19-hotspots/articleshow/75088484.cms
 West Bengal	Nadia	All	Tehatta	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
 Maharashtra	Ahmednagar	All	Mumkundnagar (Nagar City)	https://maharashtratimes.com/maharashtra/ahmednagar-news/jamkhed-city-corona-hotspot/articleshow/75084819.cms
 Maharashtra	Ahmednagar	All	 Alamgir (Nagar taluka)	https://maharashtratimes.com/maharashtra/ahmednagar-news/jamkhed-city-corona-hotspot/articleshow/75084819.cms 
@@ -131,7 +130,6 @@ Madhya Pradesh	Dewas	All	Peetha Road	https://www.indiatvnews.com/news/india/madh
 Madhya Pradesh	Dewas	All	Nahar Darwaja	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Dewas	All	Sheetlamata ward, Haatpipliya City	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Dewas	All	Panigaon village	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
-Rajasthan	Kota	All	Entire District is declared Hotspot	https://www.newsstate.com/india/news/corona-virus-hotspot-in-rajasthan-136748.html
 Karnataka	Mysuru	All	Nanjangud town	https://www.dtnext.in/News/National/2020/04/02135830/1222923/Covid19--Mysuru-district-declared-Red-Zone-security-.vpf
 Andhra Pradesh	Kurnool	All	Roja Street	https://www.thehindu.com/news/national/andhra-pradesh/red-zones-created-in-kurnool/article31252572.ece
 Andhra Pradesh	Kurnool	All	Owk and Banaganapalle villages	https://www.thehindu.com/news/national/andhra-pradesh/red-zones-created-in-kurnool/article31252572.ece
@@ -332,92 +330,6 @@ Jammu & Kashmir	Srinagar	All	Tengpora (Zone: Batamaloo)	https://twitter.com/ANI/
 Punjab 	Pathankot	All	Sujanpur area	https://www.hindustantimes.com/cities/17-hotspots-identified-in-9-districts/story-ypklVS8PEghvjeblu4FK9L.html
 Punjab 	SBS Nagar	All	Pathlawa village	https://www.hindustantimes.com/cities/17-hotspots-identified-in-9-districts/story-ypklVS8PEghvjeblu4FK9L.html
 Ladakh	Leh	All	Saboo Phu	http://universalnewstimeline.com/saboo-phu-containment-zone-now
-Andhra Pradesh 	Kurnool	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Andhra Pradesh 	Guntur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Andhra Pradesh 	Nellore	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Andhra Pradesh 	Krishna	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Andhra Pradesh 	YSR	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Andhra Pradesh 	West Godavari	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Andhra Pradesh 	Chittoor	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Andhra Pradesh 	East Godavari	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Andhra Pradesh 	Anantapur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Bihar 	Siwan	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Chhattisgarh 	Korba	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Gujarat 	Vadodara	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Gujarat 	Surat	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Gujarat 	Bhavnagar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Gujarat 	Rajkot	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Jammu & Kashmir 	Srinagar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Jammu & Kashmir 	Bandipura	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Jammu & Kashmir 	Baramulla	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Jammu & Kashmir 	Jammu	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Jammu & Kashmir 	Udhampur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Jammu & Kashmir 	Kupwara	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Karnataka 	Mysuru	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Karnataka 	Belagavi	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Madhya Pradesh 	Khargone	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Madhya Pradesh 	Ujjain	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Madhya Pradesh 	Hoshangabad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Maharashtra 	Nagpur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Maharashtra 	Sangli	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Maharashtra 	Ahmednagar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Maharashtra 	Yavatmal	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Maharashtra 	Aurangabad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Maharashtra 	Buldhana	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Maharashtra 	Odisha	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Maharashtra 	Khordha	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Punjab 	SAS Nagar Mohali	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Punjab 	Jalandhar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Punjab 	Pathankot	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Rajasthan 	Udaipur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Rajasthan 	Tonk	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Rajasthan 	Jodhpur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Rajasthan 	Banswara	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Rajasthan 	Kata	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Rajasthan 	Jhunjhunu	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Rajasthan 	Jaisalmer	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Rajasthan 	Bhilwara	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Rajasthan 	Bikaner	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Rajasthan 	Jhalawar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Rajasthan 	Bharatpur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Telangana 	Nizamabad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Telangana 	Warangal Urban	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Telangana 	Ranga Reddy	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Telangana 	JogulambaGadwal	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Telangana 	MedchalMalkajgiri	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Telangana 	Karimnagar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Telangana 	Nirmal	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttar Pradesh 	Saharanpur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttar Pradesh 	ShamIi	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttar Pradesh 	Firozabad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttar Pradesh 	Moradabad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-West Bengal 	Medinipur East	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-West Bengal 	North 24 Parganas	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Andaman & Nicobar 	South Andamans	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Bihar 	Munger	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Bihar 	Begusarai	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Bihar 	Gaya	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Chhattisgarh 	Raipur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Gujarat 	Patan	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Jammu & Kashmir 	Shopian	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Jammu & Kashmir 	Rajouri	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Jharkhand 	Ranchi	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Jharkhand 	Bokaro	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Karnataka 	Bagalkote	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Karnataka 	Dharwad	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Ladakh 	Kargil	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Madhya Pradesh 	Morena	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Maharashtra 	Kolhapur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Maharashtra 	Amravati	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Punjab 	Mansa	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Punjab 	Amritsar	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Punjab 	Moga	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Rajasthan 	Udaipur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Telangana 	Nalgonda	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttar Pradesh 	Bulandshahr	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttar Pradesh 	Sitapur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttar Pradesh 	Basti	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
-Uttar Pradesh 	Baghpat	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Punjab 	Pathankot	All	T-3 Quarters at Additional Land Colony, ShahpurKandi Township, Jugial	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041154.pdf
 Punjab 	Pathankot	All	Anandpur Rara/Kulian	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041380.pdf
 Punjab 	Pathankot	All	Village Sarti, Tikka Tarowan, Hadbast No. 404, Tehsil Dharkalan	https://cdn.s3waas.gov.in/s320f07591c6fcb220ffe637cda29bb3f6/uploads/2020/04/2020041295.pdf
@@ -481,7 +393,6 @@ Telangana	Secunderabad	All	Habsiguda	https://www.jagranjosh.com/current-affairs/
 Telangana	Secunderabad	All	Kakateeynagar	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
 Telangana	Adilabad	All	Adilabad municipality (19 Wards)	https://www.jagranjosh.com/current-affairs/coronavirus-hotspots-in-telangana-full-list-of-containment-zones-1587467494-1?ref=list_ca
 Rajasthan 	Jaipur	All	MD Road	https://twitter.com/Shyam__INC/status/1252991250455805952
-Rajasthan 	Jaipur	All	Note: Entire District declared Red Zone Hotspot as on 15 April 2020	https://twitter.com/PIB_India/status/1250405447724490753
 Rajasthan 	Ajmer	All	Mochi Mohalla	https://twitter.com/DWIJMUKESH/status/1252844321214066695
 Rajasthan 	Ajmer	All	Roopnagar	https://twitter.com/DrRamlal/status/1251836592102223872
 Rajasthan 	Ajmer	All	Beawar	https://twitter.com/DrRamlal/status/1251836592102223872
@@ -747,15 +658,6 @@ Punjab 	Jalandhar	All	Anand Nagar, Ashok Vihar, Vivekanand Park, Golden Avenue, 
 Punjab 	Jalandhar	All	Narayan Nagar, Two Streets next to Pakka Baagh	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
 Punjab 	Jalandhar	All	Nizatam Nagar, Narayan Nagar	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
 Punjab 	Jalandhar	All	Ward no. 12 Lohian (Tehsil Shahkot)	http://www.punjabtribune.com/news/200973-27-areas-and-4-villages-in-jalandhar-declared-containment-zones-here-is-the-list.aspx#.XqrDYfFaxiU.twitter
-West Bengal	South 24 Parganas	All	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
-West Bengal	Medinipur West	All	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
-West Bengal	Darjeeling	All	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
-West Bengal	Jalpaiguri	All	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
-West Bengal	Maldah	All	Note: Entire District declared Red Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
-West Bengal	Paschim Bardhaman	All	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
-West Bengal	Purba Bardhman	All	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
-West Bengal	Murshidabad	All	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
-West Bengal	Nadia	All	Note: Entire District declared Orange Zone Hotspot	https://twitter.com/nehabnk/status/1256076454002999296
 Haryana	Bahadurgarh	All	Loharhedi	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
 Haryana	Bahadurgarh	All	Sainipura	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
 Haryana	Bahadurgarh	All	Jatwada	https://www.jagran.com/haryana/hisar-live-coronavirus-hisar-10-new-corona-virus-positive-cases-found-in-bahadurgarh-jhajjar-and-second-report-of-elderly-negative-in-hisar-20237365.html
@@ -1984,78 +1886,6 @@ Bihar	Patna	All	समनपुरा पुरानी मस्जिद क�
 Bihar	Patna	All	रंजन भगत चांदमारी रोड, गली संख्या दो, पीएनबी एटीएम के पास थाना कंकड़बाग	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
 Bihar	Patna	All	सरकारी बोरिग के पास, गांव के उत्तर-पश्चिम, ग्राम बहुआरा, पंचायत चिपुरा, थाना गौरीचक	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
 Bihar	Patna	All	पश्चिमी जजेज कॉलोनी, आरपीएस मोड़, थाना रूपसपुर, दानापुर।	https://www.jagran.com/bihar/patna-city-13-localities-of-patna-are-now-free-of-corona-containment-zone-tag-20328224.html
-Uttar Pradesh	Ghaziabad	All	A75 Green Vally Kaushambi opp Rajpat Regidency Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	A2 51 Ambedkar road Maharajpur sahibabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Maharajpur Shahiabad Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	H. No. 87 Maharajpur Sahibabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Plot No 723 H.No 2 Shalimar Gardan Ext. 2	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	UG 4, C 302 Shalimar Garden Fxt 2, Sahibabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Sahibabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Jhandapur Opp CL compney	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	A 59 Gali no 1 Jhandapur Sahibabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Gyani Chowk Jhandapur	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Hanuman Mandir wali gali, Near New Bharat Medical Store Kadkad Model Sahibabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Kadkad Model Mangal Bazar sahibabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	3rd F 325/3 UG F2 Vaishali Sec 3	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Plot no 204 Flat no S1 Sec 4 Vaishali	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Flat No 102, eman castle Sec 4 Vaishali	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	5/72 Flat No 203 Vaishali	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Flat No S 3162 Sec 6 Vaishali	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	614 C Gulmohar Green Mohan nagar	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	H. No. 79 Sanjay Colony Near Chand Masjid, Arthala Mohan Nagar, Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	H. No. 40 Vill Morta Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	557 kanawali road near amity school jagriti enclave sec I vasundhara	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	3/937 sec 3 Vasundhra	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	2nd Floor 269 sec 3 Vasundhra	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	313 Sec 15 Vasundhra Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	388, Rajapati Market main Bazar Loni	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	H. No 11 Tilak ram colony Main Road Monday Market Behta Hazipur Loni	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	B 180 Panchwatl Colony Loni Border Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	B 32 F 4 DLF Ankur vihar loni	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	B 582 Asharam road Nandgram Gali no 3 Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	G Block Nandgram Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Sultan Chowk Raja Halwal wali gali Hindan Vihar	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	A 165 Gali no 1, Rajeev Nagar Bhopura	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	H No 531 Brajvihar colony Gali no 15 Muradanagar	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	H. no 101 Malik Nagar Muradnagar	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	H. no 1916 Gaytri Mahagun Puram Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	1202 Jaipuriya Sun Rise Ahinsa Khand 1 Indirapuram	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Plot 68 Flat UG 3 Nayay Khand I Indirapuram	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	424 A Nayay khand III Indirapuram	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Khoda colony	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Khoda colony	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Khoda Village Near Gupta Hospital Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	New Ganga vihar budh Bazar Khoda	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	A59 Ajad vihar Khoda colony	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	RC 58 Ajad Vihar Khoda	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	RC 122 Pragti vihar Khoda	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	RC 673, Adarsh Nagar Khoda Colony Makanpur	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Mahalaxmi garden Makanpur gali 2 Khoda colony	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	RC 86 Vandna Enclave Khoda Colony	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	RC 446 GA no 6 Shankar Vihar Khoda colony	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	A 105 sec 23 Sanjay Nagar	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	F 149 Sec 23 Sanjay Nagar	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Pakki Saray, Dasna Gate	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	1/4 Pakki Mori Dasna Gate	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Rail Enclave Pratap Vihar	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	F 551 Sec 9 new vijay nage	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	G-6 Siddhart Vihar Vijay Nagar	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	H.no 13 A/B Block Sidharth vihar vijay nagar	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Mirjapur sect 12 Vijay Nagar	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Akbarpur Brahampur Vijay Nagar	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	H. No 65 Gall no 4 Budhvihar Bahrampur	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	27 A Near ABES IT college	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	A7 Tower F No 003, savior Green ISLE Crossingh Republic	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Latifpur Tibra Bhojpur Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	G-109 Patel Nagar III	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	B 220 Lohiya Nagar Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	K 10 Gali no 1 Jhandapur	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Polt 564 Sec 5 Vaishali	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	H.No. 9/26 GF Judge Colony Vaishali	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Sec 9 Vinayak Apartment Vashundhra	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	Lal Mandir Wali Gali Param Hans Vihar Loni	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	B 3/1104 Krishna Apra garden Indirapuram	https://twitter.com/DigestNoida/status/1257370134186012672
-Uttar Pradesh	Ghaziabad	All	11E 150 Nehru Nagar Ghaziabad	https://twitter.com/DigestNoida/status/1257370134186012672
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- B, Ward- 52 Sai krupa apt ostwal nagar	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- E, Ward- 81 Omkar apt, sayukat nagar, nalasopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- A, Ward- 35 Shree sai complex, nr, gress colony, bolinj, virar west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
@@ -2281,72 +2111,6 @@ Maharashtra 	Palghar	Vasai-Virar	Prabhag- B, Ward- 39 Pragati nagar, basera gard
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- B, Ward- 52 Shanti Apt & kaustub Apt, central park, nallasopara	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- C, Ward- 19 Vartak heights , phool pada road, virar east	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
 Maharashtra 	Palghar	Vasai-Virar	Prabhag- D, Ward- 66 Gass gav,sopara gaon,nalasopara west	https://vvcmc.in/vvmc/corona/local_host/backp/containmentzoneupdated.htm
-Maharashtra	Pune	All	 Mangalwar Peth, Juna Bazaar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Parvatidarshan area 1	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Parvati, Dandekar Pool Slum	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Parvati, S. No. 93, Mahatma Phule Colony, Laxminagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 TP Scheme 3, Sane Guruji vashat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Kasba Peth, Nana Peth Bhavani Peth, etc	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Pune Station, Tadiwala Road	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Bhavani Peth, Manjulabai Chawl	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Sangamwadi, TP Scheme, Kavadewadi 	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Koregaon Park, Sant Gadgebaba vasahat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Somvar Peth, Church Road in front of Police Vashat, Garpir Vasti	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Parvati, Taljaimata Vasti 1	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Parvati, Taljaimata Vasti 2	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Parvati Shivdarshan 1	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Parvati Shivdarshan 2	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Parvati, Shahu vashat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Ambegaonnagar Khurd, Shaninagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Bibwewadi, Ambedkarnagar Marketyard	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Gultekdi, Dias Plot	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Gultekdi, Meenatai Thackeray vashat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Bibwewadi, Upper Indiranagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Bibwewadi, S. N. 650	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Bibwewadi, Gultekdi, Dholemala Slum	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Bibwewadi, Premnagar vashat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Bibwewadi Gaothan	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Bibwewadi, Sandeshnagar Bhimale Complex	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Bibwewadi, Shilpa Park Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Yerawada Ward No. 6	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Hadapsar, Ramnagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Hadapsar, Ramtekdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Hadapsar, Gosavivasti, Vaiduwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Hadapsar, Sayyadnagar 2	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Kondhwa Khurd Shivneri Nagar, Bhagyodayanagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Kondhwa Khurd Tamboli Bazar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Kondhwa Khurd Mithanagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Wanwadi, SRPF	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Hadapsar, Gosavi Vasti	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Hadapsar, Indiranagar and Sarthak Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Shivajinagar, Janwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Shivajinagar, Plot no.  833, Vadarwadi Vadar Hou Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Shivajinagar, Pandavanagar Health Camp, Vadarwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Shivajinagar, Wellworth Regency	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Shivajinagar, Arun Housing Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Yerawada, Siddharthnagar Ramwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Yerawada, White House Society & Nita Park Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Yerawada, Gandhinagar-1 	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Yerawada, Gandhinagar 2	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Vadgaon Sheri, Samata Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Parvati Janata Vasahat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Dhayari, Raikar Mala area	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Parvati, Panmala Vasahat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Fursungi, Bhekrainagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Hadapsar, Kalika Dairy area	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Hadapsar, Bunker Colony, Shantinagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Hadapsar, S. No. 10, Unnatinagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Hadapsar, Sadesatranali Ganeshnagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Mundhwa, Sarvodaya Colony	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Bibwewadi S. No.  659, Tayyaba Masjid area	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Erandwane, Rajput Vitbhatti vashat	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Kothrud, Postman Colony, Shastrinnagar, PMC Colony	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Kothrud Rahul Complex, Paud Road	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Kothrud, Jayabhavaninagar, Paud Road	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Erandwane S. No.  44 Kelewadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Erandwane, Kelewadi, Vitthal Temple area	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Bopodi, Aundh Road - Chikhalwadi, Kailas Kripa Society	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
-Maharashtra	Pune	All	 Bopodi, S. No. 25, Mhasoba temple area 	https://www.freepressjournal.in/mumbai/coronavirus-in-pune-full-list-of-new-covid-19-containment-zones-in-pune-municipal-corporation-on-june-3
 Madhya Pradesh	Betul	All	शोभापुर, रतनपुर, घोडाडोंगरी	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
 Madhya Pradesh	Betul	All	कतिया कोयलारी,जुवाड़ी, घोड़ाड़ोंगरी 	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
 Madhya Pradesh	Betul	All	हनुमान मोहल्ला, आठनेर 	https://www.graminmedia.com/2020/06/blog-post_54.html?m=1
@@ -3629,149 +3393,6 @@ Madhya Pradesh	Bhopal	All	जय भीम नगर, टीटी नगर	htt
 Madhya Pradesh	Bhopal	All	म.न. 20 गिदवानी पार्क बैरागढ	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
 Madhya Pradesh	Bhopal	All	आंबेडकर नगर भोपाल, कमला नगर	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
 Madhya Pradesh	Bhopal	All	म.न. 325 सेक्टर 02 शक्ति नगर भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Maharashtra 	Nashik	All	CIDCO	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Navshya Ganpati	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Nashik Road	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Samaj Kalyan Office	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Sanjivnagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Vrindavan Nagar Mhasarul	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Pathardi Phala	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Satpur Colony	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Savta Nagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Uttam Nagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	General Vaidya Nagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Bajaragwadi	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Shantinikelan Chowk	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Maneksha Nagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Samta Nagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Patil Nagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Hanuman Chowk CIDCO	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Hirawadi	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Jadhav Sankul	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Shrikrushna Nagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Indira Nagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Sagar Villege, Dhatrak Phata	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Konark Nagar-2	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Hari Darshan. Dhatrak Phala	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Tarwala Nagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Ayodhya Nagri lirawadi	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Sinnerphata	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Kathe galli, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Navshya Ganpati, Anandvali. Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Sidheshwar Nagar, Nashik Road	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Gosavi Wadi, Nashik Road	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Motha Kumbharwada, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Ameya Apartment, Nashik Road	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Suprabhat Vasahat, Sanjivnagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Motha Rajwada, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Shivajiwadi, Bharatnagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Naikwadipura, Wadalanaka	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Lekha Nagar, CIDCO	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Nirman villa. Vise Mala	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Shanimandir, Dindori Road	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Samata Nagar, Agartakli	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Kavitakunj Appl., Govind Nagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Krantinagar, Makhmalabad	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Champanagari, Jailroad	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Anand Niwas, Nashik poona road	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Pandit Nagar, Cidco. Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Fule Nagar, Panchvati, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Sham Pride, Sarsvati Nagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Shriramnagar, Jatra Hotel	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Loksahakar Nagar, Dindoriroad, Panchvati	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Sahil Heights, Pakhal Road	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Niyati Deepali Nagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Raghupati Society, Dallamandir, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Vinus Appl., IT Park	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Sarswati Nagar, Opp. Rasbihari School	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Tirupati nagar, Near Water Filteration Plant	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Krishna Residency. Khutwadnagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Vaishnavi, Kamalnagar, Kamatwada	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Vimalnath Pride, Om Gurudev Ngr	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Rathchakra Indiranagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Lekha Nagar-2. Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Naikwadipura-2 & 3 Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Godapark Ramwadi Brige, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Damodar Nagar, Pathardi Phata,	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Patil Park, Jadhav Sankul, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	D-9. Renuka Nagr, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	A. Karma Heights, Tapowan RD, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Shital, Bappa Sitaram Colony, Hirawadi Road, Pachvati, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Prayag Greens, Kala Nagar, Vaidhwadi, Pachvali,Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Vrundavan Garden, Gangapur, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Kamod Road, Jharekari Kot, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Sayali, Radha Nagar, Makhmalabad Road, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Suprabhat Society. Peth Road, Pachvali, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Prime point Appartment, dream valley, Shingada talao, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Panchshil Nagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Donde Mala, Pathardi Phata. Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Sneha Nagar, Mhasrul	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Bidikamgar Nagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Gosaviwadi-2, Nashik Road	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Gurudatta, Ashokamarg, Nahsik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Balaji Appl., Near Saptshrungi Mandir, Vinay Nagar,Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Balaji Laxmi Apartment, Salunke Nagar, Khulwad Nagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Prabhat Colony, Ranapratap Chowk	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Sharmila Building B, B-wing, Old Gangapurnaka, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Pandit Park, Krushi Nagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Ravi Appt, Omkar Nagar, Peth rd Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Ganga Apt. Gajanan Chowk, Gurudwara Road, Panchvati, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Rishiraj Presidency, D'suza Colony	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Madhuban colony, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Kalekar Chawl, Jui Nagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Shivshakti Nagar, Trimurti Chowk, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Samta Nagar 2 Agartakli, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Ambedkar Chowk, Rajwada, Satpur	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Sanjeri, Aksa Colony Khode nagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Vijay Pride, Ramkrishna Nagar, Makhmalabad. Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Anmol Nayantara City-2, Karmyogi nagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Mynest Service appl., Tidke Colony	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Devpuja Appl. Near RTO Office, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Modkeshwar Appt., Khutwadnagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Mayur Hou.Soc., Canal Rd., Jailroad, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Gautam Residency, Pandavleni, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Ganadish Row House, Lamkhede Mala, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Maa Krupa Residency. Gaikwad Mala, Pethroad, Panchvati	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Rajratna Ngr. Pavannagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Shivalay, Near Sairaj Residency, Ambad, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Adityakunj Society, Loksahakar Nagar, Panchvati. Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Aanand Chhaya Apt. Satpur Colony, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Ro-House No. 21, Gulshan Colony, Pakhal Road, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Aman Ro-House 2, Khode Nagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Gurukrupa Banglow, Hirawadi, Pachvati, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Ro-House No. 969, Sanjiv Nagar, Ambad Link Road, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Shrushti Banglow, Pandit Colony, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Sagar Castle, Satviknagar, Pakhalrd, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Aman Building, Pakhalrd, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Omsai Appt., Makhmalabad road, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Mauli Banglow, Chakradhar co.op.soc. Takli	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Silver Park, Ganesh Nagar, Kathe Galli	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Khatib Haveli, Fule Market, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Trimuti Nagar, Datta Mandir, Panchvati	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Thakray Banglow	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Shri Mangal Murti, Gulmohar Nagar	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Rajendra Complex, Shivaji Putala, Nashik Road	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	E wing Pam Residency, Samangaon Road, Nashik.	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Balaji Sadan, Nag Chowk, Panchwati	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Satyam Pride, Nadur Jatra Road, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Utkarsh, Bhaba Nagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Kumbharwada, Old Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Jai Bhavani Nagar, Awate Mala, Nashik Road.	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Lekha Nagar-3, CIDCO, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Hari Vihar Row Houses, Jailroad, NashikRoad	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Row Ho.no. 23, Millat ngr, Jaydip ngr, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Uniqe Gold appt., Near Jalsa Hall, Ashoka Marg Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Abhijit Soc., Shingada Talav, Near Gurudwara, nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Panchkrishna, Takli rd, Dwarka, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Saptshrungi Chowk, Shanti ngr, lekha ngr, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Piyara Appt., Gaikwadnagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Shri Herambh Appt., Parijatnagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Jayashri Appt., Govind Nagar, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Madhavji Plaza, Lonar Lane RK Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Shital Vihar Soc., Bhabha Ngr, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Chandrabhaga Appt. Shivam ngr, Panchvati	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
-Maharashtra 	Nashik	All	Bhore wada, Sardar Chowk,, Panchvati, Nashik	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
 Madhya Pradesh	Bhopal	All	म.नं.-69, देवकी नगर, बैरसिया, रोड, भोपाल 	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
 Madhya Pradesh	Bhopal	All	11बी, शान्ति नगर भोपाल 	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
 Madhya Pradesh	Bhopal	All	सी-1, जे.डी. काम्पलेक्स, करोंद मण्डी 80 फीट रोड, भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
@@ -3882,207 +3503,6 @@ Tamil Nadu	Chengalpattu	All	Ward 2 Chitti Babu st - St Thomas Mt Cantonment	http
 Tamil Nadu	Chengalpattu	All	Ward 4 Police Quarters - St Thomas Mt Cantonment	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Chengalpattu	All	Ward 4 Indira nagar - St Thomas Mt Cantonment	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Chengalpattu	All	Ward 2 North Silver st - St Thomas Mt Cantonment	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	21, Nettukupppam,lst Chinna Amman Koil St	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	23,RS Road,MGR Nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	B.No5, No40,  Tsumani Qtrs CH-57	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Thiru nagar, 2 nd street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	36/8 Thiru Nagar, 2nd st, Thiruvottiyur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	11/50 2nd Street Jeevanlal Nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	1C Jothi Nagar 10Th Cross St Thiruvottriur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	60,Thiruvalluvar st, Rajaji nagar,Thiruvottiyur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	68, annai therasa st, Rajaji nagar, thiruvottiyur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	32A, Kargil Nagar, Jayavel St, Thiruvottiyur Ch-19	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	9/1,Amsa Gardsen 4th Street Thiruvottiyur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Market Lane	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	22 Market Lane Kaladipet Chennai- 19	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	32H/ 13 Mettu St,8Th Street Kaladipet, Chennai	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	53/31A, Manali New Town	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Manali New Town, Chennai	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	52/68, Manali New Town	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Lebbaimedu, 1st street , Manali	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	48, Anbalagan Street, Manali, Ch-6 8	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	55, MMDA, 57th Street, Mathur, Ch-68	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	32, EVR Periyar Street, Manali, Ch-68	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	64B, Sannathi Street, Manali, Ch-68	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai 	All	Gangadharan main st	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Balaji nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Bharathiyar St	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai 	All	Vegetarian Village	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai 	All	MM Palli st	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai 	All	Balavinayar Koil st	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai 	All	Gokul st	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Gandhi St	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Subham nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	VMK nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Veera ragavan nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Vinayagar Koi4 Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Thirumalai nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Kamarajar st	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	200 ft road	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Natesan nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	MCG 5th st	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Perumal koil	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Ponnusamy st	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Udayar thottam 3rd st	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Kannabiran koil	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Muthamizh Nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Harinarayanapuram	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Kappalbolu Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Pandalai Salai	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	East Madha Church Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Amman Koil 1st Lane	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	West Cemetry Road	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	O.Block, Cemetry Road	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	RSRM Hospital	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Stanley qtrs	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Andi Appt Street 4th Lane	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Munusamy gardan street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	New Mens PG Hostel	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Stanley PG Ladies Hostel	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Andiyappan st 0.W	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Ramdoss Nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Dharmaraj Koil Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	2ND ST, BASIN BRIDGE	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	PENSIONERS 4TH LANE,	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Parasuraman 2nd Lane	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Chithambaran Nagar 6th st	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Saarja Munusamy Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Stanley Nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Neelakandan street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Pensionoers Lane 1st Cross Road	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	PKG 2nd Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Mullah Shahib Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Varathamuthaippan ST,	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	P.V.Iyar Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Veeraswamy Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	GIRIGORI STREET,	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Varathaaiya Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Thiyagarajan street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Malaiyappan Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Gils Street, Mannady	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Pidariyar koil street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Chandrappam Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Thathamuthiappa Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Kanthappa © Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Vichur Muthaih	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Tiruvenkadam Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Naval Hospital Road 4th street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Naval Hospital Road 1st street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Wallaja Road	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	RPK WALL TAX ROAD	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Vengu Chetti Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Thayar SahibStreet	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Petta ( N) Park Town	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Lingh Chetty Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Iyyappa chetty Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	1st floor flat no3 labbai st,	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	V.S HOSTEL, GENGU REDDY ROAD,	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Log Egmore	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Ayya ( S) Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	1yya Swami Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Basha sahib street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Kalaivani Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Padavattamman kovil St	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Richi Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Lazar Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Kovidesramman Koil Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Kovoor Vaithiyanathan street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Singanna ( C) Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Rex st, chandarripet	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Veerapathiran Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Ameen Treshan Begum Street 2nd Floor	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Karim Moideen Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Kaveri Nagar Kolathur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	West madha st, kolathur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Dayalu nagar Kolathur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Elumalai st, vetri nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	SRP colony Peravallur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	GKM colony 17th street, kolathur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Jaganathan st,agaram	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Gopalapuram TVK nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	MaduTai Street, Ayanavaram	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	E block,sembium police Qtrs	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Raja street, perambur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Venkataraman St, Perambur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	NSK street, Perambur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Ananthavelu street, perambur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	V.O.0 1st st, Aaduthoti	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Doss Nagar , 3rd St	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Police Quarters, Pulianthope	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Belvider Village, New Ferrance Road	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Old valaman nagar ,Otteri	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	MedavakkamTank road keDlys	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Old Slaughter House St,Choolai	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	4th St,Pulianthope	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Nirmal Street, Ram Nagar, Ambattur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Thatchinamoorthi st, Oragadam,Ambattur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Oragadam road, Ambattur,	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	No.1,Varadhan Street ,Gnanamoorthi Nagar,Ambattur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Vinayaga Masthri St Muthu Nivas Garedn	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	3Rd Main Road,Ellaiammnan Nagar,Korattur,Chennai - 76	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Bajanai Kovil St Korattur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	No.3/4,Round Building Padi, Ambattur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	No.837,2nd Street ,Syndicate Bank Colony ,Anna Nagar West Extn,Chennai - 101	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Block 2 Jain Sukriti Apt Mogappair West	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Meenamchi Avenue,Mogappair west	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	No.66,Vellalar Street,Mogappair West	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Mogapair East, Ch	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	No.7/5 Navarathan Apts,Seethkathi Saai,Chennai - 37	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	No.5/248 JJ Nagar,Mogappair East	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	No.6/57,TNHB JJ Nagar East	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	No.1 /686,Asian Park,Valayapathi Road,Mogappair ,Ch-37	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	11/60, East Mogappair, Chennai, Tn-600037	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Panathope Colony, Ayanavaram	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Venkateshwara Lane	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Conron Sonith road	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Dosspuram	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Bells Road	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Perumal mudali street, Royapetta	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Ice House Qutrs	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Pm Durgah 3rd Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Sunambukalvai street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Nadukuppam 4th street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Sudhandhira nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Brindhavanam Housing Board	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Nehru st, MGR Nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Khan Nagar, Choolai pallam, Nesapakkam	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Anna Veethi, MGR Nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Kattabomman st, Jafferk hanpet	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	19th St,Shakthi Nagar,Nerkundram	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	MKN Road Alandur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Balakrishnapuram Main Road Adambakkam Ch-88	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	No9 Kesari nagar st Adambakkam	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	By Nagar, 2Nd Street, Nanganallur, Ch	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	By Nagar, 8Th Street, NanganaEur, Ch-61	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	11/1 First Cross St, B.V.Nagar, Nanganallur, Ch-61	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	No:101,Aaduthotti,Saidapet	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	20/36, Guruappan St.,Kottur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	KVP Garden	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Shanmugapuram Ra Puram 	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	4, Salaiyar Street, R.K. Mutt Road Mylapore	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	141/97, 4th St. Rajagramini Garden, Mandaveli	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	52/17, Pasumpon St. Kamarajapuram, Velachery	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	16 20 Govindarajapuram 2nd street Adyar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	37A Gandian St Nehru Nagar Velachery	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	10/13, Throwpathy Amman Koil 2nd St. Velacherry	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	3rd Cross Street, Sasthri Nagar, Adyar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	47, Velankan Koil Street, Mesan Nagar, Besant Nagar, Adyar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	9, Balaji Nagar Extension, 10th St. Nanganallur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	4/15 Mgr Nagar Kottivakkam	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	15, Kamarajar Street, Dr. Ambedkar Nagar, Perungudi	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	5/104, Thiruvalluvar Nagar, 1st st, Perungudi	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Alpha Apartments, S1, North park st, Perungudi	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Neelankarai Plr Nagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	1/75, Post Office Street, Thoraipakkam	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	No: 1407, Kannagi Nagar, 3rd Cross Street	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	1A, Scr Avenue Lakshmi Nagar, 3rd Cross Street, Huraipakkam	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	Block 22, Ezhilnagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	No:39 Block 47, Ehzilnagar	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	4,GaneshNagar, Solinganalluir	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	48,Anna St,Village high Rd,Solinganallur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	No.217, Akkarai 1st Cross St ECR Road Ch-119	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	3322,TNHB Quarters Semmancherry,	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
-Tamil Nadu	Chennai	All	3352 Appt To Semmenchery Ch	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Cuddalore	All	Siruvaruppur Vp	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Cuddalore	All	Ramanatham	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
 Tamil Nadu	Cuddalore	All	Vannathur	https://drive.google.com/file/d/1rnhyR4VlnX2mvM10q053hOL6ZwXUEYOo/view
@@ -4318,50 +3738,6 @@ Karnataka	Bengaluru Urban	All	Apartment (AP-19) in Vasanthanagar	https://www.fac
 Karnataka	Bengaluru Urban	All	street (A-125) in Horamavu	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
 Karnataka	Bengaluru Urban	All	street (A-126) in Hongasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
 Karnataka	Bengaluru Urban	All	street (A-124) in BTM Layout	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
-Assam	Guwahati	All	Japorigog	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Borbari	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Bishnupur, Krishna Nagar	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Dhirenpara	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Pub-Sarania	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Bathou Nagar, Geeta Mandir	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Krishna Nagar, Gosala	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Central Jail Premises, Lokhra	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Indrapur Hill Top, Near Medical College	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Lichubagan, Hengerabari	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Arihan Apartment, Panbazar	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Syamkunj Apartment, Lakhinagar, RG Baruah Road	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Hajongbori Village, Chandrapur	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Bhaskar Nagar, B-Block, Fatasil	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Sarabbhati, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Athgaon, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Hirapara Village (Azara)	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Christian Basti, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Bishnupur (Bharalumukh)	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Shantipur	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Satgaon	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Sankar Nagar, Lalganesh	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Dhirenpara, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Athgaon-II (SJ Road)	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Lamb Road, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Kushal Nagar, Bamunimoidan	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Birubari, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Athgaon Pukhuripar, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Barsapara, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Rupnagar, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Netaji Vidyapith rly HS School, Maligaon, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Fatasil Chariali	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Silpukhuri, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Housing Colony, Ghoramora, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Netaji Vidyapith HS School, Maligaon Campus	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Block-M of Pragjyotish bHousing Colony, Ghoramora	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Satgaon Army Camp, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	CISF Camp, Sector-III, Noonmati Refinery	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Mangaldeep Residency, Lalganesh	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	GS Colony. Fatasil, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Tokoubari, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	K.C Sen Road, Paltanbazar, Guwahati	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Sankarpur, Birubari Tiniali	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
-Assam	Guwahati	All	Uzanbazar Railway Colony	https://twitter.com/DCKamrupMetro/status/1271494369862807552/
 Assam	Sonitpur	All	Da-Dhara, Bamunchubari, Mazgaon	https://twitter.com/Dhekiajulibuds/status/1271797392002576384/photo/1
 Assam	Sonitpur	All	Village- Manujuli Gaon, Dhekiajuli, Vivekananda Road, PS- Dhekiajuli	https://twitter.com/Dhekiajulibuds/status/1271797392002576384/photo/2
 Tamil Nadu	Trichy	All	Kottapattu	https://twitter.com/dkarthikTOI/status/1270938496643952641
@@ -5040,3 +4416,604 @@ Uttar Pradesh	Gautam Buddh Nagar	All	TOWER B, TOWER D GALAXY VEDA GREATER NOIDA	
 Uttar Pradesh	Gautam Buddh Nagar	All	A,C,F,E BLOCK SECTOR 40 NOIDA	https://twitter.com/noidagram/status/1274406990492491776/photo/1
 Uttar Pradesh	Gautam Buddh Nagar	All	TOWER A AND TOWER B KASA GREEN NOIDA	https://twitter.com/noidagram/status/1274406990492491776/photo/1
 Uttar Pradesh	Gautam Buddh Nagar	All	A AND D BLOCK SECTOR 59 NOIDA	https://twitter.com/noidagram/status/1274406990492491776/photo/1
+Assam	Guwahati	All	Bathou Nagar, Geeta Mandir	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Krishna Nagar, Gosala	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Central Jail Premises, Lokhra	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Indrapur Hill Top, Near Medical College	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Lichubagan, Hengerabari	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Arihant Apartment, Panbazar	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Syamkunj Apartment, Lakhinagar, RG Baruah Road	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Hajongbori Village, Chandrapur	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Bhaskar Nagar, B-Block, Fatasil_	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Sarabbhati, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Athgaon, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Hirapara Village (Azara)	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Christian Basti, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Bishnupur (Bharalumukh)	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Shantipur	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Satgaon	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Sankar Nagar, Lalganesh	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Dhirenpara, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Athgaon-Il (SJ Road)	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Lamb Road, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Kushal Nagar, Bamunimoidan	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Birubari, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Athgaon Pukhuripar, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Barsapara, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Rupnagar, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Bhaskar Nagar, B-Block, Fatasil	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Sarabbhati, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Athgaon, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Hirapara Village (Azara)	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Christian Basti, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Bishnupur (Bharalumukh)	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Shantipur	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Satgaon	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Sankar Nagar, Lalganesh	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Dhirenpara, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Athgaon-l (SJ Road)	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Lamb Road, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Kushal Nagar, Bamunimoidan	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Birubari, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Athgaon Pukhuripar, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Barsapara, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Rupnagar, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Netaji Vidyapith rly HS School, Maligaon, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Fatasil Chariali	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Silpukhuri, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Housing Colony, Ghoramora, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Netaji Vidyapith HS School, Maligaon Campus	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Block-M of Pragiyotish bHousing Colony, Ghoramora	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Satgaon Army Camp, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	CISF Camp. Sector-il, Noonmati Refinery	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Mangaldeep Residency, Lalganesh	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	GS Colony. Fatasil, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Tokoubari, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	KC.Sen Road, Paltanbazar, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Sankarpur, Birubari Tiniali	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Uzanbazar Railway Colony	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Sarumotoria	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Games Village	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Garobasti	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Ahomgaon	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	B.P.Chaliha Nagar, Bamunimoidan	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Akashinagar, Barmunimoidan	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Sagar Apartment, S.J.Road, Athgaon	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	LOCO Colony, Pandu	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Jaymati Nagar. Pandu	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Narayan Nagar, Bharalumukh	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Boripara, Maligaon	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Solapar, Paltanbazar	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Srimantapur, Bhangagarh	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Paltanbazar, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Udaipur, Birubari	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Ulubari, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Zoo-Tiniali, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Nabajyoti Nagar, Panjabari	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Hengerabari, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	SBI Guest House, Sarumotoria	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Jogipara, Azara	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Borjhar, Azara	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Santi Nagar	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Etabhata, Dhirenpara	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Sankar Nagar, Odalbakra	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Bamunpara, Damodarnagar, Betkuchi, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Dhirenpara-III	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Colony Bazar, Kahilipara	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	A.K.Azad Road, Rehabari, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	K.C.Sen Road, Paltanbazar	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Asharm Road, Ulubari	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Deben Sarma Road, Bishnupur	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Athgaon-IV, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Gopinath Nagar, Birubaril	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Gopinath Nagar, Birubari-l	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Ferry Ghat Colony, Pandu	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Bishnupur-III	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Maligaon Rest Camp, Pandu	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Bimala Nagar, Bishnupur	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Gajen Kalita Path, Kumarpara	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Athgaon-III, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Assam	Guwahati	All	Latasil, Guwahati	https://twitter.com/DCKamrupMetro/status/1272564756386205701
+Uttar Pradesh	Ghaziabad	All	H.NO-E1307 K W SHASTRI RAJ NAGAR Ext	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	902 Tower P-1 Ashiana PaIm Court, Raj Nagar Extentlon, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A 1005 Officer city 2 Rajnager Ext	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	City forest near park colony GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Maharajpur Shahiabad Ghaziabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	115 Seemant vihar kaushambi	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	18 seemant Vihar Kaushambi	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	GF 32 Neelam Vihar society Kaushambi	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	C 190 A Lajpat Nagar Sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	D 333-A LAJPAT NAGAR SAHIBABAD GHAZIABAD	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A-104 Sweta Apartment, Sangam Society, Salimar Garden	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO C4 Bulding no 80, shalimar garden Ext 1 Sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	D 508 83 Lajpat nagar sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	167 Shalimar garden near hanuman mandir G28	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Plot 271 F 2 Shalimar Garden Ext 2	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Shalimar Garden sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A 101 51 shalmar Garden Sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	D 455 Lajpat Nagar sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	1303 SHALIMAR GARDEN SAHIBABAD, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	|82/3, Naveen Park, Sahibabad, Ghaziabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A-91 GROUND FLOOR 3 BHEL COLONY Sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	D 455 Lajpat Nagar Sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	1103 SHALIMAR GARDEN SAHIBABAD, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	82/3, Naveen Park, Sahibabad, Ghatlabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A-91 GROUND FLOOR 3 BHEL COLONY SAHIBABAD	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO-21 8 DHARAWAI GALi VILLAGE SAHIBABAD	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A-276, MIG Brij Vihar, near surya nagar sahibabad GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO A 75/2 Shyam park Ext. Sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	297, Gal No. 4, Sanjivani Hospital Main Shyam Park, Thana, Shahibabad, G28	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Gali no 12 Jhandapur	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	T9 702 Praswanath Galeria 149 GT Road sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Gyani Chowk jhandapur	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	D 6 Alaknanda Apartment, Rampurl, Surya Nagar, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Gall no 1 Kadkad Model Purani megnam Paper Mill Sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Ramprastha green 1000 vaishali gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	37, Ch. Charan Slngh Enclave, Sec-5, Radhe Shyam Park, sahibabad GZBB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	GH 1 Plot 66 Sec 5 Rajendra nagar sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	6/154 Rajendra nagar Sec 2 Sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	112 A Radhe shyam park Sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Rajeev nagar Mohan nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	267/13 sec 1 vaishali gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Sec 1 Vaishali	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	3/2 4th Floor, Sec-3, Vaishali, Gzo	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	240, Firt Floor Vaishali, Sec-4, G20	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	G2-369, Sec-4, Vaishali	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.No 468/10 Sec 4 Vaishali	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	497 Sec 5 Vaishali	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Plot 73 Flat G1 Sec5 Vaishali	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Flat no 8F 1 sec 5 Vaishali GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	9/49 Judge Colony, Sec-9, Vaishali, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	431 C GULMOHAR GREEN, MOHAN NAGAR, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.no 1966 gali no 11 ambedkar nagar Anthala mohan nagar gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Haz house colony Hindon vihar Arthla mohan nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	F 20/3 Madhuban Bapu Dham Duhai	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H S88 Sec 1 Vashundhra	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	M.NO-33 SEC.- 2 8 VASUNDHRA, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	2 G/900 First Floor VASHUNDRA G28.	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	101 B lind D Kamna Vaishalii sec 2	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	541 Sec 3 Vashundhra	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Flat No 320 Sec 5 Vasundhra	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	|202 SEC-5 A Block Himalye apartment VASUNDHARA GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B-12, Sahyog Apartment, Vasundhra sec9 GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO. 25 SEC 10, VASUNDHARA, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO-63 SEC-10C VASHUNDRA GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	10B VASHUNDRA GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	HNO-25 SEC-10 VASHUNDRA GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H 231 Sec 10 vashundhra	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO-504 SEC-12 VASHUNDRA GZB.	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	C 302 Syndicat Ahiyana Vashundhra sec 14 near Atal Chowck	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	G 29 Sec 14 A vashundhra	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Near Star Banquet hall Sec 16 Vashundhra	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	17 E 601 Ground floor kunark enclave socity vasundhra sec 17 gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Colony mugal garden opp Swimming Pool Masoori	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Nali pada massori gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Rafikabad Dasna G28	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	ward no 8 dasna gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Hotel Krishna sagar N H 24 Dasna	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	8 180 Panchwati Colony Loni Border. Ghazia bad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	C25 Rampark Loni	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Ward no 43 Nagar Palika loni Ghazlabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	C-88, tal Bagh, Loni Ghazlabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B-72 GAU NO-3 INDRA ENCLAV LONI BODER GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B-19 GALI N0-5 Krishna Vihar Mahamaya Kunj Tilla plpe line road G28	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	E-2 1107 Bhrat city Indraprasth yojna Tilb mod loni	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Chauhan Patti Nasib vihar Elyachl pur Bilal maszid ke pas Lonl	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	40 FUTA ROAD, RAM ViHAR, LONI, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B 25/26 Deendyalupri NANDGRAM, ASHRAM ROAD, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.no 275,C1 Deendyl Puri	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	24 Deendyal purl gall 2, 30 futa road nandgram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO-140 NAI BASTI Nandgram GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Sangam vihar near SBN School G20	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	525 Gall no Nandgram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO-E 376 NANDGRAM GZB.	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO-83101 GALI NO-10 GAGAN VIHAR BHOPURA SAHIBABAD GZ0	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B 163 Bhopura DUF	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	E 279 Gagan Vihar Behind Tulshi Niketan Bhopura	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Gali no 10 Malik nagar Muradnagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	vijay Mandi Main Road Muradnagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Peer wall gali Rawali road Muradnagar Gtb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Brahmpuri Tanki road Muradnagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Ator Nagla gali no 5 muradnagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	321 GYAN KHAND 1st INDIRAPURAM, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	15/16 Banyan Road Shipra sun city Indirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Ashok Road Shipra Society 6z8	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	G-1, 132, Gyan Khand-2, Indlrapuram, G28	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	T4 1604 Jaipuria Sun rise green soclety Indirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	518 A Nayay Khand-1, Indrapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	s 94 Apex royal castle Nayay Khand l ndirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B 3/103 Eastern Hide Nyay Khand 3rd, Indirapuram, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	544 B Nyay khand first Indirapuram gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	144/4, Gyan Khand, Indirapuram, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.No T4 Manglam 3rd floor module 10 Abhay Khand ll Indirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	SB SS Sofla apartment Abhay Khand 4 Indirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	57 A Anukampa Apartment abhay Khand IV Inirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	244 Niti Khand l Indirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.No.-956 1st Floor, Nitl Khand I ndirapuram, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	92 Shakti Khand l Indirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.No 194 Ground Floor Shakti Khand I Indirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	PLOT NO 21 FLAT 302 SHAKTI KHAND INDIRAPURAM SEC 2 6Z8	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.no 301 Shakti khand 3 indirapurm gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Plot No.-109, Shakti Khand- 2nd, Indirapuram, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Plot no 76 F 2 Shakti Khand I Indirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B 303 Jyoti Supper Gardenia Indirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	11 Windson Park Indirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A 839 Nala Road Ambedkar Gate Laxmi garden Indirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Purva Dulichand Saray Nagar all	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	hayat Nagar Near St. Anthony School, Khoda, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.No 43 Rajeev vihar Khoda	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Indra garden shivalik chowk khoda colony gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Near Pusta Khoda Colony Gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	KHODA COLONY	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Khoda Colony, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	RC 400 Gall no 2 Khoda	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	688 Khoda colony near BK yadav GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	RC 75 Near Janta Park Khoda colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Khoda Colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	KHORA GALI NO 7 GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Khoda Colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	3/4 opp IC Bulding near Adarh niketan school Khoda colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Metrika Vihar khoda colony Near Bhati chowck	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Deepat Vihar near labour Chowk GAL7 KHORA GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	R-584 AZAD VIHAR AHORA COLONY GHAZIABAD	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Block Azad Vihar, Kavita Hall 20 no. Tankl, Hanuman Mandlir,	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	RC Khoda G28	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	758 Azad vihar thoda colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	782 Prem vhar Near SMS Public school Khoda	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	RC-395, H.NO 1090 GAL NO. 2 Pragatl vihar Khoda colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Maknpur mai shani Chauraha near koyla shop	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	736-B GAL NO 15 VANDANA ENCLAvE KHORA CcOLONY GHAZIABAD	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	RC 290, Vandna Enclave, Khoda, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H. No 79 Vandna Enclave Khoda	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	VANDNA INCLAVE KHORA GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Gali no 120 Vandna enclave Khoda	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H. No 277 Vandna vihar Khoda	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H. No 179 Gali no 2 SHANKAR VIHAR Khoda Colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	RC 101 anil vihar khoda	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H. No 186 Gali No 6 Anil Vihar Khoda colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Gali No 05, anil vihar khoda colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H 134 anil vihar Khoda colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H. No 63 Pawan vihar Khoda	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	RC 1965 Sukhash Part Khoda	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B 169/4 Khoda colony Indira vihar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H. No 168 Gali no 5 Prakash nagar Khoda	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	RC-429 Gali no S Prakash Nagar, Khoda, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	NEW AJANTA PARK NEAR GOLDEN PALACE, KHODA COLONY, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H. NO 121 Mithla Vihar Shiv Mandir Khoda colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Archna enclave Khoda near sahil public school	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	RC 315 Archna enclave Khoda colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	541 Sarswati vihar khoda colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	RC 36 Shiv vihar Khoda colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	RC 228 Gali no 7 Bharat nagar khoda	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	RC 401 Navneet Vihar KHODA COLONY, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	1607 Vivekanand Nagar Gzd	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	58/22 Pipal wali gal, Guldhar l Sanjay Nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Gali no 6 Pipal wall gall near GR Farm house Guldhar 3 Sanjay Nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	E 11 Bala Ji enclave Govindpuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	SD 92 Govindpuram 47v Batalya Gtb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.No H 36 Second floor krishna Garden Govindpuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO-M 94B SEC-23 SANJAY NAGAR GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	G-254 SEC-23 SANJAY NAGAR GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	E 121 Sanjay nagar GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Ram nagar wall gali Lala ji ka makan near yashoda hospitla nehru nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO 203 Gali no 2, Subhash nagar app Hansraj college Daulatpura	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Koat Gaon near yashoda Medical store	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	286 Gandhi nagar G28	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	153 old Panchwati colony GT Road Behind Shankar Lal Hospltal GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.No.-158, G.No.- 01, Saln Vihar, opp IPEM College Industrial area NH 24 Gz0	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Sain Vihar, Bypass Road, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Gali No 1, Sain Vihar Colony, Vilay Nagar, Gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	G5 First Floor mahendra Enclave Shastrlnagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO.-13 SEC-2, CHIRANJIv viHAR, GZb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	S.H 129 Shashtri nagar Ghaziabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H. No 216 Mahendra enclave Shastri nagar 8 block GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B 26 Baghwali colony Shastri nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	12/17 RAJ NAGAR GZB.	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	9183, Raj Nagar, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	107 AGAN MOHALA DELHI GATE	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO S23 Near Barf Khana MAU WADA GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	971 SOHAN LAL STREET DELHI GATE	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H. No 39 Rogan gram Delhi gate	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Near DPS Pratap Vihar Vijay Nagar G2B	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.no 271 Mata colony vijay nagar gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	4-268-A PRATAP VIHAR GZB VIJAY NAGAR	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	632 KAILASH NAGAR, Goshala Fatak Vijay nagar GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	41 8/202 Brahmputra enclave Pratp vihar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	S 78 Vijay Nagpr Pratap vihar G28	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A110 Sec 9 New VIJAY NAGAR opp childern scademy	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	F551 Sec 9 new vijay nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	144 G Block Sec 9 Vijay Nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Sec 9 old Vijay Nagar near Thana Gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	M.NO-139 Gali No.- 17, Ambedkar Nagar Sec-9, Vijay Nagar, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	P 25-S Sec 11 vijay nagar GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Veer abdul colony Vijay Nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	D 163 Mata Colony, Sec-12, Vijay Nagar, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	169 Mata Colony, Vijay Nagar, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	R 42 Sce 12 Railway enclave Pratap vihar vijay nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	F 302 sector 12 vijay nagar near DAV chock	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.no 13 A/8 Block Sidharth vihar ijay nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Akbarpur Brahampur Vijay Nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	FLAT NO 205 PLOT NO 29-30 UNIONE RESIDENCE NEAR GREEN HOTEL BUDH VIHAR BAHARAMPUR GHAZIABAD	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Budhh vihar gali no 6 Elite school near Hindon gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Vijay Nagar Bahrampur	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Railway road Dolat ram Colony	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	SH 4 Krishna Vatika Sudamapurl Ghazlabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Flat no 308 Tower 8 Pratik Royal Crossing Republic	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	2105 Paramount Symphony, Crossing Republic, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	s910 Ajnara Genx Crossing Rhpublic G2B	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	E 2201 Super tech Crossing republlc	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	E 303 Provue Lavoni crossing republie	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Fat No 2403 Tower A 6 Sevior Green Crossing Republic	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	1901 Paramount symphony Crossing Republlc	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Sudamapurl Vijay nagar Near Kamla mall	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B-74, Sudama Purl, Gali No. 2, Vijay Nagar, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	201 Gall no 6 Shiv Puri vijay nagar GszB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Gali no 6 Tibra Road Durgapurl modinagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Daya purl Modinagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Mohlla Peer wala Begmabad modinagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H. No 129C Sanjeevnl State Modinagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.No 918 Subhash nagar nal bastl Ghukna mode bhatta	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Sihani road vishvash nagar colony G2B	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B 508 B Patel Nagar I1 GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B 233 Patel Nagar It 6ZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	No 26 Ram Garhi old bus stand Ghazlabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	432 Noor nagar sihani GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A 330 First Floor New Pachwatl Colony Rakesh Marg GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	545 Hardev Sahai Colony, Naya Ganj. z8	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	417 Maliwada Chok near Bata Show Room	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Maliwada Gali no 2 GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	40 Btalyan BSF Grugram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	FLAT NO-11 SIDDHARTHA NIKETAN APARTMENT, KAUSHAMBI, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	5-D sai haritage Plot no 22 sec 14 kaushambi gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	D 43/1, Garima Garden, Sahibabad, Near Agarwal Sweats, G28	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A-44 F-2 SHAUMAR GARDEN GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	FLAT NO.- 408, 80 FUTA ROAD SHALIMAR GARDEN, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	C594 A Brivihar First floor	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B-105 SURYA NAGAR GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	K 10 6all no 1 jhandapur	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Gall no 3, Prahlad nagar, Sahibabad Ghazlabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Kadkad Model Mangal Bazar sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	2/14 Sec S Rajendra nagar sahibabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	3rd A/182 Archna Vaishall Sec 3	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Sec 9 vinayak Apartment Vashundhra	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	C5/18, DLF Ankur Vihar, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	M.no 1, NIRMAL KUNJ, Shri Ram colony, BANTHLA, LONI road	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO 230 C Block gali no 1 Pratap nagar lonl	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A-80 DLF Loni, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	B-2 303 Bhrat city Indraprasth yojna Tila mod lonl	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO- 226 Punit Enclave, Pooja Colony 2nd Near Tronica City, G28	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO-8 316 GAU NO-10 GAGAN VIHAR BHOPURA SAHIBABAD GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.NO 531 Brajvihar colony Gali no 15 Muradanagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	112 F Tower Aditya arban city NH 24 GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A-701, East Aditya Ground City NH- 24, GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	416 ATS Advantage indrapuram gzb	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	631, Patrakar Vihar, Nayay Khand, Indirapuram, Ghazlabad	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H. no 509 C Nayay Khand II Janta Flat Idirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H. No 433 Nayay khand lIl Indirapuram	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.no 909 frst floor niti khand I Indrapuram gab	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	RC 172 Pragati vihar Khoda	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A 98 Vandna Enclave Khoda	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	Sarvodya Staff hostel Kavinagar GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	362 Tyagl Market Jagrati vihar sanjay Nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	A 275 Nehru Nagar GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	H.no 107 Mohlla Afganan, Delhl gate GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Uttar Pradesh	Ghaziabad	All	G 78 Sec 9 Vijay nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
+Maharashtra	Pune	All	Mukai Chowk, Kiwale	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Sainath Nagar, Nigdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Siddharth Building, Ajanthanagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Kuldeep Angan, Neharunagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Gurudwara Road, Walhekarwadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Shetty Chawl, Dapodi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	MB Camp. Kiwale	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Shreeram Colony, Bijalinagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Dattanagar, Akurdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Bhimnagar, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Radhkrushnagar, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Bhairwade Complex, Chinchwad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Yashwantnagar, Chikhali	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Sai Apartment, Guruviahar, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Thermax Chowk, Akurdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Rose Icon, Pimple Saudagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Shivanjali Road, Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Madhuban Lane 2, Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Kawade Nagar, Pimple Gurav	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Keshav Nagar, Kasarwadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Nanekar Chawl, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Ganesham-2, Pimple Saudagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Ramnagar, Akurdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	indiranagar, Chinchwad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Anand Nagar, Ch. Station	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Bhatnagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Sadguru Colony, Wakad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Ramnagar, Akurdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Mauli Chowk, Kalatenagar, Wakad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Tanishq Orchid, Charholi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Phulenagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Khandoba Mal, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Patil Nagar, Chikhalli	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Sukhwani imperial, Morwadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Gurudutta Nagar, Nanekar Chaw	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Katenagar, Charholi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Budhanagar, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Navjeevan CHS, Neharunagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Anand Park Nigadi Pradhikaran	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Gulabnagar, Dapodi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Shindenagar, Old Sangi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Sangamnagar, Old Sangavi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Geeta Society, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Netaji Nagar, Pimple Gurav	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Ramkrushna Chowk, Pimple Gurav	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Morewasti	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Mankar Empire, Wakad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Joytibanagar, Kalewadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Bella Vista, Wakad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Nayanprabha School, Wakad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Khandobamal-2, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Samata Nagar, Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Sai Sneha Park, Old Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Belthikanagar, Thergaon	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Yas Residancy, Sangamnagar, Old Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Gurudatta Colony, Walhekarwadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	BU Bhandari, Dighi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Sonkar Chambers, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Shaunagar, Chinchwad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Kalbhornagar, Akurdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Regent Park, Chikhali	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Dhorenagar, Old Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Keshavnagar, Chinchwad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Gokul CHS, Morewasti	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Apulki CHS, Shahunagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Vaibhavnagar, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Kauntaya CHS, Rupeenagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Krushnakrupa CHS, Morewadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Munna Shet Chawl, Mukeshnagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Sonkar Chambers, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Shaunagar, Chinchwad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Kalbhornagar, Akurdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Regent Park, Chikhali	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Dhorenagar, old Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Keshavnagar, Chinchwad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Gokul CHS, Morewasti	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Apulki CHS, Shahunagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Vaibhavnagar, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Kauntaya CHS, Rupeenagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Krushnakrupa CHS, Morewadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Munna Shet Chawl, Mukeshnagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Samarth Ashok CHS, Rupeenagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Kauntey CHS, Rupeenagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Nadhenagar, Kalewadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	SMS Colony, Dapodi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Shewale Apt, Dapodi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Mane Chawl, Dapodi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	New Gulab nagar, Dapodi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Laltopinagar, Morewadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Adharsha Society, Kalbhornagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Yashodha CHS, Ajanthanagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Royal Imperio, Pimple Saudagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Mahatma Phule Society, Nigdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Near Panchadurga CHS, Rupeenagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Gawlinagar, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Chatrapati Chowk, Bhopkhel	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Saikrupa CHS, Nigdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Triveninagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Om Sai CHS, Chikhall	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Akashganga Society, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Sant Tukaramnagar, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Sonigara Opel, Chinchwad Station	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Siddhivinayak Colony, Bapdevnagar, Kiwale	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Emenzeka Park, Chikhali	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Shakhari Bank, Nadhenagar, Kalewadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Divya Heights, Saudagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Shikshak Society, Pimple Nilakh	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Sec.27A, Pradhikaran	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Hallmark Avenue, Ravet	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Mamata Nagar Lane 2, Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Shastri Nagar, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Vaibhavnagar Road-2, Pimpr	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Pune	All	Krystal City, Chikhali	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
+Maharashtra	Nashik	All	Kochar Sadan, Jachak Mala, Jaibhavani rd, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Nandadip Banglow, Jagtap Mala, Nrd. Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Gokuldham Soc., Shakti Nagar, Panchvati, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Niloday Banglow, Shriram nagar, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Gajanan Smruti Appt., Ambedkar Chowk, Sharanpur road, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Ali Ansari Villa, Sainath ngr, Indira nagar, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Delta Royal Builting, Pakhal rd, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Radha Raman Building, Vrindaven Colony, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Mhada Gharkul, Bharat nagar slum, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Kothulel Mala, Lamroad, Vihitgaon, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Sundar Nagar, Deolaligaon, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Saibaba Nagar, Rajratna Nagar, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Mayur Hospital, Ambad link rd, Kamatwada, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Bajjprabhu Chowk, Ganesh Chowk, Cidco, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Police Head quarter, gangapurrd, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Satyam Palace Appt., Kalanagar, Panchvati, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Pethekar Plaza, M.bad naka, Panchvati, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Bhaskar Planet, Tarwala ngr Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Gajanan Appt, Tavali Phata, Pethroad, Panchvati, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Pawan putra Soc., Trimurti Ngr, Panchvati, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Sambhaji Chowk, Pavan Nagar, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Archit Royal, Mahatma Ngr, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Shri Ekdant Appt., Ravivar Peth, Shanigalli, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Kishor Appt. (shrikrishna), Manohar Market, Sarda Circle,Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Sairaj Residency, D Wing, RTO Corner, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Jaya Appt., Shivam Nagar, Hirawadi Rd, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Chaughule Chawl, Datta Ngr, Panchvati, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Amar Soc. Usmania Chowk, Pakhalroad, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Krupashankar Soc., Hirway Nagar, Wadalard, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Sope House, lijamata Ngr, Jailroad, N.rd Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Bhagwati Krupa Banglow, Shivaji Ngr, Dindorird, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Anand Bhakti Soc., Datta Mandir, Nrd Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Mahadevwadi, Satpur, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Patil Galli, Budhwar Peth, Old Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Satyam Residency, Anusaya ngr, Tapovan link rd, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Shivneri Heritage, Aurangabad Rd, Panchvati, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Samrudhi, Sham Sundar Row House, Vithal Ngr, Kamatwade	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Blis Central Building, Karmyogi ngr, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Krishna Mandir Gali, Shivaji Ngr, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Divine Shelter, Don Bosco rd, Thathe Ngr, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Tulsi Hights, Ramkrishn Nagr, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Maharashtra	Nashik	All	Mehboob Nagar, Lane No.4, Wadalagaon, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
+Tamil Nadu	Chennai	All	Venkatesh Colony 1st Street, Kodungaivur	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Krishnan street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Ambedkar Street, Erukkancherry	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Thiruvallur nagar 7th street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	KKD Nagar 6th block, 2nd cross street,	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	MKB Nagar 15th west Cross street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Nethaji Nagar 2nd street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Nethaji Nagar 3rd street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Nethaji Nagar 4th street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Nethaji nagar Sth street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Nethaji nagar Ist street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Karunanidhi Nagar 4th street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Butchammal Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Avoormuthaiah Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Vasar varadappan street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Nammaiah Maistry street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	INagooran Thottam	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Veeraghavan Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Sivagami Nagar	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Mangammal Garden	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Keerai Thottam	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Nattal Garden 2nd street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	BV Colony 5th street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Solayappan Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	OSH Road (AnjaneyaNagar 10th S)	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Nanian Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Mannar Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Basiam street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Chellapapa Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Venkatesha Bathan Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Jeevan Bhima Nagar, Anna Nagar West Extn	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	6, Kandikai St, TVS Nagar East, Korattur	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Palani Andavar Koil Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Elumalai Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	JAnna Street, MGR Colony	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Nehru Nagar Slum BoardE.G.JJ.K&L Block)	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Azad Nagar 1St Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Azad Nagar 2St Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Azad Nagar 3St Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Quide-Millath Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Santhai street Triplicane	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Swamy street Triplicane	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Eswaradass Lala Street Triplicane	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Sivan Koil Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Saf Games Village Koyambedu	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Gangaiamman Kovil St.Vadapalani	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Palayakaran Street	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Lake View Road	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Ganapathy St, West Mambalam	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Mothilal Street, T.Nagar	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Velunachivar St MGR Nagar Karunanidhi Nagar	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Sanjai Gandhi Street, MGR Nagar	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Annamalai Nagar,3rd St,West Mambalam	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Sadaiyappan St Saidapet	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Dhanapal Street, West Mambalam	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	2nd Main Roadá Cit Nagar Nandanam	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	New Boak Road	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Bazar Road,Saidapet	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	ECR Road, Kottivakkam.	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Radhakrishnan st Ambedkar Puratchi nagar	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Selvakumar Avenue Thooraipakkam	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Pandian Nagar Thooraipakkam	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	Kamarajar stree	https://twitter.com/omjasvinMD/status/1273914005925453824
+Tamil Nadu	Chennai	All	40th cross street	https://twitter.com/omjasvinMD/status/1273914005925453824
