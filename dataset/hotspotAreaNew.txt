@@ -2371,96 +2371,6 @@ Maharashtra	Thane	All	RAM NGAR OMKAR BHAIRAV CHAWL R NO 6 CHALW - 2 DIVA E	https
 Maharashtra	Thane	All	R NO 1 1ST FLR NADAR APT OMKAR NGR DIVA	https://www.freepressjournal.in/mumbai/coronavirus-in-thane-list-of-covid-19-containment-zones-in-thane-city-kalwa-diva-and-mumbra-issued-by-tmc-as-of-june-1
 Goa	South Goa	All	Ward No. 17, Mangor Hill, Near Maruti Temple and Opposite Gurudwara	https://cdn.s3waas.gov.in/s3d840cc5d906c3e9c84374c8919d2074e/uploads/2020/06/2020060345.pdf
 Goa	South Goa	All	Ward No. 11, Mangor Hill, Near Maruti Temple	https://cdn.s3waas.gov.in/s3d840cc5d906c3e9c84374c8919d2074e/uploads/2020/06/2020060345.pdf
-Puducherry	Puducherry	All	Muthialpet	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
-Puducherry	Puducherry	All	Dharmapuri, 	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
-Puducherry	Puducherry	All	Nettapakkam, 	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
-Puducherry	Puducherry	All	Kadirgamam, 	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
-Puducherry	Puducherry	All	Thavalakuppam, 	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
-Puducherry	Puducherry	All	Poornamkuppam 	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
-Puducherry	Puducherry	All	Mugrugambakkam	https://www.newindianexpress.com/states/tamil-nadu/2020/jun/03/four-covid-19-patients-on-ventilator-support-as-cases-rise-to-90-in-puducherry-2151670.html
-Puducherry	Puducherry	All	Madakadipattu	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
-Puducherry	Puducherry	All	Kombakkam	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
-Puducherry	Puducherry	All	Dilaspettai	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
-Puducherry	Puducherry	All	Annai Theresa nagar	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
-Puducherry	Puducherry	All	Solai nagar	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
-Puducherry	Puducherry	All	Thilakar nagar	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
-Puducherry	Puducherry	All	Periya Kottakuppam	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
-Puducherry	Puducherry	All	Vadamangalam	https://www.dailythanthi.com/News/Puducherry/2020/06/01060806/Announcement-as-Kombakkam-control-zone.vpf
-Maharashtra	Pimpri-Chinchawad	All	Kharalwadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Vijayanagar, Dighi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Indiranagar, Chinchwad	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Bajaj School Campus, Sambhajinagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Nikamvasti, Ch-holi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Chhatrapati Chowk, Rahatni	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Anandnagar, Chinchwad station	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Chakrapani Colony, Dighi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Pawannagar, Old Sangvi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Vikasnagar, Kiwale	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Copper School, Residence	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Phugewadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Sai Prasad, Pimple Saudagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Panchdurga, Rupinagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Kavadenagar, Pimplegurav	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Umbrella Park, Sambhajinagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Amritdhara, Dighi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	More basti	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Bhatnagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Gyan Angan Sosa. Accommodation	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Hanuman Colony, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Alankapuram Road, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Sadguru Colony, Wakad	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Shrikrishna Colony, Rahatni	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Sharadnagar, Chikhali	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Walhekarwadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Akashraj, Ravet	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Ghansham Sosa. Pimple Saudagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Balghare Vasti, Chikhali	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Destination memory, Chikhali	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Dhavade Vasti, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Shivrajnagar, Rahatni	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Bombay Colony, Dapodi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Mahadevnagar, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Kaverinagar, Wakad Police Line	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Pimpri Camp, CZ	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Alankapuram Sosa. Vadmukhwadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Shastri Chowk, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Dange Chowk, Wakad	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Boudhnagar, Pimpri	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Gaikwad Chawl, Kalewadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Bapdevnagar, Kiwale	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Kiwale Gaothan	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Dhorenagar, Juni Sangvi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Sahyognagar, Rupinagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Prestige Building, Chinchwad	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Pawannagar, Kalewadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Ambedkarnagar, Kiwale	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Mhalsakant Chowk, Akurdi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Madhura Colony, Walhekarwadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Keshavnagar, Kasarwadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Ganeshnagar, Bopkhel	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Kalpataru Estate, Pimple Gurav	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Dhore Farm, Navi Sangvi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Sangamnagar, Old Sangvi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Phoenix Hospital Kalewadi fork	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Mukai Chowk, Kiwale	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Siddharth Building, Ajanthanagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Kuldeep Angan, Nehru Nagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Sonkar Chambers, Pimpri	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Laxmitara Market, Dange Chowk	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Bhimnagar, Pimpri	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Radhakrishnanagar, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Bahirwade Complex, Chinchwad	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Yashwantnagar, Chikhali	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Sai Apartment, Guruvihar, Bhosari	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Gurudwara Road, Walhekarwadi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Phulenagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Gulabnagar, Dapodi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Shetty Chaal, Dapodi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Shindenagar, Old Sangvi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	MB Comp, Kiwle	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Shriram Colony, Bijlinagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Duttnagar, Akurdi	https://www.pcmcindia.gov.in/marathi/covid_containment.php
-Maharashtra	Pimpri-Chinchawad	All	Rose Conti, Pimple Saudagar	https://www.pcmcindia.gov.in/marathi/covid_containment.php
 Haryana	Faridabad	All	Dabua Colony 	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	NIT-1, Block A, B, C, D and H NIT-2 Block G, L, Block -D	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
 Haryana	Faridabad	All	H.No. 42 to 72, Block-N,NIT-2, KL Mehta Road	https://twitter.com/DC_Faridabad/status/1268504508201447424/photo/3
@@ -3033,20 +2943,6 @@ Madhya Pradesh	Bhopal	All	मकान नं. 1788 मछली मार्क
 Madhya Pradesh	Bhopal	All	मकान नं. 415 सेक्टर 03 शक्ती नगर, गोविन्दपुरा	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
 Madhya Pradesh	Bhopal	All	एफ 2/21 विनायक होम्स अशोका गार्डन	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
 Madhya Pradesh	Bhopal	All	मन. 47/1 इब्राहीमगंज, हनुमानगंज	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060691.pdf
-Puducherry	Puducherry	All	Kamatchi Amman Kovil Street, White Town	https://twitter.com/pondicherryinfo/status/1269507023420309505
-Puducherry	Puducherry	All	2nd Cross street, Veeman Nagar, Thattanchavady	https://twitter.com/pondicherryinfo/status/1269507023420309505
-Puducherry	Puducherry	All	Govindan Street, Anandha Nagar, Kathirkamam	https://twitter.com/pondicherryinfo/status/1269507023420309505
-Uttarakhand	Pauri	All	Vill. Pipili, Block Pabau, Pauri	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Pauri	All	Gram Satpali patti, Chaubattakhal, Pauri	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Vill. Bhati, Magadhar, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Vill. Lamnidhar, Tehsil Jakhanidhar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Gram Akhori, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Gram Jelam, Tehsil Jakhanidhar	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Gram Dhung Patti, Gyarahgaon, Tehsil Ghans	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Gram Gawadamalla, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Gram Kyulagi, Tehsil Kandisaud	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Gram Jakhnyali, Tehsil Ghansali	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	U.S. Nagar 	All	Sampoornanand Central Jail Tehsil Sitarganj	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
 Madhya Pradesh	Bhopal	All	म. न. 44 अहाता सिकन्दर कुली पुल बोगदा, ऐशबाग	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
 Madhya Pradesh	Bhopal	All	म.न. 149, भारत टॉकिज सरदार पटेल नगर भोपाल, मंगलवारा	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
 Madhya Pradesh	Bhopal	All	146, इतवारा भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
@@ -3318,63 +3214,6 @@ Haryana	Gurugram	Gurugram	Parsvnath Tower C (Sohna Road)	https://twitter.com/DC_
 Haryana	Gurugram	Gurugram	Block N & Block J (In Mafil Garden)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
 Haryana	Gurugram	Gurugram	Block A to 11 DLF phase I, Silver apartment DLF phase I	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
 Haryana	Gurugram	Gurugram	Tower C1, C2, C5, C7, B2 (In Power Grid Aprtmant Sector-43)	https://twitter.com/DC_Gurugram/status/1271782672549818371/photo/4
-Uttarakhand	Dehradun	All	Prem Batta Gali, Santowali Ghati Dehradun	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Adarsh Nagar, Lane No. 9, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Gali No. 34, Shivaji Nagar, Rishikesh	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Bees Bigha, Rishikesh, Dehradun	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ward No. 13. Gram line JeevanGarh, Vikasnagar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ward No. 09, Herbertpur, Vikasnagar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Gram Fatehpur Tanda, Doiwala	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Haripurkala, Basti Ward No 2, Motichur Line	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Circular Road, Dalanwala	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Brahmapuri, Patelnagar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Kalinga Colony, Araghar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Basant Vihar, Phase 2, Dehradun	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Navin Mandi, Niranjanpur, Dehradun	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Railway road, Rishikesh	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Vill. Gadi Maychak, Dehradun	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Harshrinath Gali, Khudbuda Mohalla	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ward No. 5, Jolly Grant, Doiwala	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ramvihar, Ballupur	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Purvi Patel Nagar, Dehradun	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Chamanpuri, Thana Patelnagar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	16 Mohini Road, Dalanwala	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Sati Mohalla, ward no. 34, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Matawala Mohalla, Ward no.8, Nagar Panchayat Londaura	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward no. 12, Mohd pur, Mohan pura, Nagar Nigam  Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Munda Khera Kalan, Laksar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Dargapur, Laksar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Adarsh Nagar, Nagar Nigam Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Dabki, Laksar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Village - Dadupur, Govindpur, Haridwar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Hazrat Bilal Mohalla, Ward No. 6, Landoura, Manglore	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Green Park Colony. Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vaishnavi Apartment, Kankhal	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ambedkar Colony. Ward No. 9. Landoura, Manglore	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Jaswinder Enclave, Bhagirathi, Ward No.1, Haridwar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vill. Alawalpur, Laksar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Danori, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vill. Mohitpur, Tehsil Bhagwanpur	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward No 5, PWD Colony, Khanjarpur Road,TehsilRoorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Shivalik Nagar, Haridwar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Sultanpur, Adampur, Tehsil Laksar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mahigran, Ward No. 35, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Tikampur, Pargana Jwalapur	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Gaindikhata, Haridwar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Khedi Shikohpur, Bhagwanpur	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Mehwad kala, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vill. Lathardeva, Tesil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Adarsh Nagar, Tehsil Rookee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vill. Dandera, Awasiya Colony, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Bhangedi, Mahawatpur, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Inayatpur, Pargana Bhagwanpur	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Mirzapur (Mohanapur), Ward No 5. Tehsil Laksar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Dandera, Milap Nagar Colony, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Puhana, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mohalla Malakpura, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mohalla Ramnagar, Tehsil Haridwar	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	U.S. Nagar 	All	Ward No. 38, Shiv Shakti Society, Rudrapur	https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Vill. Dobri, Magadhar, Tehri Garhwal	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
 Karnataka	Bengaluru Urban	All	street (A-95) in kaval Bayrasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
 Karnataka	Bengaluru Urban	All	street (A-96) in Gurappanapalya	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
 Karnataka	Bengaluru Urban	All	street (A-97) in Singasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1869877256480863/1869876703147585/?type=3&theater
@@ -3455,16 +3294,6 @@ Karnataka	Bengaluru Urban	All	street (A-147) in Sampangiram Nagar	https://www.fa
 Karnataka	Bengaluru Urban	All	street (A-148) in Ulsoor	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
 Karnataka	Bengaluru Urban	All	street (A-149) in K.R.Market	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
 Karnataka	Bengaluru Urban	All	an apartment (AP-20) in Vignana Nagar 	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Uttarakhand	Tehri	All	Vill. Danda, Tehri Garhwal	https://health.uk.gov.in/files/2020.06.07_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mohalla Rajendranagar Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward No. 31. Mohallia Puran Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mohalla Shakti Vihar, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Nagar Panchayat Landore. Tehsil Roorkee,	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Village Bahedi Mahawatpura, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vill Banheda, Tanda, Block Narsan	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Salempur, Mahmood pratahm, Pargana Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mohalla Mahalaxmipuram (Mohanpura. Mohammadpur).Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Pathanpura, Ward No. 1, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
 Madhya Pradesh	Bhopal	All	म.नं. 34, सुदामा नगर गोविन्दपुरा, ऐशबाग	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
 Madhya Pradesh	Bhopal	All	म.नं. 1733, मुरार जी नगर पुल बोगदा थाना ऐशबाग	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
 Madhya Pradesh	Bhopal	All	म.नं. 08, अहमद अली कालोनी, ऐशबाग	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061014.pdf
@@ -3540,11 +3369,6 @@ Karnataka	Bengaluru Urban	All	Street (A-195) in Dharmarayaswamy Temple	https://w
 Karnataka	Bengaluru Urban	All	Street (A-196) in Lakkasandra	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
 Karnataka	Bengaluru Urban	All	Street (A-197) in Dharmarayaswamy Temple	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
 Karnataka	Bengaluru Urban	All	An apartment (AP-21) in Vidyaranyapura	https://www.facebook.com/bbmp.comm1/photos/pcb.1873515832783672/1873515069450415/?type=3&theater
-Uttarakhand	Haridwar	All	Gram Chudiyala, Mohanpur, Tehsil Bhagwanpur	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Karondi, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Chawmandi, Ward No. 20. Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Kasba Manglore kila, Tehsil Roorkee	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Chanchak, Tehsil Bhagwanpur	https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf
 Madhya Pradesh	Bhopal	All	म.न. 68 चौकी इमामबाडा अमर बंसत नूर महल रोड भोपाल, कोतवाली	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
 Madhya Pradesh	Bhopal	All	म.न. 50, गली न. 01 राम मंदिर के पास टीलाजमालपुरा	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
 Madhya Pradesh	Bhopal	All	म.न. 517 जे.पी. नगर डी.आई.जी. बंगला भोपाल, गौतमनगर	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020061531.pdf
@@ -4367,119 +4191,6 @@ Uttar Pradesh	Ghaziabad	All	362 Tyagl Market Jagrati vihar sanjay Nagar	https://
 Uttar Pradesh	Ghaziabad	All	A 275 Nehru Nagar GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
 Uttar Pradesh	Ghaziabad	All	H.no 107 Mohlla Afganan, Delhl gate GZB	https://twitter.com/dm_ghaziabad/status/1273503994661359622
 Uttar Pradesh	Ghaziabad	All	G 78 Sec 9 Vijay nagar	https://twitter.com/dm_ghaziabad/status/1273503994661359622
-Maharashtra	Pune	All	Mukai Chowk, Kiwale	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Sainath Nagar, Nigdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Siddharth Building, Ajanthanagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Kuldeep Angan, Neharunagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Gurudwara Road, Walhekarwadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Shetty Chawl, Dapodi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	MB Camp. Kiwale	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Shreeram Colony, Bijalinagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Dattanagar, Akurdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Bhimnagar, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Radhkrushnagar, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Bhairwade Complex, Chinchwad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Yashwantnagar, Chikhali	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Sai Apartment, Guruviahar, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Thermax Chowk, Akurdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Rose Icon, Pimple Saudagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Shivanjali Road, Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Madhuban Lane 2, Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Kawade Nagar, Pimple Gurav	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Keshav Nagar, Kasarwadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Nanekar Chawl, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Ganesham-2, Pimple Saudagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Ramnagar, Akurdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	indiranagar, Chinchwad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Anand Nagar, Ch. Station	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Bhatnagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Sadguru Colony, Wakad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Ramnagar, Akurdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Mauli Chowk, Kalatenagar, Wakad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Tanishq Orchid, Charholi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Phulenagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Khandoba Mal, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Patil Nagar, Chikhalli	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Sukhwani imperial, Morwadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Gurudutta Nagar, Nanekar Chaw	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Katenagar, Charholi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Budhanagar, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Navjeevan CHS, Neharunagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Anand Park Nigadi Pradhikaran	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Gulabnagar, Dapodi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Shindenagar, Old Sangi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Sangamnagar, Old Sangavi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Geeta Society, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Netaji Nagar, Pimple Gurav	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Ramkrushna Chowk, Pimple Gurav	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Morewasti	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Mankar Empire, Wakad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Joytibanagar, Kalewadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Bella Vista, Wakad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Nayanprabha School, Wakad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Khandobamal-2, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Samata Nagar, Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Sai Sneha Park, Old Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Belthikanagar, Thergaon	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Yas Residancy, Sangamnagar, Old Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Gurudatta Colony, Walhekarwadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	BU Bhandari, Dighi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Sonkar Chambers, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Shaunagar, Chinchwad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Kalbhornagar, Akurdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Regent Park, Chikhali	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Dhorenagar, Old Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Keshavnagar, Chinchwad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Gokul CHS, Morewasti	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Apulki CHS, Shahunagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Vaibhavnagar, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Kauntaya CHS, Rupeenagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Krushnakrupa CHS, Morewadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Munna Shet Chawl, Mukeshnagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Sonkar Chambers, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Shaunagar, Chinchwad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Kalbhornagar, Akurdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Regent Park, Chikhali	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Dhorenagar, old Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Keshavnagar, Chinchwad	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Gokul CHS, Morewasti	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Apulki CHS, Shahunagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Vaibhavnagar, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Kauntaya CHS, Rupeenagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Krushnakrupa CHS, Morewadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Munna Shet Chawl, Mukeshnagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Samarth Ashok CHS, Rupeenagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Kauntey CHS, Rupeenagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Nadhenagar, Kalewadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	SMS Colony, Dapodi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Shewale Apt, Dapodi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Mane Chawl, Dapodi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	New Gulab nagar, Dapodi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Laltopinagar, Morewadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Adharsha Society, Kalbhornagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Yashodha CHS, Ajanthanagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Royal Imperio, Pimple Saudagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Mahatma Phule Society, Nigdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Near Panchadurga CHS, Rupeenagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Gawlinagar, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Chatrapati Chowk, Bhopkhel	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Saikrupa CHS, Nigdi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Triveninagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Om Sai CHS, Chikhall	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Akashganga Society, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Sant Tukaramnagar, Bhosari	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Sonigara Opel, Chinchwad Station	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Siddhivinayak Colony, Bapdevnagar, Kiwale	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Emenzeka Park, Chikhali	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Shakhari Bank, Nadhenagar, Kalewadi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Divya Heights, Saudagar	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Shikshak Society, Pimple Nilakh	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Sec.27A, Pradhikaran	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Hallmark Avenue, Ravet	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Mamata Nagar Lane 2, Sangvi	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Shastri Nagar, Pimpri	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Vaibhavnagar Road-2, Pimpr	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
-Maharashtra	Pune	All	Krystal City, Chikhali	https://twitter.com/Pune24x7/status/1272355932765171712/photo/3
 Maharashtra	Nashik	All	Kochar Sadan, Jachak Mala, Jaibhavani rd, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
 Maharashtra	Nashik	All	Nandadip Banglow, Jagtap Mala, Nrd. Nashik	https://twitter.com/my_nmc/status/1273291901953687552
 Maharashtra	Nashik	All	Gokuldham Soc., Shakti Nagar, Panchvati, Nashik	https://twitter.com/my_nmc/status/1273291901953687552
@@ -5136,3 +4847,336 @@ Kerala 	Thiruvananthapuram	All	Kattakada, Wards: 3, 5, 7, 8, 16, 17, 18, 19, 20,
 Kerala 	Thiruvananthapuram	All	Thiruvananthapuram (C), Wards: 55 (Kalady Junction), 70 (Attukal, Iranimuttam), 72 (Manacadu Junction), Chiramukku-Kalady Road	https://dashboard.kerala.gov.in/hotspots.php
 Kerala 	Kottayam	All	Chirakkadavu, Wards: 13	https://dashboard.kerala.gov.in/hotspots.php
 Kerala 	Ernakulam	All	Vengola, Wards: 17	https://dashboard.kerala.gov.in/hotspots.php
+Puducherry	Puducherry	All	Mariamman Koil Street, Sithankudi, Saram	https://pondicherryinfo.in/
+Puducherry	Puducherry	All	Nandagopal Counder Street, Pethuchettipet, Karuvadikuppam	https://pondicherryinfo.in/
+Puducherry	Puducherry	All	Saraswathi Street, Srinivasapuram, Veeman Nagar, Thattanchavady	https://pondicherryinfo.in/
+Puducherry	Puducherry	All	Vaikal Street, Pitchaveeranpet, Oulgaret	https://pondicherryinfo.in/
+Puducherry	Puducherry	All	Hospital Road, Mettupalayam, Puducherry	https://pondicherryinfo.in/
+Puducherry	Puducherry	All	Nesar Street, Isravel nagar, Gorimedu	https://pondicherryinfo.in/
+Puducherry	Puducherry	All	Nethaji Street, Lakshmi Nagar, Lawspet, Karuvadikuppam	https://pondicherryinfo.in/
+Puducherry	Puducherry	All	Pudu Street, Pudupet, Lawspet	https://pondicherryinfo.in/
+Puducherry	Puducherry	All	1st Cross, Tagore nagar, Saram	https://pondicherryinfo.in/
+Puducherry	Puducherry	All	2nd Cross, Mariyal Nagar, Reddiyarpalayam	https://pondicherryinfo.in/
+Puducherry	Puducherry	All	Cross Street, Pipdic Road, Pillaiyarkuppam	https://pondicherryinfo.in/
+Maharashtra	Pimpri-Chinchawad	All	Bhimnagar, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Kawade Nagar, Pimple Gurav	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Nanekar Chawl, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Indiranagar, Chinchwad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Anand Nagar, Ch. Station	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Bhatnagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sadguru Colony, Wakad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Ramnagar, Akurdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Mauli Chowk, Kalatenagar, Wakad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Tanishq Orchid, Charholi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Dattanagar, Akurdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Phulenagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Khandoba Mal, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Patil Nagar, Chikhali	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sukhwani Imperial, Morwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Gurudatta Nagar, Nanekar Chawl	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Katenagar, Charholi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Buddhanagar, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Navjeevan CHS, Nehrunagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Anand Park, Nigdi Pradhikaran	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Kamalakar Chowk, Wakad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sai Siddhi Apt. Kharalwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Balaji Nagar, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Vijaynagar, Kalewadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Renuka Apt., Dalvinagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sonkar Complex, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Saibaba Nagar, Chinchwad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Wadmukhwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Shivatirth Nagar, Rahatani	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Gulabnagar, Dapodi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Shindenagar, Old Sangvi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sangamnagar, Old Sangavi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Geeta Society, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Netaji Nagar, Pimple Gurav	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Ram Krishna Chowk, Pimple Gurav	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Morewasti	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Mankar Empire, Wakad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Jyotiba Nagar, Kalewadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Bella Vista, Wakad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Nayanprabha School, Wakad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Khandobamal-2, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Samata Nagar, Sangvi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sai Senha Park, Old Sangvi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Belthikanagar, Thergaon	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Yas Residaney, Sangamnagar, Old Sangvi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Gurudatta Colony, Walhekarwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	BU Bhandari, Dighi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sonkar Chambers, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Shaunagar, Chinchwad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Kalbhornagar, Akurdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Regent Park, Chikhali	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Dhorenagar, Old Sangvi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Keshavnagar, Chinchwad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Gokul CHS, Morewasti	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Apulki CHS, Shahunagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Vaibhavnagar, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Kauntaya CHS, Rupeenagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Krishnakrupa CHS, Morewadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Munna Shet Chawl, Mukeshnagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Samarth Ashok CHS, Rupeenagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Kauntey CHS, Rupeenagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Nadhenagar, Kalewadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	SMS Colony, Dapodi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Shewale Apt, Dapodi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Mane Chawl, Dapodi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	New Gulab nagar, Dapodi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Laltopinagar, Morewadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Adharsha Society, Kalbhornagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Yashodha CHS, Ajanthanagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Royal Imperio, Pimple Saudagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Mahatma Phule Societ, Nigdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Near Panchadurga CHS, Rupeenagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Gavalinagar, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Chatrapati Chowk, Bhopkhel	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Saikrupa CHS, Nigdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Triveninagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Om Sai CHS, Chikhali	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Akashganga Society, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sant Tukaram Nagar, Bhosari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Siddharth Building, Ajanthanagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sonigara Opel, Chinchwad Station	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Siddhivinayak Colony, Bapdevnagar, Kiwale	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Emenzeka Park, Chikhali	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sahakari Bank, Nadhenagar, Kalewadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Divya Heights, Saudagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Shikshak Society, Pimple Nilakh	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sec.27A, Pradhikaran	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Hallmark Avenue, Ravet	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Mamata Nagar Lane 2. Sangvi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Shastri Nagar, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Vaibhav Nagar Road-2, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Krystal City, Chikhali	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Ushkal CHS, Sangvi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	PC Sahakari Bank, Nadhenagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Dnyanesh Apt. Tanajinagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Bhimashankar Colony, Dighi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Adarshnagar, Dighi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Jyotibanagar, Tapkirchowk	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Ganeshnagar, Thergaon	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Siddhi Anand Park, Morewasti	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Dagdupatil Nagar, Thergaon	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sanskriti Society, Wakad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Ajinkya Colony, Wakad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Aai Apartment, Vinayak Nagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Prakash Pagriya Path, Kasarwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Morya society, Chafekar Chowk	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Morwadigaon	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Shanti CHS, Chikhali	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Aishwaryam Courtyard, Chikhali	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Namo Inspiria, Chikhali	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Royal Heritage, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sai Orchid, Pimpri	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Shastri Nagar, Pimpri Colony	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Waghere Park, Pimpri Colony	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Trimurti Building, Taleranagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Shivsai Nagar, Dighi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Bapuji Apt, Kate Wasti, P.Saudagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Rupe CHS	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	R.G.Patel Marg. Pradhikaran	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sundarban Soc.	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Akurdi Gavthan	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Bijali Nagar, Ganga Nagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Near Sanjeevani Herbal India, Mohannagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sai Society, Dighi Road	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Ganga Skies, Sant Tukaram Nagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Jaymala Nagar, Old Sangvi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Shreepad Apt, New Sangvi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sonia Vihar, Kalewadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	LIG Colony	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Shilpa Housing Society, Nigdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Utkarsha Mitra Mandal, Nigdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	PCMC Building No.1, Nigdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Plot No.399. Sec.22. Nigdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Bijali Nagar, Shivnagari	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Sudarshan Nagar, Pimple Gurav	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Vaidu Vasti, Pimple Gurav	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Rondale Chawl, Dapodi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Nayantara Nashik Phata Kasarwadi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Tanaji Nagar, Chinchwad	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Shani Mandir, Sant Tukaram Nagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	422/213, Sant Tukaram Nagar	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Verve Apartment, Bhumkar Wasti	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Panchashil Nagar, Pimple Nilakh	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Maharashtra	Pimpri-Chinchawad	All	Ramnagar, Akurdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
+Uttarakhand	Dehradun	All	Om Sarthak, Sewlakala, Dehradun (26-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Prem Bata Gali Santowali Ghati Dehradun (27-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Circular road Dalanwaala , Dehradun (31-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Kalinga Colony, Aaraghar, Dehradun (01-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Bramhapuri, Patel nagar, Dehradun (01-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Pragatipuram, Supi Colony, Balawala, Dehradun (01-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Vasant Vihar, Phase 2, Transformer Wali Gali, Dehradun (03-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Baljit Singh Sardar wali gali, Khudbuda, Dehradun (03-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Harshirinath Gali Khurbura Mohalla, Dehradun (04-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Naveen Mandi Sthal, Niranjanpur, Dehradun (04-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Sai Lok Lane No. 2, Thana Basant Vihar, Dehradun (04-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	John Dhaba, Kent road, Mothrowala, Dehradun (05-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Vivek Vihar, Clementown, Dehradun (05-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Smiley Book Depot wali gali, Dehradun (06-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ram Vihar , Ballupur Dehradun (08-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Poorvi Patel Nagar, Dehradun (10-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Chaman Puri, Thana Patel Nagar, Dehradun (10-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	16 Mohini Road, Dalanwala, Dehradun (11-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	60/1 Govindgarh, Dehradun (19-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	202 Eidgah, Chakrata road, Dehradun (19-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	ward no-2, motichur line, nagar nigam rishikesh,.(29-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gali no- 34, shivaji nagar Rishikesh (30-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Bees Beegha Colony, Nagar Nigam Rishikesh (30-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Railway Road Rishikesh (04-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Village Gadimaychak Rishikesh (04-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gali No. 4, Bhagirathipuram Chopda Farm, Shyampur, Rishikesh(06-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Village Khand, Rishikesh (07-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Main Sabji Mandi, Rishikesh (17-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gram fatehpur tanda, Dehradun, Doiwala( 29-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	lane no-9, Jolly grant adarsh naga , Tehsil Doiwala,(30-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Jolly Grant Dehradun Ward No 5, Bichli Jolly Solanki Mohala, Doiwala (08-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No. 15, Teliwala, Doiwala (18-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No 13, Jeevan Garh, Vikasnagar (30-05-2020	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	ward no- 9, vikasnagar, Vikasnagar (30-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Haddowala, Ashok Ashram, Vikasnagar (03-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gram Sabha Pasoli Moja, Vikasnagar (03-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Udham Singh Nagar	All	Sampoornanand Shivir/ Central Jail , Sitarganj (07-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Udham Singh Nagar	All	Ward No 38, Shiv Shakti society, holi Chowk road , awas vikas Rudrapur (10-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	gram bhati, magadhar, Ghansali(26-05-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	gram gawan malla, tehsil ghansali (02-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Akhori, Ghansali (02-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Dhung, Patti , gayarahgaon, Ghansali (02-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Jhaknyali, Ghansali (02-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Lamnidhar,Jakhnidhar (26-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Jelam Jila, Kandisaur 02-06-2020	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram kayulagi, tehsil Kandisaur(30-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram dobri Wala, Devprayag (14-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Village Danda, Devprayag (14-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Green Park Colony , Tehsil Roorkee (25-05-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Hazrat Bilal Mohalla , Landour Thana, Roorkee (25-05-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ambedkar Colony, Landour, Mangalore, Roorkee (25-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village – Dhanaura, roorkee (26-05-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward No-05 , PWD Colony, khanjarpur Road, Roorkee (02-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	ward No- 35, Mahigran Mohalla, Roorkee (07-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mehwad kala, Roorkee (10-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Lathradeva shekh, Roorkee (10-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mohalla Adarsh Nagar, Roorkee (10-06-2020.	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward No. 24, Gram Sunahara Roorkee (10-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram – Dandhera , Roorkee, Haridwar( 13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram – Bhangedi, Mahawatpur, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mohalla Rajendra Nagar, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward No. 31 Mohalla Purani, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mohalla Shakti Vihar, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mohalla Malkpura, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village Mirjapur, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village Puhana, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Nagar Panchayat Landore, Roorkee (13-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village Badhedi Mahawatpur, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village Dhadera Awasiya Colony, Roorkee (13-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Vanheda Tanda Block Narsan, Roorkee (15-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mohalla Maha laxmi Puram, Roorkee (15-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Tehsil Roorkee Mohalla Pathanpura, Roorkee (15-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Krishna nagar, Galin No:-20, Salempur, Bhagwanpur, Roorkee, Haridwar(16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Shyana Nagar, Gali No:- 1, ward no: 38, Roorkee (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Karondi – 1, Roorkee (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Karondi – 2, Roorkee (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Chawmandi, Ward No. – 20, Roorkee, (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Kasba – Mnglore Killa, roorkee (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Kishanpur Jamalpur, Roorkee (17-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gali No. 9B, Mohalla Subhashnagar, Shivaliknagar, Roorkee (18-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Toda, Kalyanpur, Roorkee (19-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward No. 10, Mohanpura, Mohammadpur, Roorkee (19-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village Mohit pur Tehsil Bhagwanpur (02-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village Khedi, Bhagwanpur (08-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Inayatpur, Bhagwanpur (11-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Chudiyala, mohanpur, Bhagwanpur (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram – Chanchak, Bhagwanpur (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Chanchak Majra, Sikandarpur Bhagwanpur (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Buggawala, Bhagwanpur (18-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward No. 2, Gram Jalapur, Thana Bhawanpur (18-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village Alawal pur, Laksar (26-05-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	ward no- 07, Gram Sultanpur, Laksar (07-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward No. 14, Gram Sultanpur, Laksar (17-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Vaishnavi Apartment Kankhal Haridwar (26-05-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward No.1 Jasvinder Enclave Bhagirathi Nagar, Haridwar (26-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Shivalik Nagar, Haridwar(29-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Kathaith Bhawan, Ambula Road, Pathri, Haridwar (02-06- 2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Tikampur, Jwalapur, Haridwar (08-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Gandhikhata, pargna, najibabad, Haridwar (08-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mohalla Ramnagar, Tehsil Haridwar (13-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Tehsil Haridwar Gram Salimpur, Haridwar (15-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Tehri Vishtapit Colony, Bahadrabad Haridwar(15-06- 2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Tanda Bhagmal, Majra Bhogpur, Haridwar (17-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Shivalik Nagar, Tehsil Haridwar (18-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Uttarakhand	Uttarkashi	All	Paturi, Dhungoldhar, Dunda (17-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
+Maharashtra	Pune	All	पर्वतीदर्शन परिमर १,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	पर्वती, दांडेकर पूल झोपडपट्टी ,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	पर्वती, स.नं. ९३, महात्मा फुले वसाहत, लक्ष्मीनगर,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	टी.पी.स्किम ३, साने गुरुजी वसाहत,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	पर्वती स.नं. १३३ दांडेकर पुल ,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	सदाशिव पेठ, राजेंद्र नगर, झोपडपट्टी पुनर्वसन योजना,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	शहर मध्यवर्ती भाग, कसबा पेठ पैकी, मंगळवार पेठ (पैकी) ,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	शहर मध्यवर्ती भाग, रविवार पेठ, सि.स.नं. १०८९, भवानी पेठ 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	शहर मध्यवर्ती भाग गणेश पेठ (पैकी), नाना पेठ (पैकी), भवानी पेठ(पैकी), भवानी पेठ	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	शहर मध्यवर्ती भाग, नाना पेठ (पैकी), भवानी पेठ(पैकी), ढोले पाटील रोड, भवानी पेठ	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	शहर मध्यवर्ती भाग,गुरुवार पेठ (पैकी), महात्मा फुले पेठ (पैकी), घोरपडे पेठ (पैकी), भवानी पेठ 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	पुणे स्टेशन, ताडीवाला रोड, ढोले पाटील रोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	संगमवाडी टी.पी.स्किम कवडेवाडी, ढोले पाटील रोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	कोरेगाव पार्क लेआऊट संत गाडगेवाबा वसाहत, ढोले पाटील रोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	घोरपडी श्रीनाथ नगर, स.नं. ७१ पै., ढोले पाटील रोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	घोरपडी स.नं. ५४, शिवदत्त कॉलनी, ढोले पाटील रोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	घोरपडी स.नं. ५३, पवार एंटरप्राइजेस, ढोले पाटील रोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	पर्वती, तळजाई वस्ती १, धनकवडी सहकारनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	पर्वती, तळजाई वस्ती २, धनकवडी सहकारनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	पर्वती शिवदर्शन १, धनकवडी सहकारनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	पर्वती शिवदर्शन २, धनकवडी सहकारनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	पर्वती, सहकारनगर, दाते बस स्टॉपजवळील सिद्धार्थ नगर, धनकवडी सहकारनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	धनकवडी, राजीव गांधी वसाहत, धनकवडी सहकारनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	विववेवाडी आंबेडकरनगर मार्केटयार्ड, बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	गुलटेकडी, डायसप्लॉट बिबवेवाडी, बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	गुलटेकडी, मीनाताई मीनाताई ठाकरे वसाहत , बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	बिववेवाडी, अप्पर इंदिरा नगर, बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	बिबवेवाडी प्रेमनगर वसाहत, बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	विववेवाडी गावठाण, बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	बिबवेवाडी स.नं. ५८० हमाल नगर , बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	येरवडा प्रभाग क्र. 6, येरवडा - कळंस - धानोरी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	येरवडा, आदर्श इंदिरानगर, आळंदी रास्ता, येरवडा - कळंस - धानोरी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	हडपसर, रामनगर, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	हडपसर, रामटेकडी, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	हडपसर, गोसावीवस्ती, वैदूवाडी, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	हडपसर, सय्यदनगर 2 , वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	कोंढवा खुर्द भाग्योदयनगर वानवडी, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	 कोंढवा खुर्द साई बाबा नगर ते तांबोळी बाजार, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	कोंढवा खुर्द मिठानगर, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	वानवडी एसआरपीएफ, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	हडपसर, गोसावी वस्ती , वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	बिबवेवाडी, स.नं. ६०१पै. समता नगर वसाहत, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	वानवडी,स.नं. ७५ ताडी मळा वसाहत, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	शिवाजीनगर, जनवाडी, गोखलेनगर, शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	शिवाजीनगर, फा.प्लॉट नं.883 वडारवाडी वडार हो.सोसायटी, शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	शिवाजीनगर, पांडवनगर, हेल्थ कॅम्प, वडारवाडी, शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	शिवाजीनगर, पांडवनगर, गुंजाळवाडी , शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	शिवाजीनगर, यशवंत नगर परिसर प्लॉट नं. २५ व २६, शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	शिवाजी नगर, खैरेवाडी, गणेश खिंड रोड, शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	शिवाजी नगर, क्रांतिवीर चाफेकर नगर, गणेश खिंड रोड, शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	येरवडा जयप्रकाशनगर, गांधीनगर, नगररोड - वडगावशेरी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	वडगाव शेरी, स.नं. ४८/४ गणेश नगर लेन नं. १२ व १३ , नगररोड - वडगावशेरी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	खराडी, स.नं. ३/४/२/२ सातव वस्ती लेन नं. १ व २ , एरंडवणा, खिलारे वस्ती  प्लॉट नं. १५	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	पर्वती जनता वसाहत , सिंहगड रोड 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	पर्वती पानमळा वसाहत, सिंहगड रोड 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	पर्वती स.नं. १३०, दांडेकर पुल सिंहगड रोड , सिंहगड रोड 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	पर्वती स.नं. १३२, राजीव गांधी नगर, सिंहगड रोड , सिंहगड रोड 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	हडपसर, काळे पडळ, साई विहार परिसर, हडपसर - मुंढवा	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	हडपसर, गाडीतळ वेत्ताळ बाबा वसाहत, हडपसर - मुंढवा	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	हडपसर, गोंधळे नगर, नटराज कॉलनी, हडपसर - मुंढवा	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	फुरसुंगी, मेकराईनगर, हडपसर - मुंढवा	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	हडपसर, बनकर कॉलनी, शांतीनगर, हडपसर - मुंढवा	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	हडपसर, साडेसतरानळी, गणेशनगर, हडपसर - मुंढवा	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	कोंढवा बु., अशरफनगर, कोंढवा - येवलेवाडी 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	एरंडवणा, खिलारे वस्ती  प्लॉट नं. १५, वारजे - कर्वेनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	कोथरुड, पोस्टमन कॉलनी, शास्त्रीनगर, पी.एम.सी. कॉलनी, सागर कॉलनी, कोथरुड - बावधन	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	एरंडवणा स.नं, ४४ पै., केळेवाडी, कोथरुड - बावधन	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	एरंडवणा स.नं. ४४ पै., केळेवाडी, विठ्ठल मंदिर परिसर, कोथरुड - बावधन	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	एरंडवणा, स.नं. ४४पै. केळेवाडी विश्वशांती चौक, कोथरुड - बावधन	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	एरंडवणा, स.नं. ४४पै. केळेवाडी वसंत नगर, कोथरुड - बावधन	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	वोपोडी, स.नं. २५पै., म्हसोबा मंदिर परिसर, औंध - वाणेर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	बोपोडी, स.नं. २४, २५पै. पवळे चाळ, सिद्धार्थ नगर, औंध - वाणेर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
+Maharashtra	Pune	All	औंध डी.पी. रोड आंबेडकर वसाहत, औंध - वाणेर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
