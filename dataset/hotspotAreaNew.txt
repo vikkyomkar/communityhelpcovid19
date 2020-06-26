@@ -130,7 +130,6 @@ Madhya Pradesh	Dewas	All	Peetha Road	https://www.indiatvnews.com/news/india/madh
 Madhya Pradesh	Dewas	All	Nahar Darwaja	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Dewas	All	Sheetlamata ward, Haatpipliya City	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
 Madhya Pradesh	Dewas	All	Panigaon village	https://www.indiatvnews.com/news/india/madhya-pradesh-coronavirus-hotspots-sealing-ordered-606117
-Karnataka	Mysuru	All	Nanjangud town	https://www.dtnext.in/News/National/2020/04/02135830/1222923/Covid19--Mysuru-district-declared-Red-Zone-security-.vpf
 Andhra Pradesh	Kurnool	All	Roja Street	https://www.thehindu.com/news/national/andhra-pradesh/red-zones-created-in-kurnool/article31252572.ece
 Andhra Pradesh	Kurnool	All	Owk and Banaganapalle villages	https://www.thehindu.com/news/national/andhra-pradesh/red-zones-created-in-kurnool/article31252572.ece
 Andhra Pradesh	Kurnool	All	Kappalanagar in Kurnool town	https://www.thehindu.com/news/national/andhra-pradesh/red-zones-created-in-kurnool/article31252572.ece
@@ -448,18 +447,6 @@ Rajasthan 	Jodhpur	All	Sojati Gate	https://twitter.com/manit_choudhary/status/12
 Rajasthan 	Jodhpur	All	Kabootaron ka chowk	https://twitter.com/manit_choudhary/status/1252999371727220737
 Rajasthan 	Jaipur	All	Shastri Nagar	https://twitter.com/dineshkumawat/status/1253348240071823367
 Rajasthan 	Jaipur	All	Mansarovar	https://twitter.com/dineshkumawat/status/1253348240071823367
-Karnataka	Mysuru	All	Kuvempunagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Jayalakshminagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	JP Nagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Srirampura 2nd Stage	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Janata Nagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Meena Bazar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Sardar Vallabhai Patel Nagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Vijayanagar 1st and 2nd Stage	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Nazarbad	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Teacher's Layout	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Housing Boarding Colony	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Gokulam	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
 Rajasthan 	Jodhpur	All	Shastri Nagar	https://twitter.com/manit_choudhary/status/1253745085235302405?cn=ZmxleGlibGVfcmVjc18y&refsrc=email
 Gujarat 	Vadodara	All	Dabhoi, Vadodara Rural	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
 Gujarat 	Vadodara	All	Bhayali, Vadodara Rural	https://www.patrika.com/ahmedabad-news/gujrat-lockdown-containment-zone-shopes-shutdown-ahmedabad-6038660/
@@ -5458,3 +5445,19 @@ Haryana	Gurugram	Pataudi	Baskushla Village, Pataudi	https://twitter.com/DC_Gurug
 Haryana	Gurugram	Farrukh Nagar	Ward No 5 New Coluny (Farrukh Nagar)	https://twitter.com/DC_Gurugram/status/1275306036723716096
 Haryana	Gurugram	Sohna	Gali No. 6 N Block, Mohan Nagar- Naya Gaon, Sohna	https://twitter.com/DC_Gurugram/status/1275306036723716096
 Haryana	Gurugram	Sohna	Gali No. 14 (In Ward No. 16, Sohna)	https://twitter.com/DC_Gurugram/status/1275306036723716096
+Karnataka	Mysuru	All	Paparam Street, Nazarbad, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	2nd Stage, 3rd Main, 4th Cross, Udaygiri, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	Raj Mandi Ashok Road, Mandi Mohalla, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	Kuruburu, Muguru Hobli T Narasipura, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	Near Gupta Stores, Rajeev Nagar, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	Town Police Station, Nanjangud, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	Vkc Sandals 4b Kidb Industrial Area Nanjangud, Nanjangud Taluk,	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	Chamalapura Hundi, Nanjangud, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	Bismilanagara, Banooru, T Narasipura, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	Venkateshwara Nagar, Devegowda Circle, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	Kurju Beedi, Ravandooru, Periyapatna Taluk, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	Thapovana Aparment, Vishweshwara Nagar, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	Chikka Kamarahalli, Periyapatna Taluk, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	Maradihalli, Periyapatna Taluk, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	B Block, Jalapuri, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
+Karnataka	Mysuru	All	2nd A Cross, Sharadhadevi Nagar, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
