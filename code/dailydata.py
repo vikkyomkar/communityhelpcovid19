@@ -24,7 +24,7 @@ def totalTests(datajson):
 			sys.exit(1)		
 
 def dailyCases(datajson):
-	month = {'January' : '01', 'February' : '02', 'March' : '03', 'April' : '04', 'May': '05'}
+	month = {'January' : '01', 'February' : '02', 'March' : '03', 'April' : '04', 'May': '05', 'June': '06'}
 	for key in datajson['cases_time_series']:
 		try:
 			y = 2020	
@@ -46,12 +46,22 @@ def statewise(datajson):
 			if key['state'] != 'Total':
 				state = '\ '.join(key['state'].strip().split(' '))
 
+				if int(key['deltadeaths']) < 0:
+					key['deltadeaths'] = 0
+					print(key['deltadeaths'])
+
 				if int(key['deltaconfirmed']) != 0 or int(key['deltarecovered']) != 0 or int(key['deltadeaths']) != 0:
-					postQuery = "{0},state={1} homedeltaconfirmed={2},homedeltadeaths={3},homedeltarecovered={4}".format(table,state,key['deltaconfirmed'],key['deltadeaths'],key['deltarecovered'])
-					influx.Post(db,postQuery)
+					if int(key['deltaconfirmed']) > 0:
+						postQuery = "{0},state={1} homedeltaconfirmed={2},homedeltadeaths={3},homedeltarecovered={4}".format(table,state,key['deltaconfirmed'],key['deltadeaths'],key['deltarecovered'])
+						influx.Post(db,postQuery)
+						#print(postQuery)
+				if key['state'] == 'Delhi':
+					postQuery = "{0},state={1},district=Delhi district=\"{2}\",ddeltaconfirmed={3},ddeltadeaths={4},ddeltarecovered={5},sactive={6},sconfirmed={7},sdeaths={8},srecovered={9},sdeltaconfirmed={10},sdeltadeaths={11},sdeltarecovered={12},dactive={13},drecovered={14},ddeaths={15}".format(table,state,'Delhi',key['deltaconfirmed'],key['deltadeaths'],key['deltarecovered'],key['active'],key['confirmed'],key['deaths'],key['recovered'],key['deltaconfirmed'],key['deltadeaths'],key['deltarecovered'],key['active'],key['recovered'],key['deaths'])
 					#print(postQuery)
-				postQuery = "{0},state={1} sactive={2},sconfirmed={3},sdeaths={4},srecovered={5},sdeltaconfirmed={6},sdeltadeaths={7},sdeltarecovered={8}".format(table,state,key['active'],key['confirmed'],key['deaths'],key['recovered'],key['deltaconfirmed'],key['deltadeaths'],key['deltarecovered'])
-				influx.Post(db,postQuery)
+					influx.Post(db,postQuery)
+				else:
+					postQuery = "{0},state={1} sactive={2},sconfirmed={3},sdeaths={4},srecovered={5},sdeltaconfirmed={6},sdeltadeaths={7},sdeltarecovered={8}".format(table,state,key['active'],key['confirmed'],key['deaths'],key['recovered'],key['deltaconfirmed'],key['deltadeaths'],key['deltarecovered'])
+					influx.Post(db,postQuery)
 
 				### put data for state graph
 				y = 2020
@@ -61,7 +71,6 @@ def statewise(datajson):
 				activeindicator = int(key['deltaconfirmed']) - int(key['deltadeaths']) - int(key['deltarecovered'])
 				postQuery = "{0},state={1} sgconfirmed={2},sgrecovered={3},sgdeaths={4},sgactiveindicator={5} {6}".format(table,state,key['deltaconfirmed'],key['deltarecovered'],key['deltadeaths'],activeindicator,announcedate)
 				influx.Post(db,postQuery)
-				#print(postQuery)
 			else:
 				y = 2020
 				d , m, rest = key['lastupdatedtime'].strip().split('/')
