@@ -4300,111 +4300,6 @@ Maharashtra	Pimpri-Chinchawad	All	422/213, Sant Tukaram Nagar	https://www.freepr
 Maharashtra	Pimpri-Chinchawad	All	Verve Apartment, Bhumkar Wasti	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
 Maharashtra	Pimpri-Chinchawad	All	Panchashil Nagar, Pimple Nilakh	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
 Maharashtra	Pimpri-Chinchawad	All	Ramnagar, Akurdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
-Uttarakhand	Dehradun	All	Om Sarthak, Sewlakala, Dehradun (26-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Prem Bata Gali Santowali Ghati Dehradun (27-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Circular road Dalanwaala , Dehradun (31-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Kalinga Colony, Aaraghar, Dehradun (01-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Bramhapuri, Patel nagar, Dehradun (01-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Pragatipuram, Supi Colony, Balawala, Dehradun (01-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Vasant Vihar, Phase 2, Transformer Wali Gali, Dehradun (03-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Baljit Singh Sardar wali gali, Khudbuda, Dehradun (03-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Harshirinath Gali Khurbura Mohalla, Dehradun (04-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Naveen Mandi Sthal, Niranjanpur, Dehradun (04-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Sai Lok Lane No. 2, Thana Basant Vihar, Dehradun (04-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	John Dhaba, Kent road, Mothrowala, Dehradun (05-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Vivek Vihar, Clementown, Dehradun (05-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Smiley Book Depot wali gali, Dehradun (06-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ram Vihar , Ballupur Dehradun (08-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Poorvi Patel Nagar, Dehradun (10-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Chaman Puri, Thana Patel Nagar, Dehradun (10-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	16 Mohini Road, Dalanwala, Dehradun (11-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	60/1 Govindgarh, Dehradun (19-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	202 Eidgah, Chakrata road, Dehradun (19-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	ward no-2, motichur line, nagar nigam rishikesh,.(29-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Gali no- 34, shivaji nagar Rishikesh (30-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Bees Beegha Colony, Nagar Nigam Rishikesh (30-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Railway Road Rishikesh (04-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Village Gadimaychak Rishikesh (04-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Gali No. 4, Bhagirathipuram Chopda Farm, Shyampur, Rishikesh(06-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Village Khand, Rishikesh (07-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Main Sabji Mandi, Rishikesh (17-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Gram fatehpur tanda, Dehradun, Doiwala( 29-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	lane no-9, Jolly grant adarsh naga , Tehsil Doiwala,(30-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Jolly Grant Dehradun Ward No 5, Bichli Jolly Solanki Mohala, Doiwala (08-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ward No. 15, Teliwala, Doiwala (18-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Ward No 13, Jeevan Garh, Vikasnagar (30-05-2020	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	ward no- 9, vikasnagar, Vikasnagar (30-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Haddowala, Ashok Ashram, Vikasnagar (03-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Dehradun	All	Gram Sabha Pasoli Moja, Vikasnagar (03-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Udham Singh Nagar	All	Sampoornanand Shivir/ Central Jail , Sitarganj (07-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Udham Singh Nagar	All	Ward No 38, Shiv Shakti society, holi Chowk road , awas vikas Rudrapur (10-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	gram bhati, magadhar, Ghansali(26-05-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	gram gawan malla, tehsil ghansali (02-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Gram Akhori, Ghansali (02-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Gram Dhung, Patti , gayarahgaon, Ghansali (02-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Gram Jhaknyali, Ghansali (02-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Gram Lamnidhar,Jakhnidhar (26-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Gram Jelam Jila, Kandisaur 02-06-2020	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Gram kayulagi, tehsil Kandisaur(30-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Gram dobri Wala, Devprayag (14-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Tehri	All	Village Danda, Devprayag (14-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Green Park Colony , Tehsil Roorkee (25-05-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Hazrat Bilal Mohalla , Landour Thana, Roorkee (25-05-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ambedkar Colony, Landour, Mangalore, Roorkee (25-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Village – Dhanaura, roorkee (26-05-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward No-05 , PWD Colony, khanjarpur Road, Roorkee (02-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	ward No- 35, Mahigran Mohalla, Roorkee (07-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mehwad kala, Roorkee (10-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Lathradeva shekh, Roorkee (10-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mohalla Adarsh Nagar, Roorkee (10-06-2020.	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward No. 24, Gram Sunahara Roorkee (10-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram – Dandhera , Roorkee, Haridwar( 13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram – Bhangedi, Mahawatpur, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mohalla Rajendra Nagar, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward No. 31 Mohalla Purani, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mohalla Shakti Vihar, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mohalla Malkpura, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Village Mirjapur, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Village Puhana, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Nagar Panchayat Landore, Roorkee (13-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Village Badhedi Mahawatpur, Roorkee (13-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Village Dhadera Awasiya Colony, Roorkee (13-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Vanheda Tanda Block Narsan, Roorkee (15-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mohalla Maha laxmi Puram, Roorkee (15-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Tehsil Roorkee Mohalla Pathanpura, Roorkee (15-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Krishna nagar, Galin No:-20, Salempur, Bhagwanpur, Roorkee, Haridwar(16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Shyana Nagar, Gali No:- 1, ward no: 38, Roorkee (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Karondi – 1, Roorkee (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Karondi – 2, Roorkee (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Chawmandi, Ward No. – 20, Roorkee, (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Kasba – Mnglore Killa, roorkee (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Kishanpur Jamalpur, Roorkee (17-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gali No. 9B, Mohalla Subhashnagar, Shivaliknagar, Roorkee (18-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Toda, Kalyanpur, Roorkee (19-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward No. 10, Mohanpura, Mohammadpur, Roorkee (19-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Village Mohit pur Tehsil Bhagwanpur (02-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Village Khedi, Bhagwanpur (08-06-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Inayatpur, Bhagwanpur (11-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Chudiyala, mohanpur, Bhagwanpur (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram – Chanchak, Bhagwanpur (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Chanchak Majra, Sikandarpur Bhagwanpur (16-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Buggawala, Bhagwanpur (18-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward No. 2, Gram Jalapur, Thana Bhawanpur (18-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Village Alawal pur, Laksar (26-05-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	ward no- 07, Gram Sultanpur, Laksar (07-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward No. 14, Gram Sultanpur, Laksar (17-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Vaishnavi Apartment Kankhal Haridwar (26-05-2020).	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Ward No.1 Jasvinder Enclave Bhagirathi Nagar, Haridwar (26-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Shivalik Nagar, Haridwar(29-05-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Kathaith Bhawan, Ambula Road, Pathri, Haridwar (02-06- 2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Tikampur, Jwalapur, Haridwar (08-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Gandhikhata, pargna, najibabad, Haridwar (08-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Mohalla Ramnagar, Tehsil Haridwar (13-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Tehsil Haridwar Gram Salimpur, Haridwar (15-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Tehri Vishtapit Colony, Bahadrabad Haridwar(15-06- 2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Gram Tanda Bhagmal, Majra Bhogpur, Haridwar (17-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Haridwar	All	Shivalik Nagar, Tehsil Haridwar (18-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
-Uttarakhand	Uttarkashi	All	Paturi, Dhungoldhar, Dunda (17-06-2020)	https://health.uk.gov.in/files/2020.06.21_Health_Bulletin.pdf
 Maharashtra	Pune	All	पर्वतीदर्शन परिमर १,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
 Maharashtra	Pune	All	पर्वती, दांडेकर पूल झोपडपट्टी ,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
 Maharashtra	Pune	All	पर्वती, स.नं. ९३, महात्मा फुले वसाहत, लक्ष्मीनगर,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
@@ -5811,3 +5706,134 @@ Tamil Nadu	Chennai	All	Zone-15 Selvakumar Avenue Thooraipakkam	http://covid19.ch
 Tamil Nadu	Chennai	All	Zone-15 Pandian Nagar Thooraipakkam	http://covid19.chennaicorporation.gov.in/c19/images/Containment%20Zone%20Data.pdf
 Tamil Nadu	Chennai	All	Zone-15 Kamarajar street	http://covid19.chennaicorporation.gov.in/c19/images/Containment%20Zone%20Data.pdf
 Tamil Nadu	Chennai	All	Zone-15 New kumaran Nagar	http://covid19.chennaicorporation.gov.in/c19/images/Containment%20Zone%20Data.pdf
+Karnataka	Kodagu	All	Omkareshwara Temple Road, Madikeri	
+Karnataka	Kodagu	All	Kotemariamma Temple Road, Madikeri	
+Karnataka	Kodagu	All	Dairy Farm, Madikeri	
+Karnataka	Kodagu	All	Putani Nagar, Madikeri	
+Karnataka	Kodagu	All	Near Thalathmane, Madikeri	
+Karnataka	Kodagu	All	Kolagadalu, Madikeri	
+Karnataka	Kodagu	All	Kaggodlu, Madikeri	
+Karnataka	Kodagu	All	subashnagar (Murnad)	
+Karnataka	Kodagu	All	Shirangala, Somwarpet	
+Karnataka	Kodagu	All	Doddalli, Somwarpet	
+Karnataka	Kodagu	All	Mullur, Somwarpet	
+Karnataka	Kodagu	All	Balagunda, Somwarpet	
+Karnataka	Kodagu	All	Hulase, Somwarpet	
+Karnataka	Kodagu	All	Ratha Beedhi (Kushalnagar), Somwarpet	
+Karnataka	Kodagu	All	 Karkalli, Somwarpet	
+Karnataka	Kodagu	All	Nelihudikeri, Somwarpet	
+Karnataka	Kodagu	All	Bittangala, Virajpet	
+Karnataka	Kodagu	All	Polibetta, Virajpet	
+Karnataka	Kodagu	All	Undi, Virajpet	
+Uttarakhand	Dehradun	All	Prem Bata Gali Santowali Ghati Dehradun (27-05-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Circular road Dalanwaala , Dehradun (31-05-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Kalinga Colony, Aaraghar, Dehradun (01-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Bramhapuri, Patel nagar, Dehradun (01-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Pragatipuram, Supi Colony, Balawala, Dehradun (01-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Om Sarthak Apartment, Sewlakala, Dehradun (01-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Vasant Vihar, Phase 2, Transformer Wali Gali, Dehradun (03-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Baljit Singh Sardar wali gali, Khudbuda, Dehradun (03-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Harshirinath Gali Khurbura Mohalla, Dehradun (04-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Naveen Mandi Sthal, Niranjanpur, Dehradun(04-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	John Dhaba, Kent road, Mothrowala, Dehradun (05-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Vivek Vihar, Clementown, Dehradun (05-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Sai Lok Lane No. 2, Thana Basant Vihar, Dehradun (06-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Smiley Book Depot wali gali, Dehradun (06-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ram Vihar , Ballupur Dehradun (08-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Poorvi Patel Nagar, Dehradun (10-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Chaman Puri, Thana Patel Nagar, Dehradun (10-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	16 Mohini Road, Dalanwala (11-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	60/1 Govindgarh, Dehradun (19-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	202 Eidgah, Chakrata road, Dehradun (19-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Railway Road Rishikesh (04-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Village Gadimaychak  Rishikesh(04-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gali No. 4, Bhagirathipuram Chopda Farm, Shyampur Rishikesh (06-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Village Khand, Rishikesh (07-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Main Sabji Mandi, Rishikesh (17-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Jolly Grant Dehradun Ward No 5, Bichli Jolly Solanki Mohala, Doiwala (08-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Ward No. 15, Teliwala, Doiwala (18-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Haddowala, Ashok Ashram, Vikasnagar (03-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Dehradun	All	Gram Sabha Pasoli Moja, Vikasnagar (03-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Udham Singh Nagar	All	Sampoornanand Shivir/ Central Jail , Sitarganj (07-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Udham Singh Nagar	All	Ward no. 2, Jaspur khurd, Rudraksh Gardan road, Kashipur (12-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Udham Singh Nagar	All	Ward No 38, Shiv Shakti society, holi Chowk road , awas vikas Rudrapur (10-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	gram bhati, magadhar, Ghansali(26-05-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	gram gawan malla, tehsil ghansali (02-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Akhori, Ghansali (02-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Dhung, Patti , gayarahgaon, Ghansali (02-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Jhaknyali, Ghansali (02-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Lamnidhar,Jakhnidhar (26-05-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram Jelam Jila, Kandisaur 02-06-2020	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram kayulagi, tehsil Kandisaur(30-05-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Gram dobri Wala, Devprayag (14-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Tehri	All	Village Danda, Devprayag (14-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Ward No-05 , PWD Colony, khanjarpur Road (03-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Ward No- 35, Mahigran Mohalla (07-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Mehwad kala (10-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Lathradeva shekh (10-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Mohalla Adarsh Nagar (10-06-2020	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Ward No. 24, Gram Sunahara (10-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Gram – Dandhera , Roorkee, Haridwar (10-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Gram – Bhangedi, Mahawatpur, (10-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Mohalla Rajendra Nagar (13-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Ward No. 31 Mohalla Purani (13-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Mohalla Shakti Vihar (13-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Mohalla Malkpura (13-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Village Puhana (13-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Nagar Panchayat Landore (13-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Village Badhedi Mahawatpur (13-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Village Dhadera Awasiya Colony (13-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Gram Vanheda Tanda Block Narsan (15-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Mohalla Maha laxmi Puram(15-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Tehsil Roorkee Mohalla Pathanpura (15-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Gram Paniyala, Chandapur (15-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Krishna nagar, Galin No:-20, Salempur, Bhagwanpur, Haridwar (16-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Shyana Nagar, Gali No:- 1, ward no: 38, Roorkee (16-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Gram Karondi – 1, Roorkee (16-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Gram Karondi – 2, Roorkee (16-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Chawmandi, Ward No. – 20, Roorkee, (16-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Kasba – Mnglore Killa, roorkee (16-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Gali No. 9B, Mohalla Subhashnagar, Shivaliknagar (16-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Gram Kishanpur Jamalpur, Roorkee (17-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Gram Toda, Kalyanpur (18-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Ward No. 10, Mohanpura, Mohammadpur (18-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Ward No. 9, Mohanpura, Mohammadpur (20-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Gali No. 3, Krishna Nagar, Salempur Rajputan (21-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Gali No. 3, Ashok Nagar, Dandera (22-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, House No. 142, Ward No. 28, Chandrapuri (22-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Gram Mewad Khurd urf Nagal Pargana (22-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Ward No. 28, Poorvi Deendayal (22-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Gram Nagla, Salaru, Pargana Manglore (22-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Roorkee, Ward No. 9, Double fatak, Ratan ka purva Mohanpura, Mohammadpur (25-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village Mohit pur Tehsil Bhagwanpur (02-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Village Khedi, Bhagwanpur (08-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Inayatpur, Bhagwanpur (11-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Chudiyala, mohanpur, Bhagwanpur (16-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram – Chanchak, Bhagwanpur (16-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Chanchak Majra, Sikandarpur Bhagwanpur (16-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Jalapur, Thana Bhagwanpur (17-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Ward No. 2, Gram Buggawala, Thana Bhagwanpur (18-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Bhalswagaj (21-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Mahadi Chowk, Samrat Colony, Gram Sikandarpur Baiswal (21-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Gram Chauli, Shahabuddinpur (22-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Laksar, Ward no- 07, Gram Sultanpur (07-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Laksar, Village Mirjapur (13-06-2020).	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Laksar, Ward No. 14, Gram Sultanpur (17-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Laksar, Niyamatpur, Haridwar (23-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Laksar, Gram Khedi, Mubarakpur, Cavandish industries ltd, AJK tyre associate (25-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, Kathaith Bhawan, Ambula Road, Pathri (02-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, Gram Tikampur, Jwalapur(08-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, Gram Gandhikhata, pargna, najibabad (08-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, Mohalla Ramnagar, Tehsil Haridwar (13-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, Tehsil Haridwar Gram Salimpur (15-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, Tehri Vishtapit Colony, Bahadrabad (15-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, Gram Tanda Bhagmal, Majra Bhogpur (17-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, Shivalik Nagar, Tehsil Haridwar (18-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, BHEL, Sector 3, Type -2 (19-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, Harihardham, Saptrishi Chowk, Bhoopatwala (20-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, House no. 9B, Shivalik Nagar (21-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, Gram Jwalapur, Andar Seema Nagar Nigam, Mohalla Tapovan Nagar (23-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, Mohalla Nath Nagr, Near Saint Marry School, Jwalapur Railway station (25-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, Gali No. 1, Tibdi, Near Ravidas Mandir (25-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Haridwar	All	Haridwar, Gram Samaspur, Katawad Pargana, Najibabad (25-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Uttarakhand	Uttarkashi	All	Paturi, Dhungoldhar, Dunda (17-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
