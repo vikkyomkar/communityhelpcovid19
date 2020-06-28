@@ -4480,26 +4480,6 @@ Haryana	Gurugram	Pataudi	Baskushla Village, Pataudi	https://twitter.com/DC_Gurug
 Haryana	Gurugram	Farrukh Nagar	Ward No 5 New Coluny (Farrukh Nagar)	https://twitter.com/DC_Gurugram/status/1275306036723716096
 Haryana	Gurugram	Sohna	Gali No. 6 N Block, Mohan Nagar- Naya Gaon, Sohna	https://twitter.com/DC_Gurugram/status/1275306036723716096
 Haryana	Gurugram	Sohna	Gali No. 14 (In Ward No. 16, Sohna)	https://twitter.com/DC_Gurugram/status/1275306036723716096
-Karnataka	Mysuru	All	Paparam Street, Nazarbad, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	2nd Stage, 3rd Main, 4th Cross, Udaygiri, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Raj Mandi Ashok Road, Mandi Mohalla, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Kuruburu, Muguru Hobli T Narasipura, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Near Gupta Stores, Rajeev Nagar, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Town Police Station, Nanjangud, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Vkc Sandals 4b Kidb Industrial Area Nanjangud, Nanjangud Taluk,	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Chamalapura Hundi, Nanjangud, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Bismilanagara, Banooru, T Narasipura, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Venkateshwara Nagar, Devegowda Circle, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Kurju Beedi, Ravandooru, Periyapatna Taluk, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Thapovana Aparment, Vishweshwara Nagar, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Chikka Kamarahalli, Periyapatna Taluk, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Maradihalli, Periyapatna Taluk, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	B Block, Jalapuri, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	2nd A Cross, Sharadhadevi Nagar, Mysuru.	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Near Rajiv Gandhi School, Shanti Nagar	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Oil Mill Street, Behind Shanthala Theatre, K.R Mohalla	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	1st Cross, Jayaram Pandith Road, Shivarampete	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
-Karnataka	Mysuru	All	Madhuvinahalli, K R Nagar Taluk, Mysuru	https://citytoday.news/covid-19-active-cases-down-to-55-in-mysuru-12-containment-zones-set-up/
 Andhra Pradesh	Chittoor	All	Chittoor Municipality, Ward 3,9, 11,16, 18, 23, 26, 29, 32, 34, 35, 37, 39, 40, 41, 42, 43, 45, 46, 48, 49 Saikuteel Aptmts.	https://twitter.com/collectorctr/status/1275452574921981953
 Andhra Pradesh	Chittoor	All	Madanapalle Municipality Ward 3, 30	https://twitter.com/collectorctr/status/1275452574921981953
 Andhra Pradesh	Chittoor	All	Nagari Municipality Ward 2, 6, 7,8, 10, 15, 24, Near CSI Church	https://twitter.com/collectorctr/status/1275452574921981953
@@ -5837,3 +5817,57 @@ Uttarakhand	Haridwar	All	Haridwar, Mohalla Nath Nagr, Near Saint Marry School, J
 Uttarakhand	Haridwar	All	Haridwar, Gali No. 1, Tibdi, Near Ravidas Mandir (25-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Haridwar, Gram Samaspur, Katawad Pargana, Najibabad (25-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
 Uttarakhand	Uttarkashi	All	Paturi, Dhungoldhar, Dunda (17-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
+Karnataka	Mysuru	All	7th Cross, G Block, Ramakrishnanagar, Ward 58, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Hosa Penjahalli Village, Hunsur Taluk	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Neelakantanagar, Nanjangud town	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Mansara Road, Ittigegud, Nazarbad Mohalla, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Muslim Block, Ward 19, K.R. Nagar Town	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Ramaswamy Badavane, Nanjangud Taluk	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Kittur Rani Chennamma Residential School, Hura, Nanjangud Taluk	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	4th Cross, T.K. Layout, Ward No. 45, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	5th Cross, RP Road, Nanjangud Town	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Police Quarters, Nanjangud Town	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	JSS College Road, Hullahalli, Nanjangud Taluk	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	First Stage Vijayanagar, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Second Stage Srirampura, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Note Mudran Nagar, RBI Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	SKP Agrahara, Sosale Hobli, T. Narasipur Taluk	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	BEML Township, Hinkal Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Gokulam Third Stage, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Krishna Vilasa Road, Devaraja Mohalla, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Fourth Main Road, V.V. Mohalla, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Rammanahalli Village, Kasaba Hobli, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Hura Village Nanjangud Taluk	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Third Stage, J Block, Dattagalli, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	RBI, A11, CISF, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Kothwal Ramaiah Road, Devaraja Mohalla, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Srirampura Second Stage, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	J.C. Nagar, Chamundi Hill Road, Nazarbad, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Vinobha Road, Devaraja Mohalla, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Lakshmikanthanagar, Hebbal First Stage, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Bidara Krishnappa Road, Devaraja Mohalla, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Vijayanagar Railway Layout, 6th Cross Road, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Ward 46, Third Stage, Dattagalli, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Third Cross, Nazarbad Mohalla Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Cinema Road, Rajaji Colony, Nanjangud Town	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Third Stage, Dattagalli Ward 46, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	KHB Colony, Udayagiri Ward 14, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Akbar Road, Lashkar Mohalla, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Kuruburu Village Mooguru Hobli, T. Narasipur Taluk	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Rajivnagar, Ward 10, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Jalapuri Quarters, Gayathripuram, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Sharadadevinagar, Ward 45, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Town Police Station, Nanjangud Town	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	VKC Company, Deboor, Nanjangud	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Neelakantanagar, Nanjangud Town	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Bevinakere Street, Chamalapurahundi, Nanjangud Town	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Bismilanagara, Bannur Town	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Neelakantanagar, Nanjangud Town	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Alanahalli (Venkateshwara Nagar) Kasaba Hobli, Mysuru Taluk	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Maradiyuru Village, Haranahalli Hobli, Periyapatna Taluk	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Chikkamaravalli Village, Haranahalli Hobli, Periyapatna Taluk	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Goutham Block, Thapovana Enclave, V.V. Nagar, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Shanthinagar, near Rajiv Gandhi School, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Oil Mill Road, back of Shanthala Theatre, K.R. Mohalla, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Jayaram Pandit Road, Shivarampet, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Mysuru	All	Madhuvinahalli, K.R. Nagar Taluk	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
