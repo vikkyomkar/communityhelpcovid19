@@ -4796,491 +4796,19 @@ Maharashtra	Nashik	All	Malode Vasti, Adgaon, Nashik	https://twitter.com/my_nmc/s
 Maharashtra	Nashik	All	Laxmi Heights, Near Mahadev Mandir, Water Tank, Shramik Nagar, Nashik	https://twitter.com/my_nmc/status/1276570124808380416
 Maharashtra	Nashik	All	Rudra Residency, Banarasi Ngr, Hirawadi, Panchvati, Nashik	https://twitter.com/my_nmc/status/1276570124808380416
 Maharashtra	Nashik	All	Parijat Soc., Behing Sunanda Heights, Trikoni Garden, Kathegalli, Nashik	https://twitter.com/my_nmc/status/1276570124808380416
-Karnataka	Bengaluru Urban	All	(A -43) Chalavadipalya	
-Karnataka	Bengaluru Urban	All	(A -46) Subramanya Nagar	
-Karnataka	Bengaluru Urban	All	(A -47) Rayapuram	
-Karnataka	Bengaluru Urban	All	(A -48) Azad Nagar	
-Karnataka	Bengaluru Urban	All	(A -50) Hoodi	
-Karnataka	Bengaluru Urban	All	(A -52) Horamavu	
-Karnataka	Bengaluru Urban	All	(A -53) Hagadur	
-Karnataka	Bengaluru Urban	All	(CL -7) Hoysala Nagar	
-Karnataka	Bengaluru Urban	All	(AP -23) Kengeri	
-Karnataka	Bengaluru Urban	All	(AP -29) Horamavu	
-Karnataka	Bengaluru Urban	All	(AP -30) Kengeri	
-Karnataka	Bengaluru Urban	All	(AP -33) Kengeri	
-Karnataka	Bengaluru Urban	All	(AP -34) Hemmigepura	
-Karnataka	Bengaluru Urban	All	(AP -40) Varthuru	
-Karnataka	Bengaluru Urban	All	(AP -41) Horamavu	
-Karnataka	Bengaluru Urban	All	(AP -44) Kengeri	
-Karnataka	Bengaluru Urban	All	(AP -45) Kengeri	
-Karnataka	Bengaluru Urban	All	(AP -46) Kengeri	
-Karnataka	Bengaluru Urban	All	(AP -47) Arakere	
-Karnataka	Bengaluru Urban	All	(A - 100) Margosa Ave, Green Glen Layout, Bellandur	
-Karnataka	Bengaluru Urban	All	(A - 101) vallabha nagar vasanthpura main road	
-Karnataka	Bengaluru Urban	All	(A - 102) Bhagavathi Rd, Shantiniketan Layout, Arekere	
-Karnataka	Bengaluru Urban	All	(A - 103) Near Bagalgunte post office	
-Karnataka	Bengaluru Urban	All	(A - 104) 60 Feet Rd, Prabhu Layout, AECS Layout - A Block, AECS Layout, Singasandra	
-Karnataka	Bengaluru Urban	All	(A - 105) 2nd B Main Rd, JC Layout, Krishnarajapura,	
-Karnataka	Bengaluru Urban	All	(A - 106) W Cir Rd, Parvathipuram, Vishweshwarapura, Shankarapura	
-Karnataka	Bengaluru Urban	All	(A - 107) Roshan Nagar, Devara Jeevanahalli, Bengaluru, Karnataka 560045	
-Karnataka	Bengaluru Urban	All	(A - 108) SP Rd, LIC Colony, HAL 3rd Stage, Sector 12, New Tippasandra	
-Karnataka	Bengaluru Urban	All	(A - 109) Roshan Nagar, Devara Jeevanahalli	
-Karnataka	Bengaluru Urban	All	(A - 110) 6th Main Rd, Papanna Block, AK Colony, Ganganagar	
-Karnataka	Bengaluru Urban	All	(A - 111) Sampangiram Nagar	
-Karnataka	Bengaluru Urban	All	(A - 112) Roshan Nagar, Devara Jeevanahalli (Near Mariamma Temple)	
-Karnataka	Bengaluru Urban	All	(A - 113) KG halli ward , Vinobanagar	
-Karnataka	Bengaluru Urban	All	(A - 114) 5th Cross Rd, Tipu Nagar, Chamrajpet	
-Karnataka	Bengaluru Urban	All	(A - 115) OLd Gurappanapalya, 1st Stage, BTM Layout,	
-Karnataka	Bengaluru Urban	All	(A - 116) Cobaley Colony, Padarayana Pura, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 117) Dharmaraya Swamy Nagara	
-Karnataka	Bengaluru Urban	All	(A - 118) 12-8, BVK Iyengar Rd, Anchepet, Chickpet	
-Karnataka	Bengaluru Urban	All	(A - 119) St Thomas Town, Inasappa Layout, Kalyan Nagar	
-Karnataka	Bengaluru Urban	All	(A - 120) Hanumanthanagar	
-Karnataka	Bengaluru Urban	All	(A - 121)11/1 2nd Main ValmikiNagar Opp to Gopalan Mall Mysore Road, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 122)197, 8th B Main Rd, Jayanagar East, Jaya Nagar 1st Block, Jaya Nagar East, Jayanagar, Bengaluru, Karnataka 560011	
-Karnataka	Bengaluru Urban	All	(A - 123)7th Cross Rd, Chamrajpet, Bengaluru, Karnataka 560018	
-Karnataka	Bengaluru Urban	All	(A - 124) 16th Main Road, Opposite to Lake, Nayanappasetty pallya, BTM Layout,,	
-Karnataka	Bengaluru Urban	All	(A - 125) Horamavu Post, Ashirvad Colony, Horamavu, Bengaluru, Karnataka 560016	
-Karnataka	Bengaluru Urban	All	(A - 126) 11th Main Rd, Maruthi Layout, Hongasandra, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 127) Chalavadipalya	
-Karnataka	Bengaluru Urban	All	(A - 128) Near passport office	
-Karnataka	Bengaluru Urban	All	(A - 129) K.R. Market	
-Karnataka	Bengaluru Urban	All	(A - 130) K.R.Market	
-Karnataka	Bengaluru Urban	All	(A - 131) Sampangiram Nagar	
-Karnataka	Bengaluru Urban	All	(A - 132) Near Bandireddy Circle	
-Karnataka	Bengaluru Urban	All	(A - 133) 1/21, Vidyapeeta Layout, Srinivasnagar, Banashankar	
-Karnataka	Bengaluru Urban	All	(A - 134) Corporation Colony, Halasuru, Karnataka	
-Karnataka	Bengaluru Urban	All	(A - 135) Near Passport Office	
-Karnataka	Bengaluru Urban	All	(A - 136) Mota Chambers, # 9 Building, Millers Rd, Kaverappa Layout, Vasanth Nagar	
-Karnataka	Bengaluru Urban	All	(A - 137)2nd Main Rd, KB Nagar, Kasthuriba Nagar, Azad Nagar, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 138) No 93, Near-Divine ENT Care Center, Kamaraj Road, Bengaluru, Karnataka 560042	
-Karnataka	Bengaluru Urban	All	(A - 139) K.R.Market	
-Karnataka	Bengaluru Urban	All	(A - 140) 6th F Cross Rd, Rayapuram, Padarayana Pura	
-Karnataka	Bengaluru Urban	All	(A - 142) Near Dobighat	
-Karnataka	Bengaluru Urban	All	(A - 143) Bandepalya Main Rd, Munireddy layout, Hosapalaya	
-Karnataka	Bengaluru Urban	All	(A - 144) Near Nandana Palace	
-Karnataka	Bengaluru Urban	All	(A - 145) Ramaswamipalya, Lingarajapuram, Bengaluru, Karnataka 560084	
-Karnataka	Bengaluru Urban	All	(A - 146) Near Druvdesh Honda	
-Karnataka	Bengaluru Urban	All	(A - 147) Sampangiram Nagar	
-Karnataka	Bengaluru Urban	All	(A - 148)#40, Palani Mudaliar St, Someshwarpura, Halasuru, Karnataka 560008	
-Karnataka	Bengaluru Urban	All	(A - 149) K.R Market	
-Karnataka	Bengaluru Urban	All	(A - 150)BGP Residency Rd, Brookefield, Bengaluru, Karnataka 560066	
-Karnataka	Bengaluru Urban	All	(A - 151)60 Feet Rd, Prabhu Layout, AECS Layout - A Block, AECS Layout, Singasandra	
-Karnataka	Bengaluru Urban	All	(A - 152)Sai Krishna Residency, 2nd Main Rd, Devarachikkana Halli	
-Karnataka	Bengaluru Urban	All	(A - 153)27th Main Rd, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102	
-Karnataka	Bengaluru Urban	All	(A - 154)Bharath Nagar, Manayata Tech Park, Sinthan Nagar, Bengaluru, Karnataka 560045	
-Karnataka	Bengaluru Urban	All	(A - 155)11th Main Rd, Maruthi Layout, Hongasandra,	
-Karnataka	Bengaluru Urban	All	(A - 156)Near Defense Land	
-Karnataka	Bengaluru Urban	All	(A - 157)Bapuji Nagar, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 158)Baji Nagar, Bapuji Nagar, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 159)Dharmarayaswamy Temple	
-Karnataka	Bengaluru Urban	All	(A - 160)Dharmarayaswamy Temple	
-Karnataka	Bengaluru Urban	All	(A - 161)1st Block Siddapura mavalli bangalore	
-Karnataka	Bengaluru Urban	All	(A - 162)Chamarajpete	
-Karnataka	Bengaluru Urban	All	(A - 163)92-96, Mackan Rd, Bharati Nagar, Shivaji Nagar, Bengaluru, Karnataka 560001	
-Karnataka	Bengaluru Urban	All	(A - 164)Vidyapeeta Main Rd, Vidyapeeta Layout, Kathreguppe, Banashankari 3rd Stage, Banashankari, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 165)Krishna Rajendra Rd, Near Krishna Rao Park, Basavanagudi, Bengaluru, Karnataka 560004	
-Karnataka	Bengaluru Urban	All	(A - 166)Mahaganapati Nagar	
-Karnataka	Bengaluru Urban	All	(A - 167)42, 10th Cross Rd, Bapuji Nagar, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 168)Near Police Station	
-Karnataka	Bengaluru Urban	All	(A - 169)Vasanth Nagar	
-Karnataka	Bengaluru Urban	All	(A - 17) Thigalarpet, Dodpete, Nagarathpete	
-Karnataka	Bengaluru Urban	All	(A - 170)JAYANAGAR 4TH BLOCK POLICE STATION	
-Karnataka	Bengaluru Urban	All	(A - 171)28,29, Shanthala Nagar, Ashok Nagar	
-Karnataka	Bengaluru Urban	All	(A - 172)2 AT Street, behind Prashanth Hospital, Bommanahalli,	
-Karnataka	Bengaluru Urban	All	(A - 173)Begur Main Rd, Bommanahalli	
-Karnataka	Bengaluru Urban	All	(A - 174)5th Main Rd, Wasa Layout, Doddanekundi, Doddanekkundi	
-Karnataka	Bengaluru Urban	All	(A - 175)Devarachikkanahalli Rd, Thayappa Garden, Vijaya Bank Layout, Bilekahalli,	
-Karnataka	Bengaluru Urban	All	(A - 176)Dharmarayaswamy Temple	
-Karnataka	Bengaluru Urban	All	(A - 177)Near Anjanappa Gardens, Cottonpete	
-Karnataka	Bengaluru Urban	All	(A - 178)Lakkasandra, 15th crossWilson Garden, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 179)Ramachandra Agrahara, Azad Nagar, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 180)Gurappana Palya, 1st Stage, BTM Layout	
-Karnataka	Bengaluru Urban	All	(A - 181)Krishna Rd, Basavanagudi, Bengaluru, Karnataka 560004	
-Karnataka	Bengaluru Urban	All	(A - 182)JP Rd, 1st phase Girinagar, Writers Colony, Giri Nagar, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560085	
-Karnataka	Bengaluru Urban	All	(A - 183)Vishveswarapura police station	
-Karnataka	Bengaluru Urban	All	(A - 184)Gandhi Nagar, Kadugondanahalli, Bengaluru, Karnataka 560045	
-Karnataka	Bengaluru Urban	All	(A - 185)Elegance Brindavan, 36th A Cross, 11th A Main Rd, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560041	
-Karnataka	Bengaluru Urban	All	(A - 186)Near Dharmarayaswamy Temple	
-Karnataka	Bengaluru Urban	All	(A - 187)Dinnur Main Rd, P&T Colony, Kaval Bairasandra, Bengaluru, Karnataka 560045	
-Karnataka	Bengaluru Urban	All	(A - 188)Sampangiramnagar	
-Karnataka	Bengaluru Urban	All	(A - 189)Passport Seva Kendra	
-Karnataka	Bengaluru Urban	All	(A - 190)316, 16th A Main Rd, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560041	
-Karnataka	Bengaluru Urban	All	(A - 191)Sampangiramnagar	
-Karnataka	Bengaluru Urban	All	(A - 192)16-25, 13th Main Rd, Raghavendra Block, Kalappa Block, Srinagar, Banashankari, Bengaluru, Karnataka 560050	
-Karnataka	Bengaluru Urban	All	(A - 193)18th Main Rd, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560041	
-Karnataka	Bengaluru Urban	All	(A - 194)4th Block, Jayanagar, Bengaluru, Karnataka 560041	
-Karnataka	Bengaluru Urban	All	(A - 195)Near Dharmarayaswamy Temple	
-Karnataka	Bengaluru Urban	All	(A - 196)2nd Main Rd, Lakkasandra, Laljinagar, Wilson Garden, Bengaluru, Karnataka 560030	
-Karnataka	Bengaluru Urban	All	(A - 197)Near Dharmarayaswamy Temple	
-Karnataka	Bengaluru Urban	All	(A - 198)Kommaghatta, Karnataka 560060	
-Karnataka	Bengaluru Urban	All	(A - 199)Naidu Commercial Complex, Sallappa Layout, Manjunatha Layout, Krishnarajapura, Bengaluru, Karnataka 560036	
-Karnataka	Bengaluru Urban	All	(A - 200)5th Block, Ashwath Nagar, HBR Layout Bengaluru, Karnataka 560045	
-Karnataka	Bengaluru Urban	All	(A - 201)Bethel Nagar Rd, Satyasaibaba Layout, Krishnarajapura, Bengaluru, Karnataka 560049	
-Karnataka	Bengaluru Urban	All	(A - 202)No. 10, 3rd Cross Road, Lakeshore Gardens, Thindlu, Vidyaranayapura, Bengaluru, Karnataka 560097	
-Karnataka	Bengaluru Urban	All	(A - 203)Hesaraghatta rd, M.S. Palya, Via, Jalahalli East, Bengaluru, Karnataka 560097	
-Karnataka	Bengaluru Urban	All	(A - 204)Kudlu Rd, Hosapalaya, Singasandra, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 205)Hongasandra, Bengaluru, Karnataka	
-Karnataka	Bengaluru Urban	All	(A - 206)Nagasandra, Bengaluru, Karnataka 560073	
-Karnataka	Bengaluru Urban	All	(A - 207)Gnanabharathi, Gnana Bharathi, Bengaluru, Karnataka 560056	
-Karnataka	Bengaluru Urban	All	(A - 208)Coconut Grove, Vidyaranyapura, Bengaluru, Karnataka	
-Karnataka	Bengaluru Urban	All	(A - 209)11th Cross Rd, Venkateshwara Layout, Sunkadakatte, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 210)21, Robertson Rd, Cleveland Town, Pulikeshi Nagar, Bengaluru, Karnataka 560005	
-Karnataka	Bengaluru Urban	All	(A - 211)16, Robertson Rd, Cleveland Town, Pulikeshi Nagar, Bengaluru, Karnataka 560005	
-Karnataka	Bengaluru Urban	All	(A - 212)Anand Gokul Layout, Kaval Bairasandra, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 213)Anchappa Garden, Jayamahal, Bengaluru, Karnataka 560045	
-Karnataka	Bengaluru Urban	All	(A - 214)100-103, 5th Cross Rd, Williams Town, Benson Town, Bengaluru, Karnataka 560046	
-Karnataka	Bengaluru Urban	All	(A - 215)16, Muniyamma Rd, MS Nagar, Ramaswamipalya, Lingarajapuram, Bengaluru, Karnataka 560084	
-Karnataka	Bengaluru Urban	All	(A - 216)15th Cross Rd, Lakkasandra, Lakkasandra Extension, Wilson Garden, Bengaluru, Karnataka 560030	
-Karnataka	Bengaluru Urban	All	(A - 217)4th Main Rd, Bovi Colony, Thyagaraja Nagar, Basavanagudi, Bengaluru, Karnataka 560070	
-Karnataka	Bengaluru Urban	All	(A - 218)Venkateshwara Complex, Tavarekere Main Rd, B.T.M, 1st Stage,	
-Karnataka	Bengaluru Urban	All	(A - 219)13, 4th Cross Rd, Arekempanahalli, Mavalli, Bengaluru, Karnataka 560027	
-Karnataka	Bengaluru Urban	All	(A - 220)1st Main Rd, New Timberyard Layout, Telecom Colony, Srinagar, Banashankari, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 221)16th Main Rd, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560041	
-Karnataka	Bengaluru Urban	All	(A - 222)927/1, 10th Cross Rd, Vinobha Nagar, Kadugondanahalli, Bengaluru, Karnataka 560045	
-Karnataka	Bengaluru Urban	All	(A - 223)Dharmaraya Swamy Temple Rd, Thigalarpet, Dodpete, Nagarathpete, Bengaluru, Karnataka 560002	
-Karnataka	Bengaluru Urban	All	(A - 224)Muniswamappa Road, Jaibharath Nagar, Vivekananda Nagar, Maruthi Sevanagar, Bengaluru, Karnataka 560033	
-Karnataka	Bengaluru Urban	All	(A - 225)Chikkalasandra Main Rd, Sneha Colony, Chikkalasandra, Bengaluru, Karnataka 560061	
-Karnataka	Bengaluru Urban	All	(A - 226)Byrasandra Main Rd, 1st Block East, 1st Block, Jaya Nagar East, Jayanagar, Bengaluru, Karnataka 560011	
-Karnataka	Bengaluru Urban	All	(A - 227)4th Main Rd,Rukmini Nagar, Bengaluru, Karnataka	
-Karnataka	Bengaluru Urban	All	(A - 228)Basavanagudi , Bengaluru, Karnataka 560004	
-Karnataka	Bengaluru Urban	All	(A - 229)16-17, 1st Main Rd, Sudhama Nagar, Bengaluru, Karnataka 560027	
-Karnataka	Bengaluru Urban	All	(A - 230)2, 29th A Cross Rd, Balaji Layout, Kaggadasapura, Bengaluru, Karnataka 560093	
-Karnataka	Bengaluru Urban	All	(A - 231)Geleyara Balaga Layout, Chikkabanavara, Bengaluru, Karnataka 560090	
-Karnataka	Bengaluru Urban	All	(A - 232)MKS Layout 1st Stage, Doddakallasandra, Konanakunte, Bengaluru, Karnataka	
-Karnataka	Bengaluru Urban	All	(A - 233)5th Cross Rd, Jai Maruthi Nagar, Nandini Layout, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 234)Madina nagar near Johnson school bommanahalli bangalore 56068, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 235)Kaveri Nagar, Bommanahalli, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 236)New.Home.Sri, Nyanappana Halli, Hulimavu, Bengaluru, Karnataka 560076	
-Karnataka	Bengaluru Urban	All	(A - 237)Kalkere Main Rd, Coconut Grove Layout, Ashirvad Colony, Horamavu, Bengaluru, Karnataka 560043	
-Karnataka	Bengaluru Urban	All	(A - 238)Golf Course Rd, Kodihalli, Bengaluru, Karnataka 560008	
-Karnataka	Bengaluru Urban	All	(A - 239)Devasandra Extension, Krishnarajapura, Bengaluru, Karnataka 560036	
-Karnataka	Bengaluru Urban	All	(A - 240)Balaji Layout, Hongasandra, Bengaluru, Karnataka 560068	
-Karnataka	Bengaluru Urban	All	(A - 241)7th Main Rd, Hongasandra, Bengaluru, Karnataka 560068	
-Karnataka	Bengaluru Urban	All	(A - 242)7th Cross Rd, Volagalahalli, Stage II, Kengeri Satellite Town, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 243)Floor, Plot no.434, Railway Station, Vars Splendid Apartment , Flat No. 304, 3rd, Opp, Swami Vivekananda Rd, Krishnarajapura, Bengaluru, Karnataka 560016	
-Karnataka	Bengaluru Urban	All	(A - 244)6th E Main Rd, Gaurav Nagar, Phase 7, J. P. Nagar, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 245)Kudlu Rd, BTR Gardens, Hosapalaya, Muneshwara Nagar, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 246)6th Cross Rd, Kodanda Reddy Layout, Dooravani Nagar, Bengaluru, Karnataka 560016	
-Karnataka	Bengaluru Urban	All	(A - 248)Anjanapura 8th Block, Lal Bahadur Shastri Nagar, Bengaluru, Karnataka 560108	
-Karnataka	Bengaluru Urban	All	(A - 249)Vignana Kendra, Bengaluru, Karnataka	
-Karnataka	Bengaluru Urban	All	(A - 25) 6th Cross Triveni Road Opp To Jain Temple, Yeshwanthpur	
-Karnataka	Bengaluru Urban	All	(A - 250)Classic Orchards Layout, Kalena Agrahara, Bengaluru, Karnataka 560076	
-Karnataka	Bengaluru Urban	All	(A - 251)959, Nagasandra Main Rd, 1st block, Nagasandra, Bengaluru, Karnataka 560073	
-Karnataka	Bengaluru Urban	All	(A - 252)2nd B Cross Rd, KHB Colony, Shirke Layout, Kengeri Satellite Town, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 253)Srirampura, Jakkur, Bengaluru, Karnataka 560064	
-Karnataka	Bengaluru Urban	All	(A - 256)2nd B Cross Rd, Gandhi Nagar, Yelahanka, Bengaluru, Karnataka 560064	
-Karnataka	Bengaluru Urban	All	(A - 257)Suggappa Layout, East Colony, Yelahanka, Bengaluru, Karnataka 560064	
-Karnataka	Bengaluru Urban	All	(A - 258)1st Cross Rd, Sector 7, HSR Layout, Bengaluru, Karnataka 560068	
-Karnataka	Bengaluru Urban	All	(A - 259)No. 10, 3rd Cross Road, Lakeshore Gardens, Thindlu, Vidyaranayapura, Bengaluru, Karnataka 560097	
-Karnataka	Bengaluru Urban	All	(A - 260)Bangalore University Campus, Bengaluru, Karnataka	
-Karnataka	Bengaluru Urban	All	(A - 261)Vignana Kendra, Bengaluru, Karnataka 560065	
-Karnataka	Bengaluru Urban	All	(A - 262)1st Main Rd, Laggere, Annapoorneshwari Nagar, Hegganahalli, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 263)Bommanahalli,Bengaluru, Karnataka	
-Karnataka	Bengaluru Urban	All	(A - 264)Sarbandapalya, Banashankari Temple Ward, Bengaluru, Karnataka 560078	
-Karnataka	Bengaluru Urban	All	(A - 265)Doddamavalli, Sudhama Nagar, Bengaluru, Karnataka 560002	
-Karnataka	Bengaluru Urban	All	(A - 266)165, 4th Main Rd, 2nd Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078	
-Karnataka	Bengaluru Urban	All	(A - 267)16, Doddamavalli, Mavalli, Bengaluru, Karnataka 560002	
-Karnataka	Bengaluru Urban	All	(A - 268)Intermediate Ring Rd, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034	
-Karnataka	Bengaluru Urban	All	(A - 269)8th Main Rd, New Gurappana Palya, 1st Stage, BTM Layout, Bengaluru, Karnataka 560029	
-Karnataka	Bengaluru Urban	All	(A - 270)251-243, 1st Cross Rd, Sunkenahalli, Hanumanthnagar, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560019	
-Karnataka	Bengaluru Urban	All	(A - 271)8th Main Rd, Krishna Murthy Layout, M Vishveshvaraiah Nagar, Kalkere, Bengaluru, Karnataka 560016	
-Karnataka	Bengaluru Urban	All	(A - 272)1st Block, Someshwara Nagar, Hombegowda Nagar, Bengaluru, Karnataka 560029	
-Karnataka	Bengaluru Urban	All	(A - 273)126-118, 3rd Cross Rd, 1st Block, Someshwara Nagar, Jayanagar, Bengaluru, Karnataka 560011	
-Karnataka	Bengaluru Urban	All	(A - 274)Tavarekere, Madiwala, 1st Stage, BTM Layout, Bengaluru, Karnataka 560029	
-Karnataka	Bengaluru Urban	All	(A - 275)23/65, Ganigarpet, Nagarathpete, Bengaluru, Karnataka 560002	
-Karnataka	Bengaluru Urban	All	(A - 276)472, 8th B Main Rd, 4th Block, Jayanagar, Bengaluru, Karnataka 560011	
-Karnataka	Bengaluru Urban	All	(A - 277)Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560030	
-Karnataka	Bengaluru Urban	All	(A - 278)8th Main Rd, 1st Block, Jaya Nagar East, Hombegowda Nagar, Bengaluru, Karnataka 560011	
-Karnataka	Bengaluru Urban	All	(A - 279)RK Layout 2nd Stage, Padmanabhanagar, Bengaluru, Karnataka 560070	
-Karnataka	Bengaluru Urban	All	(A - 28) Tilak Nagar, Popular Colony, HSR Layout	
-Karnataka	Bengaluru Urban	All	(A - 280)4th Main Rd, Binny Mills Employees Colony, Attiguppe, Bengaluru, Karnataka 560040	
-Karnataka	Bengaluru Urban	All	(A - 281)14th Main Rd, Phase 1, Srinagar, Banashankari, Bengaluru, Karnataka 560050	
-Karnataka	Bengaluru Urban	All	(A - 282) Begur Main Rd, Maruthi Layout, Hongasandra, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 283)2nd Cross Rd, Gubbalala, Subramanyapura, Bengaluru, Karnataka 560062	
-Karnataka	Bengaluru Urban	All	(A - 285)1th Main Rd, Maruthi Layout, Hongasandra	
-Karnataka	Bengaluru Urban	All	(A - 286)165, 4th Main Rd, 2nd Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078	
-Karnataka	Bengaluru Urban	All	(A - 287)Classic Orchards Layout, Kalena Agrahara, Bengaluru, Karnataka 560076	
-Karnataka	Bengaluru Urban	All	(A - 288) 5th Cross Road Annapoorneshwari Layout Kodipalya, Kengeri, Bengaluru, Karnataka 560060	
-Karnataka	Bengaluru Urban	All	(A - 289)1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078	
-Karnataka	Bengaluru Urban	All	(A - 290)Rajiv Gandhi Nagar, HSR Layout, Bengaluru, Karnataka 560102	
-Karnataka	Bengaluru Urban	All	(A - 291)Madeshwara Layout, Sunkadakatte, Bengaluru, Karnataka 560091	
-Karnataka	Bengaluru Urban	All	(A - 292)80 Feet Rd, Volagalahalli, Stage II, Kengeri Satellite Town, Bengaluru, Karnataka 560060	
-Karnataka	Bengaluru Urban	All	(A - 293)3rd Main Rd, RR Layout, Jnana Jyothi Nagar, Nagdevanahalli, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 294)BHEL Layout, RR Nagar, Bengaluru, Karnataka 560098	
-Karnataka	Bengaluru Urban	All	(A - 295)13A Main Rd, Kumaraswamy Layout II Stage, Vikram Nagar, Kumaraswamy Layout, Bengaluru, Karnataka 560078	
-Karnataka	Bengaluru Urban	All	(A - 296)Hoodi Bengaluru, Karnataka 560048	
-Karnataka	Bengaluru Urban	All	(A - 297)Vijaya Bank Layout, Bilekahalli, Bengaluru, Karnataka 560076	
-Karnataka	Bengaluru Urban	All	(A - 298)6th Main Rd, Attur Layout, Yelahanka New Town, Bengaluru, Karnataka 560064	
-Karnataka	Bengaluru Urban	All	(A - 299)5-9, Pushpanjali Tent Rd, Bangalore Corporation Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560016	
-Karnataka	Bengaluru Urban	All	(A - 30) 2nd cross, Old Guddadahalli, Guddadahalli	
-Karnataka	Bengaluru Urban	All	(A - 300)10th Cross Rd, AECS Layout - A Block, AECS Layout, Singasandra, Bengaluru, Karnataka 560068	
-Karnataka	Bengaluru Urban	All	(A - 301)Graphite India Main Rd, NCPR Industrial Layout, KEB Colony, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048	
-Karnataka	Bengaluru Urban	All	(A - 302)Rd Number 2, Phase 2, Brookefield, Bengaluru, Karnataka 560066	
-Karnataka	Bengaluru Urban	All	(A - 303)23, HAL Old Airport Rd, HAL 2nd Stage, Kodihalli, Bengaluru, Karnataka 560008	
-Karnataka	Bengaluru Urban	All	(A - 305)Nayandahalli Main Rd, Vinayaka Extension, Nayanda Halli, Bengaluru, Karnataka 560039	
-Karnataka	Bengaluru Urban	All	(A - 306)No 836, Impushree Nilaya, 4th Cross Rd, 11th Block, 11 Block, Marilingappa Extension, Naagarabhaavi, Bengaluru, Karnataka 560072	
-Karnataka	Bengaluru Urban	All	(A - 307)Kumaraswamy Layout II Stage, Vikram Nagar, Kumaraswamy Layout, Bengaluru, Karnataka 560078	
-Karnataka	Bengaluru Urban	All	(A - 308)165, 4th Main Rd, 2nd Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078	
-Karnataka	Bengaluru Urban	All	(A - 309)Balaji Layout, Hongasandra, Bengaluru, Karnataka 560068	
-Karnataka	Bengaluru Urban	All	(A - 31) 6th cross 2 main, Wilson Garden,	
-Karnataka	Bengaluru Urban	All	(A - 311)241, 4th Main Rd, MS Ramaiah City Layout, 8th Phase, Arekere, Bengaluru, Karnataka 560076	
-Karnataka	Bengaluru Urban	All	(A - 313)6th A Main Rd, AECS Layout - A Block, AECS Layout, Singasandra, Bengaluru, Karnataka 560068	
-Karnataka	Bengaluru Urban	All	(A - 314)12th Main Rd, Vikram Nagar, Kumaraswamy Layout,	
-Karnataka	Bengaluru Urban	All	(A - 315)Kommaghatta, Karnataka 560060	
-Karnataka	Bengaluru Urban	All	(A - 316)2nd Main Rd, Chamrajpet, Bengaluru, Karnataka 560018	
-Karnataka	Bengaluru Urban	All	(A - 317)7th Main Rd, Shivanagar, Basaveshwar Nagar, Bengaluru, Karnataka 560010	
-Karnataka	Bengaluru Urban	All	(A - 318)31-28, 4th Cross Rd, Agrahara Dasarahalli, Rajajinagar, Bengaluru, Karnataka 5600795th Cross Rd, Agrahara Dasarahalli, Rajajinagar, Bengaluru, Karnataka 560079	
-Karnataka	Bengaluru Urban	All	(A - 319)Old Pension Mohalla, Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 32) 1st Main Rd, Police Quarters, RK Hegde Nagar, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 320)Shop No. 154, S.R Puram, 7th Main Rd, Gautham Nagar, Gowtham Nagar, Srirampura, Bengaluru, Karnataka 560021	
-Karnataka	Bengaluru Urban	All	(A - 321)3rd Cross Rd, Giripuram, Anjanappa Gardens, Cottonpete,	
-Karnataka	Bengaluru Urban	All	(A - 322)255/A, 6th Cross Rd, Shivanagar, Basaveshwar Nagar, Bengaluru, Karnataka 560079 213, 6th Cross Road, Bovi Colony, Basaveshwar Nagar, Bengaluru, Karnataka 560010	
-Karnataka	Bengaluru Urban	All	(A - 323)Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 324)28, Ramachandra Agrahara, Azad Nagar, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 325)56, Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 326)8th Cross Rd, Chamrajpet, Bengaluru, Karnataka 560018	
-Karnataka	Bengaluru Urban	All	(A - 327)2nd B Cross Rd, Ranganatha Colony, Jagajeevanram Nagar, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 328)Metro Lay Out, Nayanda Halli, Bengaluru, Karnataka 560039	
-Karnataka	Bengaluru Urban	All	(A - 329)11, 1st Main Rd, Binnipete, Kempapura Agrahara, Bengaluru, Karnataka 560023	
-Karnataka	Bengaluru Urban	All	(A - 33) No.72, Rahman Khan Rd, near Ullas Theater, APMC Yard	
-Karnataka	Bengaluru Urban	All	(A - 331)FCI Layout, Nayanda Halli, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 332)New Municipal No. 116 2nd floor, 2nd Main Rd, Vijaynagar Layout, Azad Nagar, Chamrajpet, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 333)5th Main Rd, Rajivgandhi Nagar, Krishnananda Nagar, Nandini Layout, Bengaluru, Karnataka 560096	
-Karnataka	Bengaluru Urban	All	(A - 334)1st Cross Rd, Giripuram, Anjanappa Gardens,	
-Karnataka	Bengaluru Urban	All	(A - 335)Ranganatha Colony, Jagajeevanram Nagar, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 336)2nd Cross Rd, Gowda Muniswamy Garden, Ejipura, Bengaluru, Karnataka 560095	
-Karnataka	Bengaluru Urban	All	(A - 338)Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 339)Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 34) Patel Narayanswamy Layout, Siddapura, Whitefield	
-Karnataka	Bengaluru Urban	All	(A - 341)9th A Main Rd, Rayapuram, Padarayana Pura, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 342)2nd Cross Rd, Nethaji Nagar, Nagamma Nagar, Cottonpete, Bengaluru, Karnataka 560023	
-Karnataka	Bengaluru Urban	All	(A - 343)9th Main Rd, Rayapuram, Jagajeevanram Nagar, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 344)13th Cross Rd, Lakshminarayanapuram, Rajajinagar, Bengaluru, Karnataka 560021	
-Karnataka	Bengaluru Urban	All	(A - 345)Anchepet, Chickpet, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 346)21st Main Rd, Giri Nagar, II Phase, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085	
-Karnataka	Bengaluru Urban	All	(A - 347)29, Rangaswamy Temple St, Balepete, Chickpet, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 348)AM Road, Sulthangunta, Shivaji Nagar, Bengaluru, Karnataka 560051	
-Karnataka	Bengaluru Urban	All	(A - 349), Vasavi Temple St, Vishweshwarapura, Shankarapura, Bengaluru, Karnataka 560004	
-Karnataka	Bengaluru Urban	All	(A - 35) Halasahalli Rd, Halasahalli,	
-Karnataka	Bengaluru Urban	All	(A - 350)1st Cross Rd, Giripuram, Anjanappa Gardens,	
-Karnataka	Bengaluru Urban	All	(A - 351)Haines Rd, Pulkeshi Nagar, Pulikeshi Nagar, Bengaluru, Karnataka 560005	
-Karnataka	Bengaluru Urban	All	(A - 352)21, Sudhama Nagar, Bengaluru, Karnataka 560027	
-Karnataka	Bengaluru Urban	All	(A - 353)Canara Bank Apartment, Kavi Lakshmisha Rd, Parvathipuram, Vishweshwarapura, Shankarapura, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 354)Rayapuram, Jagajeevanram Nagar, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 355)34-35, 17th Main Rd, New Timberyard Layout, Telecom Colony, Muneshwara Block, Banashankari, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 356)3rd Main Rd, Chennammana Kere, Kathreguppe, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560050	
-Karnataka	Bengaluru Urban	All	(A - 357)2nd Cross Rd, Hanumanthnagar, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560019	
-Karnataka	Bengaluru Urban	All	(A - 358)126-131, Basettyetpet Ln, Anchepet, Chickpet, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 36) NRI Layout 2nd St, Varanasi,	
-Karnataka	Bengaluru Urban	All	(A - 360)Nagasandra Main Rd, Amaravathi Layout, Nagara Bavi, Vidya Nagar, Peenya, Bengaluru, Karnataka 560057	
-Karnataka	Bengaluru Urban	All	(A - 361)4th Cross Rd, Dayananda Nagar, Srirampura, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 362)3rd Cross Rd, Srinivasanagara, Hanumanthnagar, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560019	
-Karnataka	Bengaluru Urban	All	(A - 363)Kempegowda Rd, Sachidananda Nagar, RR Nagar, Bengaluru, Karnataka 560098	
-Karnataka	Bengaluru Urban	All	(A - 364)#94, behind Punya Hospital, 2nd Stage, KHB Colony, Basaveshwar Nagar, Bengaluru, Karnataka 560079	
-Karnataka	Bengaluru Urban	All	(A - 365)Madhu Complex, 3rd Floor, Roshan Bagh Road, Near-Basappa Circle, Visvesvarapuram, Bengaluru, Karnataka 560004	
-Karnataka	Bengaluru Urban	All	(A - 366)Parvathipuram Main Rd, Parvathipuram, Vishweshwarapura, Shankarapura,	
-Karnataka	Bengaluru Urban	All	(A - 367)Jai Bheema Nagar, Seshadripuram, Bengaluru, Karnataka 560020	
-Karnataka	Bengaluru Urban	All	(A - 369)Shop No, 897, 12th Main Rd, Hanumanthnagar, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560019	
-Karnataka	Bengaluru Urban	All	(A - 37) Govindaraja Nagar Ward, MC Layout, Vijayanagar	
-Karnataka	Bengaluru Urban	All	(A - 370)1-6, 33rd Cross Rd, 4th T Block East, 7th Block, Jayanagar, Bengaluru, Karnataka 560070	
-Karnataka	Bengaluru Urban	All	(A - 371)5th Cross Rd, Rajiv Gandhi Nagar, HSR Layout, Bengaluru, Karnataka 560102	
-Karnataka	Bengaluru Urban	All	(A - 372)#46 ,BLN Arcade, 7th B Main Rd, 4th Block, Jayanagar, Bengaluru, Karnataka 560011	
-Karnataka	Bengaluru Urban	All	(A - 375)15, 15th Cross Rd, Lakkasandra, Lakkasandra Extension, Wilson Garden, Bengaluru, Karnataka 560030	
-Karnataka	Bengaluru Urban	All	(A - 376)5th Cross Rd, Koramangala 4th Block, Koramangala, Bengaluru, Karnataka 560095	
-Karnataka	Bengaluru Urban	All	(A - 377)Sowrashtrapet, Chickpet, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 378)17, Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 379)2nd Main Rd, Lakkasandra, Laljinagar, Wilson Garden, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 38) 1st Block, Someshwara Nagar, Hombegowda Nagar	
-Karnataka	Bengaluru Urban	All	(A - 380)5, Poorna Venkata Rao Rd, Jolly Mohalla, Ranasinghpete, Cottonpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 381)Police Station, #4, Carpenter Byrappa Lane, Near-Cotton Pet, Ranasinghpete, Sultanpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 382)Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 383)Lakkasandra, Hombegowda Nagar, Bengaluru, Karnataka 560027	
-Karnataka	Bengaluru Urban	All	(A - 384)The Chancery Pavilion, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025	
-Karnataka	Bengaluru Urban	All	(A - 385)1st Cross Rd, HSR Layout, Bengaluru, Karnataka 560068	
-Karnataka	Bengaluru Urban	All	(A - 386)3rd Main Rd, Lakshman Rao Nagar, Dr. Ambedkar Nagar, Adugodi, Bengaluru, Karnataka 560047	
-Karnataka	Bengaluru Urban	All	(A - 387)1st Cross Rd, KAS Officers Colony, Stage 2, BTM 2nd Stage, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 388)CM Ln, Jolly Mohalla, Ranasinghpete, Sultanpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 39) 4th Cross Rd, Telecom Layout, Kempapura Agrahara	
-Karnataka	Bengaluru Urban	All	(A - 390)Ashirwad Apartment, Someshwara Colony, Stage 2, BTM Layout,	
-Karnataka	Bengaluru Urban	All	(A - 392)Cottonpet Main Rd, Ranasinghpete, Sultanpete, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 393)3rd A Cross Road, 138, 3rd Main Rd, Chennammana Kere, Achkat, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085	
-Karnataka	Bengaluru Urban	All	(A - 394)M.R Palya, Rajajinagar, Bengaluru, Karnataka 560021	
-Karnataka	Bengaluru Urban	All	(A - 395)4th Main Rd, Chamrajpet, Bengaluru, Karnataka 560018	
-Karnataka	Bengaluru Urban	All	(A - 396)11, 1st Cross Rd, Srinivasanagara, Hanumanthnagar, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560019	
-Karnataka	Bengaluru Urban	All	(A - 397)445, 91st Main Rd, 1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078	
-Karnataka	Bengaluru Urban	All	(A - 398)15th Cross Rd, Lakkasandra, Lakkasandra Extension, Wilson Garden, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 399)Old Pension Mohalla, Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 40) Kodichikknahalli, Lake City, Bommanahalli	
-Karnataka	Bengaluru Urban	All	(A - 400)Vidyapeeta Layout, Banashankari, Bengaluru, Karnataka 560050	
-Karnataka	Bengaluru Urban	All	(A - 401)491-490, 13th Cross Rd, Shastri Nagar, Yediyur, Basavanagudi, Bengaluru, Karnataka 560004	
-Karnataka	Bengaluru Urban	All	(A - 402)The Haven, 8th B Main Rd, 4th T Block East, 4th Block, Jayanagar, Bengaluru, Karnataka 560011	
-Karnataka	Bengaluru Urban	All	(A - 403)Soundarya Links, Link Rd, Jai Bheema Nagar, Sampangiram Nagar, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 404)Narishma Swami Temple, Binny Pete, Jagajeevanram Nagar, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 405)Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 406)16th Cross Rd, Binnipete, Kempapura Agrahara, Bengaluru, Karnataka 560023	
-Karnataka	Bengaluru Urban	All	(A - 407)Kempegowda Nagar, Bengaluru, Karnataka 560019	
-Karnataka	Bengaluru Urban	All	(A - 408)1st Cross Rd, Padarayana Pura, Bengaluru, Karnataka 560026	
-Karnataka	Bengaluru Urban	All	(A - 409)RK Street, lingappa block, Jai Bheema Nagar, Seshadripuram, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 41) 511, Near-Post Office, Viveknagar, Ejipura, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 410)5th Main Rd, S K Garden, Chinnapa Garden, Benson Town, Bengaluru, Karnataka 560046	
-Karnataka	Bengaluru Urban	All	(A - 411)Neelasandra, Bengaluru, Karnataka	
-Karnataka	Bengaluru Urban	All	(A - 412)Sultan Rd, Anjanappa Gardens, Cottonpete, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 413)Sultan Rd, Anjanappa Gardens, Cottonpete, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 414)Raghavendra Colony, Chamrajpet, Bengaluru, Karnataka 560018	
-Karnataka	Bengaluru Urban	All	(A - 415)5-1, Promenade Rd, Pulkeshi Nagar, Pulikeshi Nagar, Bengaluru, Karnataka 560005	
-Karnataka	Bengaluru Urban	All	(A - 416)Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 417)Parvathipuram, Vishweshwarapura, Basavanagudi, Bengaluru, Karnataka	
-Karnataka	Bengaluru Urban	All	(A - 418)11-14, Sethu Rao Rd, Old Tharagupet, Mamulpet, Chickpet, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 419)69, Police Rd, Manivartapete, Cottonpete, Bengaluru, Karnataka 560053	
-Karnataka	Bengaluru Urban	All	(A - 42) Milk Dairy Rd, Chansandra	
-Karnataka	Bengaluru Urban	All	(A - 420)Elite Homes, 6th Cross Rd, Malleshwaram, Bengaluru, Karnataka 560003	
-Karnataka	Bengaluru Urban	All	(A - 422)A Block, Milk Colony, Subramanyanagar,2 State, Rajajinagar, Bengaluru, Karnataka 560055	
-Karnataka	Bengaluru Urban	All	(A - 423)51st Cross Rd, 4th Block, Rajajinagar, Bengaluru, Karnataka 560010	
-Karnataka	Bengaluru Urban	All	(A - 424)Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 45) Tank Bund Rd, Subhash Nagar, Sevashrama	
-Karnataka	Bengaluru Urban	All	(A - 49) 9th Cross Rd, Phase 3, Nagarbhavi 1st Stage, Chandra Layout	
-Karnataka	Bengaluru Urban	All	(A - 51) Near Kottigepalya Bus Stop, Magadi Main Road	
-Karnataka	Bengaluru Urban	All	(A - 54) 9th Cross Rd, Malleshwaram, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 55) Marathahalli Bridge, 97/2D MTK reddy complex krishna shine building, Outer Ring Rd, Marathahalli	
-Karnataka	Bengaluru Urban	All	(A - 56) 3rd Cross Rd, 5th Phase, Nanjundeswara Layout, J P Nagar Phase 5, J. P. Nagar	
-Karnataka	Bengaluru Urban	All	(A - 57) Yelahanka New Town	
-Karnataka	Bengaluru Urban	All	(A - 58) BDA Layout BTM 4th Stage	
-Karnataka	Bengaluru Urban	All	(A - 59) Doddabommasandra Main Rd, Nagaland Colony, Doddabommasandra	
-Karnataka	Bengaluru Urban	All	(A - 60) SH 104, Dr.S.R.K. Nagar post, P&T Layout, Sinthan Nagar	
-Karnataka	Bengaluru Urban	All	(A - 61) Chandra Nagar, Kumaraswamy Layout	
-Karnataka	Bengaluru Urban	All	(A - 62) Near BESCOM Office	
-Karnataka	Bengaluru Urban	All	(A - 63) Chokkasandra, Peenya	
-Karnataka	Bengaluru Urban	All	(A - 64) 1st Main Road, Giripuram, Anjanappa Gardens, Cottonpete	
-Karnataka	Bengaluru Urban	All	(A - 65) Beli Mutt Rd, Bakshi Gardens, Cottonpete	
-Karnataka	Bengaluru Urban	All	(A - 66) Cobaley Colony, Padarayana Pura	
-Karnataka	Bengaluru Urban	All	(A - 67) National High School Road, Vishweshwarapura, Shankarapura	
-Karnataka	Bengaluru Urban	All	(A - 68) 6th Main Road, Raghavendra Colony, Chamrajpet	
-Karnataka	Bengaluru Urban	All	(A - 69) Tilak Nagar, Popular Colony, HSR Layout	
-Karnataka	Bengaluru Urban	All	(A - 70) 4th Main Rd, Bapuji Nagar, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 71) Hampi Nagar, RPC Layout, Vijayanagar	
-Karnataka	Bengaluru Urban	All	(A - 72) Hosapalaya, Muneshwara Nagar	
-Karnataka	Bengaluru Urban	All	(A - 73) Thigalarpet, Dodpete, Nagarathpete	
-Karnataka	Bengaluru Urban	All	(A - 74) 2nd Main Rd, Sudhama Nagar	
-Karnataka	Bengaluru Urban	All	(A - 75) Tippasandra road,udgir, Navaratan Garden konankunte	
-Karnataka	Bengaluru Urban	All	(A - 76) NH 44, Adarsh Palm Retreat, Bellandur	
-Karnataka	Bengaluru Urban	All	(A - 77) Adugodi behind police station	
-Karnataka	Bengaluru Urban	All	(A - 78) Hosabeedhi, Gandhi Nagar, Yelahanka, Bengaluru, Karnataka 560064	
-Karnataka	Bengaluru Urban	All	(A - 79) 20, 6th Cross Rd, Swimming Pool Extension, Yalappa Garden	
-Karnataka	Bengaluru Urban	All	(A - 80) 1st Main Rd, Sidhartha Nagar, Cottonpete	
-Karnataka	Bengaluru Urban	All	(A - 81) Roshan Nagar, Devara Jeevanahalli	
-Karnataka	Bengaluru Urban	All	(A - 82) 11th Cross, Ashok Nagar, Near-Vidya Peeta Circle, Banashankari 1st Stage	
-Karnataka	Bengaluru Urban	All	(A - 83) Maruthi Layout, Royal Shelters, Hongasandra	
-Karnataka	Bengaluru Urban	All	(A - 84) Pipeline Rd, Mallasandra Village, T. Dasarahalli	
-Karnataka	Bengaluru Urban	All	(A - 85) Ayyappa Nagar - Battarahalli Rd, Gokula Layout, Krishnarajapura	
-Karnataka	Bengaluru Urban	All	(A - 86) 13th main road Siddapura, Mavalli, Bengaluru,	
-Karnataka	Bengaluru Urban	All	(A - 87) 4th main road Arekempanahalli, Mavalli, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A - 88) Hosakerehalli Main Rd, 7th Block, Hosakerehalli Layout, Dattatreya Nagar	
-Karnataka	Bengaluru Urban	All	(A - 89) W Cir Rd, Parvathipuram, Vishweshwarapura, Shankarapura	
-Karnataka	Bengaluru Urban	All	(A - 90) Chowdappa Rd, Ranganatha Colony, Jagajeevanram Nagar	
-Karnataka	Bengaluru Urban	All	(A - 91) Sultan Rd, Bakshi Gardens, Chamrajpet	
-Karnataka	Bengaluru Urban	All	(A - 92) 6th Cross Rd, Gandhi Nagar	
-Karnataka	Bengaluru Urban	All	(A - 93) Roshan Nagar, Devara Jeevanahalli	
-Karnataka	Bengaluru Urban	All	(A - 94) Shankara Nagar Main Rd, Yeshwanthpur Industrial Suburb, Nandini Layout (Near Swimming pool,)	
-Karnataka	Bengaluru Urban	All	(A - 95) LR Bande Rd, P&T Colony, Kaval Bairasandra	
-Karnataka	Bengaluru Urban	All	(A - 96) New Gurappana Palya, 1st Stage, BTM Layout 1	
-Karnataka	Bengaluru Urban	All	(A - 97) 16th Main Rd, AECS Layout - A Block, Singasandra	
-Karnataka	Bengaluru Urban	All	(A - 98) 5th Cross Rd, Suprajanagara, Konanakunte,	
-Karnataka	Bengaluru Urban	All	(A - 99) Hoodi Kodigehalli Rd, Kodigehalli, Kadugodi	
-Karnataka	Bengaluru Urban	All	(A -43) Giripuram, Sidhartha Nagar, Cottonpete	
-Karnataka	Bengaluru Urban	All	(A -44) Kodigehalli Main Rd, CQAL Layout, Sahakar Nagar	
-Karnataka	Bengaluru Urban	All	(A -46) 9th Cross Rd, E block, 2nd Stage, Rajajinagar	
-Karnataka	Bengaluru Urban	All	(A -47) 18-29, 2nd Cross Rd, Cobaley Colony, Jagajeevanram Nagar, Bengaluru	
-Karnataka	Bengaluru Urban	All	(A -48) 9th Cross Rd, Bhakta Markandeya Layout, Vittal Nagar, Adarsha Nagar, Azad Nagar	
-Karnataka	Bengaluru Urban	All	(A -148) 148, Bazaar St, Near-Elephant Park, Someshwarpura, Halasuru, Karnataka 560008	
-Karnataka	Bengaluru Urban	All	(AP - 06) SV Sunflower, Bethel Nagar Rd, Alfa Gardens, Krishnarajapura  	
-Karnataka	Bengaluru Urban	All	(AP - 09) Marathahalli Village, Marathahalli, Bengaluru, Karnataka 560037	
-Karnataka	Bengaluru Urban	All	(AP - 10) Stage 2, Domlur, Bengaluru	
-Karnataka	Bengaluru Urban	All	(AP - 13) 6th Main Road, Raghavendra Colony, Chamrajpet	
-Karnataka	Bengaluru Urban	All	(AP - 16) Pyramid classic Apartment, Guappanapalya	
-Karnataka	Bengaluru Urban	All	(AP - 17)Chamundieshwari Layout	
-Karnataka	Bengaluru Urban	All	(AP - 18)Vikram Nagar, Kumaraswamy Layout, Bengaluru, Karnataka 560078	
-Karnataka	Bengaluru Urban	All	(AP - 21)Near Snacky Hub	
-Karnataka	Bengaluru Urban	All	(AP - 22)Dharmaraya Swamy Temple Rd, Thigalarpet, Dodpete, Nagarathpete, Bengaluru, Karnataka 560002	
-Karnataka	Bengaluru Urban	All	(AP - 24)212, Begur Main Rd, Hongasandra, Bengaluru, Karnataka 560068	
-Karnataka	Bengaluru Urban	All	(AP - 25)Nagara Bavi, Vidya Nagar, Peenya, Bengaluru, Karnataka 560057	
-Karnataka	Bengaluru Urban	All	(AP - 26)13-16, 11th Main Rd, Maruthi Layout, Hongasandra, Bengaluru	
-Karnataka	Bengaluru Urban	All	(AP - 27)Balagere, Bengaluru, Karnataka 560087	
-Karnataka	Bengaluru Urban	All	(AP - 28)Hagadur, Immadihalli, Whitefield, Bengaluru, Karnataka 560066	
-Karnataka	Bengaluru Urban	All	(AP - 31)Car Garrage, Vidyapeeta Layout, Banashankari, Bengaluru, Karnataka 560050	
-Karnataka	Bengaluru Urban	All	(AP - 32)Shravanthi Paramount, Hulimavu, Bengaluru, Karnataka 560076	
-Karnataka	Bengaluru Urban	All	(AP - 35)Immadihalli,Hagadur road Whitefield, Bengaluru, Karnataka 560066	
-Karnataka	Bengaluru Urban	All	(AP - 36)2090,23rd main, 16th Cross Rd, 1st Sector, HSR Layout, Bengaluru	
-Karnataka	Bengaluru Urban	All	(AP - 37)163, RR Layout, Jnana Jyothi Nagar, Gnana Bharathi, Bengaluru, Karnataka 560056	
-Karnataka	Bengaluru Urban	All	(AP - 38)Pragathi Layout, Doddanekundi, Doddanekkundi, Bengaluru, Karnataka 560037	
-Karnataka	Bengaluru Urban	All	(AP - 39)BuildaFania Ace Apartment, AECS Layout - A Block, Hal Layout, Singasandra, Bengaluru	
-Karnataka	Bengaluru Urban	All	(AP - 42)SB Tower, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 5600	
-Karnataka	Bengaluru Urban	All	(AP - 43)Raja Ram Mohan Roy Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru	
-Karnataka	Bengaluru Urban	All	(AP -11) 9th Main, PLAZA SYMPHONY	
-Karnataka	Bengaluru Urban	All	(AP -12) Kumara Krupa Rd, Jayamahal	
-Karnataka	Bengaluru Urban	All	(AP -14) AECS Layout - A Block, Singasandra	
-Karnataka	Bengaluru Urban	All	(AP -15) Green Glen Layout, Bellandur, Bengaluru	
-Karnataka	Bengaluru Urban	All	(AP -19) 67, 7th Cross Rd, Vasanth Nagar, Bengaluru, Karnataka 560051	
-Karnataka	Bengaluru Urban	All	(AP -20) anugraha, plot no-16, ramaiya reddy colony, Sector B, Ramaiahreddy Colony, BTM Dollars Scheme	
-Karnataka	Bengaluru Urban	All	(CL - 03) Vinayaka Nagar, Padarayana Pura (67 Cases)	
-Karnataka	Bengaluru Urban	All	(CL - 05)Garden Layout, Sector 2, HSR Layout, Bengaluru, Karnataka 560102	
-Karnataka	Bengaluru Urban	All	(CL - 06)81, 28th Cross Rd, Bilal Nagar, Sagayapura, Richards Town, Bengaluru, Karnataka 560084	
-Karnataka	Bengaluru Urban	All	(CL - 08)Palani Mudaliar Street, Bazaar Street, Ulsoor or Near one mg mall, trinity circle, Bengaluru, Karnataka 560008	
-Karnataka	Bengaluru Urban	All	(CL - 09)Netaji Rd, Pulkeshi Nagar, Pulikeshi Nagar, Bengaluru, Karnataka 560005	
-Karnataka	Bengaluru Urban	All	(CL - 10)Annepalya Main Rd, Richard Xavier's colony, Neelasandra, Bengaluru, Karnataka 560025	
-Karnataka	Bengaluru Urban	All	(CL - 11)2, 4th Cross Rd, Ashwath Nagar, Sampangi Rama Nagara, Sampangi Rama Nagar, Bengaluru, Karnataka 560027	
-Karnataka	Bengaluru Urban	All	(CL - 12)210, 1st E Cross Rd, St Thomas Town, Kacharakanahalli, Bengaluru, Karnataka 560084	
-Karnataka	Bengaluru Urban	All	(CL - 13)Vinobha Nagar, Kadugondanahalli, Bengaluru, Karnataka 560045	
-Karnataka	Bengaluru Urban	All	(CL - 14)Old Madras Rd, Padmeshwari Nagar, Battarahalli, Bengaluru, Karnataka 560049	
-Karnataka	Bengaluru Urban	All	(H - 01)Chokkasandra, Peenya, Bengaluru, Karnataka 560057	
-Karnataka	Bengaluru Urban	All	(H-01) Near Government School, Peenya	
-Karnataka	Bengaluru Urban	All	(S - 01) Gandhi Nagar, Kadugondanahalli, Bengaluru	
-Karnataka	Bengaluru Urban	All	(S - 02) Roshan Nagar, Devara Jeevanahalli,	
-Karnataka	Bengaluru Urban	All	(A -425) Horamavu	
-Karnataka	Bengaluru Urban	All	(A -426) Jnana Bharathi Nagar	
-Karnataka	Bengaluru Urban	All	(A -427) Herohalli	
-Karnataka	Bengaluru Urban	All	(A -428) A Narayanapura	
-Karnataka	Bengaluru Urban	All	(A -429) Herohalli	
-Karnataka	Bengaluru Urban	All	(A -430) Kottegepalya	
-Karnataka	Bengaluru Urban	All	(A -431) Kottegepalya	
-Karnataka	Bengaluru Urban	All	(A -432) Jnana Bharathi Nagar	
-Karnataka	Bengaluru Urban	All	(A -433) Ullalu	
-Karnataka	Bengaluru Urban	All	(A -434) Bellandur	
-Karnataka	Bengaluru Urban	All	(A -435) Ramamurthy Nagar	
-Karnataka	Bengaluru Urban	All	(A -436) Chowdeswari	
-Karnataka	Bengaluru Urban	All	(A -437) Dodda Nekkundi	
-Karnataka	Bengaluru Urban	All	(A -438) Vidyaranyapura	
-Karnataka	Bengaluru Urban	All	(A -439) Hagadur	
-Karnataka	Bengaluru Urban	All	(A -440) 61 S.K.Garden	
-Karnataka	Bengaluru Urban	All	(A -441) Kushal Nagar	
-Karnataka	Bengaluru Urban	All	(A -442) Jayachamarajendra Nagar	
-Karnataka	Bengaluru Urban	All	(A -443) Bapujinagar	
-Karnataka	Bengaluru Urban	All	(A -444) HSR Layout	
-Karnataka	Bengaluru Urban	All	(A -445) Hagadur	
-Karnataka	Bengaluru Urban	All	(A -446) Rajarajeshwarinagar	
-Karnataka	Bengaluru Urban	All	(A -447) Vasanthapura	
-Karnataka	Bengaluru Urban	All	(A -448) Vasanthapura	
-Karnataka	Bengaluru Urban	All	(A -449) Thanisandra	
-Karnataka	Bengaluru Urban	All	(A -450) Doddabidarakallu	
-Karnataka	Bengaluru Urban	All	(A -451) Mallasandra	
-Karnataka	Bengaluru Urban	All	(A -452) Thanisandra	
-Karnataka	Bengaluru Urban	All	(A -454) THIQ	
-Karnataka	Bengaluru Urban	All	(A -455) Hoodi	
-Karnataka	Bengaluru Urban	All	(A -456) Marathahalli	
-Karnataka	Bengaluru Urban	All	(A -457) Marathahalli	
 Delhi	Central	All	Chandni Mahal 1 (H. No.89, Chatta Lal Miyan to H. No.90, Chatta Lal Miyan)	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	Central	All	Chandni Mahal 2 (H. No.2221, Gali Dakotan, Turkman Gate 06.06.2020 to H. No.2229, Gali Dakotan, Turkman Gate)	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	Central	All	Sadar Bazar1(H.No.-4035 to H.No.-4039, Basti Mansha Ram Gali Barna, Sadar Bazar )	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	Central	All	Sadar Bazr2(H.No.-3862 to H.No.3865, Gali Barna, Sadar Bazar)	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	Central	All	"Sadar Bazar3(H.No.2585 to H.No. 2589, Baghichi Ragunath Sadar Bazar)	"	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	Central	All	"Sadar Bazar4(H.No.5255 to H.No. 5257, Sadar Thana road, Sadar Bazar)	"	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	Central	All	"Sadar Bazar5(H.No.7772 to H.No.7774, Nawab Road Sadar Bazar)	"	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	Central	All	Sadar Bazar3(H.No.2585 to H.No. 2589, Baghichi Ragunath Sadar Bazar)	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	Central	All	Sadar Bazar4(H.No.5255 to H.No. 5257, Sadar Thana road, Sadar Bazar)	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	Central	All	Sadar Bazar5(H.No.7772 to H.No.7774, Nawab Road Sadar Bazar)	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	Central	All	Sadar Bazar6(H.No.7283 to H.No.7284, Gali Gharayiya Quresh Nagar Sadar Bazar)	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	Central	All	Bara Hindu Rao 1( H.No. 6266 to H.No. 6170, Pakki Gali, Bara Main Market	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	Central	All	Bara Hindu Rao 2(H.No.3357 to 3522, Gali Sangtrashan in front of Allah Wali Masjid Pahari Dheeraj Road H.No. 3464 Gali Thele wali	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	Central	All	Entire Bapa Nagar II, (area between Padam singh Road, Military Road Arya Samaj Road and Road no. 3) Delhi- 110006	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	Central	All	Bapa Nagar III ( area between Padam Singh Road, Military Road, Tank Road, and Road no 03 Baap Nagar) area, Delhi- 110006	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	Central	All	"Bapa Nagar I ( area between Pyare Lal Road, Military Road, 20.05.2020 Arya Samaj Road and Road no 03 Baap Nagar) area, Delhi- 110006	"	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	Central	All	Bapa Nagar I ( area between Pyare Lal Road, Military Road, 20.05.2020 Arya Samaj Road and Road no 03 Baap Nagar) area, Delhi- 110006	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	Central	All	Nabi Karim 1 (Khalifa Bhola Niwas & House of Ajay Kumar 03.06.2020 to 6417-18 Ashwani Kumar & Sons)	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	Central	All	Nabi Karim 2 (7072 House of Shakuntala Dabla to Community Toilet)	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	Central	All	Nabi Karim 3 (Mazar to Pal Medicos)	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
@@ -5310,17 +4838,17 @@ Delhi	East	All	246/40 TO 246/48 AND 246/53 TO 246/80, GALI NO. 3, ALLAH COLONY, 
 Delhi	East	All	H.No. 123 to H.No. 205, Gali No. 7, Sarpanch Wada, Mandwali, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	East	All	H.No. 3/24B to 4/31, Gali No. 3 & 4 Saket Block, Mandawali, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	East	All	Part of Pandit Mohalla, enclosed by H.No. 228, 238, 302, 366, 365, 294, 295, 332, Kondli, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	East	All	(a)      Gali No. 3, From A/55 to S82 (Sai Chowk Dairy), Anarkali Garden, Jagatpuri, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	East	All	(b)      Gali No. 4, Anarkali Garden, Jagatpuri, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	East	All	(c)      Gali No. 5, From B-98/1 to A/82 (Seedi Waa Mandir), Anarkali Garden, Jagatpuri Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	East	All	Gali No. 3, From A/55 to S82 (Sai Chowk Dairy), Anarkali Garden, Jagatpuri, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	East	All	Gali No. 4, Anarkali Garden, Jagatpuri, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	East	All	Gali No. 5, From B-98/1 to A/82 (Seedi Waa Mandir), Anarkali Garden, Jagatpuri Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	East	All	H.No. D-58 to H.No. D-64, Gazipur Village, Delhi, 110096	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	East	All	Entire area falling between Sabji Mandi Madarsa to Mahatma Gandhi Camp, Shashi Garden, Delhi-110091	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	East	All	1.        Jhuggis numbering from D-104, 105, up to Jhuggi No. 383 to 450, Safeda Jhuggi, Opposite Shamshan Ghat, Geeta Colony, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	East	All	2.         Jhuggis numbering 450 to 280, Safeda Jhuggi, Opposite Shamshan Ghat, Geeta Colony, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	East	All	"1. H.No. 154 to H.No. 146 & H.No. 396, Gali No. 6, East Vinod Nagar, Delhi	"	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	East	All	"2. H.No. 257 to H.No. 223, Gali No. 7, East Vinod Nagar, Delhi	"	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	East	All	"3. H.No. 260 to H.No. 280, Gali No. 8, East Vinod Nagar, Delhi	"	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	East	All	4. H.No. 150 to H.No. 227, Gali No. 9, East Vinod Nagar, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	East	All	Jhuggis numbering from D-104, 105, up to Jhuggi No. 383 to 450, Safeda Jhuggi, Opposite Shamshan Ghat, Geeta Colony, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	East	All	Jhuggis numbering 450 to 280, Safeda Jhuggi, Opposite Shamshan Ghat, Geeta Colony, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	East	All	H.No. 154 to H.No. 146 & H.No. 396, Gali No. 6, East Vinod Nagar, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	East	All	H.No. 257 to H.No. 223, Gali No. 7, East Vinod Nagar, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	East	All	H.No. 260 to H.No. 280, Gali No. 8, East Vinod Nagar, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	East	All	H.No. 150 to H.No. 227, Gali No. 9, East Vinod Nagar, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	East	All	D-233 TO C-139 (GALI No1) & D-206 TO D-219 (GALI No 2) NEW ASHOK NAGAR, EAST DELHI	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	East	All	F-87 TO F-127, F BLOCK, OLD KONDLI, HARIJAN BASTI, EAST DELHI.	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	East	All	H.NO. B-17 TO B-83, GALI NO.4, B BLOCK, PANDAV NAGAR, EAST DELHI	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
@@ -5356,7 +4884,7 @@ Delhi	North	All	Allahabad Bank Wali Gali from Nisha Maan Office to Urmila House,
 Delhi	North	All	H.No. E109 – E116, H.No. E88 – E91, Yadav Nagar, Samaipur Badli, Delhi-42	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North	All	Data Ram Apartment, Sector 18, Rohini, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North	All	Zile Singh Niwas front Street(Dada than to Satender Rana House),H.No.313 to H.No. 299A, Near Ramlila Ground, Siraspur, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	North	All	"H.No.716 to 785, H. No. 786 to 860, H. No. 861 to 950 K- Block, Jhangir Puri, Delhi			"	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	North	All	H.No.716 to 785, H. No. 786 to 860, H. No. 861 to 950 K- Block, Jhangir Puri, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North	All	G-Block, Jahangirpuri , Delhi (H.No. 300-377, to 401-415, H.No. 471-500 to 501-530, H.No. 600-587, 601 to 610) H.No. 681-697 to 680-670),	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North	All	J-1640-1655, J-1656 to 1680, J-1681 to 1715, J Block Jahangirpuri Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North	All	Dhanpat ka Katra (on one side) Mandir wali gali, Sayyad Wali Gali and Dhobi Wali Gali, Azadpur Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
@@ -5378,7 +4906,7 @@ Delhi	North	All	B-733 to B-737, Metro Vihar Phase-I. Holambi Kalan, Delhi- 11008
 Delhi	North	All	Flat No. 37-48 of A- Block, Flat No. 1-36 of E-Block, Sai Appartment, Sector-13, Rohini, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North	All	H.No. 56 To 76 of Holambi Khurd Village, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North	All	Surrounding area of H.No.184, Village-Khera Khurd, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	North	All	"B-627 To 644 and B-752 to 769, Metro Vihar, Phase-II, Holambi Kalan, Delhi			"	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	North	All	B-627 To 644 and B-752 to 769, Metro Vihar, Phase-II, Holambi Kalan, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North	All	H.No. 17 to 34, H.No. 38/9 to 40, Gopal Nagar, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North	All	H.No. 1617 to 1622, H.No. 1697 to 1698, Outram Lane, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North	All	H.No. 121 to 135, H.No. 153 to 167, Haqiqat Nagar, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
@@ -5404,7 +4932,7 @@ Delhi	North-West	All	H.No. 130 to H.No. 340 Tarun Enlcave, Pitampura Delhi	http:
 Delhi	North-West	All	CC Block, Shalimar Bagh Opposite Police Colony to Shalimar Village, Gate No. 1,infront of NDPL Bus Stand	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North-West	All	K-Block, Wazirpur, J.J. Colony From H.No. 140 to 400	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North-West	All	B-Block, Shakurpur From H.No. B-24 to B-46 and B-201 to B-360	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	North-West	All	"Gali No. 8 Ambedkar Nagar, Haiderpur & Gali No. 7 Gali West No. 9 Ambedkar Nagar, Haiderpur			"	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	North-West	All	Gali No. 8 Ambedkar Nagar, Haiderpur & Gali No. 7 Gali West No. 9 Ambedkar Nagar, Haiderpur	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North-West	All	C-2, Block, Sultan Puri, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North-West	All	H.No. 482 to 803 C-block Mangolpuri Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North-West	All	Police Colony, Ashok Vihar Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
@@ -5452,7 +4980,7 @@ Delhi	South	All	H.No.70 to H.No.200, Block-20, Dakshinpuri, Delhi	http://revenue
 Delhi	South	All	H.No.100 to 150 Block-10, Dakshinpuri, New Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	South	All	H.No.-C-1248, Block-C Sangam Vihar, new Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	South	All	H.No.561 M-1st Gali No-9 Sangam Vihar, New Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	South	All	"H.No-A-756 & A-824 & A-929& A-930& A-941B Sangam Vihar, New Delhi			"	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	South	All	H.No-A-756 & A-824 & A-929& A-930& A-941B Sangam Vihar, New Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	South	All	H.No.-B-290A & B-293 Sangam Vihar, New Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	South	All	H.No.-B-1158. Gali No-4 Sangam Vihar New Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	South	All	H.No. B-143 & B-144 & B-147 Chattarpur enclave Ph-2, New Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
@@ -5542,7 +5070,7 @@ Delhi	South-West	All	H.No. 65/B, Gali No. 9 Sangam Vihar, Dharampura, New Delhi-
 Delhi	South-West	All	Vpo Malik Pur, New Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	South-West	All	RZ-51, G-Block, Dharmpura, Najafgarh, New Delhi-110043	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	South-West	All	House No. C-76, Ambedkar Colony, Bijwasan	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	South-West	All	"House No. 140, Gali No. 2, Phase-I, E-Block, Qutub Vihar, West New Delhi.			"	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	South-West	All	House No. 140, Gali No. 2, Phase-I, E-Block, Qutub Vihar, West New Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	South-West	All	House No. 420,MamaBhanja Chowk, Kapashera, New Delhi.	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	South-West	All	Whole Residential Area of Village Rawta, New Delhi.	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	South-West	All	Flat No. 97, Inderprastha Apartment, Sector-12, Dwarka, New Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
@@ -5576,8 +5104,8 @@ Delhi	West	All	J-13/30, Rajouri Garden, Delih	http://revenue.delhi.gov.in/wps/wc
 Delhi	West	All	29/23 & 29/24 ?West patel Nagar, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	West	All	V-258, V-263, V-279, RAJOURIGARDEN, DELHI	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	West	All	HOUSE NO 1/181, 1ST FLOOR, SUBHASH NAGAR, NEW DELHI	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	North-East	All	Hno 44, 45 & 46, D1 Blk, Old Mustafabad,Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
-Delhi	North-East	All	Hno 151, 152 & 153, B4 Block , Yamuna Vihar Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	North-East	All	H.no 44, 45 & 46, D1 Blk, Old Mustafabad,Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
+Delhi	North-East	All	H.no 151, 152 & 153, B4 Block , Yamuna Vihar Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North-East	All	H.No. 12 to 122,Gali No-A1 , H.No-5 to 56, Bhagat Singh Colony, Karawal Nagar, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North-East	All	Hno E-373 to E-409, Gali No 16, Khajuri Khas, Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
 Delhi	North-East	All	Hno H-32 by 5(Two house) & H-32 by 4, Gali no-22, Jai Prakash Nagar, Seelam pur,Delhi	http://revenue.delhi.gov.in/wps/wcm/connect/7dccc2004eccc89db051b55dc9149193/CZ26062020.pdf?MOD=AJPERES&lmod=-209313259&CACHEID=7dccc2004eccc89db051b55dc9149193
@@ -5871,3 +5399,486 @@ Karnataka	Mysuru	All	Shanthinagar, near Rajiv Gandhi School, Mysuru	https://star
 Karnataka	Mysuru	All	Oil Mill Road, back of Shanthala Theatre, K.R. Mohalla, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
 Karnataka	Mysuru	All	Jayaram Pandit Road, Shivarampet, Mysuru	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
 Karnataka	Mysuru	All	Madhuvinahalli, K.R. Nagar Taluk	https://starofmysore.com/54-containment-zones-declared-in-mysuru/
+Karnataka	Bengaluru Urban	All	(A-46) Subramanya Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(S-02) Roshan Nagar, Devara Jeevanahalli,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(CL-03) Vinayaka Nagar, Padarayana Pura (67 Cases	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(CL-05) Garden Layout, Sector 2, HSR Layout, Bengaluru, Karnataka 560102	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-06) SV Sunflower, Bethel Nagar Rd, Alfa Gardens, Krishnarajapura  	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(CL-06) 81, 28th Cross Rd, Bilal Nagar, Sagayapura, Richards Town, Bengaluru, Karnataka 560084	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(CL-07) Hoysala Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(CL-08) Palani Mudaliar Street, Bazaar Street, Ulsoor or Near one mg mall, trinity circle, Bengaluru, Karnataka 560008	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(CL-09) Netaji Rd, Pulkeshi Nagar, Pulikeshi Nagar, Bengaluru, Karnataka 560005	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(CL-10) Annepalya Main Rd, Richard Xavier's colony, Neelasandra, Bengaluru, Karnataka 560025	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(CL-11) 2, 4th Cross Rd, Ashwath Nagar, Sampangi Rama Nagara, Sampangi Rama Nagar, Bengaluru, Karnataka 560027	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-12) Kumara Krupa Rd, Jayamahal	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(CL-12) 210, 1st E Cross Rd, St Thomas Town, Kacharakanahalli, Bengaluru, Karnataka 560084	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-13) 6th Main Road, Raghavendra Colony, Chamrajpet	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(CL-13) Vinobha Nagar, Kadugondanahalli, Bengaluru, Karnataka 560045	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-14) AECS Layout - A Block, Singasandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(CL-14) Old Madras Rd, Padmeshwari Nagar, Battarahalli, Bengaluru, Karnataka 560049	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-15) Green Glen Layout, Bellandur, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-16) Pyramid classic Apartment, Guappanapalya	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-17) Thigalarpet, Dodpete, Nagarathpete	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-17) Chamundieshwari Layout	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-18) Vikram Nagar, Kumaraswamy Layout, Bengaluru, Karnataka 560078	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-19) 67, 7th Cross Rd, Vasanth Nagar, Bengaluru, Karnataka 560051	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-20) anugraha, plot no-16, ramaiya reddy colony, Sector B, Ramaiahreddy Colony, BTM Dollars Scheme	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-21) Near Snacky Hub	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-22) Dharmaraya Swamy Temple Rd, Thigalarpet, Dodpete, Nagarathpete, Bengaluru, Karnataka 560002	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-23) Apartment in Kengeri	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-24) 212, Begur Main Rd, Hongasandra, Bengaluru, Karnataka 560068	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-25) Nagara Bavi, Vidya Nagar, Peenya, Bengaluru, Karnataka 560057	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-26) 13-16, 11th Main Rd, Maruthi Layout, Hongasandra, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-27) Balagere, Bengaluru, Karnataka 560087	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-28) Hagadur, Immadihalli, Whitefield, Bengaluru, Karnataka 560066	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-29) Apartment in Horamavu	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-30) Apartment in Kengeri	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-31) Car Garrage, Vidyapeeta Layout, Banashankari, Bengaluru, Karnataka 560050	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-32) Shravanthi Paramount, Hulimavu, Bengaluru, Karnataka 560076	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-33) Apartment in Kengeri	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-34) Apartment in Hemmigepura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-35) Immadihalli,Hagadur road Whitefield, Bengaluru, Karnataka 560066	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-36) 2090,23rd main, 16th Cross Rd, 1st Sector, HSR Layout, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-37) Govindaraja Nagar Ward, MC Layout, Vijayanagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-37) 163, RR Layout, Jnana Jyothi Nagar, Gnana Bharathi, Bengaluru, Karnataka 560056	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-38) Pragathi Layout, Doddanekundi, Doddanekkundi, Bengaluru, Karnataka 560037	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-39) BuildaFania Ace Apartment, AECS Layout - A Block, Hal Layout, Singasandra, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-40) Apartment in Varthuru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-40) Kodichikknahalli, Lake City, Bommanahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-41) Apartment in Horamavu	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-42) Milk Dairy Rd, Chansandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-42) SB Tower, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 5600	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-43) Raja Ram Mohan Roy Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-44) Apartment in Kengeri	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-44) Kodigehalli Main Rd, CQAL Layout, Sahakar Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-45) Apartment in Kengeri	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-46) Apartment in Kengeri	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-46) 9th Cross Rd, E block, 2nd Stage, Rajajinagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-47) Street/s in Rayapuram	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-47) Apartment in Arakere	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-48)  9th Cross Rd, Bhakta Markandeya Layout, Vittal Nagar, Adarsha Nagar, Azad Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-48) Apartment in Singasandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-49)  9th Cross Rd, Phase 3, Nagarbhavi 1st Stage, Chandra Layout	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-49) Apartment in Bellanduru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-50)  Street/s in Hoodi	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-50) Apartment in Uttarahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-51)  Near Kottigepalya Bus Stop, Magadi Main Road	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-51) Apartment in Vignananagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-52)  Street/s inHoramavu	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-52) Apartment in Kengeri	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-53)  Street/s inHagadur	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-53) Apartment in Chowdeshwari	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-54)  9th Cross Rd, Malleshwaram, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-54) Apartment in Singasandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-55)  Marathahalli Bridge, 97/2D MTK reddy complex krishna shine building, Outer Ring Rd, Marathahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(AP-55) Apartment in Jakkur	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-56)  3rd Cross Rd, 5th Phase, Nanjundeswara Layout, J P Nagar Phase 5, J. P. Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-57)  Yelahanka New Town	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-58)  BDA Layout BTM 4th Stage	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-59)  Doddabommasandra Main Rd, Nagaland Colony, Doddabommasandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-60)  SH 104, Dr.S.R.K. Nagar post, P&T Layout, Sinthan Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-61)  Chandra Nagar, Kumaraswamy Layout	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-62)  Near BESCOM Office	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-63)  Chokkasandra, Peenya	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-64)  1st Main Road, Giripuram, Anjanappa Gardens, Cottonpete	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-65)  Beli Mutt Rd, Bakshi Gardens, Cottonpete	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-66)  Cobaley Colony, Padarayana Pura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-67)  National High School Road, Vishweshwarapura, Shankarapura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-68)  6th Main Road, Raghavendra Colony, Chamrajpet	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-69)  Tilak Nagar, Popular Colony, HSR Layout	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-70)  4th Main Rd, Bapuji Nagar, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-71)  Hampi Nagar, RPC Layout, Vijayanagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-72)  Hosapalaya, Muneshwara Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-73)  Thigalarpet, Dodpete, Nagarathpete	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-74)  2nd Main Rd, Sudhama Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-75)  Tippasandra road,udgir, Navaratan Garden konankunte	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-76)  NH 44, Adarsh Palm Retreat, Bellandur	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-77)  Adugodi behind police station	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-78)  Hosabeedhi, Gandhi Nagar, Yelahanka, Bengaluru, Karnataka 560064	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-79)  20, 6th Cross Rd, Swimming Pool Extension, Yalappa Garden	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-80)  1st Main Rd, Sidhartha Nagar, Cottonpete	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-81)  Roshan Nagar, Devara Jeevanahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-82)  11th Cross, Ashok Nagar, Near-Vidya Peeta Circle, Banashankari 1st Stage	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-83)  Maruthi Layout, Royal Shelters, Hongasandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-84)  Pipeline Rd, Mallasandra Village, T. Dasarahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-85)  Ayyappa Nagar - Battarahalli Rd, Gokula Layout, Krishnarajapura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-86)  13th main road Siddapura, Mavalli, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-87)  4th main road Arekempanahalli, Mavalli, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-88)  Hosakerehalli Main Rd, 7th Block, Hosakerehalli Layout, Dattatreya Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-89)  W Cir Rd, Parvathipuram, Vishweshwarapura, Shankarapura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-90)  Chowdappa Rd, Ranganatha Colony, Jagajeevanram Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-91)  Sultan Rd, Bakshi Gardens, Chamrajpet	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-92)  6th Cross Rd, Gandhi Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-93)  Roshan Nagar, Devara Jeevanahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-94)  Shankara Nagar Main Rd, Yeshwanthpur Industrial Suburb, Nandini Layout (Near Swimming pool,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-95)  LR Bande Rd, P&T Colony, Kaval Bairasandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-96)  New Gurappana Palya, 1st Stage, BTM Layout 1	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-97) 16th Main Rd, AECS Layout - A Block, Singasandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-98) 5th Cross Rd, Suprajanagara, Konanakunte,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-99)  Hoodi Kodigehalli Rd, Kodigehalli, Kadugodi	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-100)  Margosa Ave, Green Glen Layout, Bellandur	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-101)  vallabha nagar vasanthpura main road	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-102)  Bhagavathi Rd, Shantiniketan Layout, Arekere	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-103)  Near Bagalgunte post office	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-104)  60 Feet Rd, Prabhu Layout, AECS Layout - A Block, AECS Layout, Singasandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-105)  2nd B Main Rd, JC Layout, Krishnarajapura,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-106)  W Cir Rd, Parvathipuram, Vishweshwarapura, Shankarapura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-107)  Roshan Nagar, Devara Jeevanahalli, Bengaluru, Karnataka 560045	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-108)  SP Rd, LIC Colony, HAL 3rd Stage, Sector 12, New Tippasandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-109)  Roshan Nagar, Devara Jeevanahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-110)  6th Main Rd, Papanna Block, AK Colony, Ganganagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-111)  Sampangiram Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-112)  Roshan Nagar, Devara Jeevanahalli (Near Mariamma Temple	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-113)  KG halli ward , Vinobanagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-114)  5th Cross Rd, Tipu Nagar, Chamrajpet	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-115)  OLd Gurappanapalya, 1st Stage, BTM Layout,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-116)  Cobaley Colony, Padarayana Pura, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-117)  Dharmaraya Swamy Nagara	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-118)  12-8, BVK Iyengar Rd, Anchepet, Chickpet	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-119)  St Thomas Town, Inasappa Layout, Kalyan Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-120)  Hanumanthanagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-121) 11/1 2nd Main ValmikiNagar Opp to Gopalan Mall Mysore Road, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-122) 197, 8th B Main Rd, Jayanagar East, Jaya Nagar 1st Block, Jaya Nagar East, Jayanagar, Bengaluru, Karnataka 560011	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-123) 7th Cross Rd, Chamrajpet, Bengaluru, Karnataka 560018	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-124)  16th Main Road, Opposite to Lake, Nayanappasetty pallya, BTM Layout,,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-125)  Horamavu Post, Ashirvad Colony, Horamavu, Bengaluru, Karnataka 560016	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-126)  11th Main Rd, Maruthi Layout, Hongasandra, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-127)  Chalavadipalya	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-128)  Near passport office	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-129)  K.R. Market	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-130)  K.R.Market	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-131)  Sampangiram Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-132)  Near Bandireddy Circle	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-133)  1/21, Vidyapeeta Layout, Srinivasnagar, Banashankar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-134)  Corporation Colony, Halasuru, Karnataka	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-135)  Near Passport Office	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-136)  Mota Chambers, # 9 Building, Millers Rd, Kaverappa Layout, Vasanth Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-137) 2nd Main Rd, KB Nagar, Kasthuriba Nagar, Azad Nagar, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-138)  No 93, Near-Divine ENT Care Center, Kamaraj Road, Bengaluru, Karnataka 560042	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-139)  K.R.Market	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-140)  6th F Cross Rd, Rayapuram, Padarayana Pura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-141) Marrappana palya	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-142)  Near Dobighat	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-143)  Bandepalya Main Rd, Munireddy layout, Hosapalaya	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-144)  Near Nandana Palace	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-145)  Ramaswamipalya, Lingarajapuram, Bengaluru, Karnataka 560084	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-146)  Near Druvdesh Honda	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-147)  Sampangiram Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-148)  148, Bazaar St, Near-Elephant Park, Someshwarpura, Halasuru, Karnataka 560008	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-148) #40, Palani Mudaliar St, Someshwarpura, Halasuru, Karnataka 560008	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-149)  K.R Market	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-150) BGP Residency Rd, Brookefield, Bengaluru, Karnataka 560066	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-151) 60 Feet Rd, Prabhu Layout, AECS Layout - A Block, AECS Layout, Singasandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-152) Sai Krishna Residency, 2nd Main Rd, Devarachikkana Halli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-153) 27th Main Rd, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-154) Bharath Nagar, Manayata Tech Park, Sinthan Nagar, Bengaluru, Karnataka 560045	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-155) 11th Main Rd, Maruthi Layout, Hongasandra,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-156) Near Defense Land	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-157) Bapuji Nagar, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-158) Baji Nagar, Bapuji Nagar, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-159) Dharmarayaswamy Temple	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-160) Dharmarayaswamy Temple	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-161) 1st Block Siddapura mavalli bangalore	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-162) Chamarajpete	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-163) 92-96, Mackan Rd, Bharati Nagar, Shivaji Nagar, Bengaluru, Karnataka 560001	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-164) Vidyapeeta Main Rd, Vidyapeeta Layout, Kathreguppe, Banashankari 3rd Stage, Banashankari, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-165) Krishna Rajendra Rd, Near Krishna Rao Park, Basavanagudi, Bengaluru, Karnataka 560004	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-166) Mahaganapati Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-167) 42, 10th Cross Rd, Bapuji Nagar, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-168) Near Police Station	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-169) Vasanth Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-170) JAYANAGAR 4TH BLOCK POLICE STATION	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-171) 28,29, Shanthala Nagar, Ashok Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-172) 2 AT Street, behind Prashanth Hospital, Bommanahalli,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-173) Begur Main Rd, Bommanahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-174) 5th Main Rd, Wasa Layout, Doddanekundi, Doddanekkundi	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-175) Devarachikkanahalli Rd, Thayappa Garden, Vijaya Bank Layout, Bilekahalli,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-176) Dharmarayaswamy Temple	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-177) Near Anjanappa Gardens, Cottonpete	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-178) Lakkasandra, 15th crossWilson Garden, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-179) Ramachandra Agrahara, Azad Nagar, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-180) Gurappana Palya, 1st Stage, BTM Layout	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-181) Krishna Rd, Basavanagudi, Bengaluru, Karnataka 560004	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-182) JP Rd, 1st phase Girinagar, Writers Colony, Giri Nagar, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560085	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-183) Vishveswarapura police station	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-184) Gandhi Nagar, Kadugondanahalli, Bengaluru, Karnataka 560045	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-185) Elegance Brindavan, 36th A Cross, 11th A Main Rd, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560041	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-186) Near Dharmarayaswamy Temple	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-187) Dinnur Main Rd, P&T Colony, Kaval Bairasandra, Bengaluru, Karnataka 560045	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-188) Sampangiramnagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-189) Passport Seva Kendra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-190) 316, 16th A Main Rd, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560041	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-191) Sampangiramnagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-192) 16-25, 13th Main Rd, Raghavendra Block, Kalappa Block, Srinagar, Banashankari, Bengaluru, Karnataka 560050	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-193) 18th Main Rd, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560041	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-194) 4th Block, Jayanagar, Bengaluru, Karnataka 560041	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-195) Near Dharmarayaswamy Temple	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-196) 2nd Main Rd, Lakkasandra, Laljinagar, Wilson Garden, Bengaluru, Karnataka 560030	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-197) Near Dharmarayaswamy Temple	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-198) Kommaghatta, Karnataka 560060	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-199) Naidu Commercial Complex, Sallappa Layout, Manjunatha Layout, Krishnarajapura, Bengaluru, Karnataka 560036	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-200) 5th Block, Ashwath Nagar, HBR Layout Bengaluru, Karnataka 560045	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-201) Bethel Nagar Rd, Satyasaibaba Layout, Krishnarajapura, Bengaluru, Karnataka 560049	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-202) No. 10, 3rd Cross Road, Lakeshore Gardens, Thindlu, Vidyaranayapura, Bengaluru, Karnataka 560097	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-203) Hesaraghatta rd, M.S. Palya, Via, Jalahalli East, Bengaluru, Karnataka 560097	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-204) Kudlu Rd, Hosapalaya, Singasandra, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-205) Hongasandra, Bengaluru, Karnataka	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-206) Nagasandra, Bengaluru, Karnataka 560073	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-207) Gnanabharathi, Gnana Bharathi, Bengaluru, Karnataka 560056	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-208) Coconut Grove, Vidyaranyapura, Bengaluru, Karnataka	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-209) 11th Cross Rd, Venkateshwara Layout, Sunkadakatte, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-210) 21, Robertson Rd, Cleveland Town, Pulikeshi Nagar, Bengaluru, Karnataka 560005	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-211) 16, Robertson Rd, Cleveland Town, Pulikeshi Nagar, Bengaluru, Karnataka 560005	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-212) Anand Gokul Layout, Kaval Bairasandra, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-213) Anchappa Garden, Jayamahal, Bengaluru, Karnataka 560045	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-214) 100-103, 5th Cross Rd, Williams Town, Benson Town, Bengaluru, Karnataka 560046	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-215) 16, Muniyamma Rd, MS Nagar, Ramaswamipalya, Lingarajapuram, Bengaluru, Karnataka 560084	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-216) 15th Cross Rd, Lakkasandra, Lakkasandra Extension, Wilson Garden, Bengaluru, Karnataka 560030	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-217) 4th Main Rd, Bovi Colony, Thyagaraja Nagar, Basavanagudi, Bengaluru, Karnataka 560070	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-218) Venkateshwara Complex, Tavarekere Main Rd, B.T.M, 1st Stage,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-219) 13, 4th Cross Rd, Arekempanahalli, Mavalli, Bengaluru, Karnataka 560027	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-220) 1st Main Rd, New Timberyard Layout, Telecom Colony, Srinagar, Banashankari, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-221) 16th Main Rd, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560041	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-222) 927/1, 10th Cross Rd, Vinobha Nagar, Kadugondanahalli, Bengaluru, Karnataka 560045	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-223) Dharmaraya Swamy Temple Rd, Thigalarpet, Dodpete, Nagarathpete, Bengaluru, Karnataka 560002	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-224) Muniswamappa Road, Jaibharath Nagar, Vivekananda Nagar, Maruthi Sevanagar, Bengaluru, Karnataka 560033	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-225) Chikkalasandra Main Rd, Sneha Colony, Chikkalasandra, Bengaluru, Karnataka 560061	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-226) Byrasandra Main Rd, 1st Block East, 1st Block, Jaya Nagar East, Jayanagar, Bengaluru, Karnataka 560011	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-227) 4th Main Rd,Rukmini Nagar, Bengaluru, Karnataka	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-228) Basavanagudi , Bengaluru, Karnataka 560004	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-229) 16-17, 1st Main Rd, Sudhama Nagar, Bengaluru, Karnataka 560027	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-230) 2, 29th A Cross Rd, Balaji Layout, Kaggadasapura, Bengaluru, Karnataka 560093	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-231) Geleyara Balaga Layout, Chikkabanavara, Bengaluru, Karnataka 560090	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-232) MKS Layout 1st Stage, Doddakallasandra, Konanakunte, Bengaluru, Karnataka	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-233) 5th Cross Rd, Jai Maruthi Nagar, Nandini Layout, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-234) Madina nagar near Johnson school bommanahalli bangalore 56068, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-235) Kaveri Nagar, Bommanahalli, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-236) New.Home.Sri, Nyanappana Halli, Hulimavu, Bengaluru, Karnataka 560076	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-237) Kalkere Main Rd, Coconut Grove Layout, Ashirvad Colony, Horamavu, Bengaluru, Karnataka 560043	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-238) Golf Course Rd, Kodihalli, Bengaluru, Karnataka 560008	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-239) Devasandra Extension, Krishnarajapura, Bengaluru, Karnataka 560036	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-240) Balaji Layout, Hongasandra, Bengaluru, Karnataka 560068	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-241) 7th Main Rd, Hongasandra, Bengaluru, Karnataka 560068	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-242) 7th Cross Rd, Volagalahalli, Stage II, Kengeri Satellite Town, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-243) Floor, Plot no.434, Railway Station, Vars Splendid Apartment , Flat No. 304, 3rd, Opp, Swami Vivekananda Rd, Krishnarajapura, Bengaluru, Karnataka 560016	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-244) 6th E Main Rd, Gaurav Nagar, Phase 7, J. P. Nagar, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-245) Kudlu Rd, BTR Gardens, Hosapalaya, Muneshwara Nagar, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-246) 6th Cross Rd, Kodanda Reddy Layout, Dooravani Nagar, Bengaluru, Karnataka 560016	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-247) Bellandur	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-248) Anjanapura 8th Block, Lal Bahadur Shastri Nagar, Bengaluru, Karnataka 560108	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-249) Vignana Kendra, Bengaluru, Karnataka	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-250) Classic Orchards Layout, Kalena Agrahara, Bengaluru, Karnataka 560076	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-251) 959, Nagasandra Main Rd, 1st block, Nagasandra, Bengaluru, Karnataka 560073	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-252) 2nd B Cross Rd, KHB Colony, Shirke Layout, Kengeri Satellite Town, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-253) Srirampura, Jakkur, Bengaluru, Karnataka 560064	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-254) Bellandur	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-255) Peenya Industrial Area	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-256) 2nd B Cross Rd, Gandhi Nagar, Yelahanka, Bengaluru, Karnataka 560064	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-257) Suggappa Layout, East Colony, Yelahanka, Bengaluru, Karnataka 560064	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-258) 1st Cross Rd, Sector 7, HSR Layout, Bengaluru, Karnataka 560068	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-259) No. 10, 3rd Cross Road, Lakeshore Gardens, Thindlu, Vidyaranayapura, Bengaluru, Karnataka 560097	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-260) Bangalore University Campus, Bengaluru, Karnataka	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-261) Vignana Kendra, Bengaluru, Karnataka 560065	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-262) 1st Main Rd, Laggere, Annapoorneshwari Nagar, Hegganahalli, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-263) Bommanahalli,Bengaluru, Karnataka	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-264) Sarbandapalya, Banashankari Temple Ward, Bengaluru, Karnataka 560078	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-265) Doddamavalli, Sudhama Nagar, Bengaluru, Karnataka 560002	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-266) 165, 4th Main Rd, 2nd Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-267) 16, Doddamavalli, Mavalli, Bengaluru, Karnataka 560002	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-268) Intermediate Ring Rd, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-269) 8th Main Rd, New Gurappana Palya, 1st Stage, BTM Layout, Bengaluru, Karnataka 560029	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-270) 251-243, 1st Cross Rd, Sunkenahalli, Hanumanthnagar, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560019	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-271) 8th Main Rd, Krishna Murthy Layout, M Vishveshvaraiah Nagar, Kalkere, Bengaluru, Karnataka 560016	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-272) 1st Block, Someshwara Nagar, Hombegowda Nagar, Bengaluru, Karnataka 560029	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-273) 126-118, 3rd Cross Rd, 1st Block, Someshwara Nagar, Jayanagar, Bengaluru, Karnataka 560011	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-274) Tavarekere, Madiwala, 1st Stage, BTM Layout, Bengaluru, Karnataka 560029	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-275) 23/65, Ganigarpet, Nagarathpete, Bengaluru, Karnataka 560002	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-276) 472, 8th B Main Rd, 4th Block, Jayanagar, Bengaluru, Karnataka 560011	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-277) Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560030	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-278) 8th Main Rd, 1st Block, Jaya Nagar East, Hombegowda Nagar, Bengaluru, Karnataka 560011	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-279) RK Layout 2nd Stage, Padmanabhanagar, Bengaluru, Karnataka 560070	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-280) 4th Main Rd, Binny Mills Employees Colony, Attiguppe, Bengaluru, Karnataka 560040	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-281) 14th Main Rd, Phase 1, Srinagar, Banashankari, Bengaluru, Karnataka 560050	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-282)  Begur Main Rd, Maruthi Layout, Hongasandra, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-283) 2nd Cross Rd, Gubbalala, Subramanyapura, Bengaluru, Karnataka 560062	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-284) Hemmigepura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-285) 1th Main Rd, Maruthi Layout, Hongasandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-286) 165, 4th Main Rd, 2nd Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-287) Classic Orchards Layout, Kalena Agrahara, Bengaluru, Karnataka 560076	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-288)  5th Cross Road Annapoorneshwari Layout Kodipalya, Kengeri, Bengaluru, Karnataka 560060	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-289) 1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-290) Rajiv Gandhi Nagar, HSR Layout, Bengaluru, Karnataka 560102	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-291) Madeshwara Layout, Sunkadakatte, Bengaluru, Karnataka 560091	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-292) 80 Feet Rd, Volagalahalli, Stage II, Kengeri Satellite Town, Bengaluru, Karnataka 560060	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-293) 3rd Main Rd, RR Layout, Jnana Jyothi Nagar, Nagdevanahalli, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-294) BHEL Layout, RR Nagar, Bengaluru, Karnataka 560098	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-295) 13A Main Rd, Kumaraswamy Layout II Stage, Vikram Nagar, Kumaraswamy Layout, Bengaluru, Karnataka 560078	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-296) Hoodi Bengaluru, Karnataka 560048	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-297) Vijaya Bank Layout, Bilekahalli, Bengaluru, Karnataka 560076	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-298) 6th Main Rd, Attur Layout, Yelahanka New Town, Bengaluru, Karnataka 560064	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-299) 5-9, Pushpanjali Tent Rd, Bangalore Corporation Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560016	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-300) 10th Cross Rd, AECS Layout - A Block, AECS Layout, Singasandra, Bengaluru, Karnataka 560068	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-301) Graphite India Main Rd, NCPR Industrial Layout, KEB Colony, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-302) Rd Number 2, Phase 2, Brookefield, Bengaluru, Karnataka 560066	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-303) 23, HAL Old Airport Rd, HAL 2nd Stage, Kodihalli, Bengaluru, Karnataka 560008	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-304) Herohalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-305) Nayandahalli Main Rd, Vinayaka Extension, Nayanda Halli, Bengaluru, Karnataka 560039	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-306) No 836, Impushree Nilaya, 4th Cross Rd, 11th Block, 11 Block, Marilingappa Extension, Naagarabhaavi, Bengaluru, Karnataka 560072	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-307) Kumaraswamy Layout II Stage, Vikram Nagar, Kumaraswamy Layout, Bengaluru, Karnataka 560078	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-308) 165, 4th Main Rd, 2nd Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-309) Balaji Layout, Hongasandra, Bengaluru, Karnataka 560068	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-310) Byatarayanapura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-311) 241, 4th Main Rd, MS Ramaiah City Layout, 8th Phase, Arekere, Bengaluru, Karnataka 560076	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-312) Kadugodi	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-313) 6th A Main Rd, AECS Layout - A Block, AECS Layout, Singasandra, Bengaluru, Karnataka 560068	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-314) 12th Main Rd, Vikram Nagar, Kumaraswamy Layout,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-316) 2nd Main Rd, Chamrajpet, Bengaluru, Karnataka 560018	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-317) 7th Main Rd, Shivanagar, Basaveshwar Nagar, Bengaluru, Karnataka 560010	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-318) 31-28, 4th Cross Rd, Agrahara Dasarahalli, Rajajinagar, Bengaluru, Karnataka 5600795th Cross Rd, Agrahara Dasarahalli, Rajajinagar, Bengaluru, Karnataka 560079	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-319) Old Pension Mohalla, Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-320) Shop No. 154, S.R Puram, 7th Main Rd, Gautham Nagar, Gowtham Nagar, Srirampura, Bengaluru, Karnataka 560021	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-321) 3rd Cross Rd, Giripuram, Anjanappa Gardens, Cottonpete,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-322) 255/A, 6th Cross Rd, Shivanagar, Basaveshwar Nagar, Bengaluru, Karnataka 560079 213, 6th Cross Road, Bovi Colony, Basaveshwar Nagar, Bengaluru, Karnataka 560010	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-323) Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-324) 28, Ramachandra Agrahara, Azad Nagar, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-325) 56, Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-326) 8th Cross Rd, Chamrajpet, Bengaluru, Karnataka 560018	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-327) 2nd B Cross Rd, Ranganatha Colony, Jagajeevanram Nagar, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-328) Metro Lay Out, Nayanda Halli, Bengaluru, Karnataka 560039	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-329) 11, 1st Main Rd, Binnipete, Kempapura Agrahara, Bengaluru, Karnataka 560023	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-330) Subhash Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-331) FCI Layout, Nayanda Halli, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-332) New Municipal No. 116 2nd floor, 2nd Main Rd, Vijaynagar Layout, Azad Nagar, Chamrajpet, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-333) 5th Main Rd, Rajivgandhi Nagar, Krishnananda Nagar, Nandini Layout, Bengaluru, Karnataka 560096	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-334) 1st Cross Rd, Giripuram, Anjanappa Gardens,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-335) Ranganatha Colony, Jagajeevanram Nagar, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-336) 2nd Cross Rd, Gowda Muniswamy Garden, Ejipura, Bengaluru, Karnataka 560095	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-337) Prakashnagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-338) Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-339) Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-340) Marrappana palya	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-341) 9th A Main Rd, Rayapuram, Padarayana Pura, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-342) 2nd Cross Rd, Nethaji Nagar, Nagamma Nagar, Cottonpete, Bengaluru, Karnataka 560023	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-343) 9th Main Rd, Rayapuram, Jagajeevanram Nagar, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-344) 13th Cross Rd, Lakshminarayanapuram, Rajajinagar, Bengaluru, Karnataka 560021	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-345) Anchepet, Chickpet, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-346) 21st Main Rd, Giri Nagar, II Phase, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-347) 29, Rangaswamy Temple St, Balepete, Chickpet, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-348) AM Road, Sulthangunta, Shivaji Nagar, Bengaluru, Karnataka 560051	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-349) , Vasavi Temple St, Vishweshwarapura, Shankarapura, Bengaluru, Karnataka 560004	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-350) 1st Cross Rd, Giripuram, Anjanappa Gardens,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-351) Haines Rd, Pulkeshi Nagar, Pulikeshi Nagar, Bengaluru, Karnataka 560005	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-352) 21, Sudhama Nagar, Bengaluru, Karnataka 560027	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-353) Canara Bank Apartment, Kavi Lakshmisha Rd, Parvathipuram, Vishweshwarapura, Shankarapura, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-354) Rayapuram, Jagajeevanram Nagar, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-355) 34-35, 17th Main Rd, New Timberyard Layout, Telecom Colony, Muneshwara Block, Banashankari, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-356) 3rd Main Rd, Chennammana Kere, Kathreguppe, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560050	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-357) 2nd Cross Rd, Hanumanthnagar, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560019	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-358) 126-131, Basettyetpet Ln, Anchepet, Chickpet, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-359) Kaveripura west	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-360) Nagasandra Main Rd, Amaravathi Layout, Nagara Bavi, Vidya Nagar, Peenya, Bengaluru, Karnataka 560057	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-361) 4th Cross Rd, Dayananda Nagar, Srirampura, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-362) 3rd Cross Rd, Srinivasanagara, Hanumanthnagar, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560019	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-363) Kempegowda Rd, Sachidananda Nagar, RR Nagar, Bengaluru, Karnataka 560098	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-364) #94, behind Punya Hospital, 2nd Stage, KHB Colony, Basaveshwar Nagar, Bengaluru, Karnataka 560079	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-365) Madhu Complex, 3rd Floor, Roshan Bagh Road, Near-Basappa Circle, Visvesvarapuram, Bengaluru, Karnataka 560004	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-366) Parvathipuram Main Rd, Parvathipuram, Vishweshwarapura, Shankarapura,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-367) Jai Bheema Nagar, Seshadripuram, Bengaluru, Karnataka 560020	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-368) Hosahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-369) Shop No, 897, 12th Main Rd, Hanumanthnagar, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560019	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-370) 1-6, 33rd Cross Rd, 4th T Block East, 7th Block, Jayanagar, Bengaluru, Karnataka 560070	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-371) 5th Cross Rd, Rajiv Gandhi Nagar, HSR Layout, Bengaluru, Karnataka 560102	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-372) #46 ,BLN Arcade, 7th B Main Rd, 4th Block, Jayanagar, Bengaluru, Karnataka 560011	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-373) Vishwanath Nagenahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-374) Nayandahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-375) 15, 15th Cross Rd, Lakkasandra, Lakkasandra Extension, Wilson Garden, Bengaluru, Karnataka 560030	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-376) 5th Cross Rd, Koramangala 4th Block, Koramangala, Bengaluru, Karnataka 560095	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-377) Sowrashtrapet, Chickpet, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-378) 17, Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-379) 2nd Main Rd, Lakkasandra, Laljinagar, Wilson Garden, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-380) 5, Poorna Venkata Rao Rd, Jolly Mohalla, Ranasinghpete, Cottonpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-381) Police Station, #4, Carpenter Byrappa Lane, Near-Cotton Pet, Ranasinghpete, Sultanpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-382) Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-383) Lakkasandra, Hombegowda Nagar, Bengaluru, Karnataka 560027	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-384) The Chancery Pavilion, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-385) 1st Cross Rd, HSR Layout, Bengaluru, Karnataka 560068	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-386) 3rd Main Rd, Lakshman Rao Nagar, Dr. Ambedkar Nagar, Adugodi, Bengaluru, Karnataka 560047	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-387) 1st Cross Rd, KAS Officers Colony, Stage 2, BTM 2nd Stage, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-388) CM Ln, Jolly Mohalla, Ranasinghpete, Sultanpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-389) Ganesh Mandir	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-390) Ashirwad Apartment, Someshwara Colony, Stage 2, BTM Layout,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-391) Subhash Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-392) Cottonpet Main Rd, Ranasinghpete, Sultanpete, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-393) 3rd A Cross Road, 138, 3rd Main Rd, Chennammana Kere, Achkat, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-394) M.R Palya, Rajajinagar, Bengaluru, Karnataka 560021	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-395) 4th Main Rd, Chamrajpet, Bengaluru, Karnataka 560018	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-396) 11, 1st Cross Rd, Srinivasanagara, Hanumanthnagar, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560019	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-397) 445, 91st Main Rd, 1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-398) 15th Cross Rd, Lakkasandra, Lakkasandra Extension, Wilson Garden, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-399) Old Pension Mohalla, Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-400) Vidyapeeta Layout, Banashankari, Bengaluru, Karnataka 560050	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-401) 491-490, 13th Cross Rd, Shastri Nagar, Yediyur, Basavanagudi, Bengaluru, Karnataka 560004	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-402) The Haven, 8th B Main Rd, 4th T Block East, 4th Block, Jayanagar, Bengaluru, Karnataka 560011	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-403) Soundarya Links, Link Rd, Jai Bheema Nagar, Sampangiram Nagar, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-404) Narishma Swami Temple, Binny Pete, Jagajeevanram Nagar, Bengaluru,	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-405) Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-406) 16th Cross Rd, Binnipete, Kempapura Agrahara, Bengaluru, Karnataka 560023	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-407) Kempegowda Nagar, Bengaluru, Karnataka 560019	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-408) 1st Cross Rd, Padarayana Pura, Bengaluru, Karnataka 560026	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-409) RK Street, lingappa block, Jai Bheema Nagar, Seshadripuram, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-410) 5th Main Rd, S K Garden, Chinnapa Garden, Benson Town, Bengaluru, Karnataka 560046	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-411) Neelasandra, Bengaluru, Karnataka	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-412) Sultan Rd, Anjanappa Gardens, Cottonpete, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-413) Sultan Rd, Anjanappa Gardens, Cottonpete, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-414) Raghavendra Colony, Chamrajpet, Bengaluru, Karnataka 560018	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-415) 5-1, Promenade Rd, Pulkeshi Nagar, Pulikeshi Nagar, Bengaluru, Karnataka 560005	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-416) Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-417) Parvathipuram, Vishweshwarapura, Basavanagudi, Bengaluru, Karnataka	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-418) 11-14, Sethu Rao Rd, Old Tharagupet, Mamulpet, Chickpet, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-419) 69, Police Rd, Manivartapete, Cottonpete, Bengaluru, Karnataka 560053	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-420) Elite Homes, 6th Cross Rd, Malleshwaram, Bengaluru, Karnataka 560003	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-421) Dr. Rajkumar Road	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-422) A Block, Milk Colony, Subramanyanagar,2 State, Rajajinagar, Bengaluru, Karnataka 560055	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-423) 51st Cross Rd, 4th Block, Rajajinagar, Bengaluru, Karnataka 560010	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-424) Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-425) street/s in Horamavu	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-426) street/s in Jnana Bharathi Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-427) street/s in Herohalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-428) street/s in Narayanapura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-429) street/s in Herohalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-430) street/s in Kottegepalya	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-431) street/s in Kottegepalya	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-432) street/s in Jnana Bharathi Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-433) street/s in Ullalu	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-434) street/s in Bellandur	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-435) street/s in Ramamurthy Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-436) street/s in Chowdeswari	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-437) street/s in Dodda Nekkundi	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-438) street/s in Vidyaranyapura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-439) street/s in Hagadur	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-440) street/s in S.K.Garden	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-441) street/s in Kushal Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-442) street/s in Jayachamarajendra Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-443) street/s in Bapujinagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-444) street/s in HSR Layout	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-445) street/s in Hagadur	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-446) street/s in Rajarajeshwarinagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-447) street/s in Vasanthapura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-448) street/s in Vasanthapura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-449) street/s in Thanisandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-450) street/s in Doddabidarakallu	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-451) street/s in Mallasandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-452) street/s in Thanisandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-454) street/s in THIQ	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-455) street/s in Hoodi	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-456) street/s in Marathahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-457) street/s in Marathahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-470) street/s in Byatarayanapura	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-471) street/s in Laggere	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-472) street/s in Horamavu	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-473) street/s in Jnana Bharati Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-474) street/s in Ullalu	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-475) street/s in Uttarahalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-476) street/s in Arakere	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-477) street/s in Devasandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-478) street/s in Kottigepalya	http://bbmp.gov.in/en/covid19czbulletins
