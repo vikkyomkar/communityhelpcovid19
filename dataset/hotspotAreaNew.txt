@@ -5841,44 +5841,44 @@ Karnataka	Bengaluru Urban	All	(A-421) Dr. Rajkumar Road	http://bbmp.gov.in/en/co
 Karnataka	Bengaluru Urban	All	(A-422) A Block, Milk Colony, Subramanyanagar,2 State, Rajajinagar, Bengaluru, Karnataka 560055	http://bbmp.gov.in/en/covid19czbulletins
 Karnataka	Bengaluru Urban	All	(A-423) 51st Cross Rd, 4th Block, Rajajinagar, Bengaluru, Karnataka 560010	http://bbmp.gov.in/en/covid19czbulletins
 Karnataka	Bengaluru Urban	All	(A-424) Giripuram, Anjanappa Gardens, Cottonpete, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-425) street/s in Horamavu	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-426) street/s in Jnana Bharathi Nagar	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-427) street/s in Herohalli	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-428) street/s in Narayanapura	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-429) street/s in Herohalli	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-430) street/s in Kottegepalya	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-431) street/s in Kottegepalya	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-432) street/s in Jnana Bharathi Nagar	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-433) street/s in Ullalu	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-425) Jayanti Nagar, Horamavu, Bengaluru, Karnataka 560016	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-426) behind Mariyappana palya bus stand jnanabharti kengeri	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-427) 1st main 6th cross sunkadakatte	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-428) A Narayanapura Main Rd, ITI Employess Housing Colony, Venkateshwara Layout, Mahadevapura, Bengaluru, Karnataka 560016	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-429) 1st main 5th cross sunkadakatte, herohalli	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-430) Old Outer Ring Rd, 2nd Stage, Naagarabhaavi, Bengaluru, Karnataka 560091	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-431) 2nd Stage, Kottigepalya, Bengaluru, Karnataka 560091	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-432) behind Mariyappana palya bus stand jnanabharti kengeri	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-433) Ullalubasti, Chikkabasthi, Bengaluru	http://bbmp.gov.in/en/covid19czbulletins
 Karnataka	Bengaluru Urban	All	(A-434) street/s in Bellandur	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-435) street/s in Ramamurthy Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-435) 4th A Cross Rd, RR Layout, Rajarajeshwari Layout, Dooravani Nagar, Bengaluru, Karnataka 560016	http://bbmp.gov.in/en/covid19czbulletins
 Karnataka	Bengaluru Urban	All	(A-436) street/s in Chowdeswari	http://bbmp.gov.in/en/covid19czbulletins
 Karnataka	Bengaluru Urban	All	(A-437) street/s in Dodda Nekkundi	http://bbmp.gov.in/en/covid19czbulletins
 Karnataka	Bengaluru Urban	All	(A-438) street/s in Vidyaranyapura	http://bbmp.gov.in/en/covid19czbulletins
 Karnataka	Bengaluru Urban	All	(A-439) street/s in Hagadur	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-440) street/s in S.K.Garden	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-441) street/s in Kushal Nagar	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-442) street/s in Jayachamarajendra Nagar	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-440) Roshan Nagar, Devara Jeevanahalli, Bengaluru, Karnataka 560045	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-441) 90, 2nd Main Rd, Vinobha Nagar, Kadugondanahalli, Bengaluru, Karnataka 560045	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-442) 13-29, JC Nagar Main Rd, Jayamahal, Bengaluru, Karnataka 560006	http://bbmp.gov.in/en/covid19czbulletins
 Karnataka	Bengaluru Urban	All	(A-443) street/s in Bapujinagar	http://bbmp.gov.in/en/covid19czbulletins
 Karnataka	Bengaluru Urban	All	(A-444) street/s in HSR Layout	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-445) street/s in Hagadur	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-446) street/s in Rajarajeshwarinagar	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-447) street/s in Vasanthapura	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-448) street/s in Vasanthapura	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-449) street/s in Thanisandra	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-450) street/s in Doddabidarakallu	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-451) street/s in Mallasandra	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-452) street/s in Thanisandra	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-445) Hagadur, Immadihalli, Whitefield, Bengaluru, Karnataka 560066	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-446) Kempegowda Rd, BEML Layout 3rd Stage, RR Nagar, Bengaluru, Karnataka 560098	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-447) Vasanthapura, Subramanyapura, Bengaluru, Karnataka	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-448) 2nd Cross Rd, Gubbalala, Subramanyapura, Bengaluru, Karnataka 560062	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-449) Sampangi Rama Nagar, Thanisandra, Bengaluru, Karnataka 560045	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-450) Doddabidarakallu, Bengaluru, Karnataka	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-451) 10th Cross Rd, Kalyan Nagar, Mallasandra Village, T. Dasarahalli, Bengaluru, Karnataka 560057	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-452) Harry's Nest, 6th Cross Rd, Ashwath Nagar, Sinthan Nagar, Bengaluru, Karnataka 560045	http://bbmp.gov.in/en/covid19czbulletins
 Karnataka	Bengaluru Urban	All	(A-454) street/s in THIQ	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-455) street/s in Hoodi	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-456) street/s in Marathahalli	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-457) street/s in Marathahalli	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-470) street/s in Byatarayanapura	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-471) street/s in Laggere	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-472) street/s in Horamavu	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-473) street/s in Jnana Bharati Nagar	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-474) street/s in Ullalu	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-475) street/s in Uttarahalli	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-476) street/s in Arakere	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-477) street/s in Devasandra	http://bbmp.gov.in/en/covid19czbulletins
-Karnataka	Bengaluru Urban	All	(A-478) street/s in Kottigepalya	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-455) Rd Number 2, Phase 2, Brookefield, Bengaluru, Karnataka 560066	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-456) CKB Layout, Kasavanahalli Village, Marathahalli, Bengaluru, Karnataka 560037	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-457) Varthur Rd, Subbaiah Reddy Colony, Marathahalli Village, Marathahalli, Bengaluru, Karnataka 560037	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-470) Bhuvaneswari Nagar, Dasarahalli, Bengaluru, Karnataka 560092	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-471) Kurubarahalli, Basaweshwara Nagar, Bengaluru, Karnataka 560086	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-472) Horamavu Agara, Horamavu, Bengaluru, Karnataka	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-473) behind Mariyappana palya bus stand jnanabharti kengeri	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-474) behind Mariyappana palya bus stand jnanabharti kengeri	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-475) 9-49, Subramanya Pura Rd, Friends Colony, Uttarahalli Hobli, Bengaluru, Karnataka 560061	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-476) MS Ramaiah City Layout, JP Nagar 7th Phase, Arekere, Bengaluru, Karnataka 560076	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-477) #36,devasandra main road ,opp to bvnh school,kr puram, Banglore, Karnataka 560036	http://bbmp.gov.in/en/covid19czbulletins
+Karnataka	Bengaluru Urban	All	(A-478) 2nd Stage, Kottigepalya, Bengaluru, Karnataka 560091	http://bbmp.gov.in/en/covid19czbulletins
