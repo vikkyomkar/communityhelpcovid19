@@ -3974,79 +3974,6 @@ Maharashtra	Pimpri-Chinchawad	All	422/213, Sant Tukaram Nagar	https://www.freepr
 Maharashtra	Pimpri-Chinchawad	All	Verve Apartment, Bhumkar Wasti	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
 Maharashtra	Pimpri-Chinchawad	All	Panchashil Nagar, Pimple Nilakh	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
 Maharashtra	Pimpri-Chinchawad	All	Ramnagar, Akurdi	https://www.freepressjournal.in/mumbai/coronavirus-in-pimpri-chinchwad-full-new-list-of-covid-19-containment-zones-in-pcmc-on-june-22
-Maharashtra	Pune	All	पर्वतीदर्शन परिमर १,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	पर्वती, दांडेकर पूल झोपडपट्टी ,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	पर्वती, स.नं. ९३, महात्मा फुले वसाहत, लक्ष्मीनगर,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	टी.पी.स्किम ३, साने गुरुजी वसाहत,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	पर्वती स.नं. १३३ दांडेकर पुल ,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	सदाशिव पेठ, राजेंद्र नगर, झोपडपट्टी पुनर्वसन योजना,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	शहर मध्यवर्ती भाग, कसबा पेठ पैकी, मंगळवार पेठ (पैकी) ,  कसबा - विश्रामबागवाडा 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	शहर मध्यवर्ती भाग, रविवार पेठ, सि.स.नं. १०८९, भवानी पेठ 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	शहर मध्यवर्ती भाग गणेश पेठ (पैकी), नाना पेठ (पैकी), भवानी पेठ(पैकी), भवानी पेठ	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	शहर मध्यवर्ती भाग, नाना पेठ (पैकी), भवानी पेठ(पैकी), ढोले पाटील रोड, भवानी पेठ	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	शहर मध्यवर्ती भाग,गुरुवार पेठ (पैकी), महात्मा फुले पेठ (पैकी), घोरपडे पेठ (पैकी), भवानी पेठ 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	पुणे स्टेशन, ताडीवाला रोड, ढोले पाटील रोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	संगमवाडी टी.पी.स्किम कवडेवाडी, ढोले पाटील रोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	कोरेगाव पार्क लेआऊट संत गाडगेवाबा वसाहत, ढोले पाटील रोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	घोरपडी श्रीनाथ नगर, स.नं. ७१ पै., ढोले पाटील रोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	घोरपडी स.नं. ५४, शिवदत्त कॉलनी, ढोले पाटील रोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	घोरपडी स.नं. ५३, पवार एंटरप्राइजेस, ढोले पाटील रोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	पर्वती, तळजाई वस्ती १, धनकवडी सहकारनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	पर्वती, तळजाई वस्ती २, धनकवडी सहकारनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	पर्वती शिवदर्शन १, धनकवडी सहकारनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	पर्वती शिवदर्शन २, धनकवडी सहकारनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	पर्वती, सहकारनगर, दाते बस स्टॉपजवळील सिद्धार्थ नगर, धनकवडी सहकारनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	धनकवडी, राजीव गांधी वसाहत, धनकवडी सहकारनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	विववेवाडी आंबेडकरनगर मार्केटयार्ड, बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	गुलटेकडी, डायसप्लॉट बिबवेवाडी, बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	गुलटेकडी, मीनाताई मीनाताई ठाकरे वसाहत , बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	बिववेवाडी, अप्पर इंदिरा नगर, बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	बिबवेवाडी प्रेमनगर वसाहत, बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	विववेवाडी गावठाण, बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	बिबवेवाडी स.नं. ५८० हमाल नगर , बिववेवाडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	येरवडा प्रभाग क्र. 6, येरवडा - कळंस - धानोरी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	येरवडा, आदर्श इंदिरानगर, आळंदी रास्ता, येरवडा - कळंस - धानोरी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	हडपसर, रामनगर, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	हडपसर, रामटेकडी, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	हडपसर, गोसावीवस्ती, वैदूवाडी, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	हडपसर, सय्यदनगर 2 , वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	कोंढवा खुर्द भाग्योदयनगर वानवडी, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	 कोंढवा खुर्द साई बाबा नगर ते तांबोळी बाजार, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	कोंढवा खुर्द मिठानगर, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	वानवडी एसआरपीएफ, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	हडपसर, गोसावी वस्ती , वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	बिबवेवाडी, स.नं. ६०१पै. समता नगर वसाहत, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	वानवडी,स.नं. ७५ ताडी मळा वसाहत, वानवडी रामटेकडी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	शिवाजीनगर, जनवाडी, गोखलेनगर, शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	शिवाजीनगर, फा.प्लॉट नं.883 वडारवाडी वडार हो.सोसायटी, शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	शिवाजीनगर, पांडवनगर, हेल्थ कॅम्प, वडारवाडी, शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	शिवाजीनगर, पांडवनगर, गुंजाळवाडी , शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	शिवाजीनगर, यशवंत नगर परिसर प्लॉट नं. २५ व २६, शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	शिवाजी नगर, खैरेवाडी, गणेश खिंड रोड, शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	शिवाजी नगर, क्रांतिवीर चाफेकर नगर, गणेश खिंड रोड, शिवाजीनगर - घोलेरोड	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	येरवडा जयप्रकाशनगर, गांधीनगर, नगररोड - वडगावशेरी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	वडगाव शेरी, स.नं. ४८/४ गणेश नगर लेन नं. १२ व १३ , नगररोड - वडगावशेरी	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	खराडी, स.नं. ३/४/२/२ सातव वस्ती लेन नं. १ व २ , एरंडवणा, खिलारे वस्ती  प्लॉट नं. १५	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	पर्वती जनता वसाहत , सिंहगड रोड 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	पर्वती पानमळा वसाहत, सिंहगड रोड 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	पर्वती स.नं. १३०, दांडेकर पुल सिंहगड रोड , सिंहगड रोड 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	पर्वती स.नं. १३२, राजीव गांधी नगर, सिंहगड रोड , सिंहगड रोड 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	हडपसर, काळे पडळ, साई विहार परिसर, हडपसर - मुंढवा	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	हडपसर, गाडीतळ वेत्ताळ बाबा वसाहत, हडपसर - मुंढवा	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	हडपसर, गोंधळे नगर, नटराज कॉलनी, हडपसर - मुंढवा	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	फुरसुंगी, मेकराईनगर, हडपसर - मुंढवा	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	हडपसर, बनकर कॉलनी, शांतीनगर, हडपसर - मुंढवा	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	हडपसर, साडेसतरानळी, गणेशनगर, हडपसर - मुंढवा	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	कोंढवा बु., अशरफनगर, कोंढवा - येवलेवाडी 	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	एरंडवणा, खिलारे वस्ती  प्लॉट नं. १५, वारजे - कर्वेनगर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	कोथरुड, पोस्टमन कॉलनी, शास्त्रीनगर, पी.एम.सी. कॉलनी, सागर कॉलनी, कोथरुड - बावधन	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	एरंडवणा स.नं, ४४ पै., केळेवाडी, कोथरुड - बावधन	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	एरंडवणा स.नं. ४४ पै., केळेवाडी, विठ्ठल मंदिर परिसर, कोथरुड - बावधन	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	एरंडवणा, स.नं. ४४पै. केळेवाडी विश्वशांती चौक, कोथरुड - बावधन	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	एरंडवणा, स.नं. ४४पै. केळेवाडी वसंत नगर, कोथरुड - बावधन	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	वोपोडी, स.नं. २५पै., म्हसोबा मंदिर परिसर, औंध - वाणेर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	बोपोडी, स.नं. २४, २५पै. पवळे चाळ, सिद्धार्थ नगर, औंध - वाणेर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
-Maharashtra	Pune	All	औंध डी.पी. रोड आंबेडकर वसाहत, औंध - वाणेर	https://twitter.com/mohol_murlidhar/status/1272924355056599040
 Haryana	Gurugram	Gurugram	Lane No 1 (Near India Lends), Lane No 7 (Near Bangali Hotel). Lane No 6B, Yadav Medicos (ln Sarhaul Village)	https://twitter.com/DC_Gurugram/status/1275306036723716096
 Haryana	Gurugram	Gurugram	Om Nagar Gali No. 4, 5, 6,7	https://twitter.com/DC_Gurugram/status/1275306036723716096
 Haryana	Gurugram	Gurugram	Ganga Vihar, Adarsh Nagar (In Sec 12)	https://twitter.com/DC_Gurugram/status/1275306036723716096
@@ -4888,25 +4815,6 @@ Tamil Nadu	Chennai	All	Zone-15 Selvakumar Avenue Thooraipakkam	http://covid19.ch
 Tamil Nadu	Chennai	All	Zone-15 Pandian Nagar Thooraipakkam	http://covid19.chennaicorporation.gov.in/c19/images/Containment%20Zone%20Data.pdf
 Tamil Nadu	Chennai	All	Zone-15 Kamarajar street	http://covid19.chennaicorporation.gov.in/c19/images/Containment%20Zone%20Data.pdf
 Tamil Nadu	Chennai	All	Zone-15 New kumaran Nagar	http://covid19.chennaicorporation.gov.in/c19/images/Containment%20Zone%20Data.pdf
-Karnataka	Kodagu	All	Omkareshwara Temple Road, Madikeri	
-Karnataka	Kodagu	All	Kotemariamma Temple Road, Madikeri	
-Karnataka	Kodagu	All	Dairy Farm, Madikeri	
-Karnataka	Kodagu	All	Putani Nagar, Madikeri	
-Karnataka	Kodagu	All	Near Thalathmane, Madikeri	
-Karnataka	Kodagu	All	Kolagadalu, Madikeri	
-Karnataka	Kodagu	All	Kaggodlu, Madikeri	
-Karnataka	Kodagu	All	subashnagar (Murnad)	
-Karnataka	Kodagu	All	Shirangala, Somwarpet	
-Karnataka	Kodagu	All	Doddalli, Somwarpet	
-Karnataka	Kodagu	All	Mullur, Somwarpet	
-Karnataka	Kodagu	All	Balagunda, Somwarpet	
-Karnataka	Kodagu	All	Hulase, Somwarpet	
-Karnataka	Kodagu	All	Ratha Beedhi (Kushalnagar), Somwarpet	
-Karnataka	Kodagu	All	 Karkalli, Somwarpet	
-Karnataka	Kodagu	All	Nelihudikeri, Somwarpet	
-Karnataka	Kodagu	All	Bittangala, Virajpet	
-Karnataka	Kodagu	All	Polibetta, Virajpet	
-Karnataka	Kodagu	All	Undi, Virajpet	
 Uttarakhand	Dehradun	All	Prem Bata Gali Santowali Ghati Dehradun (27-05-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
 Uttarakhand	Dehradun	All	Circular road Dalanwaala , Dehradun (31-05-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
 Uttarakhand	Dehradun	All	Kalinga Colony, Aaraghar, Dehradun (01-06-2020)	https://health.uk.gov.in/files/2020.06.27_Health_Bulletin.pdf
@@ -5849,3 +5757,142 @@ Uttar Pradesh	Gautam Buddh Nagar	All	T-29, FLAT NO. 1402 LOTOUS PANACHA SECTOR 1
 Uttar Pradesh	Gautam Buddh Nagar	All	B-5/68 C DHAWALGAN APARTMENT, SECTOR 34, NOIDA (DESEALING DT. 13/07/2020)	https://twitter.com/DeptGbn/status/1278340375136989185
 Uttar Pradesh	Gautam Buddh Nagar	All	A 69 SECTOR 17A (DESEALING DT 13/07/2020)	https://twitter.com/DeptGbn/status/1278340375136989185
 Uttar Pradesh	Gautam Buddh Nagar	All	TOWER BRASA GREEN NOIDA	https://twitter.com/DeptGbn/status/1278340375136989185
+Maharashtra	Pune	All	Parvatidarshan area 1	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati, Dandekar Pool Slum	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati, S.No. 93, Mahatma Phule Colony, Laxminagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	TP Scheme 3, Sane Guruji vashat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati, S.No. 133, Dandekar Pool	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Sadashiv Peth, Rajendra Nagar Slum Rehabilitation Scheme	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Sadashiv Peth, Rajendra Nagar, Manapa Colony	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	City central area, Kasba Peth, Mangalwar Peth, etc.	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati Dattawadi Gadgil Hospital area	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	City central area, Ganesh Peth, Nana Peth, Bhawani Peth	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	City central area, Nana Peth, Bhawani Peth	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	City central area, Guruvar Peth, Mahatma Phule Peth, Ghorpade Peth	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Pune Station, Tadiwala Road	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Ghorpadi, S.No. 71, Shrinath nagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Ghorpadi, S.No. 54, Shivdutt Colony	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Ghorpadi, S.No. 53, Pawar Enterprises	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Ghorpadi, S.No. 15, Shaktinagar area	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Ghorpadi, S.No. 47, Dhawale Vasti	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Hadapsar S.No. 124, 282, 282, Mundhwa Ghorpadi near Bhimnagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati, Taljaimata Vasti 1	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati, Taljaimata Vasti 2	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati Shivdarshan 1	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati Shivdarshan 2	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Dhankavdi, Rajeev Gandhi vashat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati, Padmavati vashat in front of Bapujinagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati, Tavare colony in Aranyeshwar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati, Salokha Apartment, Shau Colony Road	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Dhankavdi, Pratiksha bunglow, Jagdish society	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Katraj, Rajgad colony near Ayyappa temple	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Katraj, Shivshankar colony, Lane no 5	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Ambegaon B, Sr.no 8, Saileela Apartment	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bibwewadi, Ambedkarnagar Market yard	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Gultekdi, Dias Plot	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Gultekdi, Meenatai Thackeray vashat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bibwewadi, Upper Indiranagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bibwewadi, Premnagar vashat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bibwewadi, S.No. 580, Hamal Nagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bibwewadi, Bibwewadi Ota Vasahat near Kothari blocks	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bibwewadi, Upper Indiranagar, VIT College area	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Yerawada Ward No. 6	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Yerawada, Sr.No 191 parts of Nagpur chawl	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Yerawada, Aadarsh Nagar, Alandi Road	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Hadapsar, Ramnagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Hadapsar, Ramtekdi	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Hadapsar, Gosavivasti, Vaiduwadi	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Hadapsar, Sayyadnagar 2	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kondhwa Khurd, Bhagyodayanagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kondhwa Khurd, Saibaba Nagar to Tamboli Bazar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kondhwa Khurd Mithanagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Wanwadi, SRPF	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Hadapsar, Gosawi vasti	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bibwewadi, S.No. 601, Samata Nagar vasahat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Wanwadi, S.No. 75, Tadimala vasahat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Hadapsar, Laxminagar, Near Railway line	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Ghorpadi, Dobarwadi, Near Sardar Mudaliyar school	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Shivajinagar, Janwadi, Gokhalenagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Shivajinagar, Plot no. 833, Vadarwadi Vadar Hou Society	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Shivajinagar, Pandavanagar Health Camp, Vadarwadi	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Shivajinagar, Pandavanagar, Gunjalwadi	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Shivajinagar, Yashwant Nagar, Plot no. 25 and 26	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Shivajinagar, Khairewadi, Ganeshkhind Road	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Sanganwadi, TP Scheme, Plot no 7, 9 Mularoad, Adarshnagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Shivajinagar, Wakdewadi, Sambhajinagar, PMC Colony	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Aundh Sr.no 78, 79, 80, Indira vashat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Shivajinagar, 1202 Shirole vasti	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Yerawada, Jayprakash Nagar and Gandhi Nagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kharadi, Thite Vasti Lane No. 10.11, 12	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kharadi, Thitenagar Lane No. 2,3	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kharadi, Raghoba Patilnagar, Samarth Colony	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati Janata Vasahat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati, Panmala Vasahat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati, S.No. 130, Dandekar Pool, Sihangad Road	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati, S.No. 132, Rajeev Gandhi Nagar, Sihangad Road	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati. T.P. Scheme 3. Plot no. 579. SRA at Dattawadi, Part of Kripa Society and Lalita Devi Colony	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Parvati. TP Scheme 3. Plot 545, Samata Nagar at Ganesh Mala, Ganpat Nagar, Gandhinagar, Shahunagar, Nehru Nagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Hadapsar, Gadital Vetalbaba vashat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Fursungi, Bhekrainagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Hadapsar, Bunker Colony, Shantinagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Hadapsar, Srno 165, Malwadi, Aadarsh vashat, Kalubai vashat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Hadapsar, Srno 13, parts of Satavwadi	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Hadapsar, Srno 42 A, Sainivas society, Kale Padal	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Hadapsar, Srno 18, Gondhalenagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kondwa Budruk, Ashraf Nagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bibwewadi, Chaitraban vasahat, Lane no 13, 14, 15	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kondwa Budruk, Laxminagar, Lane no 7	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Erandwane, Khillare vasti	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Erandwane, Pt Jawaharlal Nehru vashat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Karvenagar, Hingne B, Srno 32/33, Sanjay Gandhi vashat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kothrud, Happy Colony near Gosavi vasti	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Karvenagar, Hingne B, Srno 53, Vadar vasti	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kothrud, Postman Colony, Shastrinnagar, PMC Colony, Sagar Colony	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Erandwane, S.No. 44 Kelewadi, Vasant Nagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Erandwana, S.No. 44 Mega City Building No. 3/4	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Erandwana S.No. 44 Kelewadi Mamasaheb Mohol School East Side Campus	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Erandwana S.No. 44 Kelewadi Bhagat Ali Premises	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Erandwana S.No. 44 Kelewadi More Shramik vashat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kothrud, Paud Road Lokmanya Colony	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kothrud, Paud Road Jayabhavani Nagar Lane no. 4 and 5	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kothrud, Gujarat Colony area S.No.88 / 8 Laxminagar	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Kothrud, Dahanukar Colony, Laxminagar Lane No.4 and 8	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bopodi, S.No. 25 Mhasoba Temple Complex	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bopodi, S.No. 24, 25 Pavle Chawl Premises	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Aundh D.P. Road Ambedkar Vashat	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bopodi Gaothan, near Naik Chawl	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bopodi, Salvenagar, Pathan Chawl	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bopodi, Ammunition Factory, Bhoite Vasti Premises near Railway Line	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bopodi, S.No. 26	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bopodi, Padal Vasti	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Maharashtra	Pune	All	Bopodi, Ambedkar Nagar Colony, Bhau Patil Road	https://m.freepressjournal.in/article/mumbai/coronavirus-in-pune-full-list-of-covid-19-containment-zones-as-given-by-pune-municipal-corporation-on-july-3/e359e20c-b73b-43f6-8d0b-ce2e889c0ac3?__twitter_impression=true
+Karnataka	Kodagu	All	Omkareshwara Temple Road, Madikeri Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Kotemariamma Temple Road, Madikeri Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Dairy Farm, Madikeri Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Putani Nagar, Madikeri Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Near Thalathmane, Madikeri Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Kolagadalu, Madikeri Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Kaggodlu, Madikeri Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Subash Nagar (Murnad), Madikeri Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Chamundeshwari Nagar, Madikeri Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Hebbettageri, Madikeri Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Hospital Quarters, Madikeri Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Mahadevpet, Madikeri Taluk)	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Bhagavathi Nagar, Madikeri Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Shirangala, Somwarpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Doddalli, Somwarpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Mullur, Somwarpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Balagunda (Karkalli), Somwarpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Hulase, Somwarpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Ratha Beedhi (Kushalnagar), Somwarpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Bettadakaadu (Nellihudikri), Somwarpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Annegowda Badavane (Kushalnagar), Somwarpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Gundurao Badavane (Shanivarsanthe), Somwarpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Bittangala, Virajpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Polibetta, Virajpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Hundi, Virajpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Meenpet, Virajpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Holamala (Chennayanakote), Virajpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	KEB Road (Gonikoppa), Virajpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Thithimathi, Virajpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
+Karnataka	Kodagu	All	Shanthinagar, Virajpet Taluk	https://twitter.com/prajna_gr/status/1278909120733605888
