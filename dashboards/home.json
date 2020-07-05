@@ -21,6 +21,12 @@
     {
       "columns": [],
       "datasource": "InfluxDB",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
       "fontSize": "100%",
       "gridPos": {
         "h": 2,
@@ -28,6 +34,7 @@
         "x": 0,
         "y": 0
       },
+      "hideTimeOverride": true,
       "id": 40,
       "links": [],
       "pageSize": null,
@@ -55,7 +62,7 @@
             "rgba(50, 172, 45, 0.97)"
           ],
           "decimals": 2,
-          "pattern": "last",
+          "pattern": "/.*/",
           "thresholds": [],
           "type": "hidden",
           "unit": "short"
@@ -86,18 +93,24 @@
           "tags": []
         }
       ],
-      "timeFrom": null,
+      "timeFrom": "1d",
       "timeShift": null,
       "title": "",
-      "transform": "table",
+      "transform": "timeseries_to_rows",
       "transparent": true,
-      "type": "table"
+      "type": "table-old"
     },
     {
-      "content": "<p style=\"text-align:center;color:blue\">\n<font size=\"1\"><i>Updated hotspots for Hyderabad, Delhi, GB Nagar, Chengalpattu & Gurugram<i/>  \n<p style=\"text-align:center\">\n<b>\n <font size=\"2\">Click for &nbsp;<font size=\"3\"><a href=\"https://indiafightscovid19.online/d/yikrMvqZk/covid19-testing-stats?orgId=1\" style=\"color:#FF0000;\">TestingStats</a>&nbsp;&nbsp;&nbsp;<a href=\"https://indiafightscovid19.online/d/Apmm6qjWk/states-data?orgId=1\" style=\"color:#FF0000;\">StatesData</a>&nbsp;&nbsp;&nbsp;<a href=\"https://indiafightscovid19.online/d/-AZIK9CWk/hotspot-areas?orgId=1\" style=\"color:#FF0000;\">HotspotAreas</a>&nbsp;<font size=\"2\"></b>\n<br /><br /> <a href=\"https://wa.me/?text=https://indiafightscovid19.online %0A%0AFollow this site for latest corona updates and stay safe !!!\" style=\"color:purple;\">Share this link with people you care for</a>\n<i class=\"fa fa-whatsapp\" style=\"font-size:24px;color:green\"></i>\n  \n ",
+      "content": "<p style=\"text-align:center;color:blue\">\n<font size=\"2\"><i>Updated hotspots for Bangalore, GB Nagar, Agra and Bhopal<i/>  \n<p style=\"text-align:center\">\n<b>\n <font size=\"2\">Click for &nbsp;<font size=\"3\"><a href=\"https://indiafightscovid19.online/d/yikrMvqZk/covid19-testing-stats\" style=\"color:#FF0000;\">TestingStats</a>&nbsp;&nbsp;&nbsp;<a href=\"https://indiafightscovid19.online/d/Apmm6qjWk/states-data?orgId=1\" style=\"color:#FF0000;\">StatesData</a>&nbsp;&nbsp;&nbsp;<a href=\"https://indiafightscovid19.online/d/-AZIK9CWk/hotspot-areas?orgId=1\" style=\"color:#FF0000;\">HotspotAreas</a>&nbsp;<font size=\"2\"></b>\n<br /> <a href=\"https://wa.me/?text=https://indiafightscovid19.online %0A%0AFollow this site for latest corona updates and stay safe !!!\" style=\"color:purple;\">Share this link with people you care for</a>\n<i class=\"fa fa-whatsapp\" style=\"font-size:24px;color:green\"></i>\n  \n ",
       "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
       "gridPos": {
-        "h": 4,
+        "h": 3,
         "w": 17,
         "x": 7,
         "y": 0
@@ -107,63 +120,69 @@
       "timeFrom": null,
       "timeShift": null,
       "title": "",
+      "transparent": true,
       "type": "text"
     },
     {
       "cacheTimeout": null,
       "datasource": "InfluxDB",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "mappings": [
+            {
+              "id": 0,
+              "op": "=",
+              "text": "N/A",
+              "type": 1,
+              "value": "null"
+            }
+          ],
+          "nullValueMode": "connected",
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "semi-dark-blue",
+                "value": null
+              },
+              {
+                "color": "#EAB839",
+                "value": 130
+              },
+              {
+                "color": "semi-dark-green",
+                "value": 500
+              }
+            ]
+          },
+          "unit": "none"
+        },
+        "overrides": []
+      },
       "gridPos": {
         "h": 3,
         "w": 8,
         "x": 0,
-        "y": 4
+        "y": 3
       },
+      "hideTimeOverride": true,
       "id": 45,
       "links": [],
       "options": {
         "colorMode": "background",
-        "fieldOptions": {
+        "graphMode": "none",
+        "justifyMode": "center",
+        "orientation": "vertical",
+        "reduceOptions": {
           "calcs": [
             "last"
           ],
-          "defaults": {
-            "mappings": [
-              {
-                "id": 0,
-                "op": "=",
-                "text": "N/A",
-                "type": 1,
-                "value": "null"
-              }
-            ],
-            "nullValueMode": "connected",
-            "thresholds": {
-              "mode": "absolute",
-              "steps": [
-                {
-                  "color": "semi-dark-blue",
-                  "value": null
-                },
-                {
-                  "color": "#EAB839",
-                  "value": 76
-                },
-                {
-                  "color": "semi-dark-green",
-                  "value": 500
-                }
-              ]
-            },
-            "unit": "none"
-          },
-          "overrides": [],
+          "fields": "",
           "values": false
-        },
-        "graphMode": "none",
-        "justifyMode": "center",
-        "orientation": "vertical"
+        }
       },
-      "pluginVersion": "6.7.3",
+      "pluginVersion": "7.0.3",
       "targets": [
         {
           "alias": "India Covid19 Days",
@@ -238,7 +257,7 @@
           "tags": []
         }
       ],
-      "timeFrom": null,
+      "timeFrom": "1d",
       "timeShift": null,
       "title": "India's Fight with covid19",
       "type": "stat"
@@ -246,66 +265,72 @@
     {
       "cacheTimeout": null,
       "datasource": "InfluxDB",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "mappings": [
+            {
+              "id": 0,
+              "op": "=",
+              "text": "N/A",
+              "type": 1,
+              "value": "null"
+            }
+          ],
+          "nullValueMode": "connected",
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "light-purple",
+                "value": null
+              },
+              {
+                "color": "semi-dark-red",
+                "value": 1
+              },
+              {
+                "color": "semi-dark-green",
+                "value": 7500
+              },
+              {
+                "color": "semi-dark-orange",
+                "value": 23800
+              }
+            ]
+          },
+          "unit": "none"
+        },
+        "overrides": []
+      },
       "gridPos": {
         "h": 3,
         "w": 8,
         "x": 8,
-        "y": 4
+        "y": 3
       },
+      "hideTimeOverride": true,
       "id": 48,
       "links": [],
       "options": {
         "colorMode": "background",
-        "fieldOptions": {
+        "graphMode": "none",
+        "justifyMode": "center",
+        "orientation": "vertical",
+        "reduceOptions": {
           "calcs": [
             "last"
           ],
-          "defaults": {
-            "mappings": [
-              {
-                "id": 0,
-                "op": "=",
-                "text": "N/A",
-                "type": 1,
-                "value": "null"
-              }
-            ],
-            "nullValueMode": "connected",
-            "thresholds": {
-              "mode": "absolute",
-              "steps": [
-                {
-                  "color": "rgb(173, 167, 169)",
-                  "value": null
-                },
-                {
-                  "color": "semi-dark-red",
-                  "value": 1
-                },
-                {
-                  "color": "dark-green",
-                  "value": 72
-                },
-                {
-                  "color": "dark-blue",
-                  "value": 115
-                }
-              ]
-            },
-            "unit": "none"
-          },
-          "overrides": [],
+          "fields": "",
           "values": false
-        },
-        "graphMode": "none",
-        "justifyMode": "center",
-        "orientation": "vertical"
+        }
       },
-      "pluginVersion": "6.7.3",
+      "pluginVersion": "7.0.3",
       "targets": [
         {
           "alias": "Confirmed",
           "groupBy": [],
+          "hide": false,
           "measurement": "covid_india",
           "orderByTime": "ASC",
           "policy": "default",
@@ -315,7 +340,7 @@
             [
               {
                 "params": [
-                  "sdeltaconfirmed"
+                  "homedeltaconfirmed"
                 ],
                 "type": "field"
               },
@@ -334,27 +359,31 @@
           "tags": []
         },
         {
-          "alias": "Active",
+          "alias": "Confirmed",
           "groupBy": [],
           "hide": true,
           "measurement": "covid_india",
           "orderByTime": "ASC",
           "policy": "default",
-          "query": "SELECT sum(\"NewConfirmed\") - sum(\"newRecovered\") - sum(\"newDeceased\") FROM \"covid_india\" WHERE $timeFilter",
-          "rawQuery": true,
-          "refId": "B",
+          "refId": "E",
           "resultFormat": "time_series",
           "select": [
             [
               {
                 "params": [
-                  "Recovered"
+                  "sdeltaconfirmed"
                 ],
                 "type": "field"
               },
               {
                 "params": [],
                 "type": "sum"
+              },
+              {
+                "params": [
+                  "confirmed"
+                ],
+                "type": "alias"
               }
             ]
           ],
@@ -409,7 +438,7 @@
           "tags": []
         }
       ],
-      "timeFrom": null,
+      "timeFrom": "1d",
       "timeShift": null,
       "title": "New Cases",
       "type": "stat"
@@ -417,63 +446,71 @@
     {
       "cacheTimeout": null,
       "datasource": "InfluxDB",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "mappings": [
+            {
+              "id": 0,
+              "op": "=",
+              "text": "N/A",
+              "type": 1,
+              "value": "null"
+            }
+          ],
+          "nullValueMode": "connected",
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "semi-dark-red",
+                "value": null
+              },
+              {
+                "color": "#EAB839",
+                "value": 20000
+              },
+              {
+                "color": "semi-dark-blue",
+                "value": 142000
+              },
+              {
+                "color": "semi-dark-green",
+                "value": 390000
+              },
+              {
+                "color": "semi-dark-orange",
+                "value": 650000
+              }
+            ]
+          },
+          "unit": "none"
+        },
+        "overrides": []
+      },
       "gridPos": {
         "h": 3,
         "w": 8,
         "x": 16,
-        "y": 4
+        "y": 3
       },
-      "id": 46,
+      "hideTimeOverride": true,
+      "id": 50,
       "links": [],
       "options": {
         "colorMode": "background",
-        "fieldOptions": {
+        "graphMode": "none",
+        "justifyMode": "center",
+        "orientation": "vertical",
+        "reduceOptions": {
           "calcs": [
             "last"
           ],
-          "defaults": {
-            "mappings": [
-              {
-                "id": 0,
-                "op": "=",
-                "text": "N/A",
-                "type": 1,
-                "value": "null"
-              }
-            ],
-            "nullValueMode": "connected",
-            "thresholds": {
-              "mode": "absolute",
-              "steps": [
-                {
-                  "color": "rgb(191, 46, 62)",
-                  "value": null
-                },
-                {
-                  "color": "rgb(72, 145, 62)",
-                  "value": 11000
-                },
-                {
-                  "color": "#EF843C",
-                  "value": 27000
-                },
-                {
-                  "color": "semi-dark-blue",
-                  "value": 40000
-                }
-              ]
-            },
-            "title": "",
-            "unit": "none"
-          },
-          "overrides": [],
+          "fields": "",
           "values": false
-        },
-        "graphMode": "none",
-        "justifyMode": "center",
-        "orientation": "vertical"
+        }
       },
-      "pluginVersion": "6.7.3",
+      "pluginVersion": "7.0.3",
       "targets": [
         {
           "alias": "Confirmed",
@@ -494,6 +531,12 @@
               {
                 "params": [],
                 "type": "sum"
+              },
+              {
+                "params": [
+                  "confirmed"
+                ],
+                "type": "alias"
               }
             ]
           ],
@@ -505,9 +548,7 @@
           "measurement": "covid_india",
           "orderByTime": "ASC",
           "policy": "default",
-          "query": "SELECT sum(\"Confirmed\") - sum(\"Recovered\") - sum(\"Deceased\") FROM \"covid_india\" WHERE $timeFilter",
-          "rawQuery": false,
-          "refId": "B",
+          "refId": "E",
           "resultFormat": "time_series",
           "select": [
             [
@@ -520,6 +561,12 @@
               {
                 "params": [],
                 "type": "sum"
+              },
+              {
+                "params": [
+                  "confirmed"
+                ],
+                "type": "alias"
               }
             ]
           ],
@@ -531,7 +578,7 @@
           "measurement": "covid_india",
           "orderByTime": "ASC",
           "policy": "default",
-          "refId": "C",
+          "refId": "D",
           "resultFormat": "time_series",
           "select": [
             [
@@ -555,7 +602,7 @@
           "measurement": "covid_india",
           "orderByTime": "ASC",
           "policy": "default",
-          "refId": "D",
+          "refId": "C",
           "resultFormat": "time_series",
           "select": [
             [
@@ -574,7 +621,7 @@
           "tags": []
         }
       ],
-      "timeFrom": null,
+      "timeFrom": "1d",
       "timeShift": null,
       "title": "Total Cases",
       "type": "stat"
@@ -584,7 +631,7 @@
         "Active": "rgba(35, 57, 171, 0.8)",
         "Active Curve": "light-orange",
         "Active Line": "light-red",
-        "Confirmed": "rgb(67, 136, 242)",
+        "Confirmed": "semi-dark-blue",
         "Confirmed Curve": "rgb(184, 39, 178)",
         "Corona Curve": "light-red",
         "Deceased": "rgb(235, 72, 91)",
@@ -594,15 +641,22 @@
       "dashLength": 10,
       "dashes": false,
       "datasource": "InfluxDB",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
       "fill": 0,
       "fillGradient": 0,
       "gridPos": {
         "h": 8,
         "w": 10,
         "x": 0,
-        "y": 7
+        "y": 6
       },
       "hiddenSeries": false,
+      "hideTimeOverride": true,
       "id": 14,
       "legend": {
         "alignAsTable": false,
@@ -726,9 +780,9 @@
         }
       ],
       "thresholds": [],
-      "timeFrom": "40d",
+      "timeFrom": "70d",
       "timeRegions": [],
-      "timeShift": null,
+      "timeShift": "4h",
       "title": "Daily Case Trend",
       "tooltip": {
         "shared": true,
@@ -769,13 +823,21 @@
     {
       "columns": [],
       "datasource": "InfluxDB",
+      "description": "State Unassigned - MoHFW reports that these cases are being reassigned to states",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
       "fontSize": "100%",
       "gridPos": {
         "h": 15,
-        "w": 7,
+        "w": 6,
         "x": 10,
-        "y": 7
+        "y": 6
       },
+      "hideTimeOverride": true,
       "id": 29,
       "links": [],
       "pageSize": null,
@@ -804,7 +866,7 @@
           ],
           "decimals": 2,
           "link": true,
-          "linkTargetBlank": false,
+          "linkTargetBlank": true,
           "linkTooltip": "More details",
           "linkUrl": "https://indiafightscovid19.online/d/Apmm6qjWk/states-data?orgId=1&var-state=${__cell}",
           "mappingType": 1,
@@ -900,6 +962,8 @@
           "measurement": "covid_india",
           "orderByTime": "ASC",
           "policy": "default",
+          "query": "SELECT sum(\"homedeltaconfirmed\") AS \"Confirm\", sum(\"homedeltarecovered\") AS \"Recovery\", sum(\"homedeltadeaths\") AS \"Deaths\" FROM \"covid_india\" WHERE (\"state\" != 'Daman and Diu') AND $timeFilter GROUP BY \"state\"",
+          "rawQuery": true,
           "refId": "A",
           "resultFormat": "table",
           "select": [
@@ -958,25 +1022,39 @@
               }
             ]
           ],
-          "tags": []
+          "tags": [
+            {
+              "key": "state",
+              "operator": "!=",
+              "value": "Daman and Diu"
+            }
+          ]
         }
       ],
-      "timeFrom": null,
+      "timeFrom": "1d",
       "timeShift": null,
-      "title": "Newly Reported",
+      "title": "Newly Reported [Click on State]",
       "transform": "table",
-      "type": "table"
+      "type": "table-old"
     },
     {
       "columns": [],
       "datasource": "InfluxDB",
+      "description": "There is no district-wise segregation of patient's data in Delhi Govt's Daily bulletin",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
       "fontSize": "100%",
       "gridPos": {
         "h": 25,
-        "w": 7,
-        "x": 17,
-        "y": 7
+        "w": 8,
+        "x": 16,
+        "y": 6
       },
+      "hideTimeOverride": true,
       "id": 24,
       "links": [],
       "pageSize": null,
@@ -1006,7 +1084,7 @@
           "dateFormat": "YYYY-MM-DD HH:mm:ss",
           "decimals": 2,
           "link": true,
-          "linkTargetBlank": false,
+          "linkTargetBlank": true,
           "linkTooltip": "More Details",
           "linkUrl": "https://indiafightscovid19.online/d/Apmm6qjWk/states-data?orgId=1&var-state=${__cell}",
           "mappingType": 1,
@@ -1026,7 +1104,7 @@
           ]
         },
         {
-          "alias": "Active",
+          "alias": "",
           "align": "auto",
           "colorMode": "cell",
           "colors": [
@@ -1037,16 +1115,16 @@
           "dateFormat": "YYYY-MM-DD HH:mm:ss",
           "decimals": 2,
           "mappingType": 1,
-          "pattern": "last",
+          "pattern": "Actv",
           "thresholds": [
-            "800",
-            "2000"
+            "1800",
+            "5000"
           ],
           "type": "string",
           "unit": "short"
         },
         {
-          "alias": "Recovery",
+          "alias": "",
           "align": "auto",
           "colorMode": "cell",
           "colors": [
@@ -1057,16 +1135,16 @@
           "dateFormat": "YYYY-MM-DD HH:mm:ss",
           "decimals": 2,
           "mappingType": 1,
-          "pattern": "last_1",
+          "pattern": "Rcvrd",
           "thresholds": [
-            "500",
-            "800"
+            "5000",
+            "20000"
           ],
           "type": "string",
           "unit": "short"
         },
         {
-          "alias": "Deaths",
+          "alias": "",
           "align": "auto",
           "colorMode": "cell",
           "colors": [
@@ -1077,10 +1155,30 @@
           "dateFormat": "YYYY-MM-DD HH:mm:ss",
           "decimals": 2,
           "mappingType": 1,
-          "pattern": "last_2",
+          "pattern": "Deaths",
           "thresholds": [
-            "100",
-            "200"
+            "500",
+            "1000"
+          ],
+          "type": "string",
+          "unit": "short"
+        },
+        {
+          "alias": "",
+          "align": "auto",
+          "colorMode": "cell",
+          "colors": [
+            "#FFB357",
+            "#FF9830",
+            "#E55400"
+          ],
+          "dateFormat": "YYYY-MM-DD HH:mm:ss",
+          "decimals": 2,
+          "mappingType": 1,
+          "pattern": "Cnfrm",
+          "thresholds": [
+            "4000",
+            "60000"
           ],
           "type": "string",
           "unit": "short"
@@ -1099,6 +1197,8 @@
           "measurement": "covid_india",
           "orderByTime": "ASC",
           "policy": "default",
+          "query": "SELECT last(\"sconfirmed\") AS \"Cnfrm\",last(\"sactive\") AS \"Actv\", last(\"srecovered\") AS \"Rcvrd\", last(\"sdeaths\") AS \"Deaths\" FROM \"covid_india\" WHERE (\"state\" != 'Daman and Diu') AND $timeFilter GROUP BY \"state\"",
+          "rawQuery": true,
           "refId": "B",
           "resultFormat": "table",
           "select": [
@@ -1112,6 +1212,12 @@
               {
                 "params": [],
                 "type": "last"
+              },
+              {
+                "params": [
+                  "Actv"
+                ],
+                "type": "alias"
               }
             ],
             [
@@ -1124,6 +1230,12 @@
               {
                 "params": [],
                 "type": "last"
+              },
+              {
+                "params": [
+                  "Rcvrd"
+                ],
+                "type": "alias"
               }
             ],
             [
@@ -1136,17 +1248,47 @@
               {
                 "params": [],
                 "type": "last"
+              },
+              {
+                "params": [
+                  "Deaths"
+                ],
+                "type": "alias"
+              }
+            ],
+            [
+              {
+                "params": [
+                  "sconfirmed"
+                ],
+                "type": "field"
+              },
+              {
+                "params": [],
+                "type": "last"
+              },
+              {
+                "params": [
+                  "Cnfrm"
+                ],
+                "type": "alias"
               }
             ]
           ],
-          "tags": []
+          "tags": [
+            {
+              "key": "state",
+              "operator": "!=",
+              "value": "Daman and Diu"
+            }
+          ]
         }
       ],
-      "timeFrom": null,
+      "timeFrom": "1d",
       "timeShift": null,
-      "title": "Total Cases",
+      "title": "Total Cases [Click on State]",
       "transform": "table",
-      "type": "table"
+      "type": "table-old"
     },
     {
       "aliasColors": {
@@ -1156,13 +1298,19 @@
       "dashLength": 10,
       "dashes": false,
       "datasource": "InfluxDB",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
       "fill": 0,
       "fillGradient": 0,
       "gridPos": {
         "h": 10,
         "w": 10,
         "x": 0,
-        "y": 15
+        "y": 14
       },
       "hiddenSeries": false,
       "id": 19,
@@ -1258,7 +1406,7 @@
         }
       ],
       "thresholds": [],
-      "timeFrom": "50d",
+      "timeFrom": "70d",
       "timeRegions": [],
       "timeShift": null,
       "title": "Active Cases Trend Per State",
@@ -1281,7 +1429,7 @@
           "label": null,
           "logBase": 1,
           "max": null,
-          "min": null,
+          "min": "0",
           "show": true
         },
         {
@@ -1309,15 +1457,22 @@
       "dashLength": 10,
       "dashes": false,
       "datasource": "InfluxDB",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
       "fill": 0,
       "fillGradient": 0,
       "gridPos": {
         "h": 10,
-        "w": 7,
+        "w": 6,
         "x": 10,
-        "y": 22
+        "y": 21
       },
       "hiddenSeries": false,
+      "hideTimeOverride": true,
       "id": 49,
       "legend": {
         "alignAsTable": false,
@@ -1417,7 +1572,7 @@
         }
       ],
       "thresholds": [],
-      "timeFrom": null,
+      "timeFrom": "90d",
       "timeRegions": [],
       "timeShift": null,
       "title": "Confirmed,  Recovered and Deaths [ Cumulative ]",
@@ -1460,76 +1615,67 @@
     {
       "datasource": "covidstatic",
       "description": "Infection cause data is not available for most of the patients",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "thresholds"
+          },
+          "custom": {},
+          "mappings": [
+            {
+              "from": "",
+              "id": 1,
+              "operator": "",
+              "text": "gg",
+              "to": "",
+              "type": 1,
+              "value": "delhitravel"
+            }
+          ],
+          "max": 5000,
+          "min": 0,
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              },
+              {
+                "color": "#EAB839",
+                "value": 60
+              },
+              {
+                "color": "red",
+                "value": 200
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
       "gridPos": {
         "h": 7,
         "w": 10,
         "x": 0,
-        "y": 25
+        "y": 24
       },
+      "hideTimeOverride": true,
       "id": 36,
       "links": [],
       "options": {
         "displayMode": "gradient",
-        "fieldOptions": {
+        "orientation": "horizontal",
+        "reduceOptions": {
           "calcs": [
             "mean"
           ],
-          "defaults": {
-            "color": {
-              "mode": "thresholds"
-            },
-            "mappings": [
-              {
-                "from": "",
-                "id": 1,
-                "operator": "",
-                "text": "gg",
-                "to": "",
-                "type": 1,
-                "value": "delhitravel"
-              }
-            ],
-            "max": 2500,
-            "min": 0,
-            "thresholds": {
-              "mode": "absolute",
-              "steps": [
-                {
-                  "color": "green",
-                  "value": null
-                },
-                {
-                  "color": "#EAB839",
-                  "value": 60
-                },
-                {
-                  "color": "red",
-                  "value": 200
-                }
-              ]
-            }
-          },
-          "mappings": [],
-          "override": {},
-          "overrides": [],
-          "thresholds": [
-            {
-              "color": "green",
-              "index": 0,
-              "value": null
-            },
-            {
-              "color": "red",
-              "index": 1,
-              "value": 80
-            }
-          ],
+          "fields": "",
           "values": false
         },
-        "orientation": "horizontal",
         "showUnfilled": false
       },
-      "pluginVersion": "6.7.3",
+      "pluginVersion": "7.0.3",
       "targets": [
         {
           "alias": "$tag_infectionType",
@@ -1563,7 +1709,7 @@
           "tags": []
         }
       ],
-      "timeFrom": null,
+      "timeFrom": "30d",
       "timeShift": null,
       "title": "Probable Infection Causes in Reported Cases",
       "type": "bargauge"
@@ -1571,67 +1717,67 @@
     {
       "datasource": "covidstatic",
       "description": "Age data is not available for most of the patients",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "thresholds"
+          },
+          "custom": {},
+          "mappings": [
+            {
+              "from": "",
+              "id": 1,
+              "operator": "",
+              "text": "gg",
+              "to": "",
+              "type": 1,
+              "value": "delhitravel"
+            }
+          ],
+          "max": 11000,
+          "min": 0,
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "semi-dark-yellow",
+                "value": null
+              },
+              {
+                "color": "semi-dark-orange",
+                "value": 500
+              },
+              {
+                "color": "red",
+                "value": 2000
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
       "gridPos": {
         "h": 10,
         "w": 11,
         "x": 0,
-        "y": 32
+        "y": 31
       },
-      "id": 25,
+      "hideTimeOverride": true,
+      "id": 51,
       "links": [],
       "options": {
         "displayMode": "gradient",
-        "fieldOptions": {
+        "orientation": "horizontal",
+        "reduceOptions": {
           "calcs": [
-            "last"
+            "mean"
           ],
-          "defaults": {
-            "color": {
-              "mode": "thresholds"
-            },
-            "mappings": [],
-            "max": 1300,
-            "min": 0,
-            "thresholds": {
-              "mode": "absolute",
-              "steps": [
-                {
-                  "color": "green",
-                  "value": null
-                },
-                {
-                  "color": "#EAB839",
-                  "value": 200
-                },
-                {
-                  "color": "semi-dark-red",
-                  "value": 500
-                }
-              ]
-            },
-            "title": ""
-          },
-          "mappings": [],
-          "override": {},
-          "overrides": [],
-          "thresholds": [
-            {
-              "color": "green",
-              "index": 0,
-              "value": null
-            },
-            {
-              "color": "#EAB839",
-              "index": 1,
-              "value": 100
-            }
-          ],
+          "fields": "",
           "values": false
         },
-        "orientation": "horizontal",
         "showUnfilled": false
       },
-      "pluginVersion": "6.7.3",
+      "pluginVersion": "7.0.3",
       "targets": [
         {
           "alias": "$tag_age_bracket",
@@ -1665,9 +1811,9 @@
           "tags": []
         }
       ],
-      "timeFrom": null,
+      "timeFrom": "30d",
       "timeShift": null,
-      "title": "Infected Age Groups",
+      "title": "Infected Age Groups [Based on available data]",
       "type": "bargauge"
     },
     {
@@ -1683,14 +1829,21 @@
       },
       "datasource": "covidstatic",
       "description": "Gender data is not updated for most of the patients",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
       "fontSize": "100%",
       "format": "short",
       "gridPos": {
         "h": 10,
         "w": 6,
         "x": 11,
-        "y": 32
+        "y": 31
       },
+      "hideTimeOverride": true,
       "id": 41,
       "interval": null,
       "legend": {
@@ -1742,22 +1895,28 @@
           "tags": []
         }
       ],
-      "timeFrom": null,
+      "timeFrom": "30d",
       "timeShift": null,
-      "title": "Gender ",
+      "title": "Gender [Based on available data]",
       "type": "grafana-piechart-panel",
       "valueName": "total"
     },
     {
       "cacheTimeout": null,
-      "content": "\n#### About us\n\n**We are a group of volunteers working on this portal intending to help community with near to real-time updates on Covid-19 in India.**\n\nFollow us on [twitter](https://twitter.com/indiafightscov1) and [facebook](https://www.facebook.com/Indiafightscovid19online-107020570976370)\n\n\n#### Acknowledgement\n\n**Hotspots related data is collated by indiafightscovid19.online team, browsing through the respective district's local news, health department portals and their Twitter handles.**\n**In Addition, we would like to acknowledge that we are using patients' data published by covid19india.org. Heartfelt thanks to the covid19india.org's team for their efforts in this direction.** \n\n**Used  APIs :** [CROWDSOURCED](https://github.com/covid19india/api)\n\n*Write to us for feedbacks:* \n##### communityhelpcovid19@gmail.com\n\n\n\n\n",
+      "content": "\n#### About us\n\n**We are a group of volunteers working on this portal intending to help community with near to real-time updates on Covid-19 in India.**\n\n**Our Team - [Gaurav Dutt Sharma](https://www.linkedin.com/in/gaurav-dutt-sharma-b8417365/), Dilip Kumar, Pushp Priya, [R. Uma](https://www.linkedin.com/in/uma-raj-b9428317b), Rajesh Kumar, [Shailendra Digarse](https://www.linkedin.com/in/shailendra-digarse-30332a197), T. Vaishnavi and [Vikky Omkar](https://www.linkedin.com/in/vikky-omkar-6552178b)**\n\nFollow us on [twitter](https://twitter.com/indiafightscov1) [telegram](https://t.me/fightbackcovid19) and [facebook](https://www.facebook.com/Indiafightscovid19online-107020570976370)\n\n\n#### Acknowledgement\n\n**Hotspots related data is collated by indiafightscovid19.online team, browsing through the respective district's local news, health department portals and their Twitter handles.**\n**In Addition, we would like to acknowledge that we are using patients' data published by covid19india.org. Heartfelt thanks to the covid19india.org's team for their efforts in this direction.** \n\n**Used  APIs :** [CROWDSOURCED](https://github.com/covid19india/api)\n\n*Write to us for feedbacks:* \n##### communityhelpcovid19@gmail.com\n\n\n\n\n",
       "datasource": "InfluxDB2",
       "description": "",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
       "gridPos": {
         "h": 11,
         "w": 24,
         "x": 0,
-        "y": 42
+        "y": 41
       },
       "id": 37,
       "links": [],
@@ -1795,7 +1954,7 @@
     }
   ],
   "refresh": false,
-  "schemaVersion": 22,
+  "schemaVersion": 25,
   "style": "dark",
   "tags": [],
   "templating": {
@@ -1806,6 +1965,7 @@
     "to": "now"
   },
   "timepicker": {
+    "hidden": true,
     "refresh_intervals": [
       "15m",
       "30m",
@@ -1828,8 +1988,5 @@
   "timezone": "",
   "title": "Covid India",
   "uid": "sr20BBjZk",
-  "variables": {
-    "list": []
-  },
-  "version": 208
+  "version": 580
 }
